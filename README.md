@@ -1,10 +1,11 @@
 # tldr
 
 [![Running?](https://img.shields.io/uptimerobot/status/m789963227-8ecf98b56e5473d68e65fc94)](https://status.partridge.tech)
+[![Forked From](https://img.shields.io/badge/forked%20from-TLDR-blue.svg)](https://github.com/mandatoryprogrammer/TLDR)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
-[![Forked From](https://img.shields.io/badge/forked%20from-TLDR-red.svg)](https://github.com/mandatoryprogrammer/TLDR)
+[![Operated By](https://img.shields.io/badge/operated%20by-some%20nerd-red.svg)](https://chris.partridge.tech)
 
-A(nother) continuously updated historical TLD records archive.
+*A(nother) continuously updated historical TLD records archive.*
 
 This repository is updated approximately every three hours with the results from [DNS zone transfer attempts](https://en.wikipedia.org/wiki/DNS_zone_transfer) against the [root nameservers](https://en.wikipedia.org/wiki/Root_name_server) and all existing TLD servers. This is done to keep record of zone files for various TLDs and to monitor how these zones change over time.
 
