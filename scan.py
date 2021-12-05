@@ -330,9 +330,7 @@ if __name__ == "__main__":
                 write_dig_output(full_tld, nameserver, zone_data)
 
     # Create markdown file of zone-transfer enabled nameservers
-    zone_transfer_enabled_markdown = (
-        "# List of TLDs & Roots With Zone Transfers Currently Enabled\n\n"
-    )
+    zone_transfer_enabled_markdown = ""
 
     for zone_status in zone_transfer_enabled_list:
         if zone_status["hostname"] == ".":
