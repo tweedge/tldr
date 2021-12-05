@@ -374,24 +374,23 @@ if __name__ == "__main__":
                 + "zone)\n"
             )
 
-    file_handler = open("transferable_zones.md", "w")
+    file_handler = open("ZONES.md", "w")
     file_handler.write(zone_transfer_enabled_markdown)
     file_handler.close()
 
     # Add all new zone files
     print("Git adding...")
-    proc = subprocess.Popen(["/usr/bin/git", "add", "-A", "."], stdout=subprocess.PIPE)
-    print(proc.stdout.read())
+    output = subprocess.check_output(["/usr/bin/git", "add", "-A", "."])
+    print(output.decode("utf-8").strip())
 
     # Commit them
     print("Git committing...")
-    proc = subprocess.Popen(
+    output = subprocess.check_output(
         ["/usr/bin/git", "commit", "-m", "Updating zone information"],
-        stdout=subprocess.PIPE,
     )
-    print(proc.stdout.read())
+    print(output.decode("utf-8").strip())
 
     # Commit them
     print("Git pushing...")
-    proc = subprocess.Popen(["/usr/bin/git", "push"], stdout=subprocess.PIPE)
-    print(proc.stdout.read())
+    output = subprocess.check_output(["/usr/bin/git", "push"])
+    print(output.decode("utf-8").strip())
