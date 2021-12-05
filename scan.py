@@ -217,19 +217,6 @@ def pprint(input_dict):
     print(json.dumps(input_dict, sort_keys=True, indent=4, separators=(",", ": ")))
 
 
-def clean_archives():
-    try:
-        dir = "./archives/"
-        for files in os.listdir(dir):
-            path = os.path.join(dir, files)
-            try:
-                shutil.rmtree(path)
-            except OSError:
-                os.remove(path)
-    except Exception as e:
-        pass
-
-
 def write_dig_output(hostname, nameserver, dig_output):
     if hostname == ".":
         hostname = "root"
@@ -300,7 +287,6 @@ def zone_transfer_succeeded(zone_data):
 
 
 if __name__ == "__main__":
-    clean_archives()
     dnstool = DNSTool()
 
     zone_transfer_enabled_list = []
@@ -377,20 +363,3 @@ if __name__ == "__main__":
     file_handler = open("ZONES.md", "w")
     file_handler.write(zone_transfer_enabled_markdown)
     file_handler.close()
-
-    # Add all new zone files
-    print("Git adding...")
-    output = subprocess.check_output(["/usr/bin/git", "add", "-A", "."])
-    print(output.decode("utf-8").strip())
-
-    # Commit them
-    print("Git committing...")
-    output = subprocess.check_output(
-        ["/usr/bin/git", "commit", "-m", "Updating zone information"],
-    )
-    print(output.decode("utf-8").strip())
-
-    # Commit them
-    print("Git pushing...")
-    output = subprocess.check_output(["/usr/bin/git", "push"])
-    print(output.decode("utf-8").strip())
