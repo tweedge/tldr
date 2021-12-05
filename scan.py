@@ -74,7 +74,7 @@ class DNSTool:
         }
 
     def get_base_domain(self, hostname):
-        """ Little extra parsing to accurately return a TLD string """
+        """Little extra parsing to accurately return a TLD string"""
         url = "http://" + hostname.lower()
         tld = tldextract.extract(url)
         if tld.suffix == "":
@@ -218,13 +218,16 @@ def pprint(input_dict):
 
 
 def clean_archives():
-    dir = "./archives/"
-    for files in os.listdir(dir):
-        path = os.path.join(dir, files)
-        try:
-            shutil.rmtree(path)
-        except OSError:
-            os.remove(path)
+    try:
+        dir = "./archives/"
+        for files in os.listdir(dir):
+            path = os.path.join(dir, files)
+            try:
+                shutil.rmtree(path)
+            except OSError:
+                os.remove(path)
+    except Exception as e:
+        pass
 
 
 def write_dig_output(hostname, nameserver, dig_output):
