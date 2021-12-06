@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120604 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120607 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1638763238"
+mg.			7200	IN	TXT	"Generation Time: 1638774043"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2667,8 +2667,8 @@ crypto.mg.		7200	IN	NS	ns1.parkingcrew.net.
 crypto.mg.		7200	IN	NS	ns2.parkingcrew.net.
 cryptovola.mg.		7200	IN	NS	dolly.ns.cloudflare.com.
 cryptovola.mg.		7200	IN	NS	theo.ns.clouflare.com.
-crystalide.mg.		7200	IN	NS	ns1.cloudns.io.
-crystalide.mg.		7200	IN	NS	ns2.cloudns.io.
+crystalide.mg.		7200	IN	NS	ns1.svsmanager.com.
+crystalide.mg.		7200	IN	NS	ns2.svsmanager.com.
 csc.mg.			7200	IN	NS	ns.dts.mg.
 csc.mg.			7200	IN	NS	ns1.dts.mg.
 cscsmadagascar.mg.	7200	IN	NS	ns1.onyx.cloudns.io.
@@ -3718,8 +3718,6 @@ femina.mg.		86400	IN	NS	ns.dts.mg.
 femina.mg.		86400	IN	NS	ns1.dts.mg.
 feminasante.mg.		86400	IN	NS	ns.dts.mg.
 feminasante.mg.		86400	IN	NS	ns1.dts.mg.
-fenosoa.mg.		86400	IN	NS	greg.ns.cloudflare.com.
-fenosoa.mg.		86400	IN	NS	michelle.ns.cloudflare.com.
 feoko.mg.		86400	IN	NS	bowen.ns.cloudflare.com.
 feoko.mg.		86400	IN	NS	hattie.ns.cloudflare.com.
 ferapara.mg.		86400	IN	NS	ns1.hostpapa.com.
@@ -4953,8 +4951,6 @@ iheartradio.mg.		86400	IN	NS	dns1.clearchannel.com.
 iheartradio.mg.		86400	IN	NS	dns2.clearchannel.com.
 ihsm.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
 ihsm.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
-iiss.mg.		86400	IN	NS	dns1.indritech.biz.
-iiss.mg.		86400	IN	NS	dns2.indritech.biz.
 ikea.mg.		86400	IN	NS	udns1.cscdns.net.
 ikea.mg.		86400	IN	NS	udns2.cscdns.uk.
 ikmalagasy.mg.		86400	IN	NS	ns1.gasyweb.com.
@@ -5038,6 +5034,8 @@ imr.mg.			86400	IN	NS	c.ns14.net.
 imr.mg.			86400	IN	NS	d.ns14.net.
 imra.mg.		86400	IN	NS	ns1.servermada.com.
 imra.mg.		86400	IN	NS	ns2.servermada.com.
+imra-ratsimamanga.mg.	86400	IN	NS	ns1.cloudns.io.
+imra-ratsimamanga.mg.	86400	IN	NS	ns2.cloudns.io.
 imtoken.mg.		86400	IN	NS	dns1.suspended-domains.com.
 imtoken.mg.		86400	IN	NS	dns2.suspended-domains.com.
 imvavet.mg.		86400	IN	NS	ns.dts.mg.
@@ -6985,8 +6983,6 @@ misterclean.mg.		86400	IN	NS	ns1.da.cloudns.io.
 misterclean.mg.		86400	IN	NS	ns2.da.cloudns.io.
 mit.mg.			86400	IN	NS	uma.ns.cloudflare.com.
 mit.mg.			86400	IN	NS	kip.ns.cloudflare.com.
-mitabe.mg.		86400	IN	NS	ivy.ns.cloudflare.com.
-mitabe.mg.		86400	IN	NS	jake.ns.cloudflare.com.
 mitc.mg.		86400	IN	NS	ns1.da.cloudns.io.
 mitc.mg.		86400	IN	NS	ns2.da.cloudns.io.
 mitmachen.mg.		86400	IN	NS	ns26.ns26.de.
@@ -9277,9 +9273,6 @@ sipem.mg.		86400	IN	NS	ns1.servermada.com.
 sipem.mg.		86400	IN	NS	ns2.servermada.com.
 sipembanque.mg.		86400	IN	NS	ns1.servermada.com.
 sipembanque.mg.		86400	IN	NS	ns2.servermada.com.
-sirama.mg.		86400	IN	NS	ns1.indritech.mg.
-sirama.mg.		86400	IN	NS	ns2.indritech.mg.
-sirama.mg.		86400	IN	NS	ns3.indritech.mg.
 sirr.mg.		86400	IN	NS	ns1.onlydomains.com.
 sirr.mg.		86400	IN	NS	ns2.onlydomains.com.
 sirr.mg.		86400	IN	NS	ns3.onlydomains.com.
@@ -11270,4 +11263,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120604 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120607 600 3600 604800 86400
