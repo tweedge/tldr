@@ -13,7 +13,6 @@
 * `bf` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/bf/censvrns0001.ird.fr.zone)
 * `bj` via `ns1.nic.bj.`: [Click here to view zone data.](archives/bj/ns1.nic.bj.zone)
 * `bj` via `ns2.nic.bj.`: [Click here to view zone data.](archives/bj/ns2.nic.bj.zone)
-* `cm` via `benoue.camnet.cm.`: [Click here to view zone data.](archives/cm/benoue.camnet.cm.zone)
 * `cv` via `cv01.dns.pt.`: [Click here to view zone data.](archives/cv/cv01.dns.pt.zone)
 * `dz` via `ns2.nic.dz.`: [Click here to view zone data.](archives/dz/ns2.nic.dz.zone)
 * `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
