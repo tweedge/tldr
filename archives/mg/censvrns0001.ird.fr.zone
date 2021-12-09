@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120904 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120907 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1639022445"
+mg.			7200	IN	TXT	"Generation Time: 1639033229"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -445,10 +445,6 @@ aes.mg.			7200	IN	NS	ns1.cloudns.io.
 aes.mg.			7200	IN	NS	ns2.cloudns.io.
 afafi-mutuelle.mg.	7200	IN	NS	ns1.cloudns.io.
 afafi-mutuelle.mg.	7200	IN	NS	ns2.cloudns.io.
-afafy.mg.		7200	IN	NS	ns1.eurodns.com.
-afafy.mg.		7200	IN	NS	ns2.eurodns.com.
-afafy.mg.		7200	IN	NS	ns3.eurodns.com.
-afafy.mg.		7200	IN	NS	ns4.eurodns.com.
 afflelouparis.mg.	7200	IN	NS	ns3.nameshield.net.
 afflelouparis.mg.	7200	IN	NS	obs.ns1.fr.
 afflelouparis.mg.	7200	IN	NS	ns2.observatoiredesmarques.fr.
@@ -2625,8 +2621,6 @@ cra.mg.			7200	IN	NS	ns1.thewebsquare.com.
 cra.mg.			7200	IN	NS	ns2.thewebsquare.com.
 craam.mg.		7200	IN	NS	dns101.ovh.net.
 craam.mg.		7200	IN	NS	ns101.ovh.net.
-cramant.mg.		7200	IN	NS	ns1.da.cloudns.io.
-cramant.mg.		7200	IN	NS	ns2.da.cloudns.io.
 cream.mg.		7200	IN	NS	ns.dts.mg.
 cream.mg.		7200	IN	NS	ns1.dts.mg.
 creapart.mg.		7200	IN	NS	ns1.cloudns.io.
@@ -7033,8 +7027,6 @@ mnbc-mada.mg.		86400	IN	NS	ns1.dts.mg.
 mnfi.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 mnfi.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 mnfi.mg.		86400	IN	NS	ns1.fr.malagasy.com.
-mnge.mg.		86400	IN	NS	ns1.da.cloudns.io.
-mnge.mg.		86400	IN	NS	ns2.da.cloudns.io.
 mnpapps.mg.		86400	IN	NS	ns.tgn.mg.
 mnpapps.mg.		86400	IN	NS	ns1.tgn.mg.
 mnparks.mg.		86400	IN	NS	ns.tgn.mg.
@@ -11292,4 +11284,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120904 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120907 600 3600 604800 86400

@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021120904 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1639022426"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021120907 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1639033220"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -6704,6 +6704,8 @@ iscoexpress.rw.		86400	IN	NS	ns8337.hostgator.com.
 iscoexpress.rw.		86400	IN	NS	ns8338.hostgator.com.
 isha.rw.		86400	IN	NS	ns1.dns-parking.com.
 isha.rw.		86400	IN	NS	ns2.dns-parking.com.
+ishakiro.rw.		86400	IN	NS	ns4.aos.rw.
+ishakiro.rw.		86400	IN	NS	ns5.aos.rw.
 ishangi.rw.		86400	IN	NS	ns1.adicthost.net.
 ishangi.rw.		86400	IN	NS	ns2.adicthost.net.
 ishema.rw.		86400	IN	NS	ns1.digitalocean.com.
@@ -12221,8 +12223,8 @@ signa.rw.		86400	IN	NS	ns1.kaneza.com.
 signa.rw.		86400	IN	NS	ns2.kaneza.com.
 silvergoldbull.rw.	86400	IN	NS	erin.ns.cloudflare.com.
 silvergoldbull.rw.	86400	IN	NS	seth.ns.cloudflare.com.
-silvermotel.rw.		86400	IN	NS	ns5.afriregister.co.ke.
-silvermotel.rw.		86400	IN	NS	ns6.afriregister.co.ke.
+silvermotel.rw.		86400	IN	NS	ns3.afriregister.com.
+silvermotel.rw.		86400	IN	NS	ns5.afriregister.com.
 simbacargotransport.rw.	86400	IN	NS	mia.ns.cloudflare.com.
 simbacargotransport.rw.	86400	IN	NS	anuj.ns.cloudflare.com.
 simbaphones.rw.		86400	IN	NS	ns1.ebdhosting.com.
@@ -14472,8 +14474,9 @@ womxn-artists.rw.	86400	IN	NS	ns1.esicia.rw.
 womxn-artists.rw.	86400	IN	NS	ns1.kaneza.com.
 womxn-artists.rw.	86400	IN	NS	ns2.esicia.rw.
 womxn-artists.rw.	86400	IN	NS	ns2.kaneza.com.
-wonderlust.rw.		86400	IN	NS	heidi.ns.cloudflare.com.
-wonderlust.rw.		86400	IN	NS	jarred.ns.cloudflare.com.
+wonderlust.rw.		86400	IN	NS	ns3.afriregister.com.
+wonderlust.rw.		86400	IN	NS	ns5.afriregister.com.
+wonderlust.rw.		86400	IN	NS	ns6.afriregister.com.
 woodhabitat.rw.		86400	IN	NS	ns1.igihehost.com.
 woodhabitat.rw.		86400	IN	NS	ns2.igihehost.com.
 woodhabitat.rw.		86400	IN	NS	ns3.igihehost.com.
@@ -14723,4 +14726,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021120904 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021120907 86400 7200 604800 1800
