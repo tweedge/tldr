@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021121007 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021121010 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1639119641"
+mg.			7200	IN	TXT	"Generation Time: 1639130435"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2466,6 +2466,8 @@ coinme.mg.		7200	IN	NS	ns1.101domain.com.
 coinme.mg.		7200	IN	NS	ns2.101domain.com.
 cola.mg.		7200	IN	NS	ursula.ns.cloudflare.com.
 cola.mg.		7200	IN	NS	yichun.ns.cloudflare.com.
+colearning.mg.		7200	IN	NS	ns1.sahazamarline.net.
+colearning.mg.		7200	IN	NS	ns2.sahazamarline.net.
 college-leparadisdesenfants.mg.	7200 IN	NS	ns1.cloudns.io.
 college-leparadisdesenfants.mg.	7200 IN	NS	ns2.cloudns.io.
 collegedefrance.mg.	7200	IN	NS	ns.tgn.mg.
@@ -3116,8 +3118,8 @@ e-tsena.mg.		86400	IN	NS	ns1.servermada.com.
 e-tsena.mg.		86400	IN	NS	ns2.servermada.com.
 e-vola.mg.		86400	IN	NS	ns1.hostns.io.
 e-vola.mg.		86400	IN	NS	ns2.hostns.io.
-e-zaho.mg.		86400	IN	NS	ns1.contabo.net.
-e-zaho.mg.		86400	IN	NS	ns2.contabo.net.
+e-zaho.mg.		86400	IN	NS	dns19.ovh.net.
+e-zaho.mg.		86400	IN	NS	ns19.ovh.net.
 ea2s.mg.		7200	IN	NS	ns.dts.mg.
 ea2s.mg.		7200	IN	NS	ns1.dts.mg.
 eariary.mg.		7200	IN	NS	141.ip-37-187-50.eu.
@@ -6130,6 +6132,8 @@ lycamobile.mg.		86400	IN	NS	ns5.brandshelter.us.
 lycamobile.mg.		86400	IN	NS	ns1.brandshelter.com.
 lycee-andohalo.mg.	86400	IN	NS	ns1.da.cloudns.io.
 lycee-andohalo.mg.	86400	IN	NS	ns2.da.cloudns.io.
+lycee-hibiscus.mg.	86400	IN	NS	ns29.illi.co.mg.
+lycee-hibiscus.mg.	86400	IN	NS	ns29.dot.mg.
 lycee-manara-penitra-ants.mg. 86400 IN	NS	ns1.da.cloudns.io.
 lycee-manara-penitra-ants.mg. 86400 IN	NS	ns2.da.cloudns.io.
 lyceeclairefontainetana.mg. 86400 IN	NS	ns1.cloudns.io.
@@ -11283,4 +11287,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021121007 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021121010 600 3600 604800 86400
