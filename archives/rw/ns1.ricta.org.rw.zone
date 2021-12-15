@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021121510 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1639562487"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021121513 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1639573279"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -228,6 +228,7 @@ ad-summum.rw.		1800	IN	NS	dns1.p08.nsone.net.
 ad-summum.rw.		1800	IN	NS	dns2.p08.nsone.net.
 ad-summum.rw.		1800	IN	NS	dns3.p08.nsone.net.
 ad-summum.rw.		1800	IN	NS	dns4.p08.nsone.net.
+adc.rw.			1800	IN	NS	ns3.afriregister.com.
 adc.rw.			1800	IN	NS	ns5.afriregister.com.
 adc.rw.			1800	IN	NS	ns6.afriregister.com.
 adepr.rw.		1800	IN	NS	ns11.infomaniak.ch.
@@ -6493,6 +6494,8 @@ intel.rw.		86400	IN	NS	ns3.intel.com.
 intel.rw.		86400	IN	NS	ns4.intel.com.
 intelligra.rw.		86400	IN	NS	ns1.bluehost.com.
 intelligra.rw.		86400	IN	NS	ns2.bluehost.com.
+internet.rw.		86400	IN	NS	ns1.qth.nl.
+internet.rw.		86400	IN	NS	ns2.qth.nl.
 internetsociety.rw.	86400	IN	NS	ns3.afriregister.com.
 internetsociety.rw.	86400	IN	NS	ns5.afriregister.com.
 internetsociety.rw.	86400	IN	NS	ns6.afriregister.com.
@@ -14626,4 +14629,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021121510 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021121513 86400 7200 604800 1800
