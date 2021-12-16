@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021121613 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021121614 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -189,7 +189,6 @@ abnamro.gp.		86400	IN	NS	dns1.cscdns.net.
 abnamro.gp.		86400	IN	NS	dns2.cscdns.net.
 absglobaltrading.gp.	86400	IN	NS	ns1.markmonitor.com.
 absglobaltrading.gp.	86400	IN	NS	ns2.markmonitor.com.
-ac.gp.			86400	IN	NS	ns4.he.net.
 acatlantique.gp.	86400	IN	NS	dns1.advences.com.
 acatlantique.gp.	86400	IN	NS	dns2.advences.com.
 access.gp.		86400	IN	NS	ns1.p29.dynect.net.
@@ -1537,6 +1536,10 @@ ecomusee.gp.		86400	IN	NS	ns1.amenworld.com.
 ecomusee.gp.		86400	IN	NS	ns2.amenworld.com.
 econocophillips.gp.	86400	IN	NS	dns1.cscdns.net.
 econocophillips.gp.	86400	IN	NS	dns2.cscdns.net.
+ecooking.gp.		86400	IN	NS	ns1.eurodns.com.
+ecooking.gp.		86400	IN	NS	ns2.eurodns.com.
+ecooking.gp.		86400	IN	NS	ns3.eurodns.com.
+ecooking.gp.		86400	IN	NS	ns4.eurodns.com.
 ecosmart.gp.		86400	IN	NS	nsgbr.comlaude.co.uk.
 ecosmart.gp.		86400	IN	NS	nssui.comlaude.ch.
 ecosmart.gp.		86400	IN	NS	nsusa.comlaude.net.
@@ -2610,8 +2613,6 @@ jan.gp.			86400	IN	NS	frankfurt.pickel.cc.
 jan.gp.			86400	IN	NS	duesseldorf4.pickel.cc.
 jarry.gp.		86400	IN	NS	ns17.ovh.net.
 jarry.gp.		86400	IN	NS	dns17.ovh.net.
-jd.gp.			86400	IN	NS	ns1.bodis.com.
-jd.gp.			86400	IN	NS	ns2.bodis.com.
 jde.gp.			86400	IN	NS	ns1.iptwins.net.
 jde.gp.			86400	IN	NS	ns2.iptwins.net.
 jde.gp.			86400	IN	NS	ns3.iptwins.com.
@@ -5429,4 +5430,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021121613 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021121614 86400 7200 2592000 345600
