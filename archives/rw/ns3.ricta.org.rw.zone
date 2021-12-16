@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021121604 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1639627221"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021121607 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1639638018"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -510,6 +510,8 @@ akasten.rw.		1800	IN	NS	ns5.afriregister.com.
 akasten.rw.		1800	IN	NS	ns6.afriregister.com.
 akazi.rw.		1800	IN	NS	dns2.haisoft.net.
 akazi.rw.		1800	IN	NS	ds461.haisoft.net.
+akazikeza.rw.		1800	IN	NS	dns1.namecheaphosting.com.
+akazikeza.rw.		1800	IN	NS	dns2.namecheaphosting.com.
 akebo.rw.		1800	IN	NS	ns1.digitalocean.com.
 akebo.rw.		1800	IN	NS	ns2.digitalocean.com.
 akebo.rw.		1800	IN	NS	ns3.digitalocean.com.
@@ -6255,7 +6257,10 @@ imagestudio.rw.		86400	IN	NS	ns1.megabithosting.com.
 imagestudio.rw.		86400	IN	NS	ns2.megabithosting.com.
 imaginet.rw.		86400	IN	NS	ns1.imaginetrwone.com.
 imaginet.rw.		86400	IN	NS	ns2.imaginetrwone.com.
+imaginewe.rw.		86400	IN	NS	ns1.digitalocean.com.
+imaginewe.rw.		86400	IN	NS	ns2.digitalocean.com.
 imaginewe.rw.		86400	IN	NS	ns3.afriregister.com.
+imaginewe.rw.		86400	IN	NS	ns3.digitalocean.com.
 imaginewe.rw.		86400	IN	NS	ns5.afriregister.com.
 imaginewe.rw.		86400	IN	NS	ns6.afriregister.com.
 imali.rw.		86400	IN	NS	ns1.barakhand.org.
@@ -14678,4 +14683,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021121604 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021121607 86400 7200 604800 1800
