@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021122007 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021122013 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1639972841"
+mg.			7200	IN	TXT	"Generation Time: 1639983632"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3685,8 +3685,6 @@ fanta.mg.		86400	IN	NS	ns3-09.azure-dns.org.
 fao.mg.			86400	IN	NS	ns1.mg.tambazotra.net.
 fao.mg.			86400	IN	NS	ns2.mg.tambazotra.net.
 fao.mg.			86400	IN	NS	ns1.fr.malagasy.com.
-farah.mg.		86400	IN	NS	greg.ns.cloudflare.com.
-farah.mg.		86400	IN	NS	michelle.ns.cloudflare.com.
 farmantsika.mg.		86400	IN	NS	ns1.o2switch.net.
 farmantsika.mg.		86400	IN	NS	ns2.o2switch.net.
 fashion.mg.		86400	IN	NS	ns1.cloudns.io.
@@ -6317,8 +6315,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -8998,8 +8996,6 @@ sanlam.mg.		86400	IN	NS	ns2.lexsynergy.us.
 sanlam.mg.		86400	IN	NS	ns3.lexsynergy.info.
 sante-matsiatra.mg.	86400	IN	NS	ns1.servermada.com.
 sante-matsiatra.mg.	86400	IN	NS	ns2.servermada.com.
-santika.mg.		86400	IN	NS	ns1.cloudns.io.
-santika.mg.		86400	IN	NS	ns2.cloudns.io.
 sara.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
 sara.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
 sarafi.mg.		86400	IN	NS	ns.dts.mg.
@@ -9760,8 +9756,6 @@ stoi-agri.mg.		86400	IN	NS	ns1.justhost.com.
 stoi-agri.mg.		86400	IN	NS	ns2.justhost.com.
 stoiagri.mg.		86400	IN	NS	dns11.ovh.net.
 stoiagri.mg.		86400	IN	NS	ns11.ovh.net.
-stoneforge.mg.		86400	IN	NS	ns29.dot.mg.
-stoneforge.mg.		86400	IN	NS	ns29.illi.co.mg.
 stoneo.mg.		86400	IN	NS	ns1.cloudns.io.
 stoneo.mg.		86400	IN	NS	ns2.cloudns.io.
 store.mg.		86400	IN	NS	ns.nic.mg.
@@ -10575,8 +10569,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11307,4 +11301,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021122007 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021122013 600 3600 604800 86400
