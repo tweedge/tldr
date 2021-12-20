@@ -1,5 +1,6 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021121922 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1639951219"
+;; Connection to 196.49.7.188#53(196.49.7.188) for rw. failed: timed out.
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122001 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1639962080"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -2883,8 +2884,8 @@ culligan.rw.		1800	IN	NS	ns5.netnames.net.
 culligan.rw.		1800	IN	NS	ns6.netnames.net.
 curmis.rw.		1800	IN	NS	ns1.mwiseneza.com.
 curmis.rw.		1800	IN	NS	ns2.mwiseneza.com.
-curuza.rw.		1800	IN	NS	ns1.afriregister.com.
-curuza.rw.		1800	IN	NS	ns3.afriregister.com.
+curuza.rw.		1800	IN	NS	ns5.afriregister.co.ke.
+curuza.rw.		1800	IN	NS	ns6.afriregister.co.ke.
 customgraphics.rw.	1800	IN	NS	ns1.sawasawa.com.
 customgraphics.rw.	1800	IN	NS	ns2.sawasawa.com.
 customgraphics.rw.	1800	IN	NS	ns3.sawasawa.com.
@@ -5024,8 +5025,8 @@ goat.rw.		1800	IN	NS	dns1.namecheaphosting.com.
 goat.rw.		1800	IN	NS	dns2.namecheaphosting.com.
 goclinic.rw.		1800	IN	NS	ns5.afriregister.com.
 goclinic.rw.		1800	IN	NS	ns6.afriregister.com.
-gocook.rw.		1800	IN	NS	dns1.namecheaphosting.com.
-gocook.rw.		1800	IN	NS	dns2.namecheaphosting.com.
+gocook.rw.		1800	IN	NS	ns5.afriregister.co.ke.
+gocook.rw.		1800	IN	NS	ns6.afriregister.co.ke.
 godaddy.rw.		1800	IN	NS	cns1.secureserver.net.
 godaddy.rw.		1800	IN	NS	cns2.secureserver.net.
 godigital.rw.		1800	IN	NS	ns1.megabithosting.com.
@@ -8038,8 +8039,8 @@ legendhotel.rw.		86400	IN	NS	ns3.ebdhosting.com.
 legendhotel.rw.		86400	IN	NS	ns4.ebdhosting.com.
 legibra.rw.		86400	IN	NS	rs13a.registrar-servers.com.
 legibra.rw.		86400	IN	NS	rs13b.registrar-servers.com.
-legitgroup.rw.		86400	IN	NS	ns8051.hostgator.com.
-legitgroup.rw.		86400	IN	NS	ns8052.hostgator.com.
+legitgroup.rw.		86400	IN	NS	ns5.afriregister.co.ke.
+legitgroup.rw.		86400	IN	NS	ns6.afriregister.co.ke.
 lego.rw.		86400	IN	NS	udns1.cscdns.net.
 lego.rw.		86400	IN	NS	udns2.cscdns.uk.
 legra.rw.		86400	IN	NS	ns4.aos.rw.
@@ -14560,4 +14561,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021121922 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122001 86400 7200 604800 1800
