@@ -57971,10 +57971,10 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
+ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
 namesilo.cm.		86400	IN	NS	ns2.bodis.com.
 nametests.cm.		86400	IN	NS	ns1.bodis.com.
@@ -79718,8 +79718,8 @@ univ-ndere.cm.		86400	IN	NS	baladji.univ-ndere.cm.
 univ-ndere.cm.		86400	IN	NS	bamnyanga.univ-ndere.cm.
 baladji.univ-ndere.cm.	86400	IN	A	192.145.186.131
 baladji.univ-ndere.cm.	86400	IN	AAAA	2001:43f8:1470:700::3
-bamnyanga.univ-ndere.cm. 86400	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 86400	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 86400	IN	AAAA	2001:43f8:1470:700::2
 univ-stee.cm.		86400	IN	NS	ns1.lyshosting.com.
 univ-stee.cm.		86400	IN	NS	ns2.lyshosting.com.
 univ-stee.cm.		86400	IN	NS	ns3.lyshosting.com.
