@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122207 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1640156492"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122210 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1640167291"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -1663,6 +1663,8 @@ blackberry.rw.		1800	IN	NS	ns1.markmonitor.com.
 blackberry.rw.		1800	IN	NS	ns3.markmonitor.com.
 blackbuck.rw.		1800	IN	NS	ns5.afriregister.com.
 blackbuck.rw.		1800	IN	NS	ns6.afriregister.com.
+blackoutlounge.rw.	1800	IN	NS	ns541.webhosting.co.rw.
+blackoutlounge.rw.	1800	IN	NS	ns542.webhosting.co.rw.
 blakkforest.rw.		1800	IN	NS	ns1.ebdhosting.com.
 blakkforest.rw.		1800	IN	NS	ns2.ebdhosting.com.
 blakkforest.rw.		1800	IN	NS	ns3.ebdhosting.com.
@@ -10001,9 +10003,8 @@ opera.rw.		86400	IN	NS	ns3.theclickgroup.xyz.
 opina.rw.		86400	IN	NS	ns3.afriregister.com.
 opina.rw.		86400	IN	NS	ns5.afriregister.com.
 opina.rw.		86400	IN	NS	ns6.afriregister.com.
-oplay.rw.		86400	IN	NS	ns3.afriregister.com.
-oplay.rw.		86400	IN	NS	ns5.afriregister.com.
-oplay.rw.		86400	IN	NS	ns6.afriregister.com.
+oplay.rw.		86400	IN	NS	igor.ns.cloudflare.com.
+oplay.rw.		86400	IN	NS	becky.ns.cloudflare.com.
 optimataxand.rw.	86400	IN	NS	ns1.adicthost.net.
 optimataxand.rw.	86400	IN	NS	ns2.adicthost.net.
 orange.rw.		86400	IN	NS	ns.domainnetwork.se.
@@ -14473,8 +14474,9 @@ zdgyeastafrica.rw.	86400	IN	NS	ns3.ebdhosting.com.
 zdgyeastafrica.rw.	86400	IN	NS	ns4.ebdhosting.com.
 zealous.rw.		86400	IN	NS	ns1.kitech.rw.
 zealous.rw.		86400	IN	NS	ns2.kitech.rw.
-zem.rw.			86400	IN	NS	ns01.000webhost.com.
-zem.rw.			86400	IN	NS	ns02.000webhost.com.
+zem.rw.			86400	IN	NS	ns3.afriregister.com.
+zem.rw.			86400	IN	NS	ns5.afriregister.com.
+zem.rw.			86400	IN	NS	ns6.afriregister.com.
 zenka.rw.		86400	IN	NS	ns5.afriregister.co.ke.
 zenka.rw.		86400	IN	NS	ns6.afriregister.co.ke.
 zenkennels.rw.		86400	IN	NS	ns1.ebdhosting.com.
@@ -14535,4 +14537,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122207 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122210 86400 7200 604800 1800
