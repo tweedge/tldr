@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2021122309 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2021122310 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1640246417"
+cm.			86400	IN	TXT	"Generation Time: 1640250021"
 0.cm.			86400	IN	NS	ns1.dnspanel.com.
 0.cm.			86400	IN	NS	ns2.dnspanel.com.
 0-1.cm.			86400	IN	NS	ns1.ndns.cn.
@@ -12819,6 +12819,8 @@ aajtak.cm.		86400	IN	NS	ns1.bodis.com.
 aajtak.cm.		86400	IN	NS	ns2.bodis.com.
 aamazon.cm.		86400	IN	NS	ns17.above.com.
 aamazon.cm.		86400	IN	NS	ns18.above.com.
+aan.cm.			86400	IN	NS	ns1.alidns.com.
+aan.cm.			86400	IN	NS	ns2.alidns.com.
 aancestry.cm.		86400	IN	NS	ns-281.awsdns-35.com.
 aancestry.cm.		86400	IN	NS	ns-677.awsdns-20.net.
 aancestry.cm.		86400	IN	NS	ns-1043.awsdns-02.org.
@@ -12841,8 +12843,8 @@ aarppharmacy.cm.	86400	IN	NS	ns1.bodis.com.
 aarppharmacy.cm.	86400	IN	NS	ns2.bodis.com.
 aastocks.cm.		86400	IN	NS	ns1.parkingcrew.net.
 aastocks.cm.		86400	IN	NS	ns2.parkingcrew.net.
-aat.cm.			86400	IN	NS	harlee.ns.cloudflare.com.
-aat.cm.			86400	IN	NS	rodrigo.ns.cloudflare.com.
+aat.cm.			86400	IN	NS	grant.ns.cloudflare.com.
+aat.cm.			86400	IN	NS	olivia.ns.cloudflare.com.
 aatt.cm.		86400	IN	NS	suzanne.ns.cloudflare.com.
 aatt.cm.		86400	IN	NS	giancarlo.ns.cloudflare.com.
 aau.cm.			86400	IN	NS	152.ns1.above.com.
@@ -20960,6 +20962,8 @@ bob.cm.			86400	IN	NS	ns1.alidns.com.
 bob.cm.			86400	IN	NS	ns2.alidns.com.
 bob324.cm.		86400	IN	NS	zod.ns.cloudflare.com.
 bob324.cm.		86400	IN	NS	dahlia.ns.cloudflare.com.
+bob55.cm.		86400	IN	NS	zod.ns.cloudflare.com.
+bob55.cm.		86400	IN	NS	dahlia.ns.cloudflare.com.
 bob8.cm.		86400	IN	NS	dorthy.ns.cloudflare.com.
 bob8.cm.		86400	IN	NS	lennon.ns.cloudflare.com.
 bob88.cm.		86400	IN	NS	v1s1.xundns.com.
@@ -25821,8 +25825,6 @@ cleanandclear.cm.	86400	IN	NS	ns3.jnj.com.
 cleanandclear.cm.	86400	IN	NS	ns5.jnj.com.
 cleanbranding.cm.	86400	IN	NS	ns1.linuxsupercloud.com.
 cleanbranding.cm.	86400	IN	NS	ns2.linuxsupercloud.com.
-cleandev.cm.		86400	IN	NS	ns0.thundercloud.uk.
-cleandev.cm.		86400	IN	NS	ns1.thundercloud.uk.
 cleaneatingmag.cm.	86400	IN	NS	ns1.bodis.com.
 cleaneatingmag.cm.	86400	IN	NS	ns2.bodis.com.
 cleanenergyservices.cm.	86400	IN	NS	ns1.mtnbusiness.cm.
@@ -35340,6 +35342,8 @@ fandom.cm.		86400	IN	NS	pns24.cloudns.net.
 fanduel.cm.		86400	IN	NS	a.dns.gandi.net.
 fanduel.cm.		86400	IN	NS	b.dns.gandi.net.
 fanduel.cm.		86400	IN	NS	c.dns.gandi.net.
+fanenjoykwata.cm.	86400	IN	NS	ns1.camoogroup.com.
+fanenjoykwata.cm.	86400	IN	NS	ns2.camoogroup.com.
 fanfever.cm.		86400	IN	NS	ns1.101domain.com.
 fanfever.cm.		86400	IN	NS	ns2.101domain.com.
 fanfou.cm.		86400	IN	NS	joan.ns.cloudflare.com.
@@ -63239,6 +63243,8 @@ phemex.cm.		86400	IN	NS	ns2219.ispapi.net.
 phemex.cm.		86400	IN	NS	ns3189.ispapi.net.
 phhmortgage.cm.		86400	IN	NS	ns1.above.com.
 phhmortgage.cm.		86400	IN	NS	ns2.above.com.
+phi.cm.			86400	IN	NS	dns1.registrar-servers.com.
+phi.cm.			86400	IN	NS	dns2.registrar-servers.com.
 philanthropy.cm.	86400	IN	NS	ns1.bodis.com.
 philanthropy.cm.	86400	IN	NS	ns2.bodis.com.
 philippineairlines.cm.	86400	IN	NS	759.ns1.above.com.
@@ -72318,8 +72324,6 @@ sncf.cm.		86400	IN	NS	ns1.mailclub.fr.
 sncf.cm.		86400	IN	NS	ns2.mailclub.fr.
 snd30.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 snd30.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
-snd30jeunes.cm.		86400	IN	NS	ns0.thundercloud.uk.
-snd30jeunes.cm.		86400	IN	NS	ns1.thundercloud.uk.
 sne.cm.			86400	IN	NS	dns1.registrar-servers.com.
 sne.cm.			86400	IN	NS	dns2.registrar-servers.com.
 sneakerhead.cm.		86400	IN	NS	ns1.bodis.com.
@@ -86791,4 +86795,4 @@ zzz.cm.			86400	IN	NS	ns1.4.cn.
 zzz.cm.			86400	IN	NS	ns2.4.cn.
 zzzz.cm.		86400	IN	NS	mia.ns.cloudflare.com.
 zzzz.cm.		86400	IN	NS	konnor.ns.cloudflare.com.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2021122309 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2021122310 28800 3600 604800 86400
