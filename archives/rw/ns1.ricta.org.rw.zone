@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122410 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1640340084"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122413 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1640350879"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -4095,8 +4095,8 @@ evolution.rw.		1800	IN	NS	dns3.zaccodigitaltrustlabs.se.
 evolution.rw.		1800	IN	NS	dns4.zaccodigitaltrustlabs.se.
 evolve.rw.		1800	IN	NS	ns.heartinternet.co.uk.
 evolve.rw.		1800	IN	NS	ns2.heartinternet.co.uk.
-evolvis.rw.		1800	IN	NS	ns4.aos.rw.
-evolvis.rw.		1800	IN	NS	ns5.aos.rw.
+evolvis.rw.		1800	IN	NS	eric.ns.cloudflare.com.
+evolvis.rw.		1800	IN	NS	tori.ns.cloudflare.com.
 evrardkick.rw.		1800	IN	NS	ns1.megabithosting.com.
 evrardkick.rw.		1800	IN	NS	ns2.megabithosting.com.
 exceed.rw.		1800	IN	NS	ns6.afriregister.com.
@@ -5505,8 +5505,10 @@ hellenbags.rw.		86400	IN	NS	ns1.megabithosting.com.
 hellenbags.rw.		86400	IN	NS	ns2.megabithosting.com.
 hellokigali.rw.		86400	IN	NS	ns1.digitalocean.com.
 hellokigali.rw.		86400	IN	NS	ns2.digitalocean.com.
-hellomed.rw.		86400	IN	NS	ns5.afriregister.co.ke.
-hellomed.rw.		86400	IN	NS	ns6.afriregister.co.ke.
+hellomed.rw.		86400	IN	NS	ns-205.awsdns-25.com.
+hellomed.rw.		86400	IN	NS	ns-738.awsdns-28.net.
+hellomed.rw.		86400	IN	NS	ns-1114.awsdns-11.org.
+hellomed.rw.		86400	IN	NS	ns-2012.awsdns-59.co.uk.
 hellorwanda.rw.		86400	IN	NS	ns1.teradig.com.
 hellorwanda.rw.		86400	IN	NS	ns2.teradig.com.
 help.rw.		86400	IN	NS	ns8245.hostgator.com.
@@ -6914,6 +6916,8 @@ jcb.rw.			86400	IN	NS	dns2.idp365.net.
 jcb.rw.			86400	IN	NS	dns3.idp365.net.
 jconnect.rw.		86400	IN	NS	ns207.websitewelcome.com.
 jconnect.rw.		86400	IN	NS	ns208.websitewelcome.com.
+jct.rw.			86400	IN	NS	dns1.namecheaphosting.com.
+jct.rw.			86400	IN	NS	dns2.namecheaphosting.com.
 jde.rw.			86400	IN	NS	dns1.cscdns.net.
 jde.rw.			86400	IN	NS	dns2.cscdns.net.
 jdecoffee.rw.		86400	IN	NS	dns1.cscdns.net.
@@ -10888,9 +10892,8 @@ realpropertytalks.rw.	86400	IN	NS	ns1.ebdhosting.com.
 realpropertytalks.rw.	86400	IN	NS	ns2.ebdhosting.com.
 realpropertytalks.rw.	86400	IN	NS	ns3.ebdhosting.com.
 realpropertytalks.rw.	86400	IN	NS	ns4.ebdhosting.com.
-realuphouse.rw.		86400	IN	NS	ns3.afriregister.com.
-realuphouse.rw.		86400	IN	NS	ns5.afriregister.com.
-realuphouse.rw.		86400	IN	NS	ns6.afriregister.com.
+realuphouse.rw.		86400	IN	NS	dns1.namecheaphosting.com.
+realuphouse.rw.		86400	IN	NS	dns2.namecheaphosting.com.
 realupproperties.rw.	86400	IN	NS	ns3.afriregister.com.
 realupproperties.rw.	86400	IN	NS	ns5.afriregister.com.
 realupproperties.rw.	86400	IN	NS	ns6.afriregister.com.
@@ -14551,4 +14554,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122410 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122413 86400 7200 604800 1800
