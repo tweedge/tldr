@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122810 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1640685617"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122813 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1640696427"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -3358,6 +3358,8 @@ dreamrecord.rw.		1800	IN	NS	ns1.ebdhosting.com.
 dreamrecord.rw.		1800	IN	NS	ns2.ebdhosting.com.
 dreamrecord.rw.		1800	IN	NS	ns3.ebdhosting.com.
 dreamrecord.rw.		1800	IN	NS	ns4.ebdhosting.com.
+dreamsmis.rw.		1800	IN	NS	ns4.aos.rw.
+dreamsmis.rw.		1800	IN	NS	ns5.aos.rw.
 dreamstudios.rw.	1800	IN	NS	ns1.wordpress.com.
 dreamstudios.rw.	1800	IN	NS	ns2.wordpress.com.
 dreamstudios.rw.	1800	IN	NS	ns3.wordpress.com.
@@ -3649,6 +3651,9 @@ edume.rw.		1800	IN	NS	indom30.indomco.fr.
 edume.rw.		1800	IN	NS	indom80.indomco.hk.
 edurwanda.rw.		1800	IN	NS	ns8091.hostgator.com.
 edurwanda.rw.		1800	IN	NS	ns8092.hostgator.com.
+eduwiserwanda.rw.	1800	IN	NS	ns3.afriregister.com.
+eduwiserwanda.rw.	1800	IN	NS	ns5.afriregister.com.
+eduwiserwanda.rw.	1800	IN	NS	ns6.afriregister.com.
 edvantageafrica.rw.	1800	IN	NS	titan.is.co.za.
 edvantageafrica.rw.	1800	IN	NS	demeter.is.co.za.
 edvantageafrica.rw.	1800	IN	NS	jupiter.is.co.za.
@@ -8004,10 +8009,8 @@ ledconcept.rw.		86400	IN	NS	ns5.afriregister.com.
 ledconcept.rw.		86400	IN	NS	ns6.afriregister.com.
 leestore250.rw.		86400	IN	NS	ns1.kitech.rw.
 leestore250.rw.		86400	IN	NS	ns2.kitech.rw.
-legacyapartment.rw.	86400	IN	NS	ns1.africahostnetwork.com.
-legacyapartment.rw.	86400	IN	NS	ns2.africahostnetwork.com.
-legacyapartments.rw.	86400	IN	NS	ns1.hostblueinc.com.
-legacyapartments.rw.	86400	IN	NS	ns2.hostblueinc.com.
+legacyapartments.rw.	86400	IN	NS	ns1.africahostnetwork.com.
+legacyapartments.rw.	86400	IN	NS	ns2.africahostnetwork.com.
 legacybrands.rw.	86400	IN	NS	ns1.bdsrwanda.com.
 legacybrands.rw.	86400	IN	NS	ns2.bdsrwanda.com.
 legacyclinics.rw.	86400	IN	NS	ns627.websitewelcome.com.
@@ -10087,6 +10090,8 @@ outsource.rw.		86400	IN	NS	dns1.ebd.rw.
 outsource.rw.		86400	IN	NS	dns2.ebd.rw.
 outsource.rw.		86400	IN	NS	dns3.ebd.rw.
 outsource.rw.		86400	IN	NS	dns4.ebd.rw.
+ovcmis.rw.		86400	IN	NS	ns4.aos.rw.
+ovcmis.rw.		86400	IN	NS	ns5.aos.rw.
 overachiever.rw.	86400	IN	NS	dns1.e-c.com.
 overachiever.rw.	86400	IN	NS	dns2.e-c.com.
 overachievers.rw.	86400	IN	NS	uk1.hostbuddy.cloud.
@@ -14543,4 +14548,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122810 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021122813 86400 7200 604800 1800
