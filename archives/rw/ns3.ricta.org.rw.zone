@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021123109 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1640941285"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021123113 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1640955681"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -9438,6 +9438,8 @@ necogroup.rw.		86400	IN	NS	ns2.mojahost.com.
 nedbank.rw.		86400	IN	NS	titan.is.co.za.
 nedbank.rw.		86400	IN	NS	demeter.is.co.za.
 nedbank.rw.		86400	IN	NS	jupiter.is.co.za.
+nedu.rw.		86400	IN	NS	dns1.namecheaphosting.com.
+nedu.rw.		86400	IN	NS	dns2.namecheaphosting.com.
 negascreation.rw.	86400	IN	NS	ns1.ebdhosting.com.
 negascreation.rw.	86400	IN	NS	ns2.ebdhosting.com.
 negascreation.rw.	86400	IN	NS	ns3.ebdhosting.com.
@@ -14541,4 +14543,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021123109 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021123113 86400 7200 604800 1800
