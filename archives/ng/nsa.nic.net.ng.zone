@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2021123023 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1640901631"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2021123102 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1640912426"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -21863,8 +21863,8 @@ eventually.ng.		3600	IN	NS	nsb.whogohost.com.
 eventvybes.ng.		3600	IN	NS	ns1.cloudoon.com.
 eventvybes.ng.		3600	IN	NS	ns2.cloudoon.com.
 eventvybes.ng.		3600	IN	NS	ns3.cloudoon.com.
-eventwave.ng.		3600	IN	NS	nsa.whogohost.com.
-eventwave.ng.		3600	IN	NS	nsb.whogohost.com.
+eventwave.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+eventwave.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 evenue.ng.		3600	IN	NS	nsa.whogohost.com.
 evenue.ng.		3600	IN	NS	nsb.whogohost.com.
 evercam.ng.		3600	IN	NS	ns01.trademarkarea.com.
@@ -28614,6 +28614,8 @@ handleidi.ng.		3600	IN	NS	pns2.cloudns.net.
 handleidi.ng.		3600	IN	NS	pns3.cloudns.net.
 handli.ng.		3600	IN	NS	ns1.sedoparking.com.
 handli.ng.		3600	IN	NS	ns2.sedoparking.com.
+handmade.ng.		3600	IN	NS	ns1.parkingcrew.net.
+handmade.ng.		3600	IN	NS	ns2.parkingcrew.net.
 handouts.ng.		3600	IN	NS	ns1.superbigapps.com.
 handouts.ng.		3600	IN	NS	ns2.superbigapps.com.
 handsofcomfort.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -38181,6 +38183,8 @@ liveplants.ng.		3600	IN	NS	ns6191.hostgator.com.
 liveplants.ng.		3600	IN	NS	ns6192.hostgator.com.
 livepure.ng.		3600	IN	NS	nsa.whogohost.com.
 livepure.ng.		3600	IN	NS	nsb.whogohost.com.
+liverpoollive.ng.	3600	IN	NS	ns1.dknoc.com.
+liverpoollive.ng.	3600	IN	NS	ns2.dknoc.com.
 liveschool.ng.		3600	IN	NS	dns1.doveserver.com.
 liveschool.ng.		3600	IN	NS	dns2.doveserver.com.
 livescore.ng.		3600	IN	NS	ns1.sedoparking.com.
@@ -38331,6 +38335,10 @@ loandey.ng.		3600	IN	NS	ns1.cp-in-9.webhostbox.net.
 loandey.ng.		3600	IN	NS	ns2.cp-in-9.webhostbox.net.
 loandirect.ng.		3600	IN	NS	ns2.littledotbig.com.
 loandirect.ng.		3600	IN	NS	ns3.littledotbig.com.
+loanguide.ng.		3600	IN	NS	ns1.web4africa.com.
+loanguide.ng.		3600	IN	NS	ns2.web4africa.com.
+loanguide.ng.		3600	IN	NS	ns3.web4africa.com.
+loanguide.ng.		3600	IN	NS	ns4.web4africa.com.
 loanme.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 loanme.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 loanpartner.ng.		3600	IN	NS	ns8309.hostgator.com.
@@ -44968,8 +44976,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -49282,8 +49290,10 @@ oyintrade.ng.		3600	IN	NS	ns51.domaincontrol.com.
 oyintrade.ng.		3600	IN	NS	ns52.domaincontrol.com.
 oyo-yo.ng.		3600	IN	NS	ns1.siteground368.com.
 oyo-yo.ng.		3600	IN	NS	ns2.siteground368.com.
-oyoedu.ng.		3600	IN	NS	ns1.bluehost.com.
-oyoedu.ng.		3600	IN	NS	ns2.bluehost.com.
+oyoedu.ng.		3600	IN	NS	ns-264.awsdns-33.com.
+oyoedu.ng.		3600	IN	NS	ns-619.awsdns-13.net.
+oyoedu.ng.		3600	IN	NS	ns-1408.awsdns-48.org.
+oyoedu.ng.		3600	IN	NS	ns-1736.awsdns-25.co.uk.
 oyoma.ng.		3600	IN	NS	ns1.ckdigital.net.
 oyoma.ng.		3600	IN	NS	ns2.ckdigital.net.
 oyoprojects.ng.		3600	IN	NS	ns1.1405host.com.
@@ -74153,4 +74163,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2021123023 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2021123102 10800 3600 604800 3600
