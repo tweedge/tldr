@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010123 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1641074423"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010202 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1641085238"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -29808,8 +29808,10 @@ holmbri.ng.		3600	IN	NS	clint.ns.cloudflare.com.
 holmbri.ng.		3600	IN	NS	nicole.ns.cloudflare.com.
 holychildcollege.ng.	3600	IN	NS	ns1.boeing.hostsrev.com.
 holychildcollege.ng.	3600	IN	NS	ns2.gulfstream.hostsrev.com.
-holyfamilyhospital.ng.	3600	IN	NS	ns1.dknoc.com.
-holyfamilyhospital.ng.	3600	IN	NS	ns2.dknoc.com.
+holyfamilyhospital.ng.	3600	IN	NS	ns-170.awsdns-21.com.
+holyfamilyhospital.ng.	3600	IN	NS	ns-943.awsdns-53.net.
+holyfamilyhospital.ng.	3600	IN	NS	ns-1461.awsdns-54.org.
+holyfamilyhospital.ng.	3600	IN	NS	ns-2021.awsdns-60.co.uk.
 holysee.ng.		3600	IN	NS	cp.nira.org.ng.
 holysee.ng.		3600	IN	NS	ns1.nira.org.ng.
 home.ng.		3600	IN	NS	ns1.parkingcrew.net.
@@ -29939,8 +29941,8 @@ homeservices.ng.	3600	IN	NS	ns3.web4africa.com.
 homeservices.ng.	3600	IN	NS	ns4.web4africa.com.
 homeshoppi.ng.		3600	IN	NS	dns3001a.trouble-free.net.
 homeshoppi.ng.		3600	IN	NS	dns3001b.trouble-free.net.
-homesolutions.ng.	3600	IN	NS	ns1.bluehost.com.
-homesolutions.ng.	3600	IN	NS	ns2.bluehost.com.
+homesolutions.ng.	3600	IN	NS	zelda.ns.cloudflare.com.
+homesolutions.ng.	3600	IN	NS	anirban.ns.cloudflare.com.
 homestuff.ng.		3600	IN	NS	ns10.wixdns.net.
 homestuff.ng.		3600	IN	NS	ns11.wixdns.net.
 homesuites.ng.		3600	IN	NS	emerson.ns.cloudflare.com.
@@ -43827,7 +43829,9 @@ myyearbook.ng.		3600	IN	NS	ns1.globalhosting247.com.
 myyearbook.ng.		3600	IN	NS	ns2.globalhosting247.com.
 myzon.ng.		3600	IN	NS	ns1.qservers.net.
 myzon.ng.		3600	IN	NS	ns2.qservers.net.
-mzone.ng.		3600	IN	NS	ingress-florina.easywp.com.
+mzone.ng.		3600	IN	NS	freedns1.registrar-servers.com.
+mzone.ng.		3600	IN	NS	freedns2.registrar-servers.com.
+mzone.ng.		3600	IN	NS	freedns3.registrar-servers.com.
 mzuri.ng.		3600	IN	NS	dns1.p04.nsone.net.
 mzuri.ng.		3600	IN	NS	dns2.p04.nsone.net.
 mzuri.ng.		3600	IN	NS	dns3.p04.nsone.net.
@@ -44991,8 +44995,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -55094,8 +55098,8 @@ reliancehosting.ng.	3600	IN	NS	dns1.issldns.com.
 reliancehosting.ng.	3600	IN	NS	dns2.issldns.com.
 relifood.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 relifood.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-relish.ng.		3600	IN	NS	ns1.workbayconnect.com.
-relish.ng.		3600	IN	NS	ns2.workbayconnect.com.
+relish.ng.		3600	IN	NS	nsa.whogohost.com.
+relish.ng.		3600	IN	NS	nsb.whogohost.com.
 relishone.ng.		3600	IN	NS	ns1.tsohost.co.uk.
 relishone.ng.		3600	IN	NS	ns2.tsohost.co.uk.
 relishone.ng.		3600	IN	NS	ns3.tsohost.co.uk.
@@ -62670,6 +62674,8 @@ studentfactory.ng.	3600	IN	NS	ns5.almondhosting.net.
 studentfactory.ng.	3600	IN	NS	ns6.almondhosting.net.
 studenthostels.ng.	3600	IN	NS	ns5.garanntor.net.
 studenthostels.ng.	3600	IN	NS	ns6.garanntor.net.
+studentjob.ng.		3600	IN	NS	nsa.whogohost.com.
+studentjob.ng.		3600	IN	NS	nsb.whogohost.com.
 studentloan.ng.		3600	IN	NS	ns1.upperserver29.com.
 studentloan.ng.		3600	IN	NS	ns2.upperserver29.com.
 studentloans.ng.	3600	IN	NS	ns1.dknoc.com.
@@ -74189,4 +74195,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010123 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010202 10800 3600 604800 3600
