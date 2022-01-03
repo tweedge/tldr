@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010307 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1641193220"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010310 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1641204014"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -1213,6 +1213,9 @@ bahosystems.rw.		1800	IN	NS	ns2.bdsrwanda.com.
 bakame.rw.		1800	IN	NS	ns.ch-meta.net.
 bakame.rw.		1800	IN	NS	ns2.ch-meta.net.
 bakame.rw.		1800	IN	NS	ns3.ch-meta.net.
+bakode.rw.		1800	IN	NS	ns3.afriregister.com.
+bakode.rw.		1800	IN	NS	ns5.afriregister.com.
+bakode.rw.		1800	IN	NS	ns6.afriregister.com.
 bakstein.rw.		1800	IN	NS	ns3.aos.rw.
 bakstein.rw.		1800	IN	NS	ns4.aos.rw.
 bakstein.rw.		1800	IN	NS	ns5.aos.rw.
@@ -9450,9 +9453,9 @@ netapp.rw.		86400	IN	NS	ns1.netnames.net.
 netapp.rw.		86400	IN	NS	ns5.netnames.net.
 netbrain.rw.		86400	IN	NS	ns829.websitewelcome.com.
 netbrain.rw.		86400	IN	NS	ns830.websitewelcome.com.
-netfella.rw.		86400	IN	NS	ns3.afriregister.com.
-netfella.rw.		86400	IN	NS	ns5.afriregister.com.
-netfella.rw.		86400	IN	NS	ns6.afriregister.com.
+netfella.rw.		86400	IN	NS	ns1.contabo.net.
+netfella.rw.		86400	IN	NS	ns2.contabo.net.
+netfella.rw.		86400	IN	NS	ns3.contabo.net.
 netflix.rw.		86400	IN	NS	r1.ns.netflix.net.
 netflix.rw.		86400	IN	NS	r2.ns.netflix.net.
 netflix.rw.		86400	IN	NS	r3.ns.netflix.net.
@@ -14531,4 +14534,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010307 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010310 86400 7200 604800 1800
