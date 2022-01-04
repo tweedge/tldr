@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010410 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1641290488"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010413 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1641301279"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -223,8 +223,8 @@ ad-summum.rw.		1800	IN	NS	dns4.p08.nsone.net.
 adc.rw.			1800	IN	NS	ns3.afriregister.com.
 adc.rw.			1800	IN	NS	ns5.afriregister.com.
 adc.rw.			1800	IN	NS	ns6.afriregister.com.
-adepr.rw.		1800	IN	NS	ns11.infomaniak.ch.
-adepr.rw.		1800	IN	NS	ns12.infomaniak.ch.
+adepr.rw.		1800	IN	NS	ns1.kaneza.com.
+adepr.rw.		1800	IN	NS	ns2.kaneza.com.
 adlogistics.rw.		1800	IN	NS	ns2.wixdns.net.
 adlogistics.rw.		1800	IN	NS	ns3.wixdns.net.
 ador.rw.		1800	IN	NS	ns1.epizy.com.
@@ -4246,6 +4246,8 @@ farmgate.rw.		1800	IN	NS	ns3.digitalocean.com.
 farmuplift.rw.		1800	IN	NS	ns3.afriregister.com.
 farmuplift.rw.		1800	IN	NS	ns5.afriregister.com.
 farmuplift.rw.		1800	IN	NS	ns6.afriregister.com.
+fasha.rw.		1800	IN	NS	uk1.hostbuddy.cloud.
+fasha.rw.		1800	IN	NS	uk2.hostbuddy.cloud.
 fashion.rw.		1800	IN	NS	ns1671.websitewelcome.com.
 fashion.rw.		1800	IN	NS	ns1672.websitewelcome.com.
 fashionboutique.rw.	1800	IN	NS	ns541.webhosting.co.rw.
@@ -7846,8 +7848,8 @@ kwandah.rw.		86400	IN	NS	ns2.contabo.net.
 kwandah.rw.		86400	IN	NS	ns3.contabo.net.
 kwandarealestate.rw.	86400	IN	NS	ns1.megabithosting.com.
 kwandarealestate.rw.	86400	IN	NS	ns2.megabithosting.com.
-kwetu.rw.		86400	IN	NS	ns6491.hostgator.com.
-kwetu.rw.		86400	IN	NS	ns6492.hostgator.com.
+kwetu.rw.		86400	IN	NS	dns1.freehostia.com.
+kwetu.rw.		86400	IN	NS	dns2.freehostia.com.
 kwezafarms.rw.		86400	IN	NS	ns8263.hostgator.com.
 kwezafarms.rw.		86400	IN	NS	ns8264.hostgator.com.
 kwibohora.rw.		86400	IN	NS	ns1.rdb.rw.
@@ -9178,6 +9180,8 @@ muhaziyacu.rw.		86400	IN	NS	ns1.stackdns.com.
 muhaziyacu.rw.		86400	IN	NS	ns2.stackdns.com.
 muhaziyacu.rw.		86400	IN	NS	ns3.stackdns.com.
 muhaziyacu.rw.		86400	IN	NS	ns4.stackdns.com.
+muhe.rw.		86400	IN	NS	ns207.websitewelcome.com.
+muhe.rw.		86400	IN	NS	ns208.websitewelcome.com.
 muhefarm.rw.		86400	IN	NS	ns1.bh-19.webhostbox.net.
 muhefarm.rw.		86400	IN	NS	ns2.bh-19.webhostbox.net.
 muhindaco.rw.		86400	IN	NS	ns3.afriregister.com.
@@ -9302,8 +9306,9 @@ mythos.rw.		86400	IN	NS	ns1.a2hosting.com.
 mythos.rw.		86400	IN	NS	ns2.a2hosting.com.
 mythos.rw.		86400	IN	NS	ns3.a2hosting.com.
 mythos.rw.		86400	IN	NS	ns4.a2hosting.com.
-myvoice.rw.		86400	IN	NS	ns5.afriregister.co.ke.
-myvoice.rw.		86400	IN	NS	ns6.afriregister.co.ke.
+myvoice.rw.		86400	IN	NS	ns3.afriregister.com.
+myvoice.rw.		86400	IN	NS	ns5.afriregister.com.
+myvoice.rw.		86400	IN	NS	ns6.afriregister.com.
 myvoicenews.rw.		86400	IN	NS	ns8497.hostgator.com.
 myvoicenews.rw.		86400	IN	NS	ns8498.hostgator.com.
 mzengacapital.rw.	86400	IN	NS	ns541.webhosting.co.rw.
@@ -14534,4 +14539,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010410 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010413 86400 7200 604800 1800
