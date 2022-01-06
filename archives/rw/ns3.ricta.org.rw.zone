@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010607 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1641452487"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010610 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1641463282"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -2181,6 +2181,8 @@ cardingforums.rw.	1800	IN	NS	asa.ns.cloudflare.com.
 cardingforums.rw.	1800	IN	NS	gannon.ns.cloudflare.com.
 careandhelp.rw.		1800	IN	NS	ns1.webhosting.co.rw.
 careandhelp.rw.		1800	IN	NS	ns2.webhosting.co.rw.
+careconnect.rw.		1800	IN	NS	ns1333.websitewelcome.com.
+careconnect.rw.		1800	IN	NS	ns1334.websitewelcome.com.
 careermagazine.rw.	1800	IN	NS	ns541.webhosting.co.rw.
 careermagazine.rw.	1800	IN	NS	ns542.webhosting.co.rw.
 carekonnect.rw.		1800	IN	NS	ns1333.websitewelcome.com.
@@ -2949,6 +2951,9 @@ daimler.rw.		1800	IN	NS	ns1.corpinter.net.
 daimler.rw.		1800	IN	NS	ns2.corpinter.de.
 daimler-ag.rw.		1800	IN	NS	ns1.corpinter.net.
 daimler-ag.rw.		1800	IN	NS	ns2.corpinter.de.
+damarara.rw.		1800	IN	NS	ns3.afriregister.com.
+damarara.rw.		1800	IN	NS	ns5.afriregister.com.
+damarara.rw.		1800	IN	NS	ns6.afriregister.com.
 damasceneshop.rw.	1800	IN	NS	ns1.ebdhosting.com.
 damasceneshop.rw.	1800	IN	NS	ns2.ebdhosting.com.
 damasceneshop.rw.	1800	IN	NS	ns3.ebdhosting.com.
@@ -3996,6 +4001,10 @@ eshop.rw.		1800	IN	NS	ns1.eshop.rw.
 eshop.rw.		1800	IN	NS	ns2.eshop.rw.
 ns1.eshop.rw.		1800	IN	A	51.75.241.55
 ns2.eshop.rw.		1800	IN	A	51.75.241.55
+eshuri.rw.		1800	IN	NS	ns1-05.azure-dns.com.
+eshuri.rw.		1800	IN	NS	ns2-05.azure-dns.net.
+eshuri.rw.		1800	IN	NS	ns3-05.azure-dns.org.
+eshuri.rw.		1800	IN	NS	ns4-05.azure-dns.info.
 esicia.rw.		1800	IN	NS	ns1.kaneza.com.
 esicia.rw.		1800	IN	NS	ns2.kaneza.com.
 esoko.rw.		1800	IN	NS	ns-cloud-d1.googledomains.com.
@@ -12642,6 +12651,9 @@ syetaboutique.rw.	86400	IN	NS	ns1.ebdhosting.com.
 syetaboutique.rw.	86400	IN	NS	ns2.ebdhosting.com.
 syetaboutique.rw.	86400	IN	NS	ns3.ebdhosting.com.
 syetaboutique.rw.	86400	IN	NS	ns4.ebdhosting.com.
+sylvan.rw.		86400	IN	NS	ns1.contabo.net.
+sylvan.rw.		86400	IN	NS	ns2.contabo.net.
+sylvan.rw.		86400	IN	NS	ns3.contabo.net.
 symantec.rw.		86400	IN	NS	pdns1.cscdns.net.
 symantec.rw.		86400	IN	NS	pdns2.cscdns.net.
 symba-data.rw.		86400	IN	NS	ns5.afriregister.co.ke.
@@ -14481,4 +14493,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010607 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010610 86400 7200 604800 1800

@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010607 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010610 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1641452491"
+mg.			7200	IN	TXT	"Generation Time: 1641463284"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -28,6 +28,8 @@ mg.			7200	IN	TXT	"Generation Time: 1641452491"
 1188.mg.		7200	IN	NS	kallie.ns.cloudflare.com.
 123fix.mg.		7200	IN	NS	ns1.servermada.com.
 123fix.mg.		7200	IN	NS	ns2.servermada.com.
+1314.mg.		7200	IN	NS	ollie.ns.cloudflare.com.
+1314.mg.		7200	IN	NS	terin.ns.cloudflare.com.
 136.mg.			7200	IN	NS	tadeo.ns.cloudflare.com.
 136.mg.			7200	IN	NS	ursula.ns.cloudflare.com.
 138.mg.			7200	IN	NS	ns1.dns.com.
@@ -113,6 +115,8 @@ mg.			7200	IN	TXT	"Generation Time: 1641452491"
 32.mg.			7200	IN	NS	zoe.ns.cloudflare.com.
 33.mg.			7200	IN	NS	f1g1ns1.dnspod.net.
 33.mg.			7200	IN	NS	f1g1ns2.dnspod.net.
+3344.mg.		7200	IN	NS	ollie.ns.cloudflare.com.
+3344.mg.		7200	IN	NS	terin.ns.cloudflare.com.
 34.mg.			7200	IN	NS	coraline.ns.cloudflare.com.
 34.mg.			7200	IN	NS	leif.ns.cloudflare.com.
 365.mg.			7200	IN	NS	f1g1ns1.dnspod.net.
@@ -1052,6 +1056,8 @@ aroriakafjkm.mg.	7200	IN	NS	ns29.fjkm.mg.
 aroriakafjkm.mg.	7200	IN	NS	ns30.fjkm.mg.
 arosaina.mg.		7200	IN	NS	ns1.da.cloudns.io.
 arosaina.mg.		7200	IN	NS	ns2.da.cloudns.io.
+arotek.mg.		7200	IN	NS	ns1.servermada.com.
+arotek.mg.		7200	IN	NS	ns2.servermada.com.
 arotel.mg.		7200	IN	NS	ns1.hostinger.fr.
 arotel.mg.		7200	IN	NS	ns2.hostinger.fr.
 arotel.mg.		7200	IN	NS	ns3.hostinger.fr.
@@ -2104,6 +2110,8 @@ cara.mg.		7200	IN	NS	ns1.cloudns.io.
 cara.mg.		7200	IN	NS	ns2.cloudns.io.
 caractereltee.mg.	7200	IN	NS	ns1.lsldns.com.
 caractereltee.mg.	7200	IN	NS	ns2.lsldns.com.
+care.mg.		7200	IN	NS	brett.ns.cloudflare.com.
+care.mg.		7200	IN	NS	margot.ns.cloudflare.com.
 care.mg.		7200	IN	NS	ns1.ipage.com.
 care.mg.		7200	IN	NS	ns2.ipage.com.
 carea.mg.		7200	IN	NS	ns1.da.cloudns.io.
@@ -8561,6 +8569,8 @@ rallygasy.mg.		86400	IN	NS	ns111.ovh.net.
 rallygasy.mg.		86400	IN	NS	dns111.ovh.net.
 ram.mg.			86400	IN	NS	ns1.extra.chrysler.com.
 ram.mg.			86400	IN	NS	ns2.extra.chrysler.com.
+ramanitra.mg.		86400	IN	NS	brett.ns.cloudflare.com.
+ramanitra.mg.		86400	IN	NS	margot.ns.cloudflare.com.
 ramanitra.mg.		86400	IN	NS	ns1.ipage.com.
 ramanitra.mg.		86400	IN	NS	ns2.ipage.com.
 ramatoa.mg.		86400	IN	NS	ns1.cloudns.io.
@@ -11311,4 +11321,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010607 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010610 600 3600 604800 86400
