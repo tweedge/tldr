@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022010614 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022010622 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1641474015"
+cm.			86400	IN	TXT	"Generation Time: 1641502820"
 0.cm.			86400	IN	NS	ns1.dnspanel.com.
 0.cm.			86400	IN	NS	ns2.dnspanel.com.
 0-1.cm.			86400	IN	NS	ns1.ndns.cn.
@@ -20607,8 +20607,6 @@ besix.cm.		86400	IN	NS	ns2.register.be.
 besix.cm.		86400	IN	NS	ns3.register.be.
 bespokepost.cm.		86400	IN	NS	ns1.above.com.
 bespokepost.cm.		86400	IN	NS	ns2.above.com.
-best.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
-best.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 bestandfree.cm.		86400	IN	NS	ns1.sedoparking.com.
 bestandfree.cm.		86400	IN	NS	ns2.sedoparking.com.
 bestbut.cm.		86400	IN	NS	ns1.parkingcrew.net.
@@ -24510,6 +24508,8 @@ cameroonehealth.cm.	86400	IN	NS	ns1.mtnbusiness.cm.
 cameroonehealth.cm.	86400	IN	NS	ns2.mtnbusiness.cm.
 cameroongallery.cm.	86400	IN	NS	ns1.mtnbusiness.cm.
 cameroongallery.cm.	86400	IN	NS	ns2.mtnbusiness.cm.
+cameroonguide.cm.	86400	IN	NS	ns7.prosygma-cm.com.
+cameroonguide.cm.	86400	IN	NS	ns10.prosygma-cm.com.
 camerooninsider.cm.	86400	IN	NS	ns1.sopecam.com.
 camerooninsider.cm.	86400	IN	NS	ns2.sopecam.com.
 cameroonit.cm.		86400	IN	NS	ns200.anycast.me.
@@ -25758,6 +25758,9 @@ cden.cm.		86400	IN	NS	ns1.kiroogames.com.
 cden.cm.		86400	IN	NS	ns2.kiroogames.com.
 cdhc.cm.		86400	IN	NS	kim.camnet.cm.
 cdhc.cm.		86400	IN	NS	mbam.camnet.cm.
+cdic.cm.		86400	IN	NS	ns01.trademarkarea.com.
+cdic.cm.		86400	IN	NS	ns02.trademarkarea.com.
+cdic.cm.		86400	IN	NS	ns03.trademarkarea.com.
 cdikstrade.cm.		86400	IN	NS	ns1.contabo.net.
 cdikstrade.cm.		86400	IN	NS	ns2.contabo.net.
 cdiscount.cm.		86400	IN	NS	udns1.cscdns.net.
@@ -35579,6 +35582,8 @@ eth.cm.			86400	IN	NS	ns1.eurodns.com.
 eth.cm.			86400	IN	NS	ns2.eurodns.com.
 eth.cm.			86400	IN	NS	ns3.eurodns.com.
 eth.cm.			86400	IN	NS	ns4.eurodns.com.
+eth2.cm.		86400	IN	NS	ns1.parkingcrew.net.
+eth2.cm.		86400	IN	NS	ns2.parkingcrew.net.
 ethbox.cm.		86400	IN	NS	ruth.ns.cloudflare.com.
 ethbox.cm.		86400	IN	NS	miguel.ns.cloudflare.com.
 ether.cm.		86400	IN	NS	ns1.parkingcrew.net.
@@ -46907,8 +46912,6 @@ ipm.cm.			86400	IN	NS	ns1.adac.cm.
 ipm.cm.			86400	IN	NS	ns2.iccnet.cm.
 ipmirror.cm.		86400	IN	NS	dns1.cscdns.net.
 ipmirror.cm.		86400	IN	NS	dns2.cscdns.net.
-ipo.cm.			86400	IN	NS	ns1.4.cn.
-ipo.cm.			86400	IN	NS	ns2.4.cn.
 ipod.cm.		86400	IN	NS	a.ns.apple.com.
 ipod.cm.		86400	IN	NS	b.ns.apple.com.
 ipod.cm.		86400	IN	NS	c.ns.apple.com.
@@ -59345,8 +59348,8 @@ nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
 namesilo.cm.		86400	IN	NS	ns2.bodis.com.
 nametests.cm.		86400	IN	NS	ns1.bodis.com.
@@ -73922,6 +73925,8 @@ socatech.cm.		86400	IN	NS	ns1.mediasysco.net.
 socatech.cm.		86400	IN	NS	ns2.mediasysco.net.
 socatral.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 socatral.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
+socatur.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
+socatur.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 soccer.cm.		86400	IN	NS	ns3.above.com.
 soccer.cm.		86400	IN	NS	ns4.above.com.
 soccer24.cm.		86400	IN	NS	ns1.bodis.com.
@@ -77150,6 +77155,8 @@ tbrays.cm.		86400	IN	NS	ns-east.cerf.net.
 tbrays.cm.		86400	IN	NS	ns-west.cerf.net.
 tbs.cm.			86400	IN	NS	ns3.above.com.
 tbs.cm.			86400	IN	NS	ns4.above.com.
+tbtc.cm.		86400	IN	NS	ns1.parkingcrew.net.
+tbtc.cm.		86400	IN	NS	ns2.parkingcrew.net.
 tbw.cm.			86400	IN	NS	ns3.above.com.
 tbw.cm.			86400	IN	NS	ns4.above.com.
 tbz.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -81527,6 +81534,8 @@ usdc.cm.		86400	IN	NS	ns1.squadhelp.com.
 usdc.cm.		86400	IN	NS	ns2.squadhelp.com.
 usdirectexpress.cm.	86400	IN	NS	ns1.hastydns.com.
 usdirectexpress.cm.	86400	IN	NS	ns2.hastydns.com.
+usdt.cm.		86400	IN	NS	ns1.parkingcrew.net.
+usdt.cm.		86400	IN	NS	ns2.parkingcrew.net.
 usedcars.cm.		86400	IN	NS	ns1.squadhelp.com.
 usedcars.cm.		86400	IN	NS	ns2.squadhelp.com.
 usedcarsni.cm.		86400	IN	NS	ns1.bodis.com.
@@ -83658,6 +83667,8 @@ wbrc.cm.		86400	IN	NS	ns1.bodis.com.
 wbrc.cm.		86400	IN	NS	ns2.bodis.com.
 wbtbet.cm.		86400	IN	NS	ns1.ecpage.com.
 wbtbet.cm.		86400	IN	NS	ns2.ecpage.com.
+wbtc.cm.		86400	IN	NS	ns1.parkingcrew.net.
+wbtc.cm.		86400	IN	NS	ns2.parkingcrew.net.
 wbtv.cm.		86400	IN	NS	ns1.bodis.com.
 wbtv.cm.		86400	IN	NS	ns2.bodis.com.
 wby.cm.			86400	IN	NS	ns1.dns.com.
@@ -84959,6 +84970,8 @@ worldcup.cm.		86400	IN	NS	ns3.above.com.
 worldcup.cm.		86400	IN	NS	ns4.above.com.
 worldfirst.cm.		86400	IN	NS	ns1.bodis.com.
 worldfirst.cm.		86400	IN	NS	ns2.bodis.com.
+worldfoodindustry.cm.	86400	IN	NS	ns7.prosygma-cm.com.
+worldfoodindustry.cm.	86400	IN	NS	ns10.prosygma-cm.com.
 worldgift.cm.		86400	IN	NS	ns01.trademarkarea.com.
 worldgift.cm.		86400	IN	NS	ns02.trademarkarea.com.
 worldgift.cm.		86400	IN	NS	ns03.trademarkarea.com.
@@ -87063,6 +87076,8 @@ yf.cm.			86400	IN	NS	ns1.parkingcrew.net.
 yf.cm.			86400	IN	NS	ns2.parkingcrew.net.
 yf5677.cm.		86400	IN	NS	ns1.ecpage.com.
 yf5677.cm.		86400	IN	NS	ns2.ecpage.com.
+yfi.cm.			86400	IN	NS	ns1.parkingcrew.net.
+yfi.cm.			86400	IN	NS	ns2.parkingcrew.net.
 yflt.cm.		86400	IN	NS	ns3.above.com.
 yflt.cm.		86400	IN	NS	ns4.above.com.
 yfy.cm.			86400	IN	NS	ns1.bodis.com.
@@ -88444,4 +88459,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022010614 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022010622 28800 3600 604800 86400
