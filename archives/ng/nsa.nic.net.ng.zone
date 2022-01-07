@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010711 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1641549630"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010714 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1641560435"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -22330,6 +22330,8 @@ ezeigboslotfoundation.ng. 3600	IN	NS	nsa.whogohost.com.
 ezeigboslotfoundation.ng. 3600	IN	NS	nsb.whogohost.com.
 ezejitochukwu.ng.	3600	IN	NS	nsa.whogohost.com.
 ezejitochukwu.ng.	3600	IN	NS	nsb.whogohost.com.
+ezimarket.ng.		3600	IN	NS	nsa.whogohost.com.
+ezimarket.ng.		3600	IN	NS	nsb.whogohost.com.
 ezlink.ng.		3600	IN	NS	bingo.ns.cloudflare.com.
 ezlink.ng.		3600	IN	NS	lloyd.ns.cloudflare.com.
 eznaira.ng.		3600	IN	NS	ns1.alidns.com.
@@ -30090,8 +30092,10 @@ horsecare.ng.		3600	IN	NS	ns1.web4africa.com.
 horsecare.ng.		3600	IN	NS	ns2.web4africa.com.
 horsecare.ng.		3600	IN	NS	ns3.web4africa.com.
 horsecare.ng.		3600	IN	NS	ns4.web4africa.com.
-horsepay.ng.		3600	IN	NS	dns1.doveserver.com.
-horsepay.ng.		3600	IN	NS	dns2.doveserver.com.
+horsepay.ng.		3600	IN	NS	ns1.horsepay.ng.
+horsepay.ng.		3600	IN	NS	ns2.horsepay.ng.
+ns1.horsepay.ng.	3600	IN	A	64.27.6.196
+ns2.horsepay.ng.	3600	IN	A	64.27.6.196
 horus.ng.		3600	IN	NS	ns1.ipisolutionsng.com.
 horus.ng.		3600	IN	NS	ns2.ipisolutionsng.com.
 horus.ng.		3600	IN	NS	ns3.ipisolutionsng.com.
@@ -36909,6 +36913,8 @@ lawyeri.ng.		3600	IN	NS	kara.ns.cloudflare.com.
 lawyeri.ng.		3600	IN	NS	ishaan.ns.cloudflare.com.
 lawyeronline.ng.	3600	IN	NS	ns1.whogohost.com.
 lawyeronline.ng.	3600	IN	NS	ns2.whogohost.com.
+lawyersconnect.ng.	3600	IN	NS	ns1.ipage.com.
+lawyersconnect.ng.	3600	IN	NS	ns2.ipage.com.
 lawyershub.ng.		3600	IN	NS	nsa.whogohost.com.
 lawyershub.ng.		3600	IN	NS	nsb.whogohost.com.
 lawyersonline.ng.	3600	IN	NS	ns1.bluehost.com.
@@ -40257,6 +40263,10 @@ mchris.ng.		3600	IN	NS	sean.ns.cloudflare.com.
 mchris.ng.		3600	IN	NS	princess.ns.cloudflare.com.
 mcis.ng.		3600	IN	NS	dalbs77.hostwindsdns.com.
 mcis.ng.		3600	IN	NS	dalbs78.hostwindsdns.com.
+mck.ng.			3600	IN	NS	ns1.web4africa.com.
+mck.ng.			3600	IN	NS	ns2.web4africa.com.
+mck.ng.			3600	IN	NS	ns3.web4africa.com.
+mck.ng.			3600	IN	NS	ns4.web4africa.com.
 mcoi.ng.		3600	IN	NS	khalid.ns.cloudflare.com.
 mcoi.ng.		3600	IN	NS	martha.ns.cloudflare.com.
 mcpatton.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -47492,6 +47502,8 @@ ok-payment.ng.		3600	IN	NS	ns1.upperserver5.com.
 ok-payment.ng.		3600	IN	NS	ns2.upperserver5.com.
 ok2pay.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 ok2pay.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+ok2save.ng.		3600	IN	NS	ns1.dknoc.com.
+ok2save.ng.		3600	IN	NS	ns2.dknoc.com.
 okada.ng.		3600	IN	NS	ns1.dan.com.
 okada.ng.		3600	IN	NS	ns2.dan.com.
 okadaexpress.ng.	3600	IN	NS	ns1.web4africa.com.
@@ -70824,6 +70836,8 @@ wakafaster.ng.		3600	IN	NS	suspended1.web4africa.com.
 wakafaster.ng.		3600	IN	NS	suspended2.web4africa.com.
 wakafood.ng.		3600	IN	NS	ns1.bluehost.com.
 wakafood.ng.		3600	IN	NS	ns2.bluehost.com.
+wakajugbe.ng.		3600	IN	NS	ns.mcreal.net.
+wakajugbe.ng.		3600	IN	NS	ns2.mcreal.net.
 wakaman.ng.		3600	IN	NS	ns1.globalhosting247.com.
 wakaman.ng.		3600	IN	NS	ns2.globalhosting247.com.
 wakanda.ng.		3600	IN	NS	ns1.dknoc.com.
@@ -74236,4 +74250,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010711 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010714 10800 3600 604800 3600

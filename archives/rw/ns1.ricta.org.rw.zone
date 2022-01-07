@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010710 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1641549627"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010713 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1641560422"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -2283,6 +2283,9 @@ ceber.rw.		1800	IN	NS	rs13b.registrar-servers.com.
 cebms.rw.		1800	IN	NS	ns1.contabo.net.
 cebms.rw.		1800	IN	NS	ns2.contabo.net.
 cebms.rw.		1800	IN	NS	ns3.contabo.net.
+cec.rw.			1800	IN	NS	ns3.afriregister.com.
+cec.rw.			1800	IN	NS	ns5.afriregister.com.
+cec.rw.			1800	IN	NS	ns6.afriregister.com.
 ceca.rw.		1800	IN	NS	dns1.namecheaphosting.com.
 ceca.rw.		1800	IN	NS	dns2.namecheaphosting.com.
 cecydar.rw.		1800	IN	NS	ns1.bh-19.webhostbox.net.
@@ -11682,8 +11685,9 @@ scorepharmacy.rw.	86400	IN	NS	ns1.ebdhosting.com.
 scorepharmacy.rw.	86400	IN	NS	ns2.ebdhosting.com.
 scorepharmacy.rw.	86400	IN	NS	ns3.ebdhosting.com.
 scorepharmacy.rw.	86400	IN	NS	ns4.ebdhosting.com.
-scriptylabs.rw.		86400	IN	NS	adel.ns.cloudflare.com.
-scriptylabs.rw.		86400	IN	NS	oswald.ns.cloudflare.com.
+scriptylabs.rw.		86400	IN	NS	ns1.digitalocean.com.
+scriptylabs.rw.		86400	IN	NS	ns2.digitalocean.com.
+scriptylabs.rw.		86400	IN	NS	ns3.digitalocean.com.
 sd.rw.			86400	IN	NS	ns207.websitewelcome.com.
 sd.rw.			86400	IN	NS	ns208.websitewelcome.com.
 sde.rw.			86400	IN	NS	ns1.ebdhosting.com.
@@ -14344,4 +14348,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010710 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022010713 86400 7200 604800 1800
