@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010908 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1641711632"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010911 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1641722437"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -31611,8 +31611,8 @@ impact.ng.		3600	IN	NS	ns1.kualo.net.
 impact.ng.		3600	IN	NS	ns2.kualo.net.
 impact.ng.		3600	IN	NS	ns3.kualo.net.
 impact.ng.		3600	IN	NS	ns4.kualo.net.
-impacthillhub.ng.	3600	IN	NS	ns3.afeeshost.com.
-impacthillhub.ng.	3600	IN	NS	ns4.afeeshost.com.
+impacthillhub.ng.	3600	IN	NS	ns7.afeeshost.com.
+impacthillhub.ng.	3600	IN	NS	ns8.afeeshost.com.
 impactradio.ng.		3600	IN	NS	zoe.ns.cloudflare.com.
 impactradio.ng.		3600	IN	NS	boyd.ns.cloudflare.com.
 impactwater.ng.		3600	IN	NS	ns1.whogohost.com.
@@ -44932,8 +44932,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -64520,6 +64520,8 @@ tee.ng.			3600	IN	NS	ns1.sedoparking.com.
 tee.ng.			3600	IN	NS	ns2.sedoparking.com.
 tee-effassociates.ng.	3600	IN	NS	ns17.garanntor.net.
 tee-effassociates.ng.	3600	IN	NS	ns18.garanntor.net.
+teeble.ng.		3600	IN	NS	ns33.qservers.net.
+teeble.ng.		3600	IN	NS	ns34.qservers.net.
 teejet.ng.		3600	IN	NS	dns1.cscdns.net.
 teejet.ng.		3600	IN	NS	dns2.cscdns.net.
 teekets.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -74050,8 +74052,10 @@ zoo.ng.			3600	IN	NS	ns1.dan.com.
 zoo.ng.			3600	IN	NS	ns2.dan.com.
 zoom.ng.		3600	IN	NS	nsa.whogohost.com.
 zoom.ng.		3600	IN	NS	nsb.whogohost.com.
-zoomba.ng.		3600	IN	NS	ns1.suspended-domain.com.
-zoomba.ng.		3600	IN	NS	ns2.suspended-domain.com.
+zoomba.ng.		3600	IN	NS	ns1.zoomba.ng.
+zoomba.ng.		3600	IN	NS	ns2.zoomba.ng.
+ns1.zoomba.ng.		3600	IN	A	198.54.113.2
+ns2.zoomba.ng.		3600	IN	A	198.54.113.2
 zoombet.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 zoombet.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 zoomclass.ng.		3600	IN	NS	ns3.dktlds.com.
@@ -74188,4 +74192,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010908 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010911 10800 3600 604800 3600
