@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010904 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010907 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1641700838"
+mg.			7200	IN	TXT	"Generation Time: 1641711632"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -26,8 +26,8 @@ mg.			7200	IN	TXT	"Generation Time: 1641700838"
 1123.mg.		7200	IN	NS	ns2.dns.com.
 1188.mg.		7200	IN	NS	joel.ns.cloudflare.com.
 1188.mg.		7200	IN	NS	kallie.ns.cloudflare.com.
-123emploi.mg.		7200	IN	NS	ns1.aser16.simafri.com.
-123emploi.mg.		7200	IN	NS	ns2.aser16.simafri.com.
+123emploi.mg.		7200	IN	NS	millie.ns.cloudflare.com.
+123emploi.mg.		7200	IN	NS	ray.ns.cloudflare.com.
 123fix.mg.		7200	IN	NS	ns1.servermada.com.
 123fix.mg.		7200	IN	NS	ns2.servermada.com.
 1314.mg.		7200	IN	NS	ollie.ns.cloudflare.com.
@@ -1837,8 +1837,6 @@ bnz.mg.			7200	IN	NS	ns3.lwsdns.com.
 bnz.mg.			7200	IN	NS	ns4.lwsdns.com.
 boa.mg.			7200	IN	NS	ns.dts.mg.
 boa.mg.			7200	IN	NS	ns1.dts.mg.
-board.mg.		7200	IN	NS	ns1.niouz.net.
-board.mg.		7200	IN	NS	ns200.anycast.me.
 bob.mg.			7200	IN	NS	ns.dts.mg.
 bob.mg.			7200	IN	NS	ns1.dts.mg.
 boffi.mg.		7200	IN	NS	ns.abdns.biz.
@@ -6274,9 +6272,9 @@ madagascar-edu.mg.	86400	IN	NS	ns2.servermada.com.
 madagascar-instn.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns1.fr.malagasy.com.
-madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-internet.mg.	86400	IN	NS	ns1.servermada.com.
 madagascar-internet.mg.	86400	IN	NS	ns2.servermada.com.
+madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns2.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.fr.malagasy.com.
@@ -6341,8 +6339,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -7075,8 +7073,6 @@ mnt.mg.			86400	IN	NS	ns1.dns-parking.com.
 mnt.mg.			86400	IN	NS	ns2.dns-parking.com.
 mobalpa.mg.		86400	IN	NS	dns200.anycast.me.
 mobalpa.mg.		86400	IN	NS	ns200.anycast.me.
-mobility.mg.		86400	IN	NS	nsmpro1.nordnet.com.
-mobility.mg.		86400	IN	NS	nsmpro2.nordnet.com.
 mobitruck.mg.		86400	IN	NS	ns1.reg.ru.
 mobitruck.mg.		86400	IN	NS	ns2.reg.ru.
 mobix.mg.		86400	IN	NS	ns1.servermada.com.
@@ -10375,8 +10371,8 @@ trouvaille-de-lile.mg.	86400	IN	NS	ns1.vercel-dns.com.
 trouvaille-de-lile.mg.	86400	IN	NS	ns2.vercel-dns.com.
 trouvailledelile.mg.	86400	IN	NS	ns1.vercel-dns.com.
 trouvailledelile.mg.	86400	IN	NS	ns2.vercel-dns.com.
-trouveunjob.mg.		86400	IN	NS	ns1.aser16.simafri.com.
-trouveunjob.mg.		86400	IN	NS	ns2.aser16.simafri.com.
+trouveunjob.mg.		86400	IN	NS	brenda.ns.cloudflare.com.
+trouveunjob.mg.		86400	IN	NS	rick.ns.cloudflare.com.
 trudnica.mg.		86400	IN	NS	dns1.renderspace.si.
 trudnica.mg.		86400	IN	NS	dns2.renderspace.si.
 trudnica.mg.		86400	IN	NS	dns3.renderspace.si.
@@ -11313,4 +11309,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010904 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010907 600 3600 604800 86400
