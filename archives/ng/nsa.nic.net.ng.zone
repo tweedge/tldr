@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011005 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1641787229"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011008 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1641798032"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -21369,6 +21369,8 @@ escapi.ng.		3600	IN	NS	ns1.sedoparking.com.
 escapi.ng.		3600	IN	NS	ns2.sedoparking.com.
 eschool.ng.		3600	IN	NS	freedns1.registrar-servers.com.
 eschool.ng.		3600	IN	NS	freedns2.registrar-servers.com.
+escohsti-edu.ng.	3600	IN	NS	nsa.whogohost.com.
+escohsti-edu.ng.	3600	IN	NS	nsb.whogohost.com.
 escorts.ng.		3600	IN	NS	ns1.above.com.
 escorts.ng.		3600	IN	NS	ns2.above.com.
 escrow.ng.		3600	IN	NS	pns21.cloudns.net.
@@ -43740,6 +43742,8 @@ mzuri.ng.		3600	IN	NS	dns1.p04.nsone.net.
 mzuri.ng.		3600	IN	NS	dns2.p04.nsone.net.
 mzuri.ng.		3600	IN	NS	dns3.p04.nsone.net.
 mzuri.ng.		3600	IN	NS	dns4.p04.nsone.net.
+n-1bet.ng.		3600	IN	NS	n.i7.ru.
+n-1bet.ng.		3600	IN	NS	s.i7.ru.
 n-chat.ng.		3600	IN	NS	dns1.doveserver.com.
 n-chat.ng.		3600	IN	NS	dns2.doveserver.com.
 n-vreg.ng.		3600	IN	NS	dns1.doveserver.com.
@@ -44898,8 +44902,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -48285,10 +48289,8 @@ ontime.ng.		3600	IN	NS	dns1.doveserver.com.
 ontime.ng.		3600	IN	NS	dns2.doveserver.com.
 onu.ng.			3600	IN	NS	ns1.upperserver29.com.
 onu.ng.			3600	IN	NS	ns2.upperserver29.com.
-onuigbo.ng.		3600	IN	NS	ns1.onuigbo.ng.
-onuigbo.ng.		3600	IN	NS	ns2.onuigbo.ng.
-ns1.onuigbo.ng.		3600	IN	A	199.192.19.52
-ns2.onuigbo.ng.		3600	IN	A	199.192.19.52
+onuigbo.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+onuigbo.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 onuohaukeh.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 onuohaukeh.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 onward.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -63060,6 +63062,8 @@ supermissuniversity.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 supermissuniversity.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 supermoms.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 supermoms.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+supermum.ng.		3600	IN	NS	ns1.giowm1205.siteground.biz.
+supermum.ng.		3600	IN	NS	ns2.giowm1205.siteground.biz.
 supernap.ng.		3600	IN	NS	nsa.whogohost.com.
 supernap.ng.		3600	IN	NS	nsb.whogohost.com.
 supernova.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -74144,4 +74148,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011005 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011008 10800 3600 604800 3600

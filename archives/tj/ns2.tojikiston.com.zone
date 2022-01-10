@@ -1,4 +1,4 @@
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022011004 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022011006 7200 3600 2678400 7200
 tj.			7200	IN	NS	tj.cctld.authdns.ripe.net.
 tj.			7200	IN	NS	ns1.nic.tj.
 tj.			7200	IN	NS	ns2.tojikiston.com.
@@ -3178,6 +3178,8 @@ daimler.com.tj.		7200	IN	NS	ns1.corpinter.net.
 daimler.com.tj.		7200	IN	NS	ns2.corpinter.de.
 daimler-ag.com.tj.	7200	IN	NS	ns1.corpinter.net.
 daimler-ag.com.tj.	7200	IN	NS	ns2.corpinter.de.
+daimlertruck.com.tj.	7200	IN	NS	ns1.corpinter.net.
+daimlertruck.com.tj.	7200	IN	NS	ns2.corpinter.de.
 dasani.com.tj.		7200	IN	NS	ns3-09.azure-dns.org.
 dasani.com.tj.		7200	IN	NS	ns4-09.azure-dns.info.
 dazn.com.tj.		7200	IN	NS	dns1.idp365.net.
@@ -4940,6 +4942,8 @@ electronica.tj.		7200	IN	NS	ns1.timeweb.ru.
 electronica.tj.		7200	IN	NS	ns2.timeweb.ru.
 electronica.tj.		7200	IN	NS	ns3.timeweb.org.
 electronica.tj.		7200	IN	NS	ns4.timeweb.org.
+elegance.tj.		7200	IN	NS	pictor.dnspod.net.
+elegance.tj.		7200	IN	NS	kennedy.dnspod.net.
 elegant-tuf.tj.		7200	IN	NS	ns.tojikiston.com.
 elegant-tuf.tj.		7200	IN	NS	ns1.tojikiston.com.
 elementum.tj.		7200	IN	NS	ns1.hoster.kz.
@@ -5771,8 +5775,6 @@ gastronom.tj.		7200	IN	NS	dns1.yandex.net.
 gastronom.tj.		7200	IN	NS	dns2.yandex.net.
 gayur.tj.		7200	IN	NS	ns1.tajnet.ru.
 gayur.tj.		7200	IN	NS	ns2.tajnet.ru.
-gazeta.tj.		7200	IN	NS	ns1.ht-systems.ru.
-gazeta.tj.		7200	IN	NS	ns2.ht-systems.ru.
 gazoblok.tj.		7200	IN	NS	ns1.mchost.ru.
 gazoblok.tj.		7200	IN	NS	ns2.mchost.ru.
 gazoblok.tj.		7200	IN	NS	ns3.mchost.ru.
@@ -10298,8 +10300,6 @@ nyxcosmetics.tj.	7200	IN	NS	ns2.observatoiredesmarques.fr.
 nyxcosmetics.tj.	7200	IN	NS	obs.ns1.fr.
 o.tj.			7200	IN	NS	ns1.tajnet.ru.
 o.tj.			7200	IN	NS	ns2.tajnet.ru.
-oao-shirin.tj.		7200	IN	NS	ns.tojikiston.com.
-oao-shirin.tj.		7200	IN	NS	ns1.tojikiston.com.
 oapteka.tj.		7200	IN	NS	ns1.fozzy.com.
 oapteka.tj.		7200	IN	NS	ns2.fozzy.com.
 oasis.tj.		7200	IN	NS	ns1.dns-parking.com.
@@ -11895,8 +11895,6 @@ royals.tj.		7200	IN	NS	ns1.timeweb.ru.
 royals.tj.		7200	IN	NS	ns2.timeweb.ru.
 royals.tj.		7200	IN	NS	ns3.timeweb.org.
 royals.tj.		7200	IN	NS	ns4.timeweb.org.
-royalskin.tj.		7200	IN	NS	ns1.hosting.reg.ru.
-royalskin.tj.		7200	IN	NS	ns2.hosting.reg.ru.
 roybet.tj.		7200	IN	NS	ns1.101domain.com.
 roybet.tj.		7200	IN	NS	ns2.101domain.com.
 rozetka.tj.		7200	IN	NS	ns1.timeweb.ru.
@@ -13908,8 +13906,6 @@ tesla.tj.		7200	IN	NS	ns1.sedoparking.com.
 tesla.tj.		7200	IN	NS	ns2.sedoparking.com.
 test.tj.		7200	IN	NS	ns1.rspd.tj.
 test.tj.		7200	IN	NS	ns2.rspd.tj.
-testcovid.tj.		7200	IN	NS	ns.tojikiston.com.
-testcovid.tj.		7200	IN	NS	ns1.tojikiston.com.
 tet.tj.			7200	IN	NS	ns.tojikiston.com.
 tet.tj.			7200	IN	NS	ns1.tojikiston.com.
 tetrabrik.tj.		7200	IN	NS	ns1.tetrapak.com.
@@ -15759,4 +15755,4 @@ zzap.tj.		7200	IN	NS	ns.abcp.ru.
 zzap.tj.		7200	IN	NS	ns.nodacdn.net.
 zzap.tj.		7200	IN	NS	ns3.abcp.ru.
 zzap.tj.		7200	IN	NS	ns3.nodacdn.net.
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022011004 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022011006 7200 3600 2678400 7200
