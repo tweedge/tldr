@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011116 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011119 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1641916847"
+mg.			7200	IN	TXT	"Generation Time: 1641927623"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -7115,6 +7115,10 @@ moneygram.mg.		86400	IN	NS	ns4.markmonitor.com.
 moneygram.mg.		86400	IN	NS	ns3.markmonitor.com.
 moneytech.mg.		86400	IN	NS	ns.dts.mg.
 moneytech.mg.		86400	IN	NS	ns1.dts.mg.
+mono.mg.		86400	IN	NS	m.de.ha-dns.net.
+mono.mg.		86400	IN	NS	ka2.de.ha-dns.net.
+mono.mg.		86400	IN	NS	f2.de.ha-dns.net.
+mono.mg.		86400	IN	NS	lxa.us.ha-dns.net.
 monpanier.mg.		86400	IN	NS	ns1.monpanier.mg.
 monpanier.mg.		86400	IN	NS	ns2.monpanier.mg.
 ns1.monpanier.mg.	86400	IN	A	54.38.232.6
@@ -11313,4 +11317,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011116 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011119 600 3600 604800 86400

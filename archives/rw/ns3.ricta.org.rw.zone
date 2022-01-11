@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011116 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1641916819"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011119 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1641927617"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -3407,6 +3407,9 @@ e-mpano.rw.		1800	IN	NS	dns3.p02.nsone.net.
 e-mpano.rw.		1800	IN	NS	dns4.p02.nsone.net.
 e-rinde.rw.		1800	IN	NS	dns1.namecheaphosting.com.
 e-rinde.rw.		1800	IN	NS	dns2.namecheaphosting.com.
+e-shop.rw.		1800	IN	NS	ns3.afriregister.com.
+e-shop.rw.		1800	IN	NS	ns5.afriregister.com.
+e-shop.rw.		1800	IN	NS	ns6.afriregister.com.
 e-trade.rw.		1800	IN	NS	dns1.cscdns.net.
 e-trade.rw.		1800	IN	NS	dns2.cscdns.net.
 e-visitors.rw.		1800	IN	NS	ns1.mojahost.com.
@@ -7050,6 +7053,8 @@ kapinga.rw.		86400	IN	NS	dns1.namecheaphosting.com.
 kapinga.rw.		86400	IN	NS	dns2.namecheaphosting.com.
 kapp.rw.		86400	IN	NS	ns1.kappcloud.com.
 kapp.rw.		86400	IN	NS	ns2.kappcloud.com.
+karalogistics.rw.	86400	IN	NS	ns1.kitech.rw.
+karalogistics.rw.	86400	IN	NS	ns2.kitech.rw.
 karame.rw.		86400	IN	NS	ns5.afriregister.co.ke.
 karame.rw.		86400	IN	NS	ns6.afriregister.co.ke.
 karamevoice.rw.		86400	IN	NS	ns4.aos.rw.
@@ -9251,8 +9256,9 @@ necogroup.rw.		86400	IN	NS	ns2.mojahost.com.
 nedbank.rw.		86400	IN	NS	titan.is.co.za.
 nedbank.rw.		86400	IN	NS	demeter.is.co.za.
 nedbank.rw.		86400	IN	NS	jupiter.is.co.za.
-nedu.rw.		86400	IN	NS	dns1.namecheaphosting.com.
-nedu.rw.		86400	IN	NS	dns2.namecheaphosting.com.
+nedu.rw.		86400	IN	NS	ns1.digitalocean.com.
+nedu.rw.		86400	IN	NS	ns2.digitalocean.com.
+nedu.rw.		86400	IN	NS	ns3.digitalocean.com.
 negascreation.rw.	86400	IN	NS	ns1.ebdhosting.com.
 negascreation.rw.	86400	IN	NS	ns2.ebdhosting.com.
 negascreation.rw.	86400	IN	NS	ns3.ebdhosting.com.
@@ -11725,6 +11731,8 @@ shaka.rw.		86400	IN	NS	ns2.digitalocean.com.
 shaka.rw.		86400	IN	NS	ns3.digitalocean.com.
 shambapro.rw.		86400	IN	NS	ns5.afriregister.com.
 shambapro.rw.		86400	IN	NS	ns6.afriregister.com.
+shapeherd.rw.		86400	IN	NS	ns1.esicia.rw.
+shapeherd.rw.		86400	IN	NS	ns2.esicia.rw.
 sharama.rw.		86400	IN	NS	ns1.digitalocean.com.
 sharama.rw.		86400	IN	NS	ns2.digitalocean.com.
 sharama.rw.		86400	IN	NS	ns3.digitalocean.com.
@@ -13187,10 +13195,10 @@ ubukode.rw.		86400	IN	NS	ns2.digitalocean.com.
 ubukode.rw.		86400	IN	NS	ns3.digitalocean.com.
 ubukungu.rw.		86400	IN	NS	ns1179.websitewelcome.com.
 ubukungu.rw.		86400	IN	NS	ns1180.websitewelcome.com.
-ubukwe.rw.		86400	IN	NS	dns1.ebd.rw.
-ubukwe.rw.		86400	IN	NS	dns2.ebd.rw.
-ubukwe.rw.		86400	IN	NS	dns3.ebd.rw.
-ubukwe.rw.		86400	IN	NS	dns4.ebd.rw.
+ubukwe.rw.		86400	IN	NS	ns1.ebdhosting.com.
+ubukwe.rw.		86400	IN	NS	ns2.ebdhosting.com.
+ubukwe.rw.		86400	IN	NS	ns3.ebdhosting.com.
+ubukwe.rw.		86400	IN	NS	ns4.ebdhosting.com.
 ubumuntu.rw.		86400	IN	NS	tadeo.ns.cloudflare.com.
 ubumuntu.rw.		86400	IN	NS	savanna.ns.cloudflare.com.
 ubumuntuclinic.rw.	86400	IN	NS	ns3.afriregister.com.
@@ -14249,4 +14257,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011116 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011119 86400 7200 604800 1800
