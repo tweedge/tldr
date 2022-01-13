@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011313 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1642078819"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011316 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1642089615"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -559,8 +559,9 @@ alexstewartinternationalltd.rw.	1800 IN	NS	dns1.namecheaphosting.com.
 alexstewartinternationalltd.rw.	1800 IN	NS	dns2.namecheaphosting.com.
 alfacables.rw.		1800	IN	NS	dns.tanzaniawebhosting.com.
 alfacables.rw.		1800	IN	NS	dns2.tanzaniawebhosting.com.
-algorithm.rw.		1800	IN	NS	ns4.aos.rw.
-algorithm.rw.		1800	IN	NS	ns5.aos.rw.
+algorithm.rw.		1800	IN	NS	ns1.digitalocean.com.
+algorithm.rw.		1800	IN	NS	ns2.digitalocean.com.
+algorithm.rw.		1800	IN	NS	ns3.digitalocean.com.
 algotechgroup.rw.	1800	IN	NS	ns1.ebdhosting.com.
 algotechgroup.rw.	1800	IN	NS	ns2.ebdhosting.com.
 algotechgroup.rw.	1800	IN	NS	ns3.ebdhosting.com.
@@ -5318,6 +5319,8 @@ hapamediacenter.rw.	86400	IN	NS	ns2.bluehost.com.
 happyhearts.rw.		86400	IN	NS	ns1.digitalocean.com.
 happyhearts.rw.		86400	IN	NS	ns2.digitalocean.com.
 happyhearts.rw.		86400	IN	NS	ns3.digitalocean.com.
+happylight.rw.		86400	IN	NS	ns1.siteground.net.
+happylight.rw.		86400	IN	NS	ns2.siteground.net.
 happynesleatherbags.rw.	86400	IN	NS	ns1.ebdhosting.com.
 happynesleatherbags.rw.	86400	IN	NS	ns2.ebdhosting.com.
 happynesleatherbags.rw.	86400	IN	NS	ns3.ebdhosting.com.
@@ -5827,6 +5830,11 @@ icare.rw.		86400	IN	NS	ns1.kitech.rw.
 icare.rw.		86400	IN	NS	ns2.kitech.rw.
 icb.rw.			86400	IN	NS	dns1.namecheaphosting.com.
 icb.rw.			86400	IN	NS	dns2.namecheaphosting.com.
+icckigali.rw.		86400	IN	NS	ns1.he.net.
+icckigali.rw.		86400	IN	NS	ns2.he.net.
+icckigali.rw.		86400	IN	NS	ns3.he.net.
+icckigali.rw.		86400	IN	NS	ns4.he.net.
+icckigali.rw.		86400	IN	NS	ns5.he.net.
 icecap.rw.		86400	IN	NS	ns1.jambonex.net.
 icecap.rw.		86400	IN	NS	ns2.jambonex.net.
 iclf.rw.		86400	IN	NS	ns65.domaincontrol.com.
@@ -10577,10 +10585,8 @@ radiomaria.rw.		86400	IN	NS	ns1.instradns.com.
 radiomaria.rw.		86400	IN	NS	ns2.instradns.com.
 radiomariakibeho.rw.	86400	IN	NS	ns1.instradns.com.
 radiomariakibeho.rw.	86400	IN	NS	ns2.instradns.com.
-radiotv10.rw.		86400	IN	NS	ns1.stackdns.com.
-radiotv10.rw.		86400	IN	NS	ns2.stackdns.com.
-radiotv10.rw.		86400	IN	NS	ns3.stackdns.com.
-radiotv10.rw.		86400	IN	NS	ns4.stackdns.com.
+radiotv10.rw.		86400	IN	NS	ns1.megabithosting.com.
+radiotv10.rw.		86400	IN	NS	ns2.megabithosting.com.
 radisson.rw.		86400	IN	NS	ns1.markmonitor.com.
 radissonblu.rw.		86400	IN	NS	ns.rezidor.com.
 radissonhotels.rw.	86400	IN	NS	ns1.markmonitor.com.
@@ -12446,8 +12452,8 @@ sweetcakes.rw.		86400	IN	NS	ns4.ebdhosting.com.
 swift.rw.		86400	IN	NS	ns3.afriregister.com.
 swift.rw.		86400	IN	NS	ns5.afriregister.com.
 swift.rw.		86400	IN	NS	ns6.afriregister.com.
-switage.rw.		86400	IN	NS	ns1.webhosting.co.rw.
-switage.rw.		86400	IN	NS	ns2.webhosting.co.rw.
+switage.rw.		86400	IN	NS	ns541.webhosting.co.rw.
+switage.rw.		86400	IN	NS	ns542.webhosting.co.rw.
 switch.rw.		86400	IN	NS	ns3.afriregister.com.
 switch.rw.		86400	IN	NS	ns5.afriregister.com.
 switch.rw.		86400	IN	NS	ns6.afriregister.com.
@@ -14261,4 +14267,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011313 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011316 86400 7200 604800 1800
