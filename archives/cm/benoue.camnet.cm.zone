@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022011320 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022011516 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1642100423"
+cm.			86400	IN	TXT	"Generation Time: 1642258816"
 0.cm.			86400	IN	NS	ns1.dnspanel.com.
 0.cm.			86400	IN	NS	ns2.dnspanel.com.
 0-1.cm.			86400	IN	NS	ns1.ndns.cn.
@@ -12829,8 +12829,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 91b.cm.			86400	IN	NS	delilah.ns.cloudflare.com.
 91f.cm.			86400	IN	NS	donna.ns.cloudflare.com.
 91f.cm.			86400	IN	NS	ignacio.ns.cloudflare.com.
-91j.cm.			86400	IN	NS	andrea.dnspod.net.
-91j.cm.			86400	IN	NS	hayden.dnspod.net.
 91jf.cm.		86400	IN	NS	ns1.bodis.com.
 91jf.cm.		86400	IN	NS	ns2.bodis.com.
 91k.cm.			86400	IN	NS	cartman.ns.cloudflare.com.
@@ -14083,6 +14081,8 @@ abbability.cm.		86400	IN	NS	nse2.abb.com.
 abbability.cm.		86400	IN	NS	nse3.abb.com.
 abbasimmob.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 abbasimmob.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
+abbatrade.cm.		86400	IN	NS	ns1.camoogroup.com.
+abbatrade.cm.		86400	IN	NS	ns2.camoogroup.com.
 abbott.cm.		86400	IN	NS	581.ns1.above.com.
 abbott.cm.		86400	IN	NS	581.ns2.above.com.
 abbv.cm.		86400	IN	NS	ns1.squadhelp.com.
@@ -15286,8 +15286,6 @@ age.cm.			86400	IN	NS	ns1.parkingcrew.net.
 age.cm.			86400	IN	NS	ns2.parkingcrew.net.
 agedporntube.cm.	86400	IN	NS	ns3.above.com.
 agedporntube.cm.	86400	IN	NS	ns4.above.com.
-ageing.cm.		86400	IN	NS	ns1.squadhelp.com.
-ageing.cm.		86400	IN	NS	ns2.squadhelp.com.
 agelessid.cm.		86400	IN	NS	ns1.jnj.com.
 agelessid.cm.		86400	IN	NS	ns3.jnj.com.
 agelessid.cm.		86400	IN	NS	ns5.jnj.com.
@@ -15316,8 +15314,6 @@ agility.cm.		86400	IN	NS	ns1.bodis.com.
 agility.cm.		86400	IN	NS	ns2.bodis.com.
 agilixbuzz.cm.		86400	IN	NS	ns1.bodis.com.
 agilixbuzz.cm.		86400	IN	NS	ns2.bodis.com.
-aging.cm.		86400	IN	NS	ian.ns.cloudflare.com.
-aging.cm.		86400	IN	NS	miki.ns.cloudflare.com.
 agip.cm.		86400	IN	NS	ns1.tagidomains.com.
 agip.cm.		86400	IN	NS	ns2.tagidomains.com.
 agirensemble.cm.	86400	IN	NS	ns1.dnspanel.com.
@@ -15867,8 +15863,6 @@ algo.cm.		86400	IN	NS	ns1.squadhelp.com.
 algo.cm.		86400	IN	NS	ns2.squadhelp.com.
 algolia.cm.		86400	IN	NS	ns1.bodis.com.
 algolia.cm.		86400	IN	NS	ns2.bodis.com.
-algorithm.cm.		86400	IN	NS	ns1.squadhelp.com.
-algorithm.cm.		86400	IN	NS	ns2.squadhelp.com.
 algorithme.cm.		86400	IN	NS	nsa.planethoster.net.
 algorithme.cm.		86400	IN	NS	nsb.planethoster.net.
 algorithme.cm.		86400	IN	NS	nsc.planethoster.net.
@@ -17168,6 +17162,9 @@ ann.cm.			86400	IN	NS	dns1.cscdns.net.
 ann.cm.			86400	IN	NS	dns2.cscdns.net.
 anna.cm.		86400	IN	NS	ns16.ovh.net.
 anna.cm.		86400	IN	NS	dns16.ovh.net.
+annaka.cm.		86400	IN	NS	ns-85-c.gandi.net.
+annaka.cm.		86400	IN	NS	ns-88-a.gandi.net.
+annaka.cm.		86400	IN	NS	ns-182-b.gandi.net.
 annexwealth.cm.		86400	IN	NS	ns1.above.com.
 annexwealth.cm.		86400	IN	NS	ns2.above.com.
 annibalegiannarelli.cm.	86400	IN	NS	170.ns1.above.com.
@@ -18181,8 +18178,6 @@ assics.cm.		86400	IN	NS	170.ns1.above.com.
 assics.cm.		86400	IN	NS	170.ns2.above.com.
 assim.cm.		86400	IN	NS	ns1.parkingcrew.net.
 assim.cm.		86400	IN	NS	ns2.parkingcrew.net.
-assistance.cm.		86400	IN	NS	ns1.squadhelp.com.
-assistance.cm.		86400	IN	NS	ns2.squadhelp.com.
 assistme.cm.		86400	IN	NS	dns1.creolink.com.
 assistme.cm.		86400	IN	NS	dns2.creolink.com.
 assnat.cm.		86400	IN	NS	ns-66-b.gandi.net.
@@ -18686,8 +18681,6 @@ autonews.cm.		86400	IN	NS	581.ns1.above.com.
 autonews.cm.		86400	IN	NS	581.ns2.above.com.
 autoparts.cm.		86400	IN	NS	ns3.above.com.
 autoparts.cm.		86400	IN	NS	ns4.above.com.
-autopilot.cm.		86400	IN	NS	ns1.squadhelp.com.
-autopilot.cm.		86400	IN	NS	ns2.squadhelp.com.
 autoportal.cm.		86400	IN	NS	ns1.parkingcrew.net.
 autoportal.cm.		86400	IN	NS	ns2.parkingcrew.net.
 autoroutemag.cm.	86400	IN	NS	nsa.n0c.com.
@@ -21863,9 +21856,6 @@ blbrd.cm.		86400	IN	NS	elma.ns.cloudflare.com.
 blbrd.cm.		86400	IN	NS	rajeev.ns.cloudflare.com.
 blckchain.cm.		86400	IN	NS	ns17.above.com.
 blckchain.cm.		86400	IN	NS	ns18.above.com.
-blcokchain.cm.		86400	IN	NS	ns1165.hexonet.net.
-blcokchain.cm.		86400	IN	NS	ns2202.hexonet.net.
-blcokchain.cm.		86400	IN	NS	ns3183.hexonet.net.
 bldrs.cm.		86400	IN	NS	ns1.above.com.
 bldrs.cm.		86400	IN	NS	ns2.above.com.
 ble.cm.			86400	IN	NS	ns1.ecpage.com.
@@ -23095,8 +23085,6 @@ breakkers-tech.cm.	86400	IN	NS	ns1.mtnbusiness.cm.
 breakkers-tech.cm.	86400	IN	NS	ns2.mtnbusiness.cm.
 breakoutedu.cm.		86400	IN	NS	ns1.smartname.com.
 breakoutedu.cm.		86400	IN	NS	ns2.smartname.com.
-breast.cm.		86400	IN	NS	ns1.squadhelp.com.
-breast.cm.		86400	IN	NS	ns2.squadhelp.com.
 breathlessresorts.cm.	86400	IN	NS	ns1.bodis.com.
 breathlessresorts.cm.	86400	IN	NS	ns2.bodis.com.
 breederscup.cm.		86400	IN	NS	ns1.netnames.net.
@@ -24806,16 +24794,12 @@ canaveral.cm.		86400	IN	NS	ns-124-b.gandi.net.
 cancer.cm.		86400	IN	NS	ns1.jnj.com.
 cancer.cm.		86400	IN	NS	ns3.jnj.com.
 cancer.cm.		86400	IN	NS	ns5.jnj.com.
-cancernews.cm.		86400	IN	NS	ns1.squadhelp.com.
-cancernews.cm.		86400	IN	NS	ns2.squadhelp.com.
 candystand.cm.		86400	IN	NS	ns1.parkingcrew.net.
 candystand.cm.		86400	IN	NS	ns2.parkingcrew.net.
 candywarehouse.cm.	86400	IN	NS	ns1.bodis.com.
 candywarehouse.cm.	86400	IN	NS	ns2.bodis.com.
 canghai.cm.		86400	IN	NS	moura.ns.cloudflare.com.
 canghai.cm.		86400	IN	NS	aitana.ns.cloudflare.com.
-cannabinoids.cm.	86400	IN	NS	ian.ns.cloudflare.com.
-cannabinoids.cm.	86400	IN	NS	miki.ns.cloudflare.com.
 cannabis.cm.		86400	IN	NS	ns1.parkingcrew.net.
 cannabis.cm.		86400	IN	NS	ns2.parkingcrew.net.
 canneslions.cm.		86400	IN	NS	ns1.bodis.com.
@@ -25102,6 +25086,8 @@ cardrockcafe.cm.	86400	IN	NS	ns101.cloudns.net.
 cardrockcafe.cm.	86400	IN	NS	ns102.cloudns.net.
 cardrockcafe.cm.	86400	IN	NS	ns103.cloudns.net.
 cardrockcafe.cm.	86400	IN	NS	ns104.cloudns.net.
+cards.cm.		86400	IN	NS	ns17.above.com.
+cards.cm.		86400	IN	NS	ns18.above.com.
 cardtronics.cm.		86400	IN	NS	ns1.bodis.com.
 cardtronics.cm.		86400	IN	NS	ns2.bodis.com.
 care.cm.		86400	IN	NS	buy.internettraffic.com.
@@ -25822,6 +25808,8 @@ ce.cm.			86400	IN	NS	ns1.4.cn.
 ce.cm.			86400	IN	NS	ns2.4.cn.
 ceair.cm.		86400	IN	NS	ns1.above.com.
 ceair.cm.		86400	IN	NS	ns2.above.com.
+ceam.cm.		86400	IN	NS	ns1.camoogroup.com.
+ceam.cm.		86400	IN	NS	ns2.camoogroup.com.
 ceardi-asilra.cm.	86400	IN	NS	ns1.ccntechnologies.us.
 ceardi-asilra.cm.	86400	IN	NS	ns2.ccntechnologies.us.
 ceb.cm.			86400	IN	NS	ns17.above.com.
@@ -26325,8 +26313,6 @@ chatango.cm.		86400	IN	NS	ns1.bodis.com.
 chatango.cm.		86400	IN	NS	ns2.bodis.com.
 chatblink.cm.		86400	IN	NS	ns1.smartname.com.
 chatblink.cm.		86400	IN	NS	ns2.smartname.com.
-chatbots.cm.		86400	IN	NS	ns1.squadhelp.com.
-chatbots.cm.		86400	IN	NS	ns2.squadhelp.com.
 chaterbate.cm.		86400	IN	NS	ns1.parkingcrew.net.
 chaterbate.cm.		86400	IN	NS	ns2.parkingcrew.net.
 chathub.cm.		86400	IN	NS	ns17.above.com.
@@ -26711,8 +26697,6 @@ chromecast.cm.		86400	IN	NS	ns1.googledomains.com.
 chromecast.cm.		86400	IN	NS	ns2.googledomains.com.
 chromecast.cm.		86400	IN	NS	ns3.googledomains.com.
 chromecast.cm.		86400	IN	NS	ns4.googledomains.com.
-chromosome.cm.		86400	IN	NS	ns1.squadhelp.com.
-chromosome.cm.		86400	IN	NS	ns2.squadhelp.com.
 chron.cm.		86400	IN	NS	ns1.parkingcrew.net.
 chron.cm.		86400	IN	NS	ns2.parkingcrew.net.
 chronic.cm.		86400	IN	NS	ns1.squadhelp.com.
@@ -27333,8 +27317,6 @@ climatepledge.cm.	86400	IN	NS	nssui.comlaude.ch.
 climatepledge.cm.	86400	IN	NS	nsusa.comlaude.net.
 clinic.cm.		86400	IN	NS	ns1.squadhelp.com.
 clinic.cm.		86400	IN	NS	ns2.squadhelp.com.
-clinics.cm.		86400	IN	NS	ns1.squadhelp.com.
-clinics.cm.		86400	IN	NS	ns2.squadhelp.com.
 clinique.cm.		86400	IN	NS	759.ns1.above.com.
 clinique.cm.		86400	IN	NS	759.ns2.above.com.
 cliniquedelesperance.cm. 86400	IN	NS	kim.camnet.cm.
@@ -27918,8 +27900,6 @@ cofod.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 cofod.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 cog.cm.			86400	IN	NS	ns17.above.com.
 cog.cm.			86400	IN	NS	ns18.above.com.
-cognitive.cm.		86400	IN	NS	ns1.squadhelp.com.
-cognitive.cm.		86400	IN	NS	ns2.squadhelp.com.
 cognizant.cm.		86400	IN	NS	ns1.bodis.com.
 cognizant.cm.		86400	IN	NS	ns2.bodis.com.
 coi.cm.			86400	IN	NS	ns1.parkingcrew.net.
@@ -28444,8 +28424,6 @@ concur.cm.		86400	IN	NS	269.ns1.above.com.
 concur.cm.		86400	IN	NS	269.ns2.above.com.
 concursolutions.cm.	86400	IN	NS	ns1.bodis.com.
 concursolutions.cm.	86400	IN	NS	ns2.bodis.com.
-conditions.cm.		86400	IN	NS	ns1.squadhelp.com.
-conditions.cm.		86400	IN	NS	ns2.squadhelp.com.
 conduent.cm.		86400	IN	NS	ns1.smartname.com.
 conduent.cm.		86400	IN	NS	ns2.smartname.com.
 coned.cm.		86400	IN	NS	ns1.smartname.com.
@@ -28938,8 +28916,6 @@ couchtuner.cm.		86400	IN	NS	ns17.above.com.
 couchtuner.cm.		86400	IN	NS	ns18.above.com.
 counsol.cm.		86400	IN	NS	ns1.bodis.com.
 counsol.cm.		86400	IN	NS	ns2.bodis.com.
-countries.cm.		86400	IN	NS	ns1.squadhelp.com.
-countries.cm.		86400	IN	NS	ns2.squadhelp.com.
 country.cm.		86400	IN	NS	ns1.parkingcrew.net.
 country.cm.		86400	IN	NS	ns2.parkingcrew.net.
 country-foods.cm.	86400	IN	NS	ns1.o2switch.net.
@@ -29088,6 +29064,10 @@ covidien.cm.		86400	IN	NS	ns4.markmonitor.com.
 covidien.cm.		86400	IN	NS	ns5.markmonitor.com.
 covidien.cm.		86400	IN	NS	ns6.markmonitor.com.
 covidien.cm.		86400	IN	NS	ns7.markmonitor.com.
+covidtest.cm.		86400	IN	NS	ns1.mytrafficmanagement.com.
+covidtest.cm.		86400	IN	NS	ns2.mytrafficmanagement.com.
+covidtests.cm.		86400	IN	NS	ns1.mytrafficmanagement.com.
+covidtests.cm.		86400	IN	NS	ns2.mytrafficmanagement.com.
 covidtracker.cm.	86400	IN	NS	hybrid2473.fr.ns.planethoster.net.
 covidtracker.cm.	86400	IN	NS	hybrid2473-1.fr.ns.planethoster.net.
 covidvaxexposed.cm.	86400	IN	NS	ns1.mytrafficmanagement.com.
@@ -29893,8 +29873,6 @@ curbed.cm.		86400	IN	NS	ns2.bodis.com.
 curel.cm.		86400	IN	NS	dns1.idp365.net.
 curel.cm.		86400	IN	NS	dns2.idp365.net.
 curel.cm.		86400	IN	NS	dns3.idp365.net.
-curency.cm.		86400	IN	NS	ns1.squadhelp.com.
-curency.cm.		86400	IN	NS	ns2.squadhelp.com.
 curewards.cm.		86400	IN	NS	ns1.bodis.com.
 curewards.cm.		86400	IN	NS	ns2.bodis.com.
 curiosity.cm.		86400	IN	NS	auth01.ns.discovery.com.
@@ -30140,8 +30118,6 @@ dabex.cm.		86400	IN	NS	ns1.dns-parking.com.
 dabex.cm.		86400	IN	NS	ns2.dns-parking.com.
 dabise.cm.		86400	IN	NS	andrea.dnspod.net.
 dabise.cm.		86400	IN	NS	hayden.dnspod.net.
-dabs.cm.		86400	IN	NS	ns1.squadhelp.com.
-dabs.cm.		86400	IN	NS	ns2.squadhelp.com.
 dabur.cm.		86400	IN	NS	ns1.parkingcrew.net.
 dabur.cm.		86400	IN	NS	ns2.parkingcrew.net.
 dacast.cm.		86400	IN	NS	ns1.smartname.com.
@@ -30351,8 +30327,6 @@ danisco.cm.		86400	IN	NS	dns2.cscdns.net.
 danixt.cm.		86400	IN	NS	ns-42-b.gandi.net.
 danixt.cm.		86400	IN	NS	ns-200-a.gandi.net.
 danixt.cm.		86400	IN	NS	ns-200-c.gandi.net.
-dank.cm.		86400	IN	NS	ns1.squadhelp.com.
-dank.cm.		86400	IN	NS	ns2.squadhelp.com.
 danke.cm.		86400	IN	NS	ns15.ovh.net.
 danke.cm.		86400	IN	NS	dns15.ovh.net.
 danmurphy.cm.		86400	IN	NS	ns0.telstra.net.
@@ -30817,8 +30791,6 @@ deeper.cm.		86400	IN	NS	ns17.above.com.
 deeper.cm.		86400	IN	NS	ns18.above.com.
 deepl.cm.		86400	IN	NS	269.ns1.above.com.
 deepl.cm.		86400	IN	NS	269.ns2.above.com.
-deeplearning.cm.	86400	IN	NS	ns1.squadhelp.com.
-deeplearning.cm.	86400	IN	NS	ns2.squadhelp.com.
 deepmind.cm.		86400	IN	NS	ns1.google.com.
 deepmind.cm.		86400	IN	NS	ns2.google.com.
 deepmind.cm.		86400	IN	NS	ns3.google.com.
@@ -31762,8 +31734,6 @@ dirxhealth.cm.		86400	IN	NS	ns1.parkingcrew.net.
 dirxhealth.cm.		86400	IN	NS	ns2.parkingcrew.net.
 dis.cm.			86400	IN	NS	ns1.squadhelp.com.
 dis.cm.			86400	IN	NS	ns2.squadhelp.com.
-disability.cm.		86400	IN	NS	ns1.squadhelp.com.
-disability.cm.		86400	IN	NS	ns2.squadhelp.com.
 disciplemedia.cm.	86400	IN	NS	ns1.smartname.com.
 disciplemedia.cm.	86400	IN	NS	ns2.smartname.com.
 discogs.cm.		86400	IN	NS	ns1.bodis.com.
@@ -32891,8 +32861,6 @@ drivemedical.cm.	86400	IN	NS	ns1.bodis.com.
 drivemedical.cm.	86400	IN	NS	ns2.bodis.com.
 driven.cm.		86400	IN	NS	dns1.registrar-servers.com.
 driven.cm.		86400	IN	NS	dns2.registrar-servers.com.
-driver.cm.		86400	IN	NS	ns1.squadhelp.com.
-driver.cm.		86400	IN	NS	ns2.squadhelp.com.
 driverapponline.cm.	86400	IN	NS	ns1.smartname.com.
 driverapponline.cm.	86400	IN	NS	ns2.smartname.com.
 drivers.cm.		86400	IN	NS	ns1cnb.name.com.
@@ -33074,6 +33042,9 @@ dubizzle.cm.		86400	IN	NS	ns1.bodis.com.
 dubizzle.cm.		86400	IN	NS	ns2.bodis.com.
 dubli.cm.		86400	IN	NS	dns1.onamae.com.
 dubli.cm.		86400	IN	NS	dns2.onamae.com.
+dublikat.cm.		86400	IN	NS	ns1186.ispapi.net.
+dublikat.cm.		86400	IN	NS	ns2171.ispapi.net.
+dublikat.cm.		86400	IN	NS	ns3196.ispapi.net.
 dubo.cm.		86400	IN	NS	dns1.name-services.com.
 dubo.cm.		86400	IN	NS	dns2.name-services.com.
 dubo.cm.		86400	IN	NS	dns3.name-services.com.
@@ -33934,8 +33905,6 @@ edi.cm.			86400	IN	NS	ns17.above.com.
 edi.cm.			86400	IN	NS	ns18.above.com.
 ediblearrangements.cm.	86400	IN	NS	581.ns1.above.com.
 ediblearrangements.cm.	86400	IN	NS	581.ns2.above.com.
-edibles.cm.		86400	IN	NS	ian.ns.cloudflare.com.
-edibles.cm.		86400	IN	NS	miki.ns.cloudflare.com.
 edijucam.cm.		86400	IN	NS	dns1400a.trouble-free.net.
 edijucam.cm.		86400	IN	NS	dns1400b.trouble-free.net.
 edinarealty.cm.		86400	IN	NS	ns1.bodis.com.
@@ -34256,6 +34225,8 @@ einforma.cm.		86400	IN	NS	ns1.bodis.com.
 einforma.cm.		86400	IN	NS	ns2.bodis.com.
 einstieg.cm.		86400	IN	NS	ns1.bodis.com.
 einstieg.cm.		86400	IN	NS	ns2.bodis.com.
+eip.cm.			86400	IN	NS	ns17.above.com.
+eip.cm.			86400	IN	NS	ns18.above.com.
 eipcard.cm.		86400	IN	NS	ns1.parkingcrew.net.
 eipcard.cm.		86400	IN	NS	ns2.parkingcrew.net.
 eitel.cm.		86400	IN	NS	ns1.o2switch.net.
@@ -34797,8 +34768,6 @@ endoftheamericandream.cm. 86400	IN	NS	ns1.bodis.com.
 endoftheamericandream.cm. 86400	IN	NS	ns2.bodis.com.
 endoh-endoh.cm.		86400	IN	NS	ns1.ccntechnologies.com.
 endoh-endoh.cm.		86400	IN	NS	ns2.ccntechnologies.com.
-endometrial.cm.		86400	IN	NS	ns1.squadhelp.com.
-endometrial.cm.		86400	IN	NS	ns2.squadhelp.com.
 endopath.cm.		86400	IN	NS	ns1.jnj.com.
 endopath.cm.		86400	IN	NS	ns3.jnj.com.
 endopath.cm.		86400	IN	NS	ns5.jnj.com.
@@ -35160,8 +35129,6 @@ epicurious.cm.		86400	IN	NS	ns1.bodis.com.
 epicurious.cm.		86400	IN	NS	ns2.bodis.com.
 epidemath.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 epidemath.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
-epigenetic.cm.		86400	IN	NS	ns1.squadhelp.com.
-epigenetic.cm.		86400	IN	NS	ns2.squadhelp.com.
 epimexam.cm.		86400	IN	NS	ns1.camoogroup.com.
 epimexam.cm.		86400	IN	NS	ns2.camoogroup.com.
 epinions.cm.		86400	IN	NS	ns1.markmonitor.com.
@@ -36114,8 +36081,6 @@ exo.cm.			86400	IN	NS	ns1.mtnbusiness.cm.
 exo.cm.			86400	IN	NS	ns2.mtnbusiness.cm.
 exodus.cm.		86400	IN	NS	ns3.above.com.
 exodus.cm.		86400	IN	NS	ns4.above.com.
-exome.cm.		86400	IN	NS	ns1.squadhelp.com.
-exome.cm.		86400	IN	NS	ns2.squadhelp.com.
 exon.cm.		86400	IN	NS	ns1.squadhelp.com.
 exon.cm.		86400	IN	NS	ns2.squadhelp.com.
 exostar.cm.		86400	IN	NS	ns1.smartname.com.
@@ -39599,8 +39564,6 @@ gang.cm.		86400	IN	NS	ns3.dnsv2.com.
 gang.cm.		86400	IN	NS	ns4.dnsv2.com.
 gangcai.cm.		86400	IN	NS	song.dnspod.net.
 gangcai.cm.		86400	IN	NS	tape.dnspod.net.
-ganja.cm.		86400	IN	NS	ns1.squadhelp.com.
-ganja.cm.		86400	IN	NS	ns2.squadhelp.com.
 ganji.cm.		86400	IN	NS	ns1.parkingcrew.net.
 ganji.cm.		86400	IN	NS	ns2.parkingcrew.net.
 gaokao.cm.		86400	IN	NS	ray.ns.cloudflare.com.
@@ -39952,8 +39915,6 @@ genmills.cm.		86400	IN	NS	mgoextdns1.genmills.com.
 genmills.cm.		86400	IN	NS	mgoextdns2.genmills.com.
 genndi.cm.		86400	IN	NS	ns1.smartname.com.
 genndi.cm.		86400	IN	NS	ns2.smartname.com.
-genotyping.cm.		86400	IN	NS	ns1.squadhelp.com.
-genotyping.cm.		86400	IN	NS	ns2.squadhelp.com.
 genpact.cm.		86400	IN	NS	dns1.cscdns.net.
 genpact.cm.		86400	IN	NS	dns2.cscdns.net.
 gentexcorp.cm.		86400	IN	NS	ns1.bodis.com.
@@ -40024,8 +39985,6 @@ gerbergear.cm.		86400	IN	NS	ns1.bodis.com.
 gerbergear.cm.		86400	IN	NS	ns2.bodis.com.
 gerberlife.cm.		86400	IN	NS	759.ns1.above.com.
 gerberlife.cm.		86400	IN	NS	759.ns2.above.com.
-geriatrics.cm.		86400	IN	NS	ns1.squadhelp.com.
-geriatrics.cm.		86400	IN	NS	ns2.squadhelp.com.
 german.cm.		86400	IN	NS	ns17.above.com.
 german.cm.		86400	IN	NS	ns18.above.com.
 germaniainsurance.cm.	86400	IN	NS	ns1.above.com.
@@ -40133,8 +40092,6 @@ getstyles.cm.		86400	IN	NS	a1-139.akam.net.
 getstyles.cm.		86400	IN	NS	a11-66.akam.net.
 getstyles.cm.		86400	IN	NS	a12-67.akam.net.
 getstyles.cm.		86400	IN	NS	a28-64.akam.net.
-gett.cm.		86400	IN	NS	759.ns1.above.com.
-gett.cm.		86400	IN	NS	759.ns2.above.com.
 gettaicheng.cm.		86400	IN	NS	pdns1.ultradns.net.
 gettaicheng.cm.		86400	IN	NS	pdns2.ultradns.net.
 gettaicheng.cm.		86400	IN	NS	pdns3.ultradns.org.
@@ -42415,8 +42372,6 @@ haosou.cm.		86400	IN	NS	ns1.bodis.com.
 haosou.cm.		86400	IN	NS	ns2.bodis.com.
 haowin.cm.		86400	IN	NS	joyce.dnspod.net.
 haowin.cm.		86400	IN	NS	cardboard.dnspod.net.
-haploid.cm.		86400	IN	NS	ns1.squadhelp.com.
-haploid.cm.		86400	IN	NS	ns2.squadhelp.com.
 happy.cm.		86400	IN	NS	ns1.4.cn.
 happy.cm.		86400	IN	NS	ns2.4.cn.
 happyfoodies.cm.	86400	IN	NS	ns1.v1032134.hostpapavps.net.
@@ -42789,8 +42744,6 @@ healthmtips.cm.		86400	IN	NS	ns1.above.com.
 healthmtips.cm.		86400	IN	NS	ns2.above.com.
 healthnet.cm.		86400	IN	NS	ns1.ii51.parklogic.com.
 healthnet.cm.		86400	IN	NS	ns2.ii51.parklogic.com.
-healthnews.cm.		86400	IN	NS	ns1.squadhelp.com.
-healthnews.cm.		86400	IN	NS	ns2.squadhelp.com.
 healthpartners.cm.	86400	IN	NS	ns1.smartname.com.
 healthpartners.cm.	86400	IN	NS	ns2.smartname.com.
 healthpartnersunitypointhealth.cm. 86400 IN NS	dns1.registrar-servers.com.
@@ -42914,8 +42867,6 @@ helium3game.cm.		86400	IN	NS	ns1.netnames.net.
 helium3game.cm.		86400	IN	NS	ns2.netnames.net.
 helium3game.cm.		86400	IN	NS	ns5.netnames.net.
 helium3game.cm.		86400	IN	NS	ns6.netnames.net.
-helix.cm.		86400	IN	NS	ns1.squadhelp.com.
-helix.cm.		86400	IN	NS	ns2.squadhelp.com.
 helixsleep.cm.		86400	IN	NS	ns1.smartname.com.
 helixsleep.cm.		86400	IN	NS	ns2.smartname.com.
 hell.cm.		86400	IN	NS	clyde.ns.cloudflare.com.
@@ -43040,8 +42991,6 @@ hentaistream.cm.	86400	IN	NS	ns2.sedoparking.com.
 hentges.cm.		86400	IN	NS	ns-145-a.gandi.net.
 hentges.cm.		86400	IN	NS	ns-182-b.gandi.net.
 hentges.cm.		86400	IN	NS	ns-210-c.gandi.net.
-hepatic.cm.		86400	IN	NS	ns1.squadhelp.com.
-hepatic.cm.		86400	IN	NS	ns2.squadhelp.com.
 hepsiburada.cm.		86400	IN	NS	ns1.bodis.com.
 hepsiburada.cm.		86400	IN	NS	ns2.bodis.com.
 herb.cm.		86400	IN	NS	ns1.parkingcrew.net.
@@ -43956,8 +43905,6 @@ hmmove.cm.		86400	IN	NS	nssui.comlaude.ch.
 hmmove.cm.		86400	IN	NS	nsusa.comlaude.net.
 hmn.cm.			86400	IN	NS	ns17.above.com.
 hmn.cm.			86400	IN	NS	ns18.above.com.
-hmo.cm.			86400	IN	NS	ns1.squadhelp.com.
-hmo.cm.			86400	IN	NS	ns2.squadhelp.com.
 hmrewear.cm.		86400	IN	NS	a5-65.akam.net.
 hmrewear.cm.		86400	IN	NS	a8-66.akam.net.
 hmrewear.cm.		86400	IN	NS	a1-139.akam.net.
@@ -44593,8 +44540,6 @@ hotpoint-villa.cm.	86400	IN	NS	ns0.kagoya.net.
 hotpoint-villa.cm.	86400	IN	NS	ns1.kagoya.net.
 hotschedules.cm.	86400	IN	NS	ns1.smartname.com.
 hotschedules.cm.	86400	IN	NS	ns2.smartname.com.
-hotspots.cm.		86400	IN	NS	ns1.squadhelp.com.
-hotspots.cm.		86400	IN	NS	ns2.squadhelp.com.
 hotspringspool.cm.	86400	IN	NS	ns1.bodis.com.
 hotspringspool.cm.	86400	IN	NS	ns2.bodis.com.
 hotstar.cm.		86400	IN	NS	ns1.bodis.com.
@@ -46011,8 +45956,6 @@ imprint.cm.		86400	IN	NS	ns1.parkingcrew.net.
 imprint.cm.		86400	IN	NS	ns2.parkingcrew.net.
 improvenet.cm.		86400	IN	NS	ns1.markmonitor.com.
 improvenet.cm.		86400	IN	NS	ns3.markmonitor.com.
-imputation.cm.		86400	IN	NS	ns1.squadhelp.com.
-imputation.cm.		86400	IN	NS	ns2.squadhelp.com.
 imsg.cm.		86400	IN	NS	tara.ns.cloudflare.com.
 imsg.cm.		86400	IN	NS	gerald.ns.cloudflare.com.
 imsofer.cm.		86400	IN	NS	ns.barbero.de.
@@ -46303,8 +46246,6 @@ ingrammicro.cm.		86400	IN	NS	pdns3.ultradns.org.
 ingrammicro.cm.		86400	IN	NS	pdns4.ultradns.org.
 ingrammicro.cm.		86400	IN	NS	pdns5.ultradns.info.
 ingrammicro.cm.		86400	IN	NS	pdns6.ultradns.co.uk.
-inheritance.cm.		86400	IN	NS	ns1.squadhelp.com.
-inheritance.cm.		86400	IN	NS	ns2.squadhelp.com.
 ini.cm.			86400	IN	NS	ns1.sedoparking.com.
 ini.cm.			86400	IN	NS	ns2.sedoparking.com.
 initiativeq.cm.		86400	IN	NS	ns1.parkingcrew.net.
@@ -46729,8 +46670,6 @@ intralinks.cm.		86400	IN	NS	ns1.smartname.com.
 intralinks.cm.		86400	IN	NS	ns2.smartname.com.
 intranet.cm.		86400	IN	NS	ns17.above.com.
 intranet.cm.		86400	IN	NS	ns18.above.com.
-intron.cm.		86400	IN	NS	ns1.squadhelp.com.
-intron.cm.		86400	IN	NS	ns2.squadhelp.com.
 intrum.cm.		86400	IN	NS	ns1.rrpproxy.net.
 intrum.cm.		86400	IN	NS	ns2.na.rrpproxy.net.
 intrum.cm.		86400	IN	NS	ns2.rrpproxy.net.
@@ -49408,8 +49347,8 @@ kamitude.cm.		86400	IN	NS	kim.camnet.cm.
 kamitude.cm.		86400	IN	NS	mbam.camnet.cm.
 kammaat.cm.		86400	IN	NS	ns1.camoogroup.com.
 kammaat.cm.		86400	IN	NS	ns2.camoogroup.com.
-kammket.cm.		86400	IN	NS	pdns1.registrar-servers.com.
-kammket.cm.		86400	IN	NS	pdns2.registrar-servers.com.
+kammket.cm.		86400	IN	NS	dns1.namecheaphosting.com.
+kammket.cm.		86400	IN	NS	dns2.namecheaphosting.com.
 kamtok.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 kamtok.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 kan.cm.			86400	IN	NS	ns1.4.cn.
@@ -49922,8 +49861,6 @@ kidbox.cm.		86400	IN	NS	ns1.bodis.com.
 kidbox.cm.		86400	IN	NS	ns2.bodis.com.
 kidkare.cm.		86400	IN	NS	ns1.bodis.com.
 kidkare.cm.		86400	IN	NS	ns2.bodis.com.
-kidney.cm.		86400	IN	NS	ns1.squadhelp.com.
-kidney.cm.		86400	IN	NS	ns2.squadhelp.com.
 kidor.cm.		86400	IN	NS	ns1.camoogroup.com.
 kidor.cm.		86400	IN	NS	ns2.camoogroup.com.
 kids.cm.		86400	IN	NS	ns1191.ispapi.net.
@@ -51355,6 +51292,8 @@ lazy.cm.		86400	IN	NS	ns17.above.com.
 lazy.cm.		86400	IN	NS	ns18.above.com.
 lazyboy.cm.		86400	IN	NS	ns3.above.com.
 lazyboy.cm.		86400	IN	NS	ns4.above.com.
+lazykitty.cm.		86400	IN	NS	dns1.registrar-servers.com.
+lazykitty.cm.		86400	IN	NS	dns2.registrar-servers.com.
 lb.cm.			86400	IN	NS	ns1.linode.com.
 lb.cm.			86400	IN	NS	ns2.linode.com.
 lb.cm.			86400	IN	NS	ns3.linode.com.
@@ -51918,8 +51857,6 @@ letv.cm.		86400	IN	NS	ns3.above.com.
 letv.cm.		86400	IN	NS	ns4.above.com.
 letyourfanout.cm.	86400	IN	NS	ns1.markmonitor.com.
 letyourfanout.cm.	86400	IN	NS	ns3.markmonitor.com.
-leukemia.cm.		86400	IN	NS	ns1.squadhelp.com.
-leukemia.cm.		86400	IN	NS	ns2.squadhelp.com.
 leumiusa.cm.		86400	IN	NS	ns1.above.com.
 leumiusa.cm.		86400	IN	NS	ns2.above.com.
 level3.cm.		86400	IN	NS	ns1.l3.net.
@@ -52179,8 +52116,6 @@ licey.cm.		86400	IN	NS	ns1.above.com.
 licey.cm.		86400	IN	NS	ns2.above.com.
 licium.cm.		86400	IN	NS	ns1.icp100.net.
 licium.cm.		86400	IN	NS	ns2.icp100.net.
-lidar.cm.		86400	IN	NS	ns1.squadhelp.com.
-lidar.cm.		86400	IN	NS	ns2.squadhelp.com.
 lidl.cm.		86400	IN	NS	ns1.eurodns.com.
 lidl.cm.		86400	IN	NS	ns2.eurodns.com.
 lidl.cm.		86400	IN	NS	ns3.eurodns.com.
@@ -53122,6 +53057,9 @@ lookout.cm.		86400	IN	NS	ns3.p15.dynect.net.
 lookout.cm.		86400	IN	NS	ns4.p15.dynect.net.
 looksmart.cm.		86400	IN	NS	ns1.bodis.com.
 looksmart.cm.		86400	IN	NS	ns2.bodis.com.
+looksrare.cm.		86400	IN	NS	a.dnspod.com.
+looksrare.cm.		86400	IN	NS	b.dnspod.com.
+looksrare.cm.		86400	IN	NS	c.dnspod.com.
 lookup.cm.		86400	IN	NS	ns17.above.com.
 lookup.cm.		86400	IN	NS	ns18.above.com.
 loom.cm.		86400	IN	NS	ns17.above.com.
@@ -53491,8 +53429,6 @@ lundbeck.cm.		86400	IN	NS	nssui.comlaude.ch.
 lundbeck.cm.		86400	IN	NS	nsusa.comlaude.net.
 lunettes.cm.		86400	IN	NS	ns7.prosygma-cm.com.
 lunettes.cm.		86400	IN	NS	ns10.prosygma-cm.com.
-lung.cm.		86400	IN	NS	ns1.squadhelp.com.
-lung.cm.		86400	IN	NS	ns2.squadhelp.com.
 lungarnocollection.cm.	86400	IN	NS	ns1.bodis.com.
 lungarnocollection.cm.	86400	IN	NS	ns2.bodis.com.
 luno.cm.		86400	IN	NS	ns1.hastydns.com.
@@ -53633,8 +53569,6 @@ lyft.cm.		86400	IN	NS	ns1.hastydns.com.
 lyft.cm.		86400	IN	NS	ns2.hastydns.com.
 lyg.cm.			86400	IN	NS	ali.ns.cloudflare.com.
 lyg.cm.			86400	IN	NS	greg.ns.cloudflare.com.
-lymphoma.cm.		86400	IN	NS	ns1.squadhelp.com.
-lymphoma.cm.		86400	IN	NS	ns2.squadhelp.com.
 lync.cm.		86400	IN	NS	ns1-07.azure-dns.com.
 lync.cm.		86400	IN	NS	ns2-07.azure-dns.net.
 lync.cm.		86400	IN	NS	ns3-07.azure-dns.org.
@@ -53736,8 +53670,6 @@ ma7room.cm.		86400	IN	NS	ns1.bodis.com.
 ma7room.cm.		86400	IN	NS	ns2.bodis.com.
 maarifschools.cm.	86400	IN	NS	ns1.bluehost.com.
 maarifschools.cm.	86400	IN	NS	ns2.bluehost.com.
-maas.cm.		86400	IN	NS	ns1.squadhelp.com.
-maas.cm.		86400	IN	NS	ns2.squadhelp.com.
 mab.cm.			86400	IN	NS	ns17.above.com.
 mab.cm.			86400	IN	NS	ns18.above.com.
 mabanque.cm.		86400	IN	NS	ns.adac.cm.
@@ -54801,6 +54733,8 @@ mas.cm.			86400	IN	NS	ns17.above.com.
 mas.cm.			86400	IN	NS	ns18.above.com.
 masala.cm.		86400	IN	NS	ns1.bodis.com.
 masala.cm.		86400	IN	NS	ns2.bodis.com.
+masao.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
+masao.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 mashable.cm.		86400	IN	NS	ns1188.ispapi.net.
 mashable.cm.		86400	IN	NS	ns2224.ispapi.net.
 mashable.cm.		86400	IN	NS	ns3211.ispapi.net.
@@ -55619,8 +55553,6 @@ melaleuca.cm.		86400	IN	NS	ns1.ii51.parklogic.com.
 melaleuca.cm.		86400	IN	NS	ns2.ii51.parklogic.com.
 melaniatrump.cm.	86400	IN	NS	ns1.mytrafficmanagement.com.
 melaniatrump.cm.	86400	IN	NS	ns2.mytrafficmanagement.com.
-melanoma.cm.		86400	IN	NS	ns1.squadhelp.com.
-melanoma.cm.		86400	IN	NS	ns2.squadhelp.com.
 melbet.cm.		86400	IN	NS	dana.ns.cloudflare.com.
 melbet.cm.		86400	IN	NS	damon.ns.cloudflare.com.
 melbourneit.cm.		86400	IN	NS	ns1.melbourneit.com.
@@ -56039,14 +55971,14 @@ metaworkplace.cm.	86400	IN	NS	c.ns.facebook.com.
 metaworkplace.cm.	86400	IN	NS	d.ns.facebook.com.
 metaworld.cm.		86400	IN	NS	ns1.sedoparking.com.
 metaworld.cm.		86400	IN	NS	ns2.sedoparking.com.
+metax.cm.		86400	IN	NS	andrea.dnspod.net.
+metax.cm.		86400	IN	NS	hayden.dnspod.net.
 metdental.cm.		86400	IN	NS	759.ns1.above.com.
 metdental.cm.		86400	IN	NS	759.ns2.above.com.
 meteo.cm.		86400	IN	NS	clyde.ns.cloudflare.com.
 meteo.cm.		86400	IN	NS	barbara.ns.cloudflare.com.
 meteomedia.cm.		86400	IN	NS	ns17.above.com.
 meteomedia.cm.		86400	IN	NS	ns18.above.com.
-methylation.cm.		86400	IN	NS	ns1.squadhelp.com.
-methylation.cm.		86400	IN	NS	ns2.squadhelp.com.
 metlife.cm.		86400	IN	NS	ns1.markmonitor.com.
 metlife.cm.		86400	IN	NS	ns2.markmonitor.com.
 metlife.cm.		86400	IN	NS	ns3.markmonitor.com.
@@ -57055,8 +56987,6 @@ mmm.cm.			86400	IN	NS	dns1.registrar-servers.com.
 mmm.cm.			86400	IN	NS	dns2.registrar-servers.com.
 mmmakeasq.cm.		86400	IN	NS	170.ns1.above.com.
 mmmakeasq.cm.		86400	IN	NS	170.ns2.above.com.
-mmmm.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
-mmmm.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 mmo.cm.			86400	IN	NS	ivy.ns.cloudflare.com.
 mmo.cm.			86400	IN	NS	boyd.ns.cloudflare.com.
 mmo-champion.cm.	86400	IN	NS	ns1.bodis.com.
@@ -57713,6 +57643,8 @@ motbinamapress.cm.	86400	IN	NS	ns3.gestiondecuenta.com.
 motbinamapress.cm.	86400	IN	NS	ns4.gestiondecuenta.com.
 mote.cm.		86400	IN	NS	ns3.above.com.
 mote.cm.		86400	IN	NS	ns4.above.com.
+motel6.cm.		86400	IN	NS	ns17.above.com.
+motel6.cm.		86400	IN	NS	ns18.above.com.
 mother.cm.		86400	IN	NS	ns3.above.com.
 mother.cm.		86400	IN	NS	ns4.above.com.
 motherhood.cm.		86400	IN	NS	ns1.bodis.com.
@@ -57877,10 +57809,8 @@ mozambiquelng.cm.	86400	IN	NS	udns1.cscdns.net.
 mozambiquelng.cm.	86400	IN	NS	udns2.cscdns.uk.
 mozgas.cm.		86400	IN	NS	udns1.cscdns.net.
 mozgas.cm.		86400	IN	NS	udns2.cscdns.uk.
-mozilla.cm.		86400	IN	NS	ns1jlp.name.com.
-mozilla.cm.		86400	IN	NS	ns2ckr.name.com.
-mozilla.cm.		86400	IN	NS	ns3hjx.name.com.
-mozilla.cm.		86400	IN	NS	ns4lrt.name.com.
+mozilla.cm.		86400	IN	NS	ns1.bodis.com.
+mozilla.cm.		86400	IN	NS	ns2.bodis.com.
 mozipo.cm.		86400	IN	NS	ns1.serveriai.lt.
 mozipo.cm.		86400	IN	NS	ns2.serveriai.lt.
 mozipo.cm.		86400	IN	NS	ns3.serveriai.lt.
@@ -60047,8 +59977,6 @@ netwrxk.cm.		86400	IN	NS	connie.ns.cloudflare.com.
 netzero.cm.		86400	IN	NS	authns1.untd.com.
 netzero.cm.		86400	IN	NS	authns2.untd.com.
 netzero.cm.		86400	IN	NS	authns3.untd.com.
-neural.cm.		86400	IN	NS	ns1.squadhelp.com.
-neural.cm.		86400	IN	NS	ns2.squadhelp.com.
 neuralink.cm.		86400	IN	NS	ns1.bodis.com.
 neuralink.cm.		86400	IN	NS	ns2.bodis.com.
 neutrogena.cm.		86400	IN	NS	ns1.jnj.com.
@@ -60370,8 +60298,6 @@ ngondo.cm.		86400	IN	NS	ns19.lwsdns.com.
 ngondo.cm.		86400	IN	NS	ns20.lwsdns.com.
 ngoroguima.cm.		86400	IN	NS	kim.camnet.cm.
 ngoroguima.cm.		86400	IN	NS	mbam.camnet.cm.
-ngs.cm.			86400	IN	NS	ns1.squadhelp.com.
-ngs.cm.			86400	IN	NS	ns2.squadhelp.com.
 ngtv.cm.		86400	IN	NS	ns1.cloudcastdns.com.
 ngtv.cm.		86400	IN	NS	ns2.cloudcastdns.com.
 ngwebsolutions.cm.	86400	IN	NS	ns1.smartname.com.
@@ -61288,8 +61214,6 @@ nutrisystem.cm.		86400	IN	NS	dns102.registrar-servers.com.
 nutritherapie.cm.	86400	IN	NS	nsa.n0c.com.
 nutritherapie.cm.	86400	IN	NS	nsb.n0c.com.
 nutritherapie.cm.	86400	IN	NS	nsc.n0c.com.
-nutritional.cm.		86400	IN	NS	ian.ns.cloudflare.com.
-nutritional.cm.		86400	IN	NS	miki.ns.cloudflare.com.
 nutritionix.cm.		86400	IN	NS	ns1.parkingcrew.net.
 nutritionix.cm.		86400	IN	NS	ns2.parkingcrew.net.
 nutrivia.cm.		86400	IN	NS	a.dns.gandi.net.
@@ -61484,8 +61408,6 @@ o8.cm.			86400	IN	NS	ns3.above.com.
 o8.cm.			86400	IN	NS	ns4.above.com.
 oa.cm.			86400	IN	NS	ns1.4.cn.
 oa.cm.			86400	IN	NS	ns2.4.cn.
-oaa.cm.			86400	IN	NS	ns1.squadhelp.com.
-oaa.cm.			86400	IN	NS	ns2.squadhelp.com.
 oaalaw.cm.		86400	IN	NS	dns1.supremedns.com.
 oaalaw.cm.		86400	IN	NS	dns2.supremedns.com.
 oaalaw.cm.		86400	IN	NS	dns3.supremedns.com.
@@ -62054,8 +61976,8 @@ omio.cm.		86400	IN	NS	ns1.bodis.com.
 omio.cm.		86400	IN	NS	ns2.bodis.com.
 omm.cm.			86400	IN	NS	ns17.above.com.
 omm.cm.			86400	IN	NS	ns18.above.com.
-omni.cm.		86400	IN	NS	ns1.squadhelp.com.
-omni.cm.		86400	IN	NS	ns2.squadhelp.com.
+omni.cm.		86400	IN	NS	ian.ns.cloudflare.com.
+omni.cm.		86400	IN	NS	miki.ns.cloudflare.com.
 omnicard.cm.		86400	IN	NS	581.ns1.above.com.
 omnicard.cm.		86400	IN	NS	581.ns2.above.com.
 omnihotels.cm.		86400	IN	NS	ns1.bodis.com.
@@ -62301,10 +62223,8 @@ onlinebetting.cm.	86400	IN	NS	ns1.dan.com.
 onlinebetting.cm.	86400	IN	NS	ns2.dan.com.
 onlinecasino.cm.	86400	IN	NS	ns1.sedoparking.com.
 onlinecasino.cm.	86400	IN	NS	ns2.sedoparking.com.
-onlinecasinos.cm.	86400	IN	NS	ns1jlp.name.com.
-onlinecasinos.cm.	86400	IN	NS	ns2ckr.name.com.
-onlinecasinos.cm.	86400	IN	NS	ns3hjx.name.com.
-onlinecasinos.cm.	86400	IN	NS	ns4lrt.name.com.
+onlinecasinos.cm.	86400	IN	NS	ns1.bodis.com.
+onlinecasinos.cm.	86400	IN	NS	ns2.bodis.com.
 onlinegame.cm.		86400	IN	NS	ns1.webhostingpad.com.
 onlinegame.cm.		86400	IN	NS	ns2.webhostingpad.com.
 onlinegrocery.cm.	86400	IN	NS	ns3.above.com.
@@ -62459,6 +62379,9 @@ openclassrooms.cm.	86400	IN	NS	ns1.parkingcrew.net.
 openclassrooms.cm.	86400	IN	NS	ns2.parkingcrew.net.
 opencs.cm.		86400	IN	NS	dns1.ex2-r7.com.
 opencs.cm.		86400	IN	NS	dns2.ex2-r7.com.
+opendao.cm.		86400	IN	NS	a.dnspod.com.
+opendao.cm.		86400	IN	NS	b.dnspod.com.
+opendao.cm.		86400	IN	NS	c.dnspod.com.
 opendata.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 opendata.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 opendatacam.cm.		86400	IN	NS	ns1.globexcamhost.com.
@@ -63454,8 +63377,6 @@ panbio.cm.		86400	IN	NS	abtnsdmz1.abbott.com.
 panbio.cm.		86400	IN	NS	abtnsdmz2.abbott.com.
 pancec.cm.		86400	IN	NS	kim.camnet.cm.
 pancec.cm.		86400	IN	NS	mbam.camnet.cm.
-pancreatic.cm.		86400	IN	NS	ns1.squadhelp.com.
-pancreatic.cm.		86400	IN	NS	ns2.squadhelp.com.
 panda.cm.		86400	IN	NS	ns1.xserver.jp.
 panda.cm.		86400	IN	NS	ns2.xserver.jp.
 panda.cm.		86400	IN	NS	ns3.xserver.jp.
@@ -64132,8 +64053,6 @@ pbworks.cm.		86400	IN	NS	ns1.bodis.com.
 pbworks.cm.		86400	IN	NS	ns2.bodis.com.
 pc.cm.			86400	IN	NS	andrea.dnspod.net.
 pc.cm.			86400	IN	NS	hayden.dnspod.net.
-pc28.cm.		86400	IN	NS	ns1.dns.com.
-pc28.cm.		86400	IN	NS	ns2.dns.com.
 pc2d.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 pc2d.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 pc888.cm.		86400	IN	NS	alex.ns.cloudflare.com.
@@ -64567,8 +64486,6 @@ peta.cm.		86400	IN	NS	ns.peta.cm.
 peta.cm.		86400	IN	NS	mail.peta.cm.
 mail.peta.cm.		86400	IN	A	157.7.162.49
 ns.peta.cm.		86400	IN	A	157.7.162.49
-petal.cm.		86400	IN	NS	ns1.sedoparking.com.
-petal.cm.		86400	IN	NS	ns2.sedoparking.com.
 petalcard.cm.		86400	IN	NS	581.ns1.above.com.
 petalcard.cm.		86400	IN	NS	581.ns2.above.com.
 petalsearch.cm.		86400	IN	NS	625.ns1.above.com.
@@ -64704,8 +64621,6 @@ pgstore.cm.		86400	IN	NS	ns3-06.azure-dns.org.
 pgstore.cm.		86400	IN	NS	ns4-06.azure-dns.info.
 pgworks.cm.		86400	IN	NS	ns1.smartname.com.
 pgworks.cm.		86400	IN	NS	ns2.smartname.com.
-pgx.cm.			86400	IN	NS	ns1.squadhelp.com.
-pgx.cm.			86400	IN	NS	ns2.squadhelp.com.
 ph.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 ph.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 ph1ofakind.cm.		86400	IN	NS	nsgbr.comlaude.co.uk.
@@ -65266,8 +65181,6 @@ platinum.cm.		86400	IN	NS	ns17.above.com.
 platinum.cm.		86400	IN	NS	ns18.above.com.
 platinumoffer.cm.	86400	IN	NS	ns1.parkingcrew.net.
 platinumoffer.cm.	86400	IN	NS	ns2.parkingcrew.net.
-platooning.cm.		86400	IN	NS	ns1.squadhelp.com.
-platooning.cm.		86400	IN	NS	ns2.squadhelp.com.
 platt.cm.		86400	IN	NS	ns3.above.com.
 platt.cm.		86400	IN	NS	ns4.above.com.
 play.cm.		86400	IN	NS	ns1.4.cn.
@@ -66610,8 +66523,6 @@ procapslabs.cm.		86400	IN	NS	ns1.bodis.com.
 procapslabs.cm.		86400	IN	NS	ns2.bodis.com.
 procare.cm.		86400	IN	NS	ns1.mytrafficmanagement.com.
 procare.cm.		86400	IN	NS	ns2.mytrafficmanagement.com.
-procedures.cm.		86400	IN	NS	ns1.squadhelp.com.
-procedures.cm.		86400	IN	NS	ns2.squadhelp.com.
 procentive.cm.		86400	IN	NS	ns1.smartname.com.
 procentive.cm.		86400	IN	NS	ns2.smartname.com.
 proclear.cm.		86400	IN	NS	ns1.markmonitor.com.
@@ -66842,8 +66753,6 @@ prossky.cm.		86400	IN	NS	dns3.supremedns.com.
 prossky.cm.		86400	IN	NS	dns4.supremedns.com.
 prostagenix.cm.		86400	IN	NS	ns1.smartname.com.
 prostagenix.cm.		86400	IN	NS	ns2.smartname.com.
-prostate.cm.		86400	IN	NS	ns1.squadhelp.com.
-prostate.cm.		86400	IN	NS	ns2.squadhelp.com.
 prosy.cm.		86400	IN	NS	ns2.prosygma-cm.com.
 prosy.cm.		86400	IN	NS	ns7.prosygma-cm.com.
 prosygma.cm.		86400	IN	NS	ns2.prosygma-cm.com.
@@ -66854,16 +66763,12 @@ protechetancheite.cm.	86400	IN	NS	ns1.camoogroup.com.
 protechetancheite.cm.	86400	IN	NS	ns2.camoogroup.com.
 protective.cm.		86400	IN	NS	ns17.above.com.
 protective.cm.		86400	IN	NS	ns18.above.com.
-protein.cm.		86400	IN	NS	ns1.squadhelp.com.
-protein.cm.		86400	IN	NS	ns2.squadhelp.com.
 prothomalo.cm.		86400	IN	NS	ns1.bodis.com.
 prothomalo.cm.		86400	IN	NS	ns2.bodis.com.
 protocol.cm.		86400	IN	NS	ns1.parkingcrew.net.
 protocol.cm.		86400	IN	NS	ns2.parkingcrew.net.
 protocolesanitaire.cm.	86400	IN	NS	ns1.camoogroup.com.
 protocolesanitaire.cm.	86400	IN	NS	ns2.camoogroup.com.
-protocols.cm.		86400	IN	NS	ns1.squadhelp.com.
-protocols.cm.		86400	IN	NS	ns2.squadhelp.com.
 protomail.cm.		86400	IN	NS	152.ns1.above.com.
 protomail.cm.		86400	IN	NS	152.ns2.above.com.
 protonmai.cm.		86400	IN	NS	ns17.above.com.
@@ -68333,8 +68238,8 @@ rcis.cm.		86400	IN	NS	ns2.above.com.
 rcl.cm.			86400	IN	NS	ns.udag.de.
 rcl.cm.			86400	IN	NS	ns.udag.net.
 rcl.cm.			86400	IN	NS	ns.udag.org.
-rcm.cm.			86400	IN	NS	ns103.ovh.net.
-rcm.cm.			86400	IN	NS	dns103.ovh.net.
+rcm.cm.			86400	IN	NS	ns1.spolkacti.eu.
+rcm.cm.			86400	IN	NS	ns2.spolkacti.eu.
 rcmbusiness.cm.		86400	IN	NS	ns1.ii51.parklogic.com.
 rcmbusiness.cm.		86400	IN	NS	ns2.ii51.parklogic.com.
 rcn.cm.			86400	IN	NS	ns1.cloudcastdns.com.
@@ -68540,8 +68445,6 @@ recan.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 recan.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 recap.cm.		86400	IN	NS	ns1.camoogroup.com.
 recap.cm.		86400	IN	NS	ns2.camoogroup.com.
-recessive.cm.		86400	IN	NS	ns1.squadhelp.com.
-recessive.cm.		86400	IN	NS	ns2.squadhelp.com.
 recharge.cm.		86400	IN	NS	ns1.parkingcrew.net.
 recharge.cm.		86400	IN	NS	ns2.parkingcrew.net.
 rechargeapps.cm.	86400	IN	NS	ns1.above.com.
@@ -68562,8 +68465,6 @@ recolorado.cm.		86400	IN	NS	ns1.bodis.com.
 recolorado.cm.		86400	IN	NS	ns2.bodis.com.
 recomagroup.cm.		86400	IN	NS	ns8415.hostgator.com.
 recomagroup.cm.		86400	IN	NS	ns8416.hostgator.com.
-reconition.cm.		86400	IN	NS	ns1.squadhelp.com.
-reconition.cm.		86400	IN	NS	ns2.squadhelp.com.
 record.cm.		86400	IN	NS	ns1.squadhelp.com.
 record.cm.		86400	IN	NS	ns2.squadhelp.com.
 recourshop.cm.		86400	IN	NS	ns1.mboahost.com.
@@ -70988,6 +70889,8 @@ sauder.cm.		86400	IN	NS	ns1.bodis.com.
 sauder.cm.		86400	IN	NS	ns2.bodis.com.
 saudia.cm.		86400	IN	NS	ns1.bodis.com.
 saudia.cm.		86400	IN	NS	ns2.bodis.com.
+sauvez-votre-peau.cm.	86400	IN	NS	ns1.faroty.com.
+sauvez-votre-peau.cm.	86400	IN	NS	ns2.faroty.com.
 sav.cm.			86400	IN	NS	ns17.above.com.
 sav.cm.			86400	IN	NS	ns18.above.com.
 savagex.cm.		86400	IN	NS	581.ns1.above.com.
@@ -71429,8 +71332,6 @@ scrubsandbeyond.cm.	86400	IN	NS	ns1.bodis.com.
 scrubsandbeyond.cm.	86400	IN	NS	ns2.bodis.com.
 scrubsunlimited.cm.	86400	IN	NS	ns3.above.com.
 scrubsunlimited.cm.	86400	IN	NS	ns4.above.com.
-scrum.cm.		86400	IN	NS	ns1.squadhelp.com.
-scrum.cm.		86400	IN	NS	ns2.squadhelp.com.
 scsst.cm.		86400	IN	NS	kim.camnet.cm.
 scsst.cm.		86400	IN	NS	mbam.camnet.cm.
 sct.cm.			86400	IN	NS	ns1.jetcamer.com.
@@ -71803,8 +71704,6 @@ self.cm.		86400	IN	NS	ns1.parkingcrew.net.
 self.cm.		86400	IN	NS	ns2.parkingcrew.net.
 self-help.cm.		86400	IN	NS	ns40.cleannameservers.com.
 self-help.cm.		86400	IN	NS	ns41.cleannameservers.com.
-selfdriving.cm.		86400	IN	NS	ns1.squadhelp.com.
-selfdriving.cm.		86400	IN	NS	ns2.squadhelp.com.
 selfhacked.cm.		86400	IN	NS	ns1.bodis.com.
 selfhacked.cm.		86400	IN	NS	ns2.bodis.com.
 selfreportedtranscript.cm. 86400 IN	NS	ns1.above.com.
@@ -71829,8 +71728,6 @@ sem.cm.			86400	IN	NS	ns3.above.com.
 sem.cm.			86400	IN	NS	ns4.above.com.
 semalt.cm.		86400	IN	NS	ns1.bodis.com.
 semalt.cm.		86400	IN	NS	ns2.bodis.com.
-semantic.cm.		86400	IN	NS	ns1.squadhelp.com.
-semantic.cm.		86400	IN	NS	ns2.squadhelp.com.
 semebeach.cm.		86400	IN	NS	alina.ns.cloudflare.com.
 semebeach.cm.		86400	IN	NS	apollo.ns.cloudflare.com.
 semin.cm.		86400	IN	NS	ns-26-c.gandi.net.
@@ -71897,8 +71794,6 @@ sensipeople.cm.		86400	IN	NS	troy-dns1.centos-server.net.
 sensipeople.cm.		86400	IN	NS	troy-dns2.centos-server.net.
 sensiseeds.cm.		86400	IN	NS	ns1.bodis.com.
 sensiseeds.cm.		86400	IN	NS	ns2.bodis.com.
-sensors.cm.		86400	IN	NS	ns1.squadhelp.com.
-sensors.cm.		86400	IN	NS	ns2.squadhelp.com.
 sentara.cm.		86400	IN	NS	ns1.smartname.com.
 sentara.cm.		86400	IN	NS	ns2.smartname.com.
 sentimeter.cm.		86400	IN	NS	ns1.digitalocean.com.
@@ -72426,6 +72321,8 @@ shijiebei.cm.		86400	IN	NS	ns3flt.name.com.
 shijiebei.cm.		86400	IN	NS	ns4bht.name.com.
 shiksha.cm.		86400	IN	NS	ns1.parkingcrew.net.
 shiksha.cm.		86400	IN	NS	ns2.parkingcrew.net.
+shimano.cm.		86400	IN	NS	ns17.above.com.
+shimano.cm.		86400	IN	NS	ns18.above.com.
 shinemo.cm.		86400	IN	NS	ns3.above.com.
 shinemo.cm.		86400	IN	NS	ns4.above.com.
 ship.cm.		86400	IN	NS	ns1.ndns.cn.
@@ -73956,8 +73853,9 @@ sobeys.cm.		86400	IN	NS	ns2.parkingcrew.net.
 sobro.cm.		86400	IN	NS	ns1.onlydomains.com.
 sobro.cm.		86400	IN	NS	ns2.onlydomains.com.
 sobro.cm.		86400	IN	NS	ns3.onlydomains.com.
-socagi.cm.		86400	IN	NS	ns1.harveyhosting.net.
-socagi.cm.		86400	IN	NS	ns2.harveyhosting.net.
+socagi.cm.		86400	IN	NS	nsa.n0c.com.
+socagi.cm.		86400	IN	NS	nsb.n0c.com.
+socagi.cm.		86400	IN	NS	nsc.n0c.com.
 socalgas.cm.		86400	IN	NS	ns1.smartname.com.
 socalgas.cm.		86400	IN	NS	ns2.smartname.com.
 socapap.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
@@ -74623,8 +74521,6 @@ spca.cm.		86400	IN	NS	ns1.bodis.com.
 spca.cm.		86400	IN	NS	ns2.bodis.com.
 spearmint.cm.		86400	IN	NS	ns1.markmonitor.com.
 spearmint.cm.		86400	IN	NS	ns2.markmonitor.com.
-specialities.cm.	86400	IN	NS	ns1.squadhelp.com.
-specialities.cm.	86400	IN	NS	ns2.squadhelp.com.
 specialized.cm.		86400	IN	NS	581.ns1.above.com.
 specialized.cm.		86400	IN	NS	581.ns2.above.com.
 specialk.cm.		86400	IN	NS	dns1.cscdns.net.
@@ -75060,8 +74956,6 @@ srpnet.cm.		86400	IN	NS	ns3.above.com.
 srpnet.cm.		86400	IN	NS	ns4.above.com.
 srt.cm.			86400	IN	NS	ns17.above.com.
 srt.cm.			86400	IN	NS	ns18.above.com.
-sru.cm.			86400	IN	NS	ns1.squadhelp.com.
-sru.cm.			86400	IN	NS	ns2.squadhelp.com.
 srz.cm.			86400	IN	NS	ns17.above.com.
 srz.cm.			86400	IN	NS	ns18.above.com.
 ss.cm.			86400	IN	NS	ns1.4.cn.
@@ -75714,8 +75608,6 @@ straighterline.cm.	86400	IN	NS	ns1.smartname.com.
 straighterline.cm.	86400	IN	NS	ns2.smartname.com.
 straighttalk.cm.	86400	IN	NS	ns1.hastydns.com.
 straighttalk.cm.	86400	IN	NS	ns2.hastydns.com.
-strain.cm.		86400	IN	NS	ns1.squadhelp.com.
-strain.cm.		86400	IN	NS	ns2.squadhelp.com.
 straitstimes.cm.	86400	IN	NS	ns1.bodis.com.
 straitstimes.cm.	86400	IN	NS	ns2.bodis.com.
 stratec.cm.		86400	IN	NS	ns1.mytrafficmanagement.com.
@@ -76244,6 +76136,9 @@ supernova.cm.		86400	IN	NS	pdns1.registrar-servers.com.
 supernova.cm.		86400	IN	NS	pdns2.registrar-servers.com.
 superpages.cm.		86400	IN	NS	ns1.parkingcrew.net.
 superpages.cm.		86400	IN	NS	ns2.parkingcrew.net.
+superrare.cm.		86400	IN	NS	a.dnspod.com.
+superrare.cm.		86400	IN	NS	b.dnspod.com.
+superrare.cm.		86400	IN	NS	c.dnspod.com.
 supershop.cm.		86400	IN	NS	ns6866243110.a2dns.com.
 supershop.cm.		86400	IN	NS	ns6866243132.a2dns.com.
 superside.cm.		86400	IN	NS	ns1.above.com.
@@ -76266,6 +76161,8 @@ supfood.cm.		86400	IN	NS	sv1.worldvoice.eu.
 supfood.cm.		86400	IN	NS	svr1.worldvoice.eu.
 supgenie.cm.		86400	IN	NS	ns1.o2switch.net.
 supgenie.cm.		86400	IN	NS	ns2.o2switch.net.
+supjav.cm.		86400	IN	NS	170.ns1.above.com.
+supjav.cm.		86400	IN	NS	170.ns2.above.com.
 supplies.cm.		86400	IN	NS	ns1.parkingcrew.net.
 supplies.cm.		86400	IN	NS	ns2.parkingcrew.net.
 suppliesoutlet.cm.	86400	IN	NS	ns1.bodis.com.
@@ -78601,8 +78498,6 @@ thumpertalk.cm.		86400	IN	NS	ns3.above.com.
 thumpertalk.cm.		86400	IN	NS	ns4.above.com.
 thy.cm.			86400	IN	NS	ns17.above.com.
 thy.cm.			86400	IN	NS	ns18.above.com.
-thyroid.cm.		86400	IN	NS	ns1.squadhelp.com.
-thyroid.cm.		86400	IN	NS	ns2.squadhelp.com.
 ti.cm.			86400	IN	NS	ns1.dns.com.
 ti.cm.			86400	IN	NS	ns2.dns.com.
 tiaabank.cm.		86400	IN	NS	ns1.above.com.
@@ -79600,8 +79495,6 @@ trainingpeaks.cm.	86400	IN	NS	ns3.above.com.
 trainingpeaks.cm.	86400	IN	NS	ns4.above.com.
 trainline.cm.		86400	IN	NS	ns1.ii51.parklogic.com.
 trainline.cm.		86400	IN	NS	ns2.ii51.parklogic.com.
-trait.cm.		86400	IN	NS	ns1.squadhelp.com.
-trait.cm.		86400	IN	NS	ns2.squadhelp.com.
 trajectoire.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 trajectoire.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 trane.cm.		86400	IN	NS	ns1.smartname.com.
@@ -81787,8 +81680,6 @@ v27.cm.			86400	IN	NS	ns1.ecpage.com.
 v27.cm.			86400	IN	NS	ns2.ecpage.com.
 v2ex.cm.		86400	IN	NS	ns1.parkingcrew.net.
 v2ex.cm.		86400	IN	NS	ns2.parkingcrew.net.
-v2x.cm.			86400	IN	NS	ns1.squadhelp.com.
-v2x.cm.			86400	IN	NS	ns2.squadhelp.com.
 v3.cm.			86400	IN	NS	170.ns1.above.com.
 v3.cm.			86400	IN	NS	170.ns2.above.com.
 v3x.cm.			86400	IN	NS	sreeni.ns.cloudflare.com.
@@ -82011,8 +81902,6 @@ vareentreprise.cm.	86400	IN	NS	ns103.ovh.net.
 vareentreprise.cm.	86400	IN	NS	dns103.ovh.net.
 varian.cm.		86400	IN	NS	ns1.bodis.com.
 varian.cm.		86400	IN	NS	ns2.bodis.com.
-variant.cm.		86400	IN	NS	ns1.squadhelp.com.
-variant.cm.		86400	IN	NS	ns2.squadhelp.com.
 variety.cm.		86400	IN	NS	ns1.bodis.com.
 variety.cm.		86400	IN	NS	ns2.bodis.com.
 varipro.cm.		86400	IN	NS	ns1.mytrafficmanagement.com.
@@ -82549,6 +82438,8 @@ vif.cm.			86400	IN	NS	ns1045.ui-dns.com.
 vif.cm.			86400	IN	NS	ns1045.ui-dns.org.
 vig.cm.			86400	IN	NS	ns17.above.com.
 vig.cm.			86400	IN	NS	ns18.above.com.
+vigilance-medicament.cm. 86400	IN	NS	ns1.globexcamhost.com.
+vigilance-medicament.cm. 86400	IN	NS	ns2.globexcamhost.com.
 vigilance-medicaments.cm. 86400	IN	NS	ns1.globexcamhost.com.
 vigilance-medicaments.cm. 86400	IN	NS	ns2.globexcamhost.com.
 viglink.cm.		86400	IN	NS	ns1.bodis.com.
@@ -84252,8 +84143,6 @@ wgntv.cm.		86400	IN	NS	581.ns1.above.com.
 wgntv.cm.		86400	IN	NS	581.ns2.above.com.
 wgo.cm.			86400	IN	NS	ns1.parkingcrew.net.
 wgo.cm.			86400	IN	NS	ns2.parkingcrew.net.
-wgs.cm.			86400	IN	NS	ns1.squadhelp.com.
-wgs.cm.			86400	IN	NS	ns2.squadhelp.com.
 wgt.cm.			86400	IN	NS	ns1.bodis.com.
 wgt.cm.			86400	IN	NS	ns2.bodis.com.
 wh.cm.			86400	IN	NS	dns1.idp365.net.
@@ -84582,8 +84471,6 @@ win.cm.			86400	IN	NS	ns2.4.cn.
 win-part.cm.		86400	IN	NS	ns1.cetsi.fr.
 win-part.cm.		86400	IN	NS	ns2.cetsi.eu.
 win-part.cm.		86400	IN	NS	ns3.cetsi.info.
-win-rar.cm.		86400	IN	NS	ns17.above.com.
-win-rar.cm.		86400	IN	NS	ns18.above.com.
 win007.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
 win007.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 winabet365.cm.		86400	IN	NS	ns1.alphadnszone.com.
@@ -84821,8 +84708,6 @@ wmfd.cm.		86400	IN	NS	ns1.bodis.com.
 wmfd.cm.		86400	IN	NS	ns2.bodis.com.
 wmmr.cm.		86400	IN	NS	ns1.bodis.com.
 wmmr.cm.		86400	IN	NS	ns2.bodis.com.
-wms.cm.			86400	IN	NS	ns1.squadhelp.com.
-wms.cm.			86400	IN	NS	ns2.squadhelp.com.
 wmur.cm.		86400	IN	NS	ns4.zzari.net.
 wmur.cm.		86400	IN	NS	ns5.zzari.net.
 wmur.cm.		86400	IN	NS	ns6.zzari.net.
@@ -85207,8 +85092,6 @@ wretch.cm.		86400	IN	NS	ns4.yahoo.com.
 wretch.cm.		86400	IN	NS	ns5.yahoo.com.
 wrightmfg.cm.		86400	IN	NS	ns1.bodis.com.
 wrightmfg.cm.		86400	IN	NS	ns2.bodis.com.
-wrights.cm.		86400	IN	NS	ns1.squadhelp.com.
-wrights.cm.		86400	IN	NS	ns2.squadhelp.com.
 wrigley.cm.		86400	IN	NS	ns1.markmonitor.com.
 wrigley.cm.		86400	IN	NS	ns2.markmonitor.com.
 wrigleybuilding.cm.	86400	IN	NS	ns-481.awsdns-60.com.
@@ -86608,6 +86491,8 @@ xxnxx.cm.		86400	IN	NS	ns1.bodis.com.
 xxnxx.cm.		86400	IN	NS	ns2.bodis.com.
 xxnxxx.cm.		86400	IN	NS	ns1.sedoparking.com.
 xxnxxx.cm.		86400	IN	NS	ns2.sedoparking.com.
+xxo.cm.			86400	IN	NS	ns17.above.com.
+xxo.cm.			86400	IN	NS	ns18.above.com.
 xxoo.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
 xxoo.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 xxvideos.cm.		86400	IN	NS	ns17.above.com.
@@ -86691,8 +86576,6 @@ y3.cm.			86400	IN	NS	snm1h83.tuhao05cne.com.
 y3.cm.			86400	IN	NS	snn3h83.tuhao05cne.com.
 y3.cm.			86400	IN	NS	snp2h83.tuhao05cne.com.
 y3.cm.			86400	IN	NS	snt4h83.tuhao05cne.com.
-y33.cm.			86400	IN	NS	alexia.ns.cloudflare.com.
-y33.cm.			86400	IN	NS	decker.ns.cloudflare.com.
 y36.cm.			86400	IN	NS	ns1.dns.com.
 y36.cm.			86400	IN	NS	ns2.dns.com.
 y37.cm.			86400	IN	NS	ns1.dns.com.
@@ -86877,10 +86760,18 @@ yahu.cm.		86400	IN	NS	ns2.yahoo.com.
 yahu.cm.		86400	IN	NS	ns3.yahoo.com.
 yahu.cm.		86400	IN	NS	ns4.yahoo.com.
 yahu.cm.		86400	IN	NS	ns5.yahoo.com.
+yaieiodge.cm.		86400	IN	NS	dns1.registrar-servers.com.
+yaieiodge.cm.		86400	IN	NS	dns2.registrar-servers.com.
+yaielodge.cm.		86400	IN	NS	dns1.registrar-servers.com.
+yaielodge.cm.		86400	IN	NS	dns2.registrar-servers.com.
 yakima.cm.		86400	IN	NS	ns1.bodis.com.
 yakima.cm.		86400	IN	NS	ns2.bodis.com.
 yaknema.cm.		86400	IN	NS	ns29.domaincontrol.com.
 yaknema.cm.		86400	IN	NS	ns30.domaincontrol.com.
+yaleiodge.cm.		86400	IN	NS	dns1.registrar-servers.com.
+yaleiodge.cm.		86400	IN	NS	dns2.registrar-servers.com.
+yalel0dge.cm.		86400	IN	NS	dns1.registrar-servers.com.
+yalel0dge.cm.		86400	IN	NS	dns2.registrar-servers.com.
 yalelodge.cm.		86400	IN	NS	ns1.reg.ru.
 yalelodge.cm.		86400	IN	NS	ns2.reg.ru.
 yallashoot.cm.		86400	IN	NS	ns1.bodis.com.
@@ -88399,8 +88290,6 @@ zsp.cm.			86400	IN	NS	ns1.mtnbusiness.cm.
 zsp.cm.			86400	IN	NS	ns2.mtnbusiness.cm.
 zst.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 zst.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-zsw.cm.			86400	IN	NS	lewis.ns.cloudflare.com.
-zsw.cm.			86400	IN	NS	mckinley.ns.cloudflare.com.
 zt.cm.			86400	IN	NS	ns1.dns.com.
 zt.cm.			86400	IN	NS	ns2.dns.com.
 zt8.cm.			86400	IN	NS	ns1.dns.com.
@@ -88511,4 +88400,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022011320 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022011516 28800 3600 604800 86400
