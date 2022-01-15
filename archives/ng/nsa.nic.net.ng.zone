@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011505 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1642219241"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011508 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1642230029"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -21561,6 +21561,8 @@ essentialgroup.ng.	3600	IN	NS	nsa.whogohost.com.
 essentialgroup.ng.	3600	IN	NS	nsb.whogohost.com.
 essentialhub.ng.	3600	IN	NS	ns45.doveserver.com.
 essentialhub.ng.	3600	IN	NS	ns46.doveserver.com.
+essentialjobs.ng.	3600	IN	NS	ns1.echelontrainingportal.com.
+essentialjobs.ng.	3600	IN	NS	ns2.echelontrainingportal.com.
 essentials.ng.		3600	IN	NS	megan.ns.cloudflare.com.
 essentials.ng.		3600	IN	NS	miles.ns.cloudflare.com.
 essenza.ng.		3600	IN	NS	ns1.a2hosting.com.
@@ -41158,6 +41160,8 @@ metaversedati.ng.	3600	IN	NS	ns1.undeveloped.com.
 metaversedati.ng.	3600	IN	NS	ns2.undeveloped.com.
 metaversenews.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 metaversenews.ng.	3600	IN	NS	dns2.namecheaphosting.com.
+metaverses.ng.		3600	IN	NS	ns1.dan.com.
+metaverses.ng.		3600	IN	NS	ns2.dan.com.
 metaversetechnologies.ng. 3600	IN	NS	nsa.whogohost.com.
 metaversetechnologies.ng. 3600	IN	NS	nsb.whogohost.com.
 metaversi.ng.		3600	IN	NS	ns1.domains.ng.
@@ -45034,8 +45038,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -50783,8 +50787,8 @@ perimeters.ng.		3600	IN	NS	ns1.servconfig.com.
 perimeters.ng.		3600	IN	NS	ns2.servconfig.com.
 periperi.ng.		3600	IN	NS	ns59.qservers.net.
 periperi.ng.		3600	IN	NS	ns60.qservers.net.
-perissos.ng.		3600	IN	NS	nsa.whogohost.com.
-perissos.ng.		3600	IN	NS	nsb.whogohost.com.
+perissos.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+perissos.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 periwinkle.ng.		3600	IN	NS	nsa.whogohost.com.
 periwinkle.ng.		3600	IN	NS	nsb.whogohost.com.
 perkquest.ng.		3600	IN	NS	ns21.qservers.net.
@@ -54617,6 +54621,8 @@ reagan.ng.		3600	IN	NS	ns2.dns-parking.com.
 real.ng.		3600	IN	NS	ns1.domaindiscount24.net.
 real.ng.		3600	IN	NS	ns2.domaindiscount24.net.
 real.ng.		3600	IN	NS	ns3.domaindiscount24.net.
+real-estate.ng.		3600	IN	NS	ns1.allweblimited.com.
+real-estate.ng.		3600	IN	NS	ns2.allweblimited.com.
 realbanc.ng.		3600	IN	NS	ns1.upperserver3.com.
 realbanc.ng.		3600	IN	NS	ns2.upperserver3.com.
 realestate.ng.		3600	IN	NS	pns21.cloudns.net.
@@ -73647,6 +73653,8 @@ youthball.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 youthball.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 youthberry.ng.		3600	IN	NS	ns69.domaincontrol.com.
 youthberry.ng.		3600	IN	NS	ns70.domaincontrol.com.
+youthempowerment.ng.	3600	IN	NS	ns5.garanntor.net.
+youthempowerment.ng.	3600	IN	NS	ns6.garanntor.net.
 youthi.ng.		3600	IN	NS	nsa.whogohost.com.
 youthi.ng.		3600	IN	NS	nsb.whogohost.com.
 youthigf.ng.		3600	IN	NS	ns1.eko-konnect.net.ng.
@@ -74341,4 +74349,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011505 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011508 10800 3600 604800 3600
