@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011604 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1642305682"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011607 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1642316497"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -2858,8 +2858,10 @@ culligan.rw.		1800	IN	NS	ns1.netnames.net.
 culligan.rw.		1800	IN	NS	ns2.netnames.net.
 culligan.rw.		1800	IN	NS	ns5.netnames.net.
 culligan.rw.		1800	IN	NS	ns6.netnames.net.
-curmis.rw.		1800	IN	NS	ns1.mwiseneza.com.
-curmis.rw.		1800	IN	NS	ns2.mwiseneza.com.
+curmis.rw.		1800	IN	NS	ns1.curmis.rw.
+curmis.rw.		1800	IN	NS	ns2.curmis.rw.
+ns1.curmis.rw.		1800	IN	A	51.75.241.55
+ns2.curmis.rw.		1800	IN	A	51.75.241.55
 curuza.rw.		1800	IN	NS	ns5.afriregister.co.ke.
 curuza.rw.		1800	IN	NS	ns6.afriregister.co.ke.
 customgraphics.rw.	1800	IN	NS	ns1.sawasawa.com.
@@ -3279,8 +3281,10 @@ done.rw.		1800	IN	NS	ns1.megabithosting.com.
 done.rw.		1800	IN	NS	ns2.megabithosting.com.
 dopeapps.rw.		1800	IN	NS	ns207.websitewelcome.com.
 dopeapps.rw.		1800	IN	NS	ns208.websitewelcome.com.
-dot.rw.			1800	IN	NS	ns1.mwiseneza.com.
-dot.rw.			1800	IN	NS	ns2.mwiseneza.com.
+dot.rw.			1800	IN	NS	ns1.dot.rw.
+dot.rw.			1800	IN	NS	ns2.dot.rw.
+ns1.dot.rw.		1800	IN	A	51.75.241.55
+ns2.dot.rw.		1800	IN	A	51.75.241.55
 dotpharma.rw.		1800	IN	NS	dns1.namecheaphosting.com.
 dotpharma.rw.		1800	IN	NS	dns2.namecheaphosting.com.
 doubleclick.rw.		1800	IN	NS	ns1.markmonitor.com.
@@ -7358,8 +7362,10 @@ kigaligymnastics.rw.	86400	IN	NS	ns1.kitech.rw.
 kigaligymnastics.rw.	86400	IN	NS	ns2.kitech.rw.
 kigaliheights.rw.	86400	IN	NS	ns1.webspace.co.rw.
 kigaliheights.rw.	86400	IN	NS	ns2.webspace.co.rw.
-kigalihit.rw.		86400	IN	NS	ns1.mwiseneza.com.
-kigalihit.rw.		86400	IN	NS	ns2.mwiseneza.com.
+kigalihit.rw.		86400	IN	NS	ns1.kigalihit.rw.
+kigalihit.rw.		86400	IN	NS	ns2.kigalihit.rw.
+ns1.kigalihit.rw.	86400	IN	A	51.75.241.55
+ns2.kigalihit.rw.	86400	IN	A	51.75.241.55
 kigalihomes.rw.		86400	IN	NS	ns1.hostblueinc.com.
 kigalihomes.rw.		86400	IN	NS	ns2.hostblueinc.com.
 kigalihouse.rw.		86400	IN	NS	ns03.domaincontrol.com.
@@ -14281,4 +14287,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011604 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011607 86400 7200 604800 1800
