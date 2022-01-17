@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011714 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1642424429"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011717 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1642435235"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -896,8 +896,8 @@ ns2.4sale.ng.		3600	IN	A	179.61.137.235
 9jastoreshub.ng.	3600	IN	NS	ns26.qservers.net.
 9jatelescope.ng.	3600	IN	NS	nsa.whogohost.com.
 9jatelescope.ng.	3600	IN	NS	nsb.whogohost.com.
-9jatrip.ng.		3600	IN	NS	nsa.whogohost.com.
-9jatrip.ng.		3600	IN	NS	nsb.whogohost.com.
+9jatrip.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+9jatrip.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 9javirtual.ng.		3600	IN	NS	ns1.gigalayer.com.
 9javirtual.ng.		3600	IN	NS	ns2.gigalayer.com.
 9javirtual.ng.		3600	IN	NS	ns3.gigalayer.com.
@@ -3059,8 +3059,8 @@ alip.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 alip.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 alipay.ng.		3600	IN	NS	ns1.sedoparking.com.
 alipay.ng.		3600	IN	NS	ns2.sedoparking.com.
-aliph.ng.		3600	IN	NS	rs59a.registrar-servers.com.
-aliph.ng.		3600	IN	NS	rs59b.registrar-servers.com.
+aliph.ng.		3600	IN	NS	nsa.whogohost.com.
+aliph.ng.		3600	IN	NS	nsb.whogohost.com.
 alis.ng.		3600	IN	NS	dns1000.kenyawebexperts.co.ke.
 alis.ng.		3600	IN	NS	dns1001.kenyawebexperts.co.ke.
 aliyuaminuahmed.ng.	3600	IN	NS	ns41.qservers.net.
@@ -5368,6 +5368,8 @@ ausify.ng.		3600	IN	NS	ns1.bluehost.com.
 ausify.ng.		3600	IN	NS	ns2.bluehost.com.
 ausso.ng.		3600	IN	NS	ns1.whogohost.com.
 ausso.ng.		3600	IN	NS	ns2.whogohost.com.
+ausso-academy.ng.	3600	IN	NS	nsa.whogohost.com.
+ausso-academy.ng.	3600	IN	NS	nsb.whogohost.com.
 austinfordglobal.ng.	3600	IN	NS	nsa.whogohost.com.
 austinfordglobal.ng.	3600	IN	NS	nsb.whogohost.com.
 austrahomes.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -15541,6 +15543,9 @@ crotchethub.ng.		3600	IN	NS	ns1.web4africa.com.
 crotchethub.ng.		3600	IN	NS	ns2.web4africa.com.
 crotchethub.ng.		3600	IN	NS	ns3.web4africa.com.
 crotchethub.ng.		3600	IN	NS	ns4.web4africa.com.
+crowdexpress.ng.	3600	IN	NS	ns301.my-hosting-panel.com.
+crowdexpress.ng.	3600	IN	NS	ns302.my-hosting-panel.com.
+crowdexpress.ng.	3600	IN	NS	ns303.my-hosting-panel.com.
 crowdfund.ng.		3600	IN	NS	ns1.parkingcrew.net.
 crowdfund.ng.		3600	IN	NS	ns2.parkingcrew.net.
 crowdfunder.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -20194,6 +20199,8 @@ egencia.ng.		3600	IN	NS	pdns1.ultradns.net.
 egencia.ng.		3600	IN	NS	pdns2.ultradns.net.
 egg.ng.			3600	IN	NS	nsa.whogohost.com.
 egg.ng.			3600	IN	NS	nsb.whogohost.com.
+egga.ng.		3600	IN	NS	nsa.whogohost.com.
+egga.ng.		3600	IN	NS	nsb.whogohost.com.
 eghefarms.ng.		3600	IN	NS	ns51.qservers.net.
 eghefarms.ng.		3600	IN	NS	ns52.qservers.net.
 egift.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -23028,8 +23035,8 @@ fastloan.ng.		3600	IN	NS	dns1.doveserver.com.
 fastloan.ng.		3600	IN	NS	dns2.doveserver.com.
 fastloans.ng.		3600	IN	NS	ns1.dknoc.com.
 fastloans.ng.		3600	IN	NS	ns2.dknoc.com.
-fastly.ng.		3600	IN	NS	ns1.hostblast.net.
-fastly.ng.		3600	IN	NS	ns2.hostblast.net.
+fastly.ng.		3600	IN	NS	ns1.hosting.reg.ru.
+fastly.ng.		3600	IN	NS	ns2.hosting.reg.ru.
 fastmarket.ng.		3600	IN	NS	ns1.bhostingsolutions.com.
 fastmarket.ng.		3600	IN	NS	ns2.bhostingsolutions.com.
 fastmoni.ng.		3600	IN	NS	vita.ns.cloudflare.com.
@@ -26024,6 +26031,8 @@ gary.ng.		3600	IN	NS	ns33.domaincontrol.com.
 gary.ng.		3600	IN	NS	ns34.domaincontrol.com.
 gas365.ng.		3600	IN	NS	nsa.whogohost.com.
 gas365.ng.		3600	IN	NS	nsb.whogohost.com.
+gas4u.ng.		3600	IN	NS	nsa.whogohost.com.
+gas4u.ng.		3600	IN	NS	nsb.whogohost.com.
 gasflaretracker.ng.	3600	IN	NS	ns1.a2hosting.com.
 gasflaretracker.ng.	3600	IN	NS	ns2.a2hosting.com.
 gasflaretracker.ng.	3600	IN	NS	ns3.a2hosting.com.
@@ -32840,8 +32849,8 @@ ipo.ng.			3600	IN	NS	ns2.dan.com.
 ipoker.ng.		3600	IN	NS	dns1.safenames.com.
 ipoker.ng.		3600	IN	NS	dns2.safenames.net.
 ipoker.ng.		3600	IN	NS	dns3.safenames.org.
-ipos.ng.		3600	IN	NS	nsa.whogohost.com.
-ipos.ng.		3600	IN	NS	nsb.whogohost.com.
+ipos.ng.		3600	IN	NS	newt.ns.cloudflare.com.
+ipos.ng.		3600	IN	NS	katelyn.ns.cloudflare.com.
 ipower.ng.		3600	IN	NS	dns2000a.trouble-free.net.
 ipower.ng.		3600	IN	NS	dns2000b.trouble-free.net.
 iprint.ng.		3600	IN	NS	ns1.xmxserver2.com.
@@ -38390,6 +38399,8 @@ lli.ng.			3600	IN	NS	ns2.netim.net.
 lli.ng.			3600	IN	NS	ns3.netim.net.
 lmc.ng.			3600	IN	NS	nsa.whogohost.com.
 lmc.ng.			3600	IN	NS	nsb.whogohost.com.
+lmcsbkd.ng.		3600	IN	NS	ns49.qservers.net.
+lmcsbkd.ng.		3600	IN	NS	ns50.qservers.net.
 lmdb.ng.		3600	IN	NS	nsa.whogohost.com.
 lmdb.ng.		3600	IN	NS	nsb.whogohost.com.
 lmh.ng.			3600	IN	NS	dns1.namecheaphosting.com.
@@ -38809,6 +38820,8 @@ lotusfarmtotable.ng.	3600	IN	NS	ns3.web4africa.com.
 lotusfarmtotable.ng.	3600	IN	NS	ns4.web4africa.com.
 lotusleaf.ng.		3600	IN	NS	ns1.webhostingpad.com.
 lotusleaf.ng.		3600	IN	NS	ns2.webhostingpad.com.
+lotzcrocoz.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+lotzcrocoz.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 louder.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 louder.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 louis-xiii.ng.		3600	IN	NS	ns2.observatoiredesmarques.fr.
@@ -45094,8 +45107,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -47246,9 +47259,9 @@ oddjobber.ng.		3600	IN	NS	ns21.doveserver.com.
 oddjobber.ng.		3600	IN	NS	ns22.doveserver.com.
 oddoneout.ng.		3600	IN	NS	ns541.domainhosting.com.ng.
 oddoneout.ng.		3600	IN	NS	ns542.domainhosting.com.ng.
-odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds.ng.		3600	IN	NS	ns3.epik.com.
 odds.ng.		3600	IN	NS	ns4.epik.com.
+odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds10.ng.		3600	IN	NS	dns1.doveserver.com.
 odds10.ng.		3600	IN	NS	dns2.doveserver.com.
 oddsbook.ng.		3600	IN	NS	ns1.netim.net.
@@ -55941,10 +55954,14 @@ richardodibofoundation.ng. 3600	IN	NS	ns41.qservers.net.
 richardodibofoundation.ng. 3600	IN	NS	ns42.qservers.net.
 richfield.ng.		3600	IN	NS	ns1.bluehost.com.
 richfield.ng.		3600	IN	NS	ns2.bluehost.com.
+richland.ng.		3600	IN	NS	ns1.qservers.net.
+richland.ng.		3600	IN	NS	ns2.qservers.net.
 richlifeafrica.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 richlifeafrica.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 richmoorglobal.ng.	3600	IN	NS	ns7.qservers.net.
 richmoorglobal.ng.	3600	IN	NS	ns8.qservers.net.
+richnest.ng.		3600	IN	NS	ns1.qservers.net.
+richnest.ng.		3600	IN	NS	ns2.qservers.net.
 ricoh.ng.		3600	IN	NS	a4.nstld.com.
 ricoh.ng.		3600	IN	NS	f4.nstld.com.
 rid.ng.			3600	IN	NS	kara.ns.cloudflare.com.
@@ -57631,6 +57648,8 @@ scantoshop.ng.		3600	IN	NS	nsa.whogohost.com.
 scantoshop.ng.		3600	IN	NS	nsb.whogohost.com.
 scari.ng.		3600	IN	NS	ns1.sedoparking.com.
 scari.ng.		3600	IN	NS	ns2.sedoparking.com.
+scb.ng.			3600	IN	NS	ns1.goshenbiz.com.
+scb.ng.			3600	IN	NS	ns2.goshenbiz.com.
 scbrand.ng.		3600	IN	NS	ns3016.mochahost.com.
 scbrand.ng.		3600	IN	NS	ns4016.mochahost.com.
 scenefab.ng.		3600	IN	NS	ns1.whogohost.com.
@@ -67719,6 +67738,8 @@ treasurenest.ng.	3600	IN	NS	ns1.skannet.com.ng.
 treasurenest.ng.	3600	IN	NS	ns2.skannet.com.ng.
 treasureplace.ng.	3600	IN	NS	ns1.letushostyou.com.
 treasureplace.ng.	3600	IN	NS	ns2.letushostyou.com.
+treasures.ng.		3600	IN	NS	ns25.qservers.net.
+treasures.ng.		3600	IN	NS	ns26.qservers.net.
 treatandgetpaid.ng.	3600	IN	NS	ns65.qservers.net.
 treatandgetpaid.ng.	3600	IN	NS	ns66.qservers.net.
 treate.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -69933,6 +69954,8 @@ versio.ng.		3600	IN	NS	ns4.web4africa.com.
 versus.ng.		3600	IN	NS	ns1.dreamhost.com.
 versus.ng.		3600	IN	NS	ns2.dreamhost.com.
 versus.ng.		3600	IN	NS	ns3.dreamhost.com.
+vertaler.ng.		3600	IN	NS	nsa.whogohost.com.
+vertaler.ng.		3600	IN	NS	nsb.whogohost.com.
 verti.ng.		3600	IN	NS	nsa.whogohost.com.
 verti.ng.		3600	IN	NS	nsb.whogohost.com.
 verticalintegration.ng.	3600	IN	NS	ns1.cobranet.org.
@@ -74429,4 +74452,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011714 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011717 10800 3600 604800 3600
