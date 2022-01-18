@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011810 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011813 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1642500080"
+mg.			7200	IN	TXT	"Generation Time: 1642510886"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1362,8 +1362,8 @@ aziri.mg.		7200	IN	NS	ns1.da.cloudns.io.
 aziri.mg.		7200	IN	NS	ns2.da.cloudns.io.
 azoantoka.mg.		7200	IN	NS	ns1.letananarivien.com.
 azoantoka.mg.		7200	IN	NS	ns2.letananarivien.com.
-azrtransport.mg.	7200	IN	NS	ns1.cloudns.io.
-azrtransport.mg.	7200	IN	NS	ns2.cloudns.io.
+azrtransport.mg.	7200	IN	NS	ns1.da.cloudns.io.
+azrtransport.mg.	7200	IN	NS	ns2.da.cloudns.io.
 azuraftu.mg.		7200	IN	NS	ns3052532.ip-178-33-229.eu.
 azuraftu.mg.		7200	IN	NS	sdns2.ovh.net.
 azuragolf.mg.		7200	IN	NS	ns3052532.ip-178-33-229.eu.
@@ -4454,6 +4454,8 @@ groupe-seproma.mg.	86400	IN	NS	isla.ns.cloudflare.com.
 groupe-sicam.mg.	86400	IN	NS	ns1.cetsi.fr.
 groupe-sicam.mg.	86400	IN	NS	ns2.cetsi.eu.
 groupe-sicam.mg.	86400	IN	NS	ns3.cetsi.info.
+groupeaction.mg.	86400	IN	NS	ns1.da.cloudns.io.
+groupeaction.mg.	86400	IN	NS	ns2.da.cloudns.io.
 groupeastek.mg.		86400	IN	NS	ns1.astek.mu.
 groupeastek.mg.		86400	IN	NS	ns2.astek.mu.
 groupeastek.mg.		86400	IN	NS	ns3.astek.mu.
@@ -6358,8 +6360,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -9103,6 +9105,8 @@ sbmbank.mg.		86400	IN	NS	ns02.trademarkarea.com.
 sbmmarketplace.mg.	86400	IN	NS	ns1.onlydomains.com.
 sbmmarketplace.mg.	86400	IN	NS	ns2.onlydomains.com.
 sbmmarketplace.mg.	86400	IN	NS	ns3.onlydomains.com.
+sc4l.mg.		86400	IN	NS	ns1.da.cloudns.io.
+sc4l.mg.		86400	IN	NS	ns2.da.cloudns.io.
 scb.mg.			86400	IN	NS	ns1.servermada.com.
 scb.mg.			86400	IN	NS	ns2.servermada.com.
 scheidung.mg.		86400	IN	NS	ns.udag.de.
@@ -10640,8 +10644,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11369,4 +11373,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011810 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011813 600 3600 604800 86400
