@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011807 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011810 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1642489288"
+mg.			7200	IN	TXT	"Generation Time: 1642500080"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1390,6 +1390,7 @@ babifood.mg.		7200	IN	NS	katelyn.ns.cloudflare.com.
 babifood.mg.		7200	IN	NS	matt.ns.cloudflare.com.
 babyliss.mg.		7200	IN	NS	ns2.observatoiredesmarques.fr.
 babyliss.mg.		7200	IN	NS	obs.ns1.fr.
+babyliss.mg.		7200	IN	NS	ns3.nameshield.net.
 bace.mg.		7200	IN	NS	dns1.supremepanel.com.
 bace.mg.		7200	IN	NS	dns2.supremepanel.com.
 backmarket.mg.		7200	IN	NS	ns-180-b.gandi.net.
@@ -3461,6 +3462,8 @@ esd.mg.			86400	IN	NS	ns1.madanetinfo.mg.
 esd.mg.			86400	IN	NS	ns2.madanetinfo.mg.
 eselas.mg.		86400	IN	NS	ns1.indritech.mg.
 eselas.mg.		86400	IN	NS	ns2.indritech.mg.
+esf.mg.			86400	IN	NS	ns1.da.cloudns.io.
+esf.mg.			86400	IN	NS	ns2.da.cloudns.io.
 eshaqui.mg.		86400	IN	NS	ns1.o2switch.net.
 eshaqui.mg.		86400	IN	NS	ns2.o2switch.net.
 esisfsfa.mg.		86400	IN	NS	ns1.cloudns.io.
@@ -6564,6 +6567,8 @@ manantsoasarl.mg.	86400	IN	NS	ns.tgn.mg.
 manantsoasarl.mg.	86400	IN	NS	ns1.tgn.mg.
 mandehaizao.mg.		86400	IN	NS	ns1.servermada.com.
 mandehaizao.mg.		86400	IN	NS	ns2.servermada.com.
+mandimby-company.mg.	86400	IN	NS	ns29.dot.mg.
+mandimby-company.mg.	86400	IN	NS	ns29.illi.co.mg.
 mandresy.mg.		86400	IN	NS	ns1.damanager.xyz.
 mandresy.mg.		86400	IN	NS	ns2.damanager.xyz.
 mandrisika.mg.		86400	IN	NS	delilah.ns.cloudflare.com.
@@ -11364,4 +11369,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011807 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011810 600 3600 604800 86400
