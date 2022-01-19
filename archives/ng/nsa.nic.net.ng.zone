@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011905 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1642564827"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011908 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1642575632"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -42874,6 +42874,8 @@ mum.ng.			3600	IN	NS	ns1.sedoparking.com.
 mum.ng.			3600	IN	NS	ns2.sedoparking.com.
 mumpreneur.ng.		3600	IN	NS	nsa.whogohost.com.
 mumpreneur.ng.		3600	IN	NS	nsb.whogohost.com.
+mumsfood.ng.		3600	IN	NS	ns1.netregit.com.
+mumsfood.ng.		3600	IN	NS	ns2.netregit.com.
 mumsworldafrica.ng.	3600	IN	NS	dns1.cscdns.net.
 mumsworldafrica.ng.	3600	IN	NS	dns2.cscdns.net.
 munagi.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -47284,10 +47286,8 @@ odudu.ng.		3600	IN	NS	ns2.contabo.net.
 odudu.ng.		3600	IN	NS	ns3.contabo.net.
 oduduwacommunityhub.ng.	3600	IN	NS	nsa.whogohost.com.
 oduduwacommunityhub.ng.	3600	IN	NS	nsb.whogohost.com.
-oduntan.ng.		3600	IN	NS	ns-cloud-d1.googledomains.com.
-oduntan.ng.		3600	IN	NS	ns-cloud-d2.googledomains.com.
-oduntan.ng.		3600	IN	NS	ns-cloud-d3.googledomains.com.
-oduntan.ng.		3600	IN	NS	ns-cloud-d4.googledomains.com.
+oduntan.ng.		3600	IN	NS	rosa.ns.cloudflare.com.
+oduntan.ng.		3600	IN	NS	gerald.ns.cloudflare.com.
 oe2.ng.			3600	IN	NS	ns1.gigalayer.com.
 oe2.ng.			3600	IN	NS	ns2.gigalayer.com.
 oe2.ng.			3600	IN	NS	ns3.gigalayer.com.
@@ -49013,8 +49013,8 @@ osrc.ng.		3600	IN	NS	ns1.a2hosting.com.
 osrc.ng.		3600	IN	NS	ns2.a2hosting.com.
 osrc.ng.		3600	IN	NS	ns3.a2hosting.com.
 osrc.ng.		3600	IN	NS	ns4.a2hosting.com.
-ossaiandossai.ng.	3600	IN	NS	nsa.whogohost.com.
-ossaiandossai.ng.	3600	IN	NS	nsb.whogohost.com.
+ossaiandossai.ng.	3600	IN	NS	ns1.wpdns.ca.
+ossaiandossai.ng.	3600	IN	NS	ns2.wpdns.ca.
 osta.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 osta.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 ostarafarms.ng.		3600	IN	NS	ns21.smartwebng.com.
@@ -49442,6 +49442,8 @@ oysterprocure.ng.	3600	IN	NS	ns1.dns-parking.com.
 oysterprocure.ng.	3600	IN	NS	ns2.dns-parking.com.
 ozbcom.ng.		3600	IN	NS	nsa.whogohost.com.
 ozbcom.ng.		3600	IN	NS	nsb.whogohost.com.
+ozbon.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+ozbon.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 ozi.ng.			3600	IN	NS	nsa.whogohost.com.
 ozi.ng.			3600	IN	NS	nsb.whogohost.com.
 ozimotors.ng.		3600	IN	NS	ns47.qservers.net.
@@ -61218,9 +61220,11 @@ soundofsilence.ng.	3600	IN	NS	nsa.whogohost.com.
 soundofsilence.ng.	3600	IN	NS	nsb.whogohost.com.
 sounds.ng.		3600	IN	NS	jay.ns.cloudflare.com.
 sounds.ng.		3600	IN	NS	vera.ns.cloudflare.com.
-soundstroke.ng.		3600	IN	NS	ns1.digitalocean.com.
-soundstroke.ng.		3600	IN	NS	ns2.digitalocean.com.
-soundstroke.ng.		3600	IN	NS	ns3.digitalocean.com.
+soundstroke.ng.		3600	IN	NS	ns1.linode.com.
+soundstroke.ng.		3600	IN	NS	ns2.linode.com.
+soundstroke.ng.		3600	IN	NS	ns3.linode.com.
+soundstroke.ng.		3600	IN	NS	ns4.linode.com.
+soundstroke.ng.		3600	IN	NS	ns5.linode.com.
 soundvibes.ng.		3600	IN	NS	nsa.whogohost.com.
 soundvibes.ng.		3600	IN	NS	nsb.whogohost.com.
 soup.ng.		3600	IN	NS	ns1.sedoparking.com.
@@ -65341,9 +65345,9 @@ thebloomnetwork.ng.	3600	IN	NS	ns1.upperserver29.com.
 thebloomnetwork.ng.	3600	IN	NS	ns2.upperserver29.com.
 theblush.ng.		3600	IN	NS	kobe.ns.cloudflare.com.
 theblush.ng.		3600	IN	NS	blair.ns.cloudflare.com.
-thebo.ng.		86400	IN	DS	20024 13 2 7B3B22D70DAA2B5A83837C2DE5F8078B2AD29DB4AFBF53BF53CEADE4 F1A1840A
 thebo.ng.		3600	IN	NS	ns3.epik.com.
 thebo.ng.		3600	IN	NS	ns4.epik.com.
+thebo.ng.		86400	IN	DS	20024 13 2 7B3B22D70DAA2B5A83837C2DE5F8078B2AD29DB4AFBF53BF53CEADE4 F1A1840A
 theboardroomboss.ng.	3600	IN	NS	nsa.whogohost.com.
 theboardroomboss.ng.	3600	IN	NS	nsb.whogohost.com.
 thebodyshop.ng.		3600	IN	NS	ns1.markmonitor.com.
@@ -74445,4 +74449,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011905 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011908 10800 3600 604800 3600
