@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011908 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1642575632"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011911 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1642586438"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -4176,8 +4176,8 @@ apnohotelandsuites.ng.	3600	IN	NS	nsa.whogohost.com.
 apnohotelandsuites.ng.	3600	IN	NS	nsb.whogohost.com.
 apolife.ng.		3600	IN	NS	ns1.europe.eleven2.com.
 apolife.ng.		3600	IN	NS	ns2.europe.eleven2.com.
-apollo.ng.		3600	IN	NS	alla.ns.cloudflare.com.
-apollo.ng.		3600	IN	NS	bradley.ns.cloudflare.com.
+apollo.ng.		3600	IN	NS	nsa.whogohost.com.
+apollo.ng.		3600	IN	NS	nsb.whogohost.com.
 apologizi.ng.		3600	IN	NS	ns1.sedoparking.com.
 apologizi.ng.		3600	IN	NS	ns2.sedoparking.com.
 aposta.ng.		3600	IN	NS	ns1.selectel.org.
@@ -11552,6 +11552,8 @@ carloans.ng.		3600	IN	NS	ns1.dknoc.com.
 carloans.ng.		3600	IN	NS	ns2.dknoc.com.
 carloha.ng.		3600	IN	NS	ns1.alidns.com.
 carloha.ng.		3600	IN	NS	ns2.alidns.com.
+carlot.ng.		3600	IN	NS	ns1.dknoc.com.
+carlot.ng.		3600	IN	NS	ns2.dknoc.com.
 carlottery.ng.		3600	IN	NS	ns1.dknoc.com.
 carlottery.ng.		3600	IN	NS	ns2.dknoc.com.
 carmarket.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -12999,6 +13001,8 @@ chronaxbuildings.ng.	3600	IN	NS	nsa.whogohost.com.
 chronaxbuildings.ng.	3600	IN	NS	nsb.whogohost.com.
 chronicle.ng.		3600	IN	NS	ns1.dns-parking.com.
 chronicle.ng.		3600	IN	NS	ns2.dns-parking.com.
+chroniclenews.ng.	3600	IN	NS	ns23.hostnownow.com.
+chroniclenews.ng.	3600	IN	NS	ns24.hostnownow.com.
 chronograph.ng.		3600	IN	NS	ams-ns1.greengeeks.com.
 chronograph.ng.		3600	IN	NS	chi-ns1.greengeeks.com.
 chronograph.ng.		3600	IN	NS	chi-ns2.greengeeks.com.
@@ -13929,6 +13933,8 @@ cocoa.ng.		3600	IN	NS	ns1.dknoc.com.
 cocoa.ng.		3600	IN	NS	ns2.dknoc.com.
 cococreamery.ng.	3600	IN	NS	ns1.dknoc.com.
 cococreamery.ng.	3600	IN	NS	ns2.dknoc.com.
+cocoivy.ng.		3600	IN	NS	nsa.whogohost.com.
+cocoivy.ng.		3600	IN	NS	nsb.whogohost.com.
 coconut.ng.		3600	IN	NS	nsa.whogohost.com.
 coconut.ng.		3600	IN	NS	nsb.whogohost.com.
 coconutfestivalnigeria.ng. 3600	IN	NS	ns1.datasharetech.com.ng.
@@ -15011,6 +15017,10 @@ county.ng.		3600	IN	NS	ns2.littledotbig.com.
 county.ng.		3600	IN	NS	ns3.littledotbig.com.
 countyfinance.ng.	3600	IN	NS	ns2.littledotbig.com.
 countyfinance.ng.	3600	IN	NS	ns3.littledotbig.com.
+coupa.ng.		3600	IN	NS	a1-94.akam.net.
+coupa.ng.		3600	IN	NS	a4-65.akam.net.
+coupa.ng.		3600	IN	NS	a16-67.akam.net.
+coupa.ng.		3600	IN	NS	a26-64.akam.net.
 couplestv.ng.		3600	IN	NS	ns6333.hostgator.com.
 couplestv.ng.		3600	IN	NS	ns6334.hostgator.com.
 coupon.ng.		3600	IN	NS	ns1.sedoparking.com.
@@ -16572,8 +16582,8 @@ dati.ng.		3600	IN	NS	ns2.parkingcrew.net.
 dato.ng.		3600	IN	NS	ns1.gigalayer.com.
 dato.ng.		3600	IN	NS	ns2.gigalayer.com.
 dato.ng.		3600	IN	NS	ns3.gigalayer.com.
-dattijo.ng.		3600	IN	NS	dns1.lagosblacktuesday.com.
-dattijo.ng.		3600	IN	NS	dns2.lagosblacktuesday.com.
+dattijo.ng.		3600	IN	NS	ns1.siteground.net.
+dattijo.ng.		3600	IN	NS	ns2.siteground.net.
 datto.ng.		3600	IN	NS	ns1.bb-online.net.
 datto.ng.		3600	IN	NS	ns2.bb-online.org.
 datto.ng.		3600	IN	NS	ns3.bb-online.uk.
@@ -29437,7 +29447,6 @@ herstoryourstory.ng.	3600	IN	NS	ns58.domaincontrol.com.
 hertz.ng.		3600	IN	NS	dns4.hertz.com.
 hertz.ng.		3600	IN	NS	dns5.hertz.com.
 hertz.ng.		3600	IN	NS	dns6.hertz.com.
-hertzya.ng.		86400	IN	DS	2371 13 2 91A5969A0A45C1E6306530AEE9085B54917D23FE332D86225F1D521B 61FE574D
 hertzya.ng.		3600	IN	NS	piotr.ns.cloudflare.com.
 hertzya.ng.		3600	IN	NS	sarah.ns.cloudflare.com.
 hervest.ng.		3600	IN	NS	ns1.hervest.ng.
@@ -53314,8 +53323,10 @@ prophetic.ng.		3600	IN	NS	ns1.upperserver2.com.
 prophetic.ng.		3600	IN	NS	ns2.upperserver2.com.
 propheticlifestyle.ng.	3600	IN	NS	nsa.whogohost.com.
 propheticlifestyle.ng.	3600	IN	NS	nsb.whogohost.com.
-propkeys.ng.		3600	IN	NS	nsa.whogohost.com.
-propkeys.ng.		3600	IN	NS	nsb.whogohost.com.
+propkeys.ng.		3600	IN	NS	ns-442.awsdns-55.com.
+propkeys.ng.		3600	IN	NS	ns-770.awsdns-32.net.
+propkeys.ng.		3600	IN	NS	ns-1159.awsdns-16.org.
+propkeys.ng.		3600	IN	NS	ns-1818.awsdns-35.co.uk.
 propolitico.ng.		3600	IN	NS	nsa.whogohost.com.
 propolitico.ng.		3600	IN	NS	nsb.whogohost.com.
 propolitics.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -65345,9 +65356,9 @@ thebloomnetwork.ng.	3600	IN	NS	ns1.upperserver29.com.
 thebloomnetwork.ng.	3600	IN	NS	ns2.upperserver29.com.
 theblush.ng.		3600	IN	NS	kobe.ns.cloudflare.com.
 theblush.ng.		3600	IN	NS	blair.ns.cloudflare.com.
+thebo.ng.		86400	IN	DS	20024 13 2 7B3B22D70DAA2B5A83837C2DE5F8078B2AD29DB4AFBF53BF53CEADE4 F1A1840A
 thebo.ng.		3600	IN	NS	ns3.epik.com.
 thebo.ng.		3600	IN	NS	ns4.epik.com.
-thebo.ng.		86400	IN	DS	20024 13 2 7B3B22D70DAA2B5A83837C2DE5F8078B2AD29DB4AFBF53BF53CEADE4 F1A1840A
 theboardroomboss.ng.	3600	IN	NS	nsa.whogohost.com.
 theboardroomboss.ng.	3600	IN	NS	nsb.whogohost.com.
 thebodyshop.ng.		3600	IN	NS	ns1.markmonitor.com.
@@ -68948,8 +68959,8 @@ unitedstates.ng.	3600	IN	NS	ns1.nira.org.ng.
 unitenigeria.ng.	3600	IN	NS	ns1.digitalocean.com.
 unitenigeria.ng.	3600	IN	NS	ns2.digitalocean.com.
 unitenigeria.ng.	3600	IN	NS	ns3.digitalocean.com.
-unitree.ng.		3600	IN	NS	ns1.dknoc.com.
-unitree.ng.		3600	IN	NS	ns2.dknoc.com.
+unitree.ng.		3600	IN	NS	ns0.wixdns.net.
+unitree.ng.		3600	IN	NS	ns1.wixdns.net.
 units.ng.		3600	IN	NS	ns1.uneets.ng.
 units.ng.		3600	IN	NS	ns2.uneets.ng.
 unityboard.ng.		3600	IN	NS	ns1.skannet.com.ng.
@@ -69178,6 +69189,8 @@ urbanfootball.ng.	3600	IN	NS	nsa.whogohost.com.
 urbanfootball.ng.	3600	IN	NS	nsb.whogohost.com.
 urbanforms.ng.		3600	IN	NS	nsa.whogohost.com.
 urbanforms.ng.		3600	IN	NS	nsb.whogohost.com.
+urbangist.ng.		3600	IN	NS	ns1.qservers.net.
+urbangist.ng.		3600	IN	NS	ns2.qservers.net.
 urbanize.ng.		3600	IN	NS	ns5.zillionkinghost.com.
 urbanize.ng.		3600	IN	NS	ns6.zillionkinghost.com.
 urbanlet.ng.		3600	IN	NS	ns1.digitalocean.com.
@@ -74449,4 +74462,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011908 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011911 10800 3600 604800 3600
