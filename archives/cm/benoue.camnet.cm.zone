@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022012105 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022012112 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1642737622"
+cm.			86400	IN	TXT	"Generation Time: 1642762810"
 0.cm.			86400	IN	NS	ns1.dnspanel.com.
 0.cm.			86400	IN	NS	ns2.dnspanel.com.
 0-1.cm.			86400	IN	NS	ns1.ndns.cn.
@@ -15312,6 +15312,8 @@ agpev.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 agpev.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 agrevoeengineering.cm.	86400	IN	NS	ns1.mtnbusiness.cm.
 agrevoeengineering.cm.	86400	IN	NS	ns2.mtnbusiness.cm.
+agri-souhe.cm.		86400	IN	NS	ns.adac.cm.
+agri-souhe.cm.		86400	IN	NS	ns2.iccnet.cm.
 agriapp.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 agriapp.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 agriarts.cm.		86400	IN	NS	ns1.epizy.com.
@@ -28044,6 +28046,9 @@ colgate.cm.		86400	IN	NS	ns1.bodis.com.
 colgate.cm.		86400	IN	NS	ns2.bodis.com.
 colis.cm.		86400	IN	NS	ns19.ovh.net.
 colis.cm.		86400	IN	NS	dns19.ovh.net.
+colis237.cm.		86400	IN	NS	ns1.instradns.com.
+colis237.cm.		86400	IN	NS	ns2.instradns.com.
+colis237.cm.		86400	IN	NS	ns3.instradns.com.
 collage.cm.		86400	IN	NS	ns1.ii51.parklogic.com.
 collage.cm.		86400	IN	NS	ns2.ii51.parklogic.com.
 collarspace.cm.		86400	IN	NS	759.ns1.above.com.
@@ -59261,10 +59266,10 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
+ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
 namesilo.cm.		86400	IN	NS	ns2.bodis.com.
 nametests.cm.		86400	IN	NS	ns1.bodis.com.
@@ -65116,8 +65121,6 @@ plantronics.cm.		86400	IN	NS	dns1.cscdns.net.
 plantronics.cm.		86400	IN	NS	dns2.cscdns.net.
 plants.cm.		86400	IN	NS	ns1.parkingcrew.net.
 plants.cm.		86400	IN	NS	ns2.parkingcrew.net.
-planyourvaccine.cm.	86400	IN	NS	ns1.mytrafficmanagement.com.
-planyourvaccine.cm.	86400	IN	NS	ns2.mytrafficmanagement.com.
 plarium.cm.		86400	IN	NS	ns1.parkingcrew.net.
 plarium.cm.		86400	IN	NS	ns2.parkingcrew.net.
 plasarl.cm.		86400	IN	NS	ns1.hostamnow.com.
@@ -77055,6 +77058,9 @@ tbz.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 tbz.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 tc.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 tc.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
+tc1.cm.			86400	IN	NS	ns5.he.net.
+tc1.cm.			86400	IN	NS	dns3.nic.com.pk.
+tc1.cm.			86400	IN	NS	dns4.amchina.net.
 tc1.cm.			86400	IN	NS	leah.ns.cloudflare.com.
 tc1.cm.			86400	IN	NS	jacob.ns.cloudflare.com.
 tc111.cm.		86400	IN	NS	leah.ns.cloudflare.com.
@@ -88350,4 +88356,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022012105 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022012112 28800 3600 604800 86400
