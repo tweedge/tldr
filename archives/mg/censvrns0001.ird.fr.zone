@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012122 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012201 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1642802434"
+mg.			7200	IN	TXT	"Generation Time: 1642813294"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -7543,9 +7543,6 @@ novo-comm.mg.		86400	IN	NS	margot.ns.cloudflare.com.
 now.mg.			86400	IN	NS	ns1.domaindiscount24.net.
 now.mg.			86400	IN	NS	ns2.domaindiscount24.net.
 now.mg.			86400	IN	NS	ns3.domaindiscount24.net.
-ns.mg.			86400	IN	NS	ns-225-a.gandi.net.
-ns.mg.			86400	IN	NS	ns-166-c.gandi.net.
-ns.mg.			86400	IN	NS	ns-12-b.gandi.net.
 ns-entreprise.mg.	86400	IN	NS	ns1.hostns.io.
 ns-entreprise.mg.	86400	IN	NS	ns2.hostns.io.
 nsegsm.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
@@ -11413,4 +11410,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012122 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012201 600 3600 604800 86400
