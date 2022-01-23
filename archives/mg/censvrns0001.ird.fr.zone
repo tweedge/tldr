@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012304 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012307 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1642910446"
+mg.			7200	IN	TXT	"Generation Time: 1642921223"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1929,8 +1929,6 @@ brand.mg.		7200	IN	NS	a.dns.gandi.net.
 brasseries-star.mg.	7200	IN	NS	ns1.mg.tambazotra.net.
 brasseries-star.mg.	7200	IN	NS	ns2.mg.tambazotra.net.
 brasseries-star.mg.	7200	IN	NS	ns1.fr.malagasy.com.
-brauhaus.mg.		7200	IN	NS	ns1.da.cloudns.io.
-brauhaus.mg.		7200	IN	NS	ns2.da.cloudns.io.
 bricodis.mg.		7200	IN	NS	ns1.bricodis.mg.
 bricodis.mg.		7200	IN	NS	ns2.bricodis.mg.
 ns1.bricodis.mg.	7200	IN	A	162.214.214.162
@@ -5570,9 +5568,8 @@ juulvapor.mg.		86400	IN	NS	ns-1576.awsdns-05.co.uk.
 juulvapor.mg.		86400	IN	NS	ns-524.awsdns-01.net.
 juulvapor.mg.		86400	IN	NS	ns-70.awsdns-08.com.
 juulvapor.mg.		86400	IN	NS	ns-1029.awsdns-00.org.
-k9.mg.			86400	IN	NS	ns-13-b.gandi.net.
-k9.mg.			86400	IN	NS	ns-241-a.gandi.net.
-k9.mg.			86400	IN	NS	ns-34-c.gandi.net.
+k9.mg.			86400	IN	NS	jamie.ns.cloudflare.com.
+k9.mg.			86400	IN	NS	ray.ns.cloudflare.com.
 kaercher.mg.		86400	IN	NS	ns.inwx.de.
 kaercher.mg.		86400	IN	NS	ns2.inwx.de.
 kaercher.mg.		86400	IN	NS	ns3.inwx.eu.
@@ -6365,8 +6362,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -10389,8 +10386,6 @@ tranokala.mg.		86400	IN	NS	ns1.gasyweb.com.
 tranokala.mg.		86400	IN	NS	ns2.gasyweb.com.
 tranoko.mg.		86400	IN	NS	ns1.da.cloudns.io.
 tranoko.mg.		86400	IN	NS	ns2.da.cloudns.io.
-tranombokim-pirenena.mg. 86400	IN	NS	ns1.da.cloudns.io.
-tranombokim-pirenena.mg. 86400	IN	NS	ns2.da.cloudns.io.
 transcontinents.mg.	86400	IN	NS	ns.dts.mg.
 transcontinents.mg.	86400	IN	NS	ns1.dts.mg.
 translafatra.mg.	86400	IN	NS	dns107.ovh.net.
@@ -11402,4 +11397,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012304 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012307 600 3600 604800 86400
