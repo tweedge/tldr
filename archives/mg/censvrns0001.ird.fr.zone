@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012313 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012316 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1642942835"
+mg.			7200	IN	TXT	"Generation Time: 1642953637"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2634,8 +2634,8 @@ cpm.mg.			7200	IN	NS	ns29.illi.co.mg.
 cpm.mg.			7200	IN	NS	ns29.dot.mg.
 cra.mg.			7200	IN	NS	ns1.thewebsquare.com.
 cra.mg.			7200	IN	NS	ns2.thewebsquare.com.
-craam.mg.		7200	IN	NS	dns101.ovh.net.
-craam.mg.		7200	IN	NS	ns101.ovh.net.
+craam.mg.		7200	IN	NS	ns1.da.cloudns.io.
+craam.mg.		7200	IN	NS	ns2.da.cloudns.io.
 crdp7v.mg.		7200	IN	NS	ns1.da.cloudns.io.
 crdp7v.mg.		7200	IN	NS	ns2.da.cloudns.io.
 cream.mg.		7200	IN	NS	ns.dts.mg.
@@ -9522,6 +9522,9 @@ snis-sante.mg.		86400	IN	NS	ns.dts.mg.
 snis-sante.mg.		86400	IN	NS	ns1.dts.mg.
 snstatpeche.mg.		86400	IN	NS	ns.dts.mg.
 snstatpeche.mg.		86400	IN	NS	ns1.dts.mg.
+soa.mg.			86400	IN	NS	ns-115-a.gandi.net.
+soa.mg.			86400	IN	NS	ns-176-c.gandi.net.
+soa.mg.			86400	IN	NS	ns-181-b.gandi.net.
 soafiary.mg.		86400	IN	NS	ns1.servermada.com.
 soafiary.mg.		86400	IN	NS	ns2.servermada.com.
 soafly.mg.		86400	IN	NS	ns1.cloudns.io.
@@ -11397,4 +11400,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012313 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012316 600 3600 604800 86400
