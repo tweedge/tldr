@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022012413 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022012420 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1643025619"
+cm.			86400	IN	TXT	"Generation Time: 1643050819"
 0.cm.			86400	IN	NS	ns1.dnspanel.com.
 0.cm.			86400	IN	NS	ns2.dnspanel.com.
 0-1.cm.			86400	IN	NS	ns1.ndns.cn.
@@ -16294,6 +16294,8 @@ altaco.cm.		86400	IN	NS	ns3.markmonitor.com.
 altaco.cm.		86400	IN	NS	ns4.markmonitor.com.
 altaco.cm.		86400	IN	NS	ns6.markmonitor.com.
 altaco.cm.		86400	IN	NS	ns7.markmonitor.com.
+altae.cm.		86400	IN	NS	ns1.markmonitor.com.
+altae.cm.		86400	IN	NS	ns3.markmonitor.com.
 altardstate.cm.		86400	IN	NS	ns17.above.com.
 altardstate.cm.		86400	IN	NS	ns18.above.com.
 altaro.cm.		86400	IN	NS	ns17.above.com.
@@ -23217,6 +23219,8 @@ brightspace.cm.		86400	IN	NS	ns3.above.com.
 brightspace.cm.		86400	IN	NS	ns4.above.com.
 brighttalk.cm.		86400	IN	NS	ns1.bodis.com.
 brighttalk.cm.		86400	IN	NS	ns2.bodis.com.
+briiansclub.cm.		86400	IN	NS	dns1.registrar-servers.com.
+briiansclub.cm.		86400	IN	NS	dns2.registrar-servers.com.
 brikas.cm.		86400	IN	NS	dns1.maven2-sd26.com.
 brikas.cm.		86400	IN	NS	dns2.maven2-sd26.com.
 brillianceaudio.cm.	86400	IN	NS	ns-1.amazon.com.
@@ -35607,6 +35611,8 @@ etsmarino.cm.		86400	IN	NS	ns1045.ui-dns.de.
 etsmarino.cm.		86400	IN	NS	ns1045.ui-dns.biz.
 etsmarino.cm.		86400	IN	NS	ns1045.ui-dns.com.
 etsmarino.cm.		86400	IN	NS	ns1045.ui-dns.org.
+etsousmanou.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
+etsousmanou.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 etstur.cm.		86400	IN	NS	ns1.bodis.com.
 etstur.cm.		86400	IN	NS	ns2.bodis.com.
 etsy.cm.		86400	IN	NS	ns-257.awsdns-32.com.
@@ -38114,8 +38120,8 @@ foad-isstas.cm.		86400	IN	NS	ns1.camoogroup.com.
 foad-isstas.cm.		86400	IN	NS	ns2.camoogroup.com.
 focad.cm.		86400	IN	NS	ns11.hoststage.net.
 focad.cm.		86400	IN	NS	ns12.hoststage.net.
-focep.cm.		86400	IN	NS	cp5.dnshostservices.com.
-focep.cm.		86400	IN	NS	cp6.dnshostservices.com.
+focep.cm.		86400	IN	NS	dns2.lws-hosting.com.
+focep.cm.		86400	IN	NS	vps84110.serveur-vps.net.
 foco.cm.		86400	IN	NS	ns1.above.com.
 foco.cm.		86400	IN	NS	ns2.above.com.
 focus.cm.		86400	IN	NS	ns17.above.com.
@@ -59220,8 +59226,8 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
@@ -63424,6 +63430,12 @@ parallels.cm.		86400	IN	NS	pns23.cloudns.net.
 parallels.cm.		86400	IN	NS	pns24.cloudns.net.
 parallon.cm.		86400	IN	NS	ns1.bodis.com.
 parallon.cm.		86400	IN	NS	ns2.bodis.com.
+paramount.cm.		86400	IN	NS	dns1.p09.nsone.net.
+paramount.cm.		86400	IN	NS	dns2.p09.nsone.net.
+paramount.cm.		86400	IN	NS	dns3.p09.nsone.net.
+paramount.cm.		86400	IN	NS	dns4.p09.nsone.net.
+paramount.cm.		86400	IN	NS	ns0004.secondary.cloudflare.com.
+paramount.cm.		86400	IN	NS	ns0243.secondary.cloudflare.com.
 paramountbank.cm.	86400	IN	NS	ns1.above.com.
 paramountbank.cm.	86400	IN	NS	ns2.above.com.
 paramountnetwork.cm.	86400	IN	NS	ns1.mytrafficmanagement.com.
@@ -86676,6 +86688,8 @@ yalel0dge.cm.		86400	IN	NS	dns1.registrar-servers.com.
 yalel0dge.cm.		86400	IN	NS	dns2.registrar-servers.com.
 yalelodge.cm.		86400	IN	NS	ns1.reg.ru.
 yalelodge.cm.		86400	IN	NS	ns2.reg.ru.
+yalelodgee.cm.		86400	IN	NS	dns1.registrar-servers.com.
+yalelodgee.cm.		86400	IN	NS	dns2.registrar-servers.com.
 yallashoot.cm.		86400	IN	NS	ns1.bodis.com.
 yallashoot.cm.		86400	IN	NS	ns2.bodis.com.
 yalwa.cm.		86400	IN	NS	phil.ns.cloudflare.com.
@@ -88298,4 +88312,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022012413 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022012420 28800 3600 604800 86400
