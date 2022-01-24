@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012413 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012416 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1643029279"
+mg.			7200	IN	TXT	"Generation Time: 1643040087"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -10668,8 +10668,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11141,8 +11141,8 @@ wsa.mg.			86400	IN	NS	dns1.freehostia.com.
 wsa.mg.			86400	IN	NS	dns2.freehostia.com.
 wsc.mg.			86400	IN	NS	ns1.ipage.com.
 wsc.mg.			86400	IN	NS	ns2.ipage.com.
-wtam.mg.		86400	IN	NS	ns1.da.cloudns.io.
-wtam.mg.		86400	IN	NS	ns2.da.cloudns.io.
+wtam.mg.		86400	IN	NS	ns1.eden.dnshostnetwork.com.
+wtam.mg.		86400	IN	NS	ns2.eden.dnshostnetwork.com.
 wu.mg.			86400	IN	NS	ns1.markmonitor.com.
 wu.mg.			86400	IN	NS	ns2.markmonitor.com.
 wu.mg.			86400	IN	NS	ns4.markmonitor.com.
@@ -11395,4 +11395,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012413 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012416 600 3600 604800 86400
