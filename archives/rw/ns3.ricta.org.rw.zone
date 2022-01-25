@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022012513 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1643115621"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022012516 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1643126434"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -6280,8 +6280,9 @@ innocent.rw.		86400	IN	NS	ns1.kitech.rw.
 innocent.rw.		86400	IN	NS	ns2.kitech.rw.
 innocentlaw.rw.		86400	IN	NS	ns1.kitech.rw.
 innocentlaw.rw.		86400	IN	NS	ns2.kitech.rw.
-innovas.rw.		86400	IN	NS	ns541.webhosting.co.rw.
-innovas.rw.		86400	IN	NS	ns542.webhosting.co.rw.
+innovas.rw.		86400	IN	NS	ns1.digitalocean.com.
+innovas.rw.		86400	IN	NS	ns2.digitalocean.com.
+innovas.rw.		86400	IN	NS	ns3.digitalocean.com.
 innovate.rw.		86400	IN	NS	ns1.esicia.rw.
 innovate.rw.		86400	IN	NS	ns2.esicia.rw.
 innovaterwanda.rw.	86400	IN	NS	ns1.digitalocean.com.
@@ -9702,6 +9703,10 @@ obedoutfit.rw.		86400	IN	NS	ns1.ebdhosting.com.
 obedoutfit.rw.		86400	IN	NS	ns2.ebdhosting.com.
 obedoutfit.rw.		86400	IN	NS	ns3.ebdhosting.com.
 obedoutfit.rw.		86400	IN	NS	ns4.ebdhosting.com.
+objectivity.rw.		86400	IN	NS	ns1.bb-online.net.
+objectivity.rw.		86400	IN	NS	ns2.bb-online.org.
+objectivity.rw.		86400	IN	NS	ns3.bb-online.uk.
+objectivity.rw.		86400	IN	NS	ns4.bb-online.biz.
 ocag.rw.		86400	IN	NS	ns1.ebdhosting.com.
 ocag.rw.		86400	IN	NS	ns2.ebdhosting.com.
 ocag.rw.		86400	IN	NS	ns3.ebdhosting.com.
@@ -9856,9 +9861,9 @@ opendooradvisors.rw.	86400	IN	NS	ns8263.hostgator.com.
 opendooradvisors.rw.	86400	IN	NS	ns8264.hostgator.com.
 opentek.rw.		86400	IN	NS	rns31.webhostbox.net.
 opentek.rw.		86400	IN	NS	rns32.webhostbox.net.
-openteq.rw.		86400	IN	NS	ns3.afriregister.com.
-openteq.rw.		86400	IN	NS	ns5.afriregister.com.
-openteq.rw.		86400	IN	NS	ns6.afriregister.com.
+openteq.rw.		86400	IN	NS	dns1.web-hosting.com.
+openteq.rw.		86400	IN	NS	dns1.namecheaphosting.com.
+openteq.rw.		86400	IN	NS	dns2.namecheaphosting.com.
 opera.rw.		86400	IN	NS	ns1.theclickgroup.xyz.
 opera.rw.		86400	IN	NS	ns2.theclickgroup.xyz.
 opera.rw.		86400	IN	NS	ns3.theclickgroup.xyz.
@@ -14315,4 +14320,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022012513 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022012516 86400 7200 604800 1800

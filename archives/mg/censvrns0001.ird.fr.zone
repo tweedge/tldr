@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012513 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012516 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1643115627"
+mg.			7200	IN	TXT	"Generation Time: 1643126448"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2288,6 +2288,8 @@ chatmarketing.mg.	7200	IN	NS	ns1.da.cloudns.io.
 chatmarketing.mg.	7200	IN	NS	ns2.da.cloudns.io.
 chay.mg.		7200	IN	NS	elsa.ns.cloudflare.com.
 chay.mg.		7200	IN	NS	marek.ns.cloudflare.com.
+cheinmalt.mg.		7200	IN	NS	ns105.ovh.net.
+cheinmalt.mg.		7200	IN	NS	dns105.ovh.net.
 chemtech.mg.		7200	IN	NS	ns.dts.mg.
 chemtech.mg.		7200	IN	NS	ns1.dts.mg.
 chevalblanc.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
@@ -11398,4 +11400,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012513 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012516 600 3600 604800 86400
