@@ -21,7 +21,7 @@
 * `fj` via `ns1.fj.`: [Click here to view zone data.](archives/fj/ns1.fj.zone)
 * `fj` via `ns2.fj.`: [Click here to view zone data.](archives/fj/ns2.fj.zone)
 * `gp` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/ns2.nic.gp.zone)
-* `kg` via `NS2.kg.`: [Click here to view zone data.](archives/kg/NS2.kg.zone)
+* `kg` via `ns2.kg.`: [Click here to view zone data.](archives/kg/ns2.kg.zone)
 * `mg` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/mg/censvrns0001.ird.fr.zone)
 * `ng` via `nsa.nic.net.ng.`: [Click here to view zone data.](archives/ng/nsa.nic.net.ng.zone)
 * `pg` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns1.tiare.net.pg.zone)
