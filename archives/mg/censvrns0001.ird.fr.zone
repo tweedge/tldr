@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012815 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012820 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1643356940"
+mg.			7200	IN	TXT	"Generation Time: 1643374952"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -494,6 +494,8 @@ agencegenerale.mg.	7200	IN	NS	ns1.hostns.io.
 agencegenerale.mg.	7200	IN	NS	ns2.hostns.io.
 agenceroutiere.mg.	7200	IN	NS	brett.ns.cloudflare.com.
 agenceroutiere.mg.	7200	IN	NS	margot.ns.cloudflare.com.
+agenceweb.mg.		7200	IN	NS	ns1.o2switch.net.
+agenceweb.mg.		7200	IN	NS	ns2.o2switch.net.
 ageru.mg.		7200	IN	NS	ns1.onyx.cloudns.io.
 ageru.mg.		7200	IN	NS	ns2.onyx.cloudns.io.
 agetipa.mg.		7200	IN	NS	ns1.afraid.org.
@@ -1429,6 +1431,8 @@ ns3.banky-foibe.mg.	7200	IN	A	197.149.10.36
 bankyfirst.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
 bankyfirst.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 bankyfirst.mg.		7200	IN	NS	ns1.fr.malagasy.com.
+banque.mg.		7200	IN	NS	ns1.o2switch.net.
+banque.mg.		7200	IN	NS	ns2.o2switch.net.
 banque-centrale.mg.	7200	IN	NS	ns.banque-centrale.mg.
 banque-centrale.mg.	7200	IN	NS	ns3.banque-centrale.mg.
 banque-centrale.mg.	7200	IN	NS	ns1.banque-centrale.mg.
@@ -2485,8 +2489,8 @@ coinme.mg.		7200	IN	NS	ns1.101domain.com.
 coinme.mg.		7200	IN	NS	ns2.101domain.com.
 cola.mg.		7200	IN	NS	ursula.ns.cloudflare.com.
 cola.mg.		7200	IN	NS	yichun.ns.cloudflare.com.
-colearning.mg.		7200	IN	NS	ns1.sahazamarline.net.
-colearning.mg.		7200	IN	NS	ns2.sahazamarline.net.
+colearning.mg.		7200	IN	NS	ns1.o2switch.net.
+colearning.mg.		7200	IN	NS	ns2.o2switch.net.
 college-leparadisdesenfants.mg.	7200 IN	NS	ns1.cloudns.io.
 college-leparadisdesenfants.mg.	7200 IN	NS	ns2.cloudns.io.
 collegedefrance.mg.	7200	IN	NS	ns.tgn.mg.
@@ -5052,6 +5056,8 @@ imm.mg.			86400	IN	NS	ns1.da.cloudns.io.
 imm.mg.			86400	IN	NS	ns2.da.cloudns.io.
 immo-mantasoa.mg.	86400	IN	NS	ns31.infomaniak.com.
 immo-mantasoa.mg.	86400	IN	NS	ns32.infomaniak.com.
+immobilier.mg.		86400	IN	NS	ns1.o2switch.net.
+immobilier.mg.		86400	IN	NS	ns2.o2switch.net.
 immobilier-nosybe.mg.	86400	IN	NS	ns1.da.cloudns.io.
 immobilier-nosybe.mg.	86400	IN	NS	ns2.da.cloudns.io.
 immonosy.mg.		86400	IN	NS	ns1.dns-parking.com.
@@ -5500,6 +5506,7 @@ jobjob.mg.		86400	IN	NS	dns1.indritech.biz.
 jobjob.mg.		86400	IN	NS	dns2.indritech.biz.
 jobmada.mg.		86400	IN	NS	ns1.servermada.com.
 jobmada.mg.		86400	IN	NS	ns2.servermada.com.
+jobmada.mg.		86400	IN	NS	ns3.servermada.com.
 jobsclothing-design.mg.	86400	IN	NS	ns1.cloudns.io.
 jobsclothing-design.mg.	86400	IN	NS	ns2.cloudns.io.
 jocker.mg.		86400	IN	NS	ns.dts.mg.
@@ -6356,8 +6363,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -8145,6 +8152,8 @@ ns1.pharma-tech.mg.	86400	IN	A	78.46.252.81
 ns2.pharma-tech.mg.	86400	IN	A	78.46.252.81
 pharmabot.mg.		86400	IN	NS	pearl.ns.cloudflare.com.
 pharmabot.mg.		86400	IN	NS	yisroel.ns.cloudflare.com.
+pharmacie.mg.		86400	IN	NS	ns1.o2switch.net.
+pharmacie.mg.		86400	IN	NS	ns2.o2switch.net.
 pharmacieanalavory.mg.	86400	IN	NS	ns.dts.mg.
 pharmacieanalavory.mg.	86400	IN	NS	ns1.dts.mg.
 pharmaclic.mg.		86400	IN	NS	ns-1611.awsdns-09.co.uk.
@@ -10931,8 +10940,8 @@ vokatsoa.mg.		86400	IN	NS	ns1.da.cloudns.io.
 vokatsoa.mg.		86400	IN	NS	ns2.da.cloudns.io.
 vola.mg.		86400	IN	NS	drew.ns.cloudflare.com.
 vola.mg.		86400	IN	NS	elma.ns.cloudflare.com.
-volamahasoa.mg.		86400	IN	NS	dns1.supremepanel.com.
-volamahasoa.mg.		86400	IN	NS	dns2.supremepanel.com.
+volamahasoa.mg.		86400	IN	NS	ns1.da.cloudns.io.
+volamahasoa.mg.		86400	IN	NS	ns2.da.cloudns.io.
 volkswagen.mg.		86400	IN	NS	ns1.volkswagen.de.
 volkswagen.mg.		86400	IN	NS	ns5.xc-ns.de.
 volkswagen.mg.		86400	IN	NS	ns2.volkswagen.de.
@@ -11391,4 +11400,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012815 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012820 600 3600 604800 86400
