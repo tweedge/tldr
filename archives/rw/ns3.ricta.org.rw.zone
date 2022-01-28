@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022012816 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1643385685"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022012819 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1643396494"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -585,10 +585,6 @@ alien.rw.		1800	IN	NS	ns1.esicia.rw.
 alien.rw.		1800	IN	NS	ns2.esicia.rw.
 alikitech.rw.		1800	IN	NS	ns75.domaincontrol.com.
 alikitech.rw.		1800	IN	NS	ns76.domaincontrol.com.
-alineliquorstore.rw.	1800	IN	NS	ns1.ebdhosting.com.
-alineliquorstore.rw.	1800	IN	NS	ns2.ebdhosting.com.
-alineliquorstore.rw.	1800	IN	NS	ns3.ebdhosting.com.
-alineliquorstore.rw.	1800	IN	NS	ns4.ebdhosting.com.
 alis.rw.		1800	IN	NS	dns1000.kenyawebexperts.co.ke.
 alis.rw.		1800	IN	NS	dns1001.kenyawebexperts.co.ke.
 allcity.rw.		1800	IN	NS	ns1.kaneza.com.
@@ -3348,6 +3344,8 @@ drickshoes.rw.		1800	IN	NS	ns3.ebdhosting.com.
 drickshoes.rw.		1800	IN	NS	ns4.ebdhosting.com.
 drinks.rw.		1800	IN	NS	ns1091.ifastnet.com.
 drinks.rw.		1800	IN	NS	ns2091.ifastnet.com.
+dripcity.rw.		1800	IN	NS	dns1.namecheaphosting.com.
+dripcity.rw.		1800	IN	NS	dns2.namecheaphosting.com.
 driver.rw.		1800	IN	NS	ns3.afriregister.com.
 driver.rw.		1800	IN	NS	ns5.afriregister.com.
 driver.rw.		1800	IN	NS	ns6.afriregister.com.
@@ -7024,6 +7022,10 @@ kale.rw.		86400	IN	NS	ns5.afriregister.co.ke.
 kale.rw.		86400	IN	NS	ns6.afriregister.co.ke.
 kalholdings.rw.		86400	IN	NS	ns1.kitech.rw.
 kalholdings.rw.		86400	IN	NS	ns2.kitech.rw.
+kaliquorstore.rw.	86400	IN	NS	ns1.ebdhosting.com.
+kaliquorstore.rw.	86400	IN	NS	ns2.ebdhosting.com.
+kaliquorstore.rw.	86400	IN	NS	ns3.ebdhosting.com.
+kaliquorstore.rw.	86400	IN	NS	ns4.ebdhosting.com.
 kalka.rw.		86400	IN	NS	ns5.afriregister.com.
 kalka.rw.		86400	IN	NS	ns6.afriregister.com.
 kamagram.rw.		86400	IN	NS	ns3.afriregister.com.
@@ -7986,10 +7988,8 @@ liamwinkel.rw.		86400	IN	NS	ns2.mojahost.com.
 libi.rw.		86400	IN	NS	ns3.afriregister.com.
 libi.rw.		86400	IN	NS	ns5.afriregister.co.ke.
 libi.rw.		86400	IN	NS	ns6.afriregister.co.ke.
-libra.rw.		86400	IN	NS	ns-220.awsdns-27.com.
-libra.rw.		86400	IN	NS	ns-862.awsdns-43.net.
-libra.rw.		86400	IN	NS	ns-1324.awsdns-37.org.
-libra.rw.		86400	IN	NS	ns-1853.awsdns-39.co.uk.
+libra.rw.		86400	IN	NS	ns1.vercel-dns.com.
+libra.rw.		86400	IN	NS	ns2.vercel-dns.com.
 licacademy.rw.		86400	IN	NS	ns1.inoventikhost.com.
 licacademy.rw.		86400	IN	NS	ns2.inoventikhost.com.
 lidl.rw.		86400	IN	NS	ns1.eurodns.com.
@@ -14330,4 +14330,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022012816 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022012819 86400 7200 604800 1800
