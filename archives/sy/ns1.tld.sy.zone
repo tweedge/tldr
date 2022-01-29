@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022012915 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1643439744"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022012920 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1643450538"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1426,6 +1426,8 @@ arthouse.sy.		86400	IN	NS	ns1.alifouad91.com.
 arthouse.sy.		86400	IN	NS	ns2.alifouad91.com.
 artists-syndicate.sy.	86400	IN	NS	ns1.shamcenter.com.
 artists-syndicate.sy.	86400	IN	NS	ns2.shamcenter.com.
+arts.sy.		86400	IN	NS	ns1.entornodns.com.
+arts.sy.		86400	IN	NS	ns2.entornodns.com.
 aryan.sy.		86400	IN	NS	suspend1.tld.sy.
 aryan.sy.		86400	IN	NS	suspend2.tld.sy.
 asas.sy.		86400	IN	NS	ns3.bocme.net.
@@ -2116,8 +2118,8 @@ commercialbusinessgroup.sy. 86400 IN	NS	ns3.tld.sy.
 commercialbusinessgroup.sy. 86400 IN	NS	ns4.tld.sy.
 computer.sy.		86400	IN	NS	suspend1.tld.sy.
 computer.sy.		86400	IN	NS	suspend2.tld.sy.
-conceptinteriordesign.sy. 86400	IN	NS	ns3.tld.sy.
-conceptinteriordesign.sy. 86400	IN	NS	ns4.tld.sy.
+conceptinteriordesign.sy. 86400	IN	NS	suspend1.tld.sy.
+conceptinteriordesign.sy. 86400	IN	NS	suspend2.tld.sy.
 concrete-world.sy.	86400	IN	NS	suspend1.tld.sy.
 concrete-world.sy.	86400	IN	NS	suspend2.tld.sy.
 consulateofdjibouti.sy.	86400	IN	NS	ns1.alanqaa.com.
@@ -4695,8 +4697,8 @@ mobifone.sy.		86400	IN	NS	suspend1.tld.sy.
 mobifone.sy.		86400	IN	NS	suspend2.tld.sy.
 mobile.sy.		86400	IN	NS	suspend1.tld.sy.
 mobile.sy.		86400	IN	NS	suspend2.tld.sy.
-mobilesyria.sy.		86400	IN	NS	pat.ns.cloudflare.com.
-mobilesyria.sy.		86400	IN	NS	patryk.ns.cloudflare.com.
+mobilesyria.sy.		86400	IN	NS	suspend1.tld.sy.
+mobilesyria.sy.		86400	IN	NS	suspend2.tld.sy.
 mobily.sy.		86400	IN	NS	suspend1.tld.sy.
 mobily.sy.		86400	IN	NS	suspend2.tld.sy.
 mobocel.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -5586,8 +5588,8 @@ rk-syria.sy.		86400	IN	NS	suspend1.tld.sy.
 rk-syria.sy.		86400	IN	NS	suspend2.tld.sy.
 rmc-eng.sy.		86400	IN	NS	suspend1.tld.sy.
 rmc-eng.sy.		86400	IN	NS	suspend2.tld.sy.
-rmgroup.sy.		86400	IN	NS	ns1.flexsolutiondomains.com.
-rmgroup.sy.		86400	IN	NS	ns2.flexsolutiondomains.com.
+rmgroup.sy.		86400	IN	NS	suspend1.tld.sy.
+rmgroup.sy.		86400	IN	NS	suspend2.tld.sy.
 ro.sy.			86400	IN	NS	freedns1.registrar-servers.com.
 ro.sy.			86400	IN	NS	freedns2.registrar-servers.com.
 ro.sy.			86400	IN	NS	freedns3.registrar-servers.com.
@@ -7477,4 +7479,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022012915 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022012920 3600 3600 2592000 3600
