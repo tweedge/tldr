@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012914 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1643461227"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012917 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1643472033"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -27192,6 +27192,8 @@ glitters.ng.		3600	IN	NS	ns1.qservers.net.
 glitters.ng.		3600	IN	NS	ns2.qservers.net.
 glitz.ng.		3600	IN	NS	nsa.whogohost.com.
 glitz.ng.		3600	IN	NS	nsb.whogohost.com.
+glitzbay.ng.		3600	IN	NS	ns1.coreiservers.com.
+glitzbay.ng.		3600	IN	NS	ns2.coreiservers.com.
 glitznglam.ng.		3600	IN	NS	nsa.whogohost.com.
 glitznglam.ng.		3600	IN	NS	nsb.whogohost.com.
 glo.ng.			3600	IN	NS	ns1.bodis.com.
@@ -34448,6 +34450,8 @@ jolibity.ng.		3600	IN	NS	ns1.p15.dynect.net.
 jolibity.ng.		3600	IN	NS	ns2.p15.dynect.net.
 jolibity.ng.		3600	IN	NS	ns3.p15.dynect.net.
 jolibity.ng.		3600	IN	NS	ns4.p15.dynect.net.
+jollof.ng.		3600	IN	NS	nsa.whogohost.com.
+jollof.ng.		3600	IN	NS	nsb.whogohost.com.
 jollofrice.ng.		3600	IN	NS	dns2022a.trouble-free.net.
 jollofrice.ng.		3600	IN	NS	dns2022b.trouble-free.net.
 jolly.ng.		3600	IN	NS	ns2091248872.a2dns.com.
@@ -35632,6 +35636,8 @@ kidluxe.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 kidluxe.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 kidsage.ng.		3600	IN	NS	kami.ns.cloudflare.com.
 kidsage.ng.		3600	IN	NS	marty.ns.cloudflare.com.
+kidscode.ng.		3600	IN	NS	nsa.whogohost.com.
+kidscode.ng.		3600	IN	NS	nsb.whogohost.com.
 kidsdome.ng.		3600	IN	NS	nsa.whogohost.com.
 kidsdome.ng.		3600	IN	NS	nsb.whogohost.com.
 kidskastleschools.ng.	3600	IN	NS	ns33.qservers.net.
@@ -65158,6 +65164,8 @@ tee-effassociates.ng.	3600	IN	NS	ns17.garanntor.net.
 tee-effassociates.ng.	3600	IN	NS	ns18.garanntor.net.
 teeble.ng.		3600	IN	NS	ns33.qservers.net.
 teeble.ng.		3600	IN	NS	ns34.qservers.net.
+teedekpolytechnic.ng.	3600	IN	NS	bs1.certizonprivatedns.com.
+teedekpolytechnic.ng.	3600	IN	NS	bs2.certizonprivatedns.com.
 teejet.ng.		3600	IN	NS	dns1.cscdns.net.
 teejet.ng.		3600	IN	NS	dns2.cscdns.net.
 teekets.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -65973,8 +65981,8 @@ thefarmhouse.ng.	3600	IN	NS	ns1.justhost.com.
 thefarmhouse.ng.	3600	IN	NS	ns2.justhost.com.
 thefertilechick.ng.	3600	IN	NS	ns25.syskay.com.
 thefertilechick.ng.	3600	IN	NS	ns26.syskay.com.
-thefinishingschool.ng.	3600	IN	NS	ns1.wehostnow.com.
-thefinishingschool.ng.	3600	IN	NS	ns2.wehostnow.com.
+thefinishingschool.ng.	3600	IN	NS	ns35.qservers.net.
+thefinishingschool.ng.	3600	IN	NS	ns36.qservers.net.
 thefirstaidclub.ng.	3600	IN	NS	nsa.whogohost.com.
 thefirstaidclub.ng.	3600	IN	NS	nsb.whogohost.com.
 thefix.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -72042,8 +72050,10 @@ webi.ng.		3600	IN	NS	ns4.dnsbycomodo.net.
 webike.ng.		3600	IN	NS	ns01.trademarkarea.com.
 webike.ng.		3600	IN	NS	ns02.trademarkarea.com.
 webike.ng.		3600	IN	NS	ns03.trademarkarea.com.
-webinar.ng.		3600	IN	NS	rory.ns.cloudflare.com.
-webinar.ng.		3600	IN	NS	clara.ns.cloudflare.com.
+webinar.ng.		3600	IN	NS	ns1.webinar.ng.
+webinar.ng.		3600	IN	NS	ns2.webinar.ng.
+ns1.webinar.ng.		3600	IN	A	63.250.39.210
+ns2.webinar.ng.		3600	IN	A	63.250.39.211
 webindices.ng.		3600	IN	NS	ns1.webindices.com.ng.
 webindices.ng.		3600	IN	NS	ns2.webindices.com.ng.
 weblink.ng.		3600	IN	NS	dns3.whogohost.com.
@@ -74961,4 +74971,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012914 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012917 10800 3600 604800 3600
