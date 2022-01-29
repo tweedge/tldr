@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012919 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012922 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1643482824"
+mg.			7200	IN	TXT	"Generation Time: 1643493636"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -5520,9 +5520,8 @@ jovi.mg.		86400	IN	NS	ns2.brandcloudns.com.
 jovi.mg.		86400	IN	NS	ns3.brandcloudns.com.
 jpmotors.mg.		86400	IN	NS	ns1.da.cloudns.io.
 jpmotors.mg.		86400	IN	NS	ns2.da.cloudns.io.
-js.mg.			86400	IN	NS	ns-111-a.gandi.net.
-js.mg.			86400	IN	NS	ns-250-b.gandi.net.
-js.mg.			86400	IN	NS	ns-214-c.gandi.net.
+js.mg.			86400	IN	NS	robin.ns.cloudflare.com.
+js.mg.			86400	IN	NS	sri.ns.cloudflare.com.
 jub.mg.			86400	IN	NS	dns112.ovh.net.
 jub.mg.			86400	IN	NS	ns112.ovh.net.
 jumel.mg.		86400	IN	NS	dns200.anycast.me.
@@ -11384,4 +11383,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012919 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012922 600 3600 604800 86400

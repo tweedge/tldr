@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012920 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1643482839"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012923 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1643493626"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -26555,8 +26555,8 @@ geopost.ng.		3600	IN	NS	a.ns.domainoo.fr.
 geopost.ng.		3600	IN	NS	b.ns.domainoo.fr.
 geopost.ng.		3600	IN	NS	c.ns.domainoo.fr.
 geopost.ng.		3600	IN	NS	d.ns.domainoo.fr.
-george.ng.		3600	IN	NS	ns1.m81.siteground.biz.
-george.ng.		3600	IN	NS	ns2.m81.siteground.biz.
+george.ng.		3600	IN	NS	ns1.dns-parking.com.
+george.ng.		3600	IN	NS	ns2.dns-parking.com.
 georgemichael.ng.	3600	IN	NS	ns1.ipage.com.
 georgemichael.ng.	3600	IN	NS	ns2.ipage.com.
 georgia.ng.		3600	IN	NS	cp.nira.org.ng.
@@ -29023,6 +29023,8 @@ haru.ng.		3600	IN	NS	nsa.whogohost.com.
 haru.ng.		3600	IN	NS	nsb.whogohost.com.
 harusonsgroup.ng.	3600	IN	NS	nsa.whogohost.com.
 harusonsgroup.ng.	3600	IN	NS	nsb.whogohost.com.
+harvardhost.ng.		3600	IN	NS	ns1.harvardhost.com.
+harvardhost.ng.		3600	IN	NS	ns2.harvardhost.com.
 harvest.ng.		3600	IN	NS	jay.ns.cloudflare.com.
 harvest.ng.		3600	IN	NS	grace.ns.cloudflare.com.
 harvestbridge.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -45431,8 +45433,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -56556,6 +56558,8 @@ road.ng.		3600	IN	NS	ns1.sedoparking.com.
 road.ng.		3600	IN	NS	ns2.sedoparking.com.
 roadly.ng.		3600	IN	NS	nsa.whogohost.com.
 roadly.ng.		3600	IN	NS	nsb.whogohost.com.
+roadmaster.ng.		3600	IN	NS	nsa.whogohost.com.
+roadmaster.ng.		3600	IN	NS	nsb.whogohost.com.
 roadracers.ng.		3600	IN	NS	rs75a.registrar-servers.com.
 roadracers.ng.		3600	IN	NS	rs75b.registrar-servers.com.
 roadside.ng.		3600	IN	NS	ns43.qservers.net.
@@ -65755,9 +65759,9 @@ thebest.ng.		3600	IN	NS	nsa.whogohost.com.
 thebest.ng.		3600	IN	NS	nsb.whogohost.com.
 thebestfirst.ng.	3600	IN	NS	dns1.cscdns.net.
 thebestfirst.ng.	3600	IN	NS	dns2.cscdns.net.
+thebigbo.ng.		86400	IN	DS	21109 13 2 3709A850D7BA9484CE0A27B4D4688E7EEB02A938965996931D1F0BA8 BA9B15A8
 thebigbo.ng.		3600	IN	NS	ns3.epik.com.
 thebigbo.ng.		3600	IN	NS	ns4.epik.com.
-thebigbo.ng.		86400	IN	DS	21109 13 2 3709A850D7BA9484CE0A27B4D4688E7EEB02A938965996931D1F0BA8 BA9B15A8
 thebigdeal.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 thebigdeal.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 thebignews.ng.		3600	IN	NS	dns1.supremedns.com.
@@ -74981,4 +74985,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012920 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012923 10800 3600 604800 3600
