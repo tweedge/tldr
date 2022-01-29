@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012917 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1643472033"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012920 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1643482839"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -19163,6 +19163,8 @@ dvlresearch.ng.		3600	IN	NS	ns7.hostnownow.com.
 dvlresearch.ng.		3600	IN	NS	ns8.hostnownow.com.
 dwc.ng.			3600	IN	NS	nsa.whogohost.com.
 dwc.ng.			3600	IN	NS	nsb.whogohost.com.
+dwe.ng.			3600	IN	NS	ns1.upperserver29.com.
+dwe.ng.			3600	IN	NS	ns2.upperserver29.com.
 dwella.ng.		3600	IN	NS	ns1.servconfig.com.
 dwella.ng.		3600	IN	NS	ns2.servconfig.com.
 dwi.ng.			3600	IN	NS	ns1.alidns.com.
@@ -30591,6 +30593,8 @@ hourglassbootycamp.ng.	3600	IN	NS	nsa.whogohost.com.
 hourglassbootycamp.ng.	3600	IN	NS	nsb.whogohost.com.
 hous.ng.		3600	IN	NS	kara.ns.cloudflare.com.
 hous.ng.		3600	IN	NS	ishaan.ns.cloudflare.com.
+house24.ng.		3600	IN	NS	ns1.dknoc.com.
+house24.ng.		3600	IN	NS	ns2.dknoc.com.
 house5.ng.		3600	IN	NS	ns1.cloudoon.com.
 house5.ng.		3600	IN	NS	ns2.cloudoon.com.
 house5.ng.		3600	IN	NS	ns3.cloudoon.com.
@@ -36800,8 +36804,8 @@ lagosinnovates.ng.	3600	IN	NS	ns1297.websitewelcome.com.
 lagosinnovates.ng.	3600	IN	NS	ns1298.websitewelcome.com.
 lagosinnovationmasterplan.ng. 3600 IN	NS	dns1.namecheaphosting.com.
 lagosinnovationmasterplan.ng. 3600 IN	NS	dns2.namecheaphosting.com.
-lagosjobs.ng.		3600	IN	NS	nsa.whogohost.com.
-lagosjobs.ng.		3600	IN	NS	nsb.whogohost.com.
+lagosjobs.ng.		3600	IN	NS	ns1.bluehost.com.
+lagosjobs.ng.		3600	IN	NS	ns2.bluehost.com.
 lagoslandlord.ng.	3600	IN	NS	ns47.doveserver.com.
 lagoslandlord.ng.	3600	IN	NS	ns48.doveserver.com.
 lagoslotto.ng.		3600	IN	NS	ns1.upperserver29.com.
@@ -52310,6 +52314,8 @@ politicalzone.ng.	3600	IN	NS	ivan.ns.cloudflare.com.
 politicalzone.ng.	3600	IN	NS	kristin.ns.cloudflare.com.
 politichecks.ng.	3600	IN	NS	ns1.dknoc.com.
 politichecks.ng.	3600	IN	NS	ns2.dknoc.com.
+politick.ng.		3600	IN	NS	nsa.whogohost.com.
+politick.ng.		3600	IN	NS	nsb.whogohost.com.
 politico.ng.		3600	IN	NS	ns25.qservers.net.
 politico.ng.		3600	IN	NS	ns26.qservers.net.
 politicos.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -58894,6 +58900,8 @@ sepeteri.ng.		3600	IN	NS	ns1.inmotionhosting.com.
 sepeteri.ng.		3600	IN	NS	ns2.inmotionhosting.com.
 sephineprojects.ng.	3600	IN	NS	ns1.crapplet.in.
 sephineprojects.ng.	3600	IN	NS	ns2.crapplet.in.
+sequoia.ng.		3600	IN	NS	nsa.whogohost.com.
+sequoia.ng.		3600	IN	NS	nsb.whogohost.com.
 seranel.ng.		3600	IN	NS	ns1.lexsynergy.net.
 seranel.ng.		3600	IN	NS	ns2.lexsynergy.us.
 seranel.ng.		3600	IN	NS	ns3.lexsynergy.info.
@@ -65747,9 +65755,9 @@ thebest.ng.		3600	IN	NS	nsa.whogohost.com.
 thebest.ng.		3600	IN	NS	nsb.whogohost.com.
 thebestfirst.ng.	3600	IN	NS	dns1.cscdns.net.
 thebestfirst.ng.	3600	IN	NS	dns2.cscdns.net.
-thebigbo.ng.		86400	IN	DS	21109 13 2 3709A850D7BA9484CE0A27B4D4688E7EEB02A938965996931D1F0BA8 BA9B15A8
 thebigbo.ng.		3600	IN	NS	ns3.epik.com.
 thebigbo.ng.		3600	IN	NS	ns4.epik.com.
+thebigbo.ng.		86400	IN	DS	21109 13 2 3709A850D7BA9484CE0A27B4D4688E7EEB02A938965996931D1F0BA8 BA9B15A8
 thebigdeal.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 thebigdeal.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 thebignews.ng.		3600	IN	NS	dns1.supremedns.com.
@@ -67535,6 +67543,8 @@ topservices.ng.		3600	IN	NS	ns1.nw73.fcomet.com.
 topservices.ng.		3600	IN	NS	ns2.nw73.fcomet.com.
 topset.ng.		3600	IN	NS	ns1.bluehost.com.
 topset.ng.		3600	IN	NS	ns2.bluehost.com.
+topship.ng.		3600	IN	NS	ns1.upperserver29.com.
+topship.ng.		3600	IN	NS	ns2.upperserver29.com.
 topsuccess.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 topsuccess.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 toptalentedtutors.ng.	3600	IN	NS	dns1.namecheaphosting.com.
@@ -74971,4 +74981,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012917 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012920 10800 3600 604800 3600
