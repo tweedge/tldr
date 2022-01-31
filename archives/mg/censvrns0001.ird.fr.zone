@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022013119 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022013125 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1643623235"
+mg.			7200	IN	TXT	"Generation Time: 1643634033"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -350,8 +350,8 @@ acep.mg.		7200	IN	NS	ns.dts.mg.
 acep.mg.		7200	IN	NS	ns1.dts.mg.
 achat.mg.		7200	IN	NS	ns29.dot.mg.
 achat.mg.		7200	IN	NS	ns29.dotmg.net.
-acimmo.mg.		7200	IN	NS	ns.dts.mg.
-acimmo.mg.		7200	IN	NS	ns1.dts.mg.
+acimmo.mg.		7200	IN	NS	cp3.dnshostservices.com.
+acimmo.mg.		7200	IN	NS	cp4.dnshostservices.com.
 acipenser.mg.		7200	IN	NS	dns108.ovh.net.
 acipenser.mg.		7200	IN	NS	ns108.ovh.net.
 acj.mg.			7200	IN	NS	ns1.cloudns.io.
@@ -2797,6 +2797,8 @@ debosselage.mg.		7200	IN	NS	dns10.ovh.net.
 debosselage.mg.		7200	IN	NS	ns10.ovh.net.
 decakila.mg.		7200	IN	NS	ns01.trademarkarea.com.
 decakila.mg.		7200	IN	NS	ns02.trademarkarea.com.
+decant.mg.		7200	IN	NS	ns.tgn.mg.
+decant.mg.		7200	IN	NS	ns1.tgn.mg.
 decathlon.mg.		7200	IN	NS	udns1.cscdns.net.
 decathlon.mg.		7200	IN	NS	udns2.cscdns.uk.
 decocenter.mg.		7200	IN	NS	ns1.servermada.com.
@@ -3249,6 +3251,8 @@ education.mg.		7200	IN	NS	ns.dts.mg.
 education.mg.		7200	IN	NS	ns1.dts.mg.
 education-madagascar.mg. 7200	IN	NS	ns1.da.cloudns.io.
 education-madagascar.mg. 7200	IN	NS	ns2.da.cloudns.io.
+edukely.mg.		7200	IN	NS	ns3029304.ip-178-33-237.eu.
+edukely.mg.		7200	IN	NS	sdns2.ovh.net.
 efd.mg.			7200	IN	NS	emely.ns.cloudflare.com.
 efd.mg.			7200	IN	NS	maciej.ns.cloudflare.com.
 egd.mg.			7200	IN	NS	dns12.ovh.net.
@@ -4456,6 +4460,8 @@ groupeauxiliaire.mg.	86400	IN	NS	ns1.servermada.com.
 groupeauxiliaire.mg.	86400	IN	NS	ns2.servermada.com.
 groupebasan.mg.		86400	IN	NS	paul.ns.cloudflare.com.
 groupebasan.mg.		86400	IN	NS	venus.ns.cloudflare.com.
+groupedecant.mg.	86400	IN	NS	ns.tgn.mg.
+groupedecant.mg.	86400	IN	NS	ns1.tgn.mg.
 groupedt.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
 groupedt.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
 groupelhotel.mg.	86400	IN	NS	ns1.servermada.com.
@@ -5772,8 +5778,8 @@ l64.mg.			86400	IN	NS	ns.udag.net.
 l64.mg.			86400	IN	NS	ns.udag.org.
 labelcom.mg.		86400	IN	NS	ns1.gasyweb.com.
 labelcom.mg.		86400	IN	NS	ns2.gasyweb.com.
-labirint.mg.		86400	IN	NS	ns1.cloudns.io.
-labirint.mg.		86400	IN	NS	ns2.cloudns.io.
+labirint.mg.		86400	IN	NS	ns1.da.cloudns.io.
+labirint.mg.		86400	IN	NS	ns2.da.cloudns.io.
 labo.mg.		86400	IN	NS	ns-42-b.gandi.net.
 labo.mg.		86400	IN	NS	ns-2-c.gandi.net.
 labo.mg.		86400	IN	NS	ns-182-a.gandi.net.
@@ -6348,8 +6354,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -6719,6 +6725,8 @@ mca.mg.			86400	IN	NS	sdns2.ovh.net.
 mca.mg.			86400	IN	NS	ns3013440.ip-151-80-103.eu.
 mcb.mg.			86400	IN	NS	ns107.ovh.net.
 mcb.mg.			86400	IN	NS	dns107.ovh.net.
+mcc-gov.mg.		86400	IN	NS	ns1.da.cloudns.io.
+mcc-gov.mg.		86400	IN	NS	ns2.da.cloudns.io.
 mcdigital.mg.		86400	IN	NS	ns1.da.cloudns.io.
 mcdigital.mg.		86400	IN	NS	ns2.da.cloudns.io.
 mcdp.mg.		86400	IN	NS	ns1.servermada.com.
@@ -11375,4 +11383,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022013119 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022013125 600 3600 604800 86400
