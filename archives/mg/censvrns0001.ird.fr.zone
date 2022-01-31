@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022013107 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022013113 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1643601643"
+mg.			7200	IN	TXT	"Generation Time: 1643612435"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -442,8 +442,8 @@ aeromarine.mg.		7200	IN	NS	ns.dts.mg.
 aeromarine.mg.		7200	IN	NS	ns1.dts.mg.
 aerovillage.mg.		7200	IN	NS	dns14.ovh.net.
 aerovillage.mg.		7200	IN	NS	ns14.ovh.net.
-aes.mg.			7200	IN	NS	ns1.cloudns.io.
-aes.mg.			7200	IN	NS	ns2.cloudns.io.
+aes.mg.			7200	IN	NS	ns1.da.cloudns.io.
+aes.mg.			7200	IN	NS	ns2.da.cloudns.io.
 afafi-mutuelle.mg.	7200	IN	NS	ns1.cloudns.io.
 afafi-mutuelle.mg.	7200	IN	NS	ns2.cloudns.io.
 afflelouparis.mg.	7200	IN	NS	ns3.nameshield.net.
@@ -768,6 +768,8 @@ americanlock.mg.	7200	IN	NS	ns1.netnames.net.
 americanlock.mg.	7200	IN	NS	ns2.netnames.net.
 ametis.mg.		7200	IN	NS	dns200.anycast.me.
 ametis.mg.		7200	IN	NS	ns200.anycast.me.
+amf.mg.			7200	IN	NS	ns1.eden.dnshostnetwork.com.
+amf.mg.			7200	IN	NS	ns2.eden.dnshostnetwork.com.
 amic.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
 amic.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 amic.mg.		7200	IN	NS	ns1.fr.malagasy.com.
@@ -3243,8 +3245,6 @@ education.mg.		7200	IN	NS	ns.dts.mg.
 education.mg.		7200	IN	NS	ns1.dts.mg.
 education-madagascar.mg. 7200	IN	NS	ns1.da.cloudns.io.
 education-madagascar.mg. 7200	IN	NS	ns2.da.cloudns.io.
-edukely.mg.		7200	IN	NS	ns3029304.ip-178-33-237.eu.
-edukely.mg.		7200	IN	NS	sdns2.ovh.net.
 efd.mg.			7200	IN	NS	emely.ns.cloudflare.com.
 efd.mg.			7200	IN	NS	maciej.ns.cloudflare.com.
 egd.mg.			7200	IN	NS	dns12.ovh.net.
@@ -3337,8 +3337,6 @@ emtop.mg.		7200	IN	NS	ns01.trademarkarea.com.
 emtop.mg.		7200	IN	NS	ns02.trademarkarea.com.
 en-jeu.mg.		7200	IN	NS	dns100.ovh.net.
 en-jeu.mg.		7200	IN	NS	ns100.ovh.net.
-en2roues.mg.		7200	IN	NS	ns29.dot.mg.
-en2roues.mg.		7200	IN	NS	ns29.illi.co.mg.
 enac.mg.		7200	IN	NS	ns.dts.mg.
 enac.mg.		7200	IN	NS	ns1.dts.mg.
 enam.mg.		7200	IN	NS	dns1.namecheaphosting.com.
@@ -3348,8 +3346,6 @@ encountermada.mg.	7200	IN	NS	ns2.mg.tambazotra.net.
 encountermada.mg.	7200	IN	NS	ns1.fr.malagasy.com.
 enda.mg.		7200	IN	NS	ns.dts.mg.
 enda.mg.		7200	IN	NS	ns1.dts.mg.
-endeuxroues.mg.		7200	IN	NS	ns29.dot.mg.
-endeuxroues.mg.		7200	IN	NS	ns29.illi.co.mg.
 endismad.mg.		7200	IN	NS	ns1.rungraphikserv.com.
 endismad.mg.		7200	IN	NS	ns2.rungraphikserv.com.
 endismad.mg.		7200	IN	NS	ns3.rungraphikserv.com.
@@ -3457,8 +3453,6 @@ escm.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 escm.mg.		86400	IN	NS	ns1.fr.malagasy.com.
 esd.mg.			86400	IN	NS	ns1.madanetinfo.mg.
 esd.mg.			86400	IN	NS	ns2.madanetinfo.mg.
-eselas.mg.		86400	IN	NS	ns1.indritech.mg.
-eselas.mg.		86400	IN	NS	ns2.indritech.mg.
 esf.mg.			86400	IN	NS	ns1.da.cloudns.io.
 esf.mg.			86400	IN	NS	ns2.da.cloudns.io.
 eshaqui.mg.		86400	IN	NS	ns1.o2switch.net.
@@ -5507,8 +5501,6 @@ joshtech.mg.		86400	IN	NS	cpanel15.lws-hosting.com.
 joshtech.mg.		86400	IN	NS	cpanel16.lws-hosting.com.
 jostech.mg.		86400	IN	NS	cpanel15.lws-hosting.com.
 jostech.mg.		86400	IN	NS	cpanel16.lws-hosting.com.
-jour-j.mg.		86400	IN	NS	cpanel9.lws-hosting.com.
-jour-j.mg.		86400	IN	NS	cpanel10.lws-hosting.com.
 jovena.mg.		86400	IN	NS	ns.dts.mg.
 jovena.mg.		86400	IN	NS	ns1.dts.mg.
 jovenna.mg.		86400	IN	NS	ns.dts.mg.
@@ -6283,9 +6275,9 @@ madagascar-edu.mg.	86400	IN	NS	ns2.servermada.com.
 madagascar-instn.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns1.fr.malagasy.com.
+madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-internet.mg.	86400	IN	NS	ns1.servermada.com.
 madagascar-internet.mg.	86400	IN	NS	ns2.servermada.com.
-madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns2.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.fr.malagasy.com.
@@ -9174,8 +9166,6 @@ secrid.mg.		86400	IN	NS	dns1.novagraaf-dns.com.
 secrid.mg.		86400	IN	NS	dns2.novagraaf-dns.net.
 sectionbasketballantananarivorenivohitra.mg. 86400 IN NS ns1.epizy.com.
 sectionbasketballantananarivorenivohitra.mg. 86400 IN NS ns2.epizy.com.
-secure.mg.		86400	IN	NS	ns1705.websitewelcome.com.
-secure.mg.		86400	IN	NS	ns1706.websitewelcome.com.
 securex.mg.		86400	IN	NS	ns1.o2switch.net.
 securex.mg.		86400	IN	NS	ns2.o2switch.net.
 securpromada.mg.	86400	IN	NS	ns1.cloudns.io.
@@ -11377,4 +11367,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022013107 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022013113 600 3600 604800 86400
