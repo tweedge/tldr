@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022013121 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1643644775"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022013127 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1643655579"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -24405,9 +24405,8 @@ flexipack.ng.		3600	IN	NS	ns1.web4africa.com.
 flexipack.ng.		3600	IN	NS	ns2.web4africa.com.
 flexipack.ng.		3600	IN	NS	ns3.web4africa.com.
 flexipack.ng.		3600	IN	NS	ns4.web4africa.com.
-flexisaf.ng.		3600	IN	NS	ns1.gigalayer.com.
-flexisaf.ng.		3600	IN	NS	ns2.gigalayer.com.
-flexisaf.ng.		3600	IN	NS	ns3.gigalayer.com.
+flexisaf.ng.		3600	IN	NS	ns.liquidweb.com.
+flexisaf.ng.		3600	IN	NS	ns1.liquidweb.com.
 flexispace.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 flexispace.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 flexit.ng.		3600	IN	NS	ns1.upperserver29.com.
@@ -33165,6 +33164,8 @@ irc.ng.			3600	IN	NS	a.ns14.net.
 irc.ng.			3600	IN	NS	b.ns14.net.
 irc.ng.			3600	IN	NS	c.ns14.net.
 irc.ng.			3600	IN	NS	d.ns14.net.
+ird-gov.ng.		3600	IN	NS	nsa.whogohost.com.
+ird-gov.ng.		3600	IN	NS	nsb.whogohost.com.
 irecharge.ng.		3600	IN	NS	ns1.justhost.com.
 irecharge.ng.		3600	IN	NS	ns2.justhost.com.
 iregun.ng.		3600	IN	NS	ns1.syskay.com.
@@ -35898,8 +35899,8 @@ kiwikrypto.ng.		3600	IN	NS	ns1.dknoc.com.
 kiwikrypto.ng.		3600	IN	NS	ns2.dknoc.com.
 kiz.ng.			3600	IN	NS	ns1.dns-parking.com.
 kiz.ng.			3600	IN	NS	ns2.dns-parking.com.
-kizomba.ng.		3600	IN	NS	ns1.dns-parking.com.
-kizomba.ng.		3600	IN	NS	ns2.dns-parking.com.
+kizomba.ng.		3600	IN	NS	emma.ns.cloudflare.com.
+kizomba.ng.		3600	IN	NS	leif.ns.cloudflare.com.
 kjb.ng.			3600	IN	NS	ns1.hellodemola.com.
 kjb.ng.			3600	IN	NS	ns2.hellodemola.com.
 kkmoney.ng.		3600	IN	NS	ns1.alidns.com.
@@ -36026,6 +36027,8 @@ knowledgecentergroup.ng. 3600	IN	NS	dns2.doveserver.com.
 knowledgeeconomy.ng.	3600	IN	NS	ns1.101domain.com.
 knowledgeeconomy.ng.	3600	IN	NS	ns2.101domain.com.
 knowledgeeconomy.ng.	3600	IN	NS	ns5.101domain.com.
+knowledgefix.ng.	3600	IN	NS	nsa.whogohost.com.
+knowledgefix.ng.	3600	IN	NS	nsb.whogohost.com.
 knowledgehub.ng.	3600	IN	NS	nsa.whogohost.com.
 knowledgehub.ng.	3600	IN	NS	nsb.whogohost.com.
 knowledgeminds.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -41523,6 +41526,10 @@ metaportal.ng.		3600	IN	NS	ns1.101domain.com.
 metaportal.ng.		3600	IN	NS	ns2.101domain.com.
 metaprogramming.ng.	3600	IN	NS	nsa.whogohost.com.
 metaprogramming.ng.	3600	IN	NS	nsb.whogohost.com.
+metaquest.ng.		3600	IN	NS	ns1.lovellsnames.org.
+metaquest.ng.		3600	IN	NS	ns2.lovellsnames.org.
+metaquest.ng.		3600	IN	NS	ns3.lovellsnames.org.
+metaquest.ng.		3600	IN	NS	ns4.lovellsnames.org.
 metari.ng.		3600	IN	NS	ns1.web4africa.com.
 metari.ng.		3600	IN	NS	ns2.web4africa.com.
 metari.ng.		3600	IN	NS	ns3.web4africa.com.
@@ -44607,6 +44614,8 @@ naijaplanet.ng.		3600	IN	NS	ns3.linode.com.
 naijaplanet.ng.		3600	IN	NS	ns4.linode.com.
 naijapolis.ng.		3600	IN	NS	ns3.utiware.net.
 naijapolis.ng.		3600	IN	NS	ns5.utiware.net.
+naijapolls.ng.		3600	IN	NS	nsa.whogohost.com.
+naijapolls.ng.		3600	IN	NS	nsb.whogohost.com.
 naijapost.ng.		3600	IN	NS	dan.ns.cloudflare.com.
 naijapost.ng.		3600	IN	NS	jean.ns.cloudflare.com.
 naijapress.ng.		3600	IN	NS	dan.ns.cloudflare.com.
@@ -45449,8 +45458,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -70578,6 +70587,10 @@ viagra.ng.		3600	IN	NS	ns1.pfizer.com.
 viagra.ng.		3600	IN	NS	ns2.pfizer.com.
 viagra.ng.		3600	IN	NS	ns3.pfizer.com.
 viagra.ng.		3600	IN	NS	ns4.pfizer.com.
+vialto.ng.		3600	IN	NS	ns1.markmonitor.com.
+vialto.ng.		3600	IN	NS	ns2.markmonitor.com.
+vialtopartners.ng.	3600	IN	NS	ns1.markmonitor.com.
+vialtopartners.ng.	3600	IN	NS	ns2.markmonitor.com.
 viaplay.ng.		3600	IN	NS	dns1.zaccodigitaltrustlabs.com.
 viaplay.ng.		3600	IN	NS	dns2.zaccodigitaltrustlabs.net.
 viaplay.ng.		3600	IN	NS	dns3.zaccodigitaltrustlabs.se.
@@ -75035,4 +75048,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022013121 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022013127 10800 3600 604800 3600
