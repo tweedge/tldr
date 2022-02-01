@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022020115 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022020117 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -473,6 +473,9 @@ askguadeloupkart.gp.	86400	IN	NS	ns1045.ui-dns.de.
 askguadeloupkart.gp.	86400	IN	NS	ns1045.ui-dns.biz.
 askguadeloupkart.gp.	86400	IN	NS	ns1045.ui-dns.com.
 askguadeloupkart.gp.	86400	IN	NS	ns1045.ui-dns.org.
+asm.gp.			86400	IN	NS	ns1.francedns.com.
+asm.gp.			86400	IN	NS	ns2.francedns.com.
+asm.gp.			86400	IN	NS	ns3.francedns.com.
 asmad.gp.		86400	IN	NS	pat.ns.cloudflare.com.
 asmad.gp.		86400	IN	NS	clark.ns.cloudflare.com.
 asos.gp.		86400	IN	NS	ns1.netnames.net.
@@ -2360,8 +2363,10 @@ hitachi.gp.		86400	IN	NS	rns1.rightsdns.com.
 hitachi.gp.		86400	IN	NS	rns2.rightsdns.com.
 hkk.gp.			86400	IN	NS	ken.ns.cloudflare.com.
 hkk.gp.			86400	IN	NS	mary.ns.cloudflare.com.
-hm.gp.			86400	IN	NS	dns1.yandex.net.
-hm.gp.			86400	IN	NS	dns2.yandex.net.
+hm.gp.			86400	IN	NS	ns1.hm.ws.
+hm.gp.			86400	IN	NS	ns2.hm.ws.
+hm.gp.			86400	IN	NS	ns3.hm.ws.
+hm.gp.			86400	IN	NS	ns4.hm.ws.
 hn.gp.			86400	IN	NS	ns1.sedoparking.com.
 hn.gp.			86400	IN	NS	ns2.sedoparking.com.
 homedepot.gp.		86400	IN	NS	ns2.homedepot.com.
@@ -5417,4 +5422,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022020115 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022020117 86400 7200 2592000 345600
