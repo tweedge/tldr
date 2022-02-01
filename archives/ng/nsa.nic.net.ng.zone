@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020110 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1643688028"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020116 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1643698833"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -37238,8 +37238,8 @@ laundrybase.ng.		3600	IN	NS	ns21.smartwebng.com.
 laundrybase.ng.		3600	IN	NS	ns22.smartwebng.com.
 laundrybay.ng.		3600	IN	NS	ns1.cp-12.webhostbox.net.
 laundrybay.ng.		3600	IN	NS	ns2.cp-12.webhostbox.net.
-laundrycare.ng.		3600	IN	NS	nsa.whogohost.com.
-laundrycare.ng.		3600	IN	NS	nsb.whogohost.com.
+laundrycare.ng.		3600	IN	NS	nsa1.laundrycare.ng.
+nsa1.laundrycare.ng.	3600	IN	A	162.0.230.171
 laundrycircle.ng.	3600	IN	NS	ns1.web4africa.com.
 laundrycircle.ng.	3600	IN	NS	ns2.web4africa.com.
 laundrycircle.ng.	3600	IN	NS	ns3.web4africa.com.
@@ -45446,8 +45446,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -75042,4 +75042,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020110 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020116 10800 3600 604800 3600
