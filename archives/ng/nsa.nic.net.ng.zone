@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020238 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1643825610"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020244 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1643836420"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -1416,6 +1416,10 @@ acki.ng.		3600	IN	NS	ns1.101domain.com.
 acki.ng.		3600	IN	NS	ns2.101domain.com.
 acl.ng.			3600	IN	NS	vres1.tinitop.com.
 acl.ng.			3600	IN	NS	vres2.tinitop.com.
+aclogistics.ng.		3600	IN	NS	ns1.web4africa.com.
+aclogistics.ng.		3600	IN	NS	ns2.web4africa.com.
+aclogistics.ng.		3600	IN	NS	ns3.web4africa.com.
+aclogistics.ng.		3600	IN	NS	ns4.web4africa.com.
 acltd.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 acltd.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 acmeengineering.ng.	3600	IN	NS	dns1.doveserver.com.
@@ -10678,8 +10682,8 @@ buyeverything.ng.	3600	IN	NS	ns11.eapps.com.
 buyeverything.ng.	3600	IN	NS	ns12.eapps.com.
 buyeverything.ng.	3600	IN	NS	ns13.eapps.com.
 buyeverything.ng.	3600	IN	NS	ns14.eapps.com.
-buyex.ng.		3600	IN	NS	ns47.qservers.net.
-buyex.ng.		3600	IN	NS	ns48.qservers.net.
+buyex.ng.		3600	IN	NS	ns1.dns-parking.com.
+buyex.ng.		3600	IN	NS	ns2.dns-parking.com.
 buyfelicia.ng.		3600	IN	NS	ns1.upperserver29.com.
 buyfelicia.ng.		3600	IN	NS	ns2.upperserver29.com.
 buyfood.ng.		3600	IN	NS	ns-295.awsdns-36.com.
@@ -25673,6 +25677,8 @@ fruitjuice.ng.		3600	IN	NS	nsb.whogohost.com.
 fruugo.ng.		3600	IN	NS	ns1.netim.net.
 fruugo.ng.		3600	IN	NS	ns2.netim.net.
 fruugo.ng.		3600	IN	NS	ns3.netim.net.
+fsalegal.ng.		3600	IN	NS	nsa.whogohost.com.
+fsalegal.ng.		3600	IN	NS	nsb.whogohost.com.
 fsbet.ng.		3600	IN	NS	ns01.trademarkarea.com.
 fsbet.ng.		3600	IN	NS	ns02.trademarkarea.com.
 fsbet.ng.		3600	IN	NS	ns03.trademarkarea.com.
@@ -34205,8 +34211,8 @@ jij.ng.			3600	IN	NS	ns1.dknoc.com.
 jij.ng.			3600	IN	NS	ns2.dknoc.com.
 jiji.ng.		3600	IN	NS	ara.ns.cloudflare.com.
 jiji.ng.		3600	IN	NS	tom.ns.cloudflare.com.
-jimbest.ng.		3600	IN	NS	ns1.giow1069.siteground.us.
-jimbest.ng.		3600	IN	NS	ns2.giow1069.siteground.us.
+jimbest.ng.		3600	IN	NS	ns1.server-root.com.
+jimbest.ng.		3600	IN	NS	ns2.server-root.com.
 jimeds.ng.		3600	IN	NS	pdns1.hostiq.ua.
 jimeds.ng.		3600	IN	NS	pdns2.hostiq.ua.
 jimmy.ng.		3600	IN	NS	ns2.wixdns.net.
@@ -42318,6 +42324,8 @@ mobileeyedr.ng.		3600	IN	NS	ns1.qservers.net.
 mobileeyedr.ng.		3600	IN	NS	ns2.qservers.net.
 mobilefoodmarket.ng.	3600	IN	NS	ns1.dkshared1.com.
 mobilefoodmarket.ng.	3600	IN	NS	ns2.dkshared1.com.
+mobilefoot.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+mobilefoot.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 mobilegaming.ng.	3600	IN	NS	ns1.aa084.parklogic.com.
 mobilegaming.ng.	3600	IN	NS	ns2.aa084.parklogic.com.
 mobilehealth.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -45515,8 +45523,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -62469,6 +62477,8 @@ srgglobal.ng.		3600	IN	NS	wns41.dailyrazor.com.
 srgglobal.ng.		3600	IN	NS	wns42.dailyrazor.com.
 srgglobal.ng.		3600	IN	NS	xns29.dailyrazor.com.
 srgglobal.ng.		3600	IN	NS	xns30.dailyrazor.com.
+srgrealtors.ng.		3600	IN	NS	nsa.whogohost.com.
+srgrealtors.ng.		3600	IN	NS	nsb.whogohost.com.
 srilanka.ng.		3600	IN	NS	cp.nira.org.ng.
 srilanka.ng.		3600	IN	NS	ns1.nira.org.ng.
 srms.ng.		3600	IN	NS	ns.liquidweb.com.
@@ -71186,6 +71196,8 @@ viv.ng.			3600	IN	NS	dns1.doveserver.com.
 viv.ng.			3600	IN	NS	dns2.doveserver.com.
 viva.ng.		3600	IN	NS	ns1.parkingcrew.net.
 viva.ng.		3600	IN	NS	ns2.parkingcrew.net.
+vivabellahomes.ng.	3600	IN	NS	dns1.doveserver.com.
+vivabellahomes.ng.	3600	IN	NS	dns2.doveserver.com.
 vivahomes.ng.		3600	IN	NS	nsa.whogohost.com.
 vivahomes.ng.		3600	IN	NS	nsb.whogohost.com.
 viver.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -74011,9 +74023,10 @@ yalojar.ng.		3600	IN	NS	ns2.wixdns.net.
 yalojar.ng.		3600	IN	NS	ns3.wixdns.net.
 yalwa.ng.		3600	IN	NS	ns1.lo-cality.net.
 yalwa.ng.		3600	IN	NS	ns2.lo-cality.org.
-yami.ng.		3600	IN	NS	ns1.digitalocean.com.
-yami.ng.		3600	IN	NS	ns2.digitalocean.com.
-yami.ng.		3600	IN	NS	ns3.digitalocean.com.
+yami.ng.		3600	IN	NS	dns1.p07.nsone.net.
+yami.ng.		3600	IN	NS	dns2.p07.nsone.net.
+yami.ng.		3600	IN	NS	dns3.p07.nsone.net.
+yami.ng.		3600	IN	NS	dns4.p07.nsone.net.
 yana.ng.		3600	IN	NS	ns0.dnsmadeeasy.com.
 yana.ng.		3600	IN	NS	ns1.dnsmadeeasy.com.
 yana.ng.		3600	IN	NS	ns3.dnsmadeeasy.com.
@@ -75039,6 +75052,9 @@ zoomtech.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 zoomtech.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 zoomzoom.ng.		3600	IN	NS	ns.liquidweb.com.
 zoomzoom.ng.		3600	IN	NS	ns1.liquidweb.com.
+zoopix.ng.		3600	IN	NS	nsgbr.comlaude.co.uk.
+zoopix.ng.		3600	IN	NS	nssui.comlaude.ch.
+zoopix.ng.		3600	IN	NS	nsusa.comlaude.net.
 zoostylefashion.ng.	3600	IN	NS	ns7.qservers.net.
 zoostylefashion.ng.	3600	IN	NS	ns8.qservers.net.
 zora.ng.		3600	IN	NS	ns1.upperserver29.com.
@@ -75150,4 +75166,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020238 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020244 10800 3600 604800 3600
