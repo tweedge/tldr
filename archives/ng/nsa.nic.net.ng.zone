@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020205 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1643763859"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020211 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1643774829"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -37237,10 +37237,8 @@ laundrybase.ng.		3600	IN	NS	ns21.smartwebng.com.
 laundrybase.ng.		3600	IN	NS	ns22.smartwebng.com.
 laundrybay.ng.		3600	IN	NS	ns1.cp-12.webhostbox.net.
 laundrybay.ng.		3600	IN	NS	ns2.cp-12.webhostbox.net.
-laundrycare.ng.		3600	IN	NS	ns1.laundrycare.ng.
-laundrycare.ng.		3600	IN	NS	nsa1.laundrycare.ng.
-ns1.laundrycare.ng.	3600	IN	A	162.0.230.171
-nsa1.laundrycare.ng.	3600	IN	A	162.0.230.171
+laundrycare.ng.		3600	IN	NS	nsa.whogohost.com.
+laundrycare.ng.		3600	IN	NS	nsb.whogohost.com.
 laundrycircle.ng.	3600	IN	NS	ns1.web4africa.com.
 laundrycircle.ng.	3600	IN	NS	ns2.web4africa.com.
 laundrycircle.ng.	3600	IN	NS	ns3.web4africa.com.
@@ -45457,8 +45455,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -60812,6 +60810,8 @@ smartplus.ng.		3600	IN	NS	dns1.doveserver.com.
 smartplus.ng.		3600	IN	NS	dns2.doveserver.com.
 smartpoint.ng.		3600	IN	NS	ns1.dknoc.com.
 smartpoint.ng.		3600	IN	NS	ns2.dknoc.com.
+smartpos.ng.		3600	IN	NS	nsa.whogohost.com.
+smartpos.ng.		3600	IN	NS	nsb.whogohost.com.
 smartpower.ng.		3600	IN	NS	dnswordpress200a.trouble-free.net.
 smartpower.ng.		3600	IN	NS	dnswordpress200b.trouble-free.net.
 smartpreneur.ng.	3600	IN	NS	ns29.smartwebng.com.
@@ -75062,4 +75062,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020205 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020211 10800 3600 604800 3600
