@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020315 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020321 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1643871679"
+mg.			7200	IN	TXT	"Generation Time: 1643882488"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3781,8 +3781,6 @@ fianarana-sy-asa.mg.	86400	IN	NS	ns1.servermada.com.
 fianarana-sy-asa.mg.	86400	IN	NS	ns2.servermada.com.
 fiarako.mg.		86400	IN	NS	dns1.namecheaphosting.com.
 fiarako.mg.		86400	IN	NS	dns2.namecheaphosting.com.
-fiarovampirenena.mg.	86400	IN	NS	ns29.dot.mg.
-fiarovampirenena.mg.	86400	IN	NS	ns29.illi.co.mg.
 fiat.mg.		86400	IN	NS	dns4.p09.nsone.net.
 fiat.mg.		86400	IN	NS	dns3.p09.nsone.net.
 fiat.mg.		86400	IN	NS	dns2.p09.nsone.net.
@@ -3875,6 +3873,8 @@ fjkm-ambohijafyfanantenana.mg. 86400 IN	NS	ns29.fjkm.mg.
 fjkm-ambohijafyfanantenana.mg. 86400 IN	NS	ns30.fjkm.mg.
 fjkm-ambohijanaharyfahazavana.mg. 86400	IN NS	ns29.fjkm.mg.
 fjkm-ambohijanaharyfahazavana.mg. 86400	IN NS	ns30.fjkm.mg.
+fjkm-ambohitantely.mg.	86400	IN	NS	ns29.fjkm.mg.
+fjkm-ambohitantely.mg.	86400	IN	NS	ns30.fjkm.mg.
 fjkm-amboniloha.mg.	86400	IN	NS	ns29.fjkm.mg.
 fjkm-amboniloha.mg.	86400	IN	NS	ns30.fjkm.mg.
 fjkm-andravoahangyfiv.mg. 86400	IN	NS	dns100.ovh.net.
@@ -10659,8 +10659,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11386,4 +11386,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020315 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020321 600 3600 604800 86400
