@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022020319 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1643914823"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022020322 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1643925633"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -7532,8 +7532,10 @@ kisstv.rw.		86400	IN	NS	ns1.mediatemple.net.
 kisstv.rw.		86400	IN	NS	ns2.mediatemple.net.
 kitchenaid.rw.		86400	IN	NS	ns.whirlpool.com.
 kitchenaid.rw.		86400	IN	NS	ns2.whirlpool.com.
-kitech.rw.		86400	IN	NS	ns1.agxl.name.
-kitech.rw.		86400	IN	NS	ns2.agxl.name.
+kitech.rw.		86400	IN	NS	ns1.kitech.rw.
+kitech.rw.		86400	IN	NS	ns2.kitech.rw.
+ns1.kitech.rw.		86400	IN	A	159.65.55.147
+ns2.kitech.rw.		86400	IN	A	159.65.55.147
 kivu24.rw.		86400	IN	NS	ns1.stackdns.com.
 kivu24.rw.		86400	IN	NS	ns2.stackdns.com.
 kivu24.rw.		86400	IN	NS	ns3.stackdns.com.
@@ -14371,4 +14373,4 @@ zz.rw.			86400	IN	NS	ns-78.awsdns-09.com.
 zz.rw.			86400	IN	NS	ns-1021.awsdns-63.net.
 zz.rw.			86400	IN	NS	ns-1129.awsdns-13.org.
 zz.rw.			86400	IN	NS	ns-1673.awsdns-17.co.uk.
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022020319 86400 7200 604800 1800
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022020322 86400 7200 604800 1800
