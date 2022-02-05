@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020509 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1644033635"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020515 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1644044427"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -13430,8 +13430,8 @@ citytransit.ng.		3600	IN	NS	nsa.whogohost.com.
 citytransit.ng.		3600	IN	NS	nsb.whogohost.com.
 cityvoice.ng.		3600	IN	NS	ns1.newsconnectng.com.
 cityvoice.ng.		3600	IN	NS	ns2.newsconnectng.com.
-citywatch.ng.		3600	IN	NS	nsa.whogohost.com.
-citywatch.ng.		3600	IN	NS	nsb.whogohost.com.
+citywatch.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+citywatch.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 ciudad.ng.		3600	IN	NS	ns51.domaincontrol.com.
 ciudad.ng.		3600	IN	NS	ns52.domaincontrol.com.
 civicmedialab.ng.	3600	IN	NS	ns1.gigalayer.com.
@@ -26221,6 +26221,10 @@ gapp.ng.		3600	IN	NS	ns8355.hostgator.com.
 gapp.ng.		3600	IN	NS	ns8356.hostgator.com.
 gaps.ng.		3600	IN	NS	nsa.whogohost.com.
 gaps.ng.		3600	IN	NS	nsb.whogohost.com.
+gapsfinance.ng.		3600	IN	NS	ns1.web4africa.com.
+gapsfinance.ng.		3600	IN	NS	ns2.web4africa.com.
+gapsfinance.ng.		3600	IN	NS	ns3.web4africa.com.
+gapsfinance.ng.		3600	IN	NS	ns4.web4africa.com.
 garagedoor.ng.		3600	IN	NS	ns1.gate.com.ng.
 garagedoor.ng.		3600	IN	NS	ns2.gate.com.ng.
 garaj.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -45531,8 +45535,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -75180,4 +75184,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020509 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020515 10800 3600 604800 3600
