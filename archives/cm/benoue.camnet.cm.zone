@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022020415 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022020421 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1643983219"
+cm.			86400	IN	TXT	"Generation Time: 1644004812"
 0.cm.			86400	IN	NS	ns1.dnspanel.com.
 0.cm.			86400	IN	NS	ns2.dnspanel.com.
 0-1.cm.			86400	IN	NS	ns1.ndns.cn.
@@ -14464,8 +14464,8 @@ activelylearn.cm.	86400	IN	NS	ns2.smartname.com.
 activestop.cm.		86400	IN	NS	ns1.jnj.com.
 activestop.cm.		86400	IN	NS	ns3.jnj.com.
 activestop.cm.		86400	IN	NS	ns5.jnj.com.
-activetonpotentiel.cm.	86400	IN	NS	ns1.mtnbusiness.cm.
-activetonpotentiel.cm.	86400	IN	NS	ns2.mtnbusiness.cm.
+activetonpotentiel.cm.	86400	IN	NS	ns1.bh-3.webhostbox.net.
+activetonpotentiel.cm.	86400	IN	NS	ns2.bh-3.webhostbox.net.
 activlady.cm.		86400	IN	NS	ns1.camoogroup.com.
 activlady.cm.		86400	IN	NS	ns2.camoogroup.com.
 actorsaccess.cm.	86400	IN	NS	ns1.mytrafficmanagement.com.
@@ -17014,8 +17014,6 @@ animalis.cm.		86400	IN	NS	indom20.indomco.net.
 animalis.cm.		86400	IN	NS	indom30.indomco.fr.
 animalis.cm.		86400	IN	NS	indom80.indomco.hk.
 animalis.cm.		86400	IN	NS	indom130.indomco.org.
-animaljam.cm.		86400	IN	NS	ns1.ii51.parklogic.com.
-animaljam.cm.		86400	IN	NS	ns2.ii51.parklogic.com.
 animalplanet.cm.	86400	IN	NS	ns1.mytrafficmanagement.com.
 animalplanet.cm.	86400	IN	NS	ns2.mytrafficmanagement.com.
 animalplanetbrasil.cm.	86400	IN	NS	ns1.netnames.net.
@@ -19341,6 +19339,8 @@ baml.cm.		86400	IN	NS	dns1.cscdns.net.
 baml.cm.		86400	IN	NS	dns2.cscdns.net.
 bamoundecoeur.cm.	86400	IN	NS	ns1.webhostingpad.com.
 bamoundecoeur.cm.	86400	IN	NS	ns2.webhostingpad.com.
+bams.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
+bams.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 bamsec.cm.		86400	IN	NS	ns1.bodis.com.
 bamsec.cm.		86400	IN	NS	ns2.bodis.com.
 ban.cm.			86400	IN	NS	dns1.idp365.net.
@@ -24248,10 +24248,8 @@ calphalon.cm.		86400	IN	NS	ns1.mytrafficmanagement.com.
 calphalon.cm.		86400	IN	NS	ns2.mytrafficmanagement.com.
 calstrs.cm.		86400	IN	NS	ns1.bodis.com.
 calstrs.cm.		86400	IN	NS	ns2.bodis.com.
-caltex.cm.		86400	IN	NS	nswfc.chevron.com.
-caltex.cm.		86400	IN	NS	nssghq.chevron.com.
-caltex.cm.		86400	IN	NS	nschvpk.chevron.com.
-caltex.cm.		86400	IN	NS	nshou150.chevron.com.
+caltex.cm.		86400	IN	NS	udns1.cscdns.net.
+caltex.cm.		86400	IN	NS	udns2.cscdns.uk.
 calvinayre.cm.		86400	IN	NS	dns1.idp365.net.
 calvinayre.cm.		86400	IN	NS	dns2.idp365.net.
 calvinayre.cm.		86400	IN	NS	dns3.idp365.net.
@@ -26432,10 +26430,8 @@ cheveux.cm.		86400	IN	NS	ns2186.ispapi.net.
 cheveux.cm.		86400	IN	NS	ns3174.ispapi.net.
 chevrolet.cm.		86400	IN	NS	ns1.hastydns.com.
 chevrolet.cm.		86400	IN	NS	ns2.hastydns.com.
-chevron.cm.		86400	IN	NS	nswfc.chevron.com.
-chevron.cm.		86400	IN	NS	nssghq.chevron.com.
-chevron.cm.		86400	IN	NS	nschvpk.chevron.com.
-chevron.cm.		86400	IN	NS	nshou150.chevron.com.
+chevron.cm.		86400	IN	NS	udns1.cscdns.net.
+chevron.cm.		86400	IN	NS	udns2.cscdns.uk.
 chevy.cm.		86400	IN	NS	ns1.parkingcrew.net.
 chevy.cm.		86400	IN	NS	ns2.parkingcrew.net.
 chewey.cm.		86400	IN	NS	elle.ns.cloudflare.com.
@@ -54998,8 +54994,10 @@ mbindi.cm.		86400	IN	NS	cp1.dnshostservices.com.
 mbindi.cm.		86400	IN	NS	cp2.dnshostservices.com.
 mbitiontolearn.cm.	86400	IN	NS	ns1.smartname.com.
 mbitiontolearn.cm.	86400	IN	NS	ns2.smartname.com.
-mbl.cm.			86400	IN	NS	ns1a.dodns.net.
-mbl.cm.			86400	IN	NS	ns2a.dodns.net.
+mbl.cm.			86400	IN	NS	ns-5.awsdns-00.com.
+mbl.cm.			86400	IN	NS	ns-964.awsdns-56.net.
+mbl.cm.			86400	IN	NS	ns-1366.awsdns-42.org.
+mbl.cm.			86400	IN	NS	ns-1780.awsdns-30.co.uk.
 mbo.cm.			86400	IN	NS	ns1.oray.net.
 mbo.cm.			86400	IN	NS	ns2.oray.net.
 mboadeals.cm.		86400	IN	NS	ns1.camoogroup.com.
@@ -59201,10 +59199,10 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
+ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
 namesilo.cm.		86400	IN	NS	ns2.bodis.com.
 nametests.cm.		86400	IN	NS	ns1.bodis.com.
@@ -77263,10 +77261,8 @@ techradar.cm.		86400	IN	NS	ns1.uniregistrymarket.link.
 techradar.cm.		86400	IN	NS	ns2.uniregistrymarket.link.
 techrepublic.cm.	86400	IN	NS	ns17.above.com.
 techrepublic.cm.	86400	IN	NS	ns18.above.com.
-techron.cm.		86400	IN	NS	nswfc.chevron.com.
-techron.cm.		86400	IN	NS	nssghq.chevron.com.
-techron.cm.		86400	IN	NS	nschvpk.chevron.com.
-techron.cm.		86400	IN	NS	nshou150.chevron.com.
+techron.cm.		86400	IN	NS	udns1.cscdns.net.
+techron.cm.		86400	IN	NS	udns2.cscdns.uk.
 techstars.cm.		86400	IN	NS	ns1.bodis.com.
 techstars.cm.		86400	IN	NS	ns2.bodis.com.
 techtarget.cm.		86400	IN	NS	ns1.parkingcrew.net.
@@ -77618,10 +77614,8 @@ tevapharm.cm.		86400	IN	NS	ns4.tevapharm.com.
 tevapharm.cm.		86400	IN	NS	ns5.tevapharm.com.
 tevaseverancebenefits.cm. 86400	IN	NS	ns1.parkingcrew.net.
 tevaseverancebenefits.cm. 86400	IN	NS	ns2.parkingcrew.net.
-texaco.cm.		86400	IN	NS	nswfc.chevron.com.
-texaco.cm.		86400	IN	NS	nssghq.chevron.com.
-texaco.cm.		86400	IN	NS	nschvpk.chevron.com.
-texaco.cm.		86400	IN	NS	nshou150.chevron.com.
+texaco.cm.		86400	IN	NS	udns1.cscdns.net.
+texaco.cm.		86400	IN	NS	udns2.cscdns.uk.
 texags.cm.		86400	IN	NS	ns3.above.com.
 texags.cm.		86400	IN	NS	ns4.above.com.
 texas.cm.		86400	IN	NS	ns1.sedoparking.com.
@@ -88295,4 +88289,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022020415 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022020421 28800 3600 604800 86400
