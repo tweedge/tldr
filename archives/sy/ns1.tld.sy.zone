@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022020624 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1644150735"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022020628 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1644163330"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -4418,8 +4418,10 @@ marotacar.sy.		86400	IN	NS	ns1.one.sy.
 marotacar.sy.		86400	IN	NS	ns2.one.sy.
 marotacity.sy.		86400	IN	NS	ns1.shamcenter.com.
 marotacity.sy.		86400	IN	NS	ns2.shamcenter.com.
-marotanews.sy.		86400	IN	NS	suspend1.tld.sy.
-marotanews.sy.		86400	IN	NS	suspend2.tld.sy.
+marotanews.sy.		86400	IN	NS	ns1.marotanews.sy.
+marotanews.sy.		86400	IN	NS	ns2.marotanews.sy.
+ns1.marotanews.sy.	86400	IN	A	185.216.132.26
+ns2.marotanews.sy.	86400	IN	A	185.216.132.26
 marouf.sy.		86400	IN	NS	suspend1.tld.sy.
 marouf.sy.		86400	IN	NS	suspend2.tld.sy.
 mart.sy.		86400	IN	NS	ns1.scs-net.sy.
@@ -7495,4 +7497,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022020624 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022020628 3600 3600 2592000 3600
