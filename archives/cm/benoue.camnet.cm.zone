@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022020503 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022020614 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1644080416"
+cm.			86400	IN	TXT	"Generation Time: 1644152414"
 0.cm.			86400	IN	NS	ns1.dnspanel.com.
 0.cm.			86400	IN	NS	ns2.dnspanel.com.
 0-1.cm.			86400	IN	NS	ns1.ndns.cn.
@@ -134,8 +134,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 0051.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 00524.cm.		86400	IN	NS	ns1.dns.com.
 00524.cm.		86400	IN	NS	ns2.dns.com.
-0054.cm.		86400	IN	NS	david.ns.cloudflare.com.
-0054.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 0055.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
 0055.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 0057.cm.		86400	IN	NS	ns1.dns.com.
@@ -280,8 +278,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 0139.cm.		86400	IN	NS	ns2.dns.com.
 014.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 014.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-0140.cm.		86400	IN	NS	david.ns.cloudflare.com.
-0140.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 0141.cm.		86400	IN	NS	david.ns.cloudflare.com.
 0141.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 0142.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -392,8 +388,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 0233.cm.		86400	IN	NS	ns2.dns.com.
 0234.cm.		86400	IN	NS	ns1.dns.com.
 0234.cm.		86400	IN	NS	ns2.dns.com.
-0236.cm.		86400	IN	NS	david.ns.cloudflare.com.
-0236.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 0239.cm.		86400	IN	NS	david.ns.cloudflare.com.
 0239.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 024.cm.			86400	IN	NS	ns1.4.cn.
@@ -562,18 +556,12 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 0407.cm.		86400	IN	NS	ns2.dns.com.
 0409.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 0409.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
-041.cm.			86400	IN	NS	david.ns.cloudflare.com.
-041.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 0419.cm.		86400	IN	NS	ns1.dns.com.
 0419.cm.		86400	IN	NS	ns2.dns.com.
-042.cm.			86400	IN	NS	david.ns.cloudflare.com.
-042.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 0423.cm.		86400	IN	NS	ns1.dns.com.
 0423.cm.		86400	IN	NS	ns2.dns.com.
 0424.cm.		86400	IN	NS	ns1.dns.com.
 0424.cm.		86400	IN	NS	ns2.dns.com.
-043.cm.			86400	IN	NS	david.ns.cloudflare.com.
-043.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 044.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 044.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 0441.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -586,20 +574,14 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 0447.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 0449.cm.		86400	IN	NS	ns1.dns.com.
 0449.cm.		86400	IN	NS	ns2.dns.com.
-045.cm.			86400	IN	NS	david.ns.cloudflare.com.
-045.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 0453.cm.		86400	IN	NS	n10.ns.yunjiasu.com.
 0453.cm.		86400	IN	NS	n3338.ns.yunjiasu.com.
 0456.cm.		86400	IN	NS	david.ns.cloudflare.com.
 0456.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-046.cm.			86400	IN	NS	david.ns.cloudflare.com.
-046.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 0464.cm.		86400	IN	NS	dayana.ns.cloudflare.com.
 0464.cm.		86400	IN	NS	kayden.ns.cloudflare.com.
 0465.cm.		86400	IN	NS	ns1.dns.com.
 0465.cm.		86400	IN	NS	ns2.dns.com.
-047.cm.			86400	IN	NS	david.ns.cloudflare.com.
-047.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 048.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 048.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 0485.cm.		86400	IN	NS	ns1.dns.com.
@@ -1008,8 +990,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 0981.cm.		86400	IN	NS	ns2.dns.com.
 0982.cm.		86400	IN	NS	ns1.dns.com.
 0982.cm.		86400	IN	NS	ns2.dns.com.
-0985.cm.		86400	IN	NS	david.ns.cloudflare.com.
-0985.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 0986.cm.		86400	IN	NS	ns1.dns.com.
 0986.cm.		86400	IN	NS	ns2.dns.com.
 0989.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -1402,8 +1382,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 118331.cm.		86400	IN	NS	cardboard.dnspod.net.
 118528.cm.		86400	IN	NS	joyce.dnspod.net.
 118528.cm.		86400	IN	NS	cardboard.dnspod.net.
-1187.cm.		86400	IN	NS	david.ns.cloudflare.com.
-1187.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 11878.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 11878.cm.		86400	IN	NS	james.ns.cloudflare.com.
 1188.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
@@ -1422,8 +1400,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 1193.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 1194.cm.		86400	IN	NS	ns1.dns.com.
 1194.cm.		86400	IN	NS	ns2.dns.com.
-1198.cm.		86400	IN	NS	david.ns.cloudflare.com.
-1198.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 1199.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
 1199.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 119999.cm.		86400	IN	NS	irma.ns.cloudflare.com.
@@ -1748,8 +1724,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 13763.cm.		86400	IN	NS	cardboard.dnspod.net.
 137749.cm.		86400	IN	NS	joyce.dnspod.net.
 137749.cm.		86400	IN	NS	cardboard.dnspod.net.
-13777.cm.		86400	IN	NS	david.ns.cloudflare.com.
-13777.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 13779.cm.		86400	IN	NS	joyce.dnspod.net.
 13779.cm.		86400	IN	NS	cardboard.dnspod.net.
 1378.cm.		86400	IN	NS	ns1.dns.com.
@@ -1890,8 +1864,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 147.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 1474.cm.		86400	IN	NS	david.ns.cloudflare.com.
 1474.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-14777.cm.		86400	IN	NS	david.ns.cloudflare.com.
-14777.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 1478.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 1478.cm.		86400	IN	NS	james.ns.cloudflare.com.
 14788.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -1920,8 +1892,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 1495.cm.		86400	IN	NS	ns2.alidns.com.
 1497.cm.		86400	IN	NS	ns1.dns.com.
 1497.cm.		86400	IN	NS	ns2.dns.com.
-1498.cm.		86400	IN	NS	david.ns.cloudflare.com.
-1498.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 14k.cm.			86400	IN	NS	ns.parktons.com.
 14k.cm.			86400	IN	NS	ns2.parktons.com.
 14tv.cm.		86400	IN	NS	ns11.above.com.
@@ -2005,8 +1975,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 15674.cm.		86400	IN	NS	cardboard.dnspod.net.
 157.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 157.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-1570.cm.		86400	IN	NS	david.ns.cloudflare.com.
-1570.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 157333.cm.		86400	IN	NS	joyce.dnspod.net.
 157333.cm.		86400	IN	NS	cardboard.dnspod.net.
 158.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -2095,8 +2063,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 1654.cm.		86400	IN	NS	ns2.dns.com.
 1655.cm.		86400	IN	NS	ns1.dns.com.
 1655.cm.		86400	IN	NS	ns2.dns.com.
-1656.cm.		86400	IN	NS	david.ns.cloudflare.com.
-1656.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 1658.cm.		86400	IN	NS	david.ns.cloudflare.com.
 1658.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 1658pj.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -2187,8 +2153,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 170.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 1700.cm.		86400	IN	NS	david.ns.cloudflare.com.
 1700.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-17000.cm.		86400	IN	NS	david.ns.cloudflare.com.
-17000.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 1701.cm.		86400	IN	NS	david.ns.cloudflare.com.
 1701.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 1702.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -2225,10 +2189,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 173.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 1730.cm.		86400	IN	NS	david.ns.cloudflare.com.
 1730.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-17333.cm.		86400	IN	NS	david.ns.cloudflare.com.
-17333.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-1736.cm.		86400	IN	NS	david.ns.cloudflare.com.
-1736.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 17365.cm.		86400	IN	NS	david.ns.cloudflare.com.
 17365.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 1739.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -2247,8 +2207,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 1754.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 1755.cm.		86400	IN	NS	david.ns.cloudflare.com.
 1755.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-1756.cm.		86400	IN	NS	david.ns.cloudflare.com.
-1756.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 17575.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 17575.cm.		86400	IN	NS	james.ns.cloudflare.com.
 17588.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -2265,8 +2223,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 176161.cm.		86400	IN	NS	cardboard.dnspod.net.
 1764.cm.		86400	IN	NS	david.ns.cloudflare.com.
 1764.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-1767.cm.		86400	IN	NS	david.ns.cloudflare.com.
-1767.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 1769.cm.		86400	IN	NS	ns1.dns.com.
 1769.cm.		86400	IN	NS	ns2.dns.com.
 177.cm.			86400	IN	NS	clay.ns.cloudflare.com.
@@ -2303,8 +2259,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 179.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 1793.cm.		86400	IN	NS	david.ns.cloudflare.com.
 1793.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-1797.cm.		86400	IN	NS	david.ns.cloudflare.com.
-1797.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 17hats.cm.		86400	IN	NS	ns1.bodis.com.
 17hats.cm.		86400	IN	NS	ns2.bodis.com.
 17k.cm.			86400	IN	NS	dns1.registrar-servers.com.
@@ -2816,8 +2770,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 2059.cm.		86400	IN	NS	ns2.dns.com.
 206.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 206.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-2060.cm.		86400	IN	NS	david.ns.cloudflare.com.
-2060.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 2061.cm.		86400	IN	NS	ns1.dns.com.
 2061.cm.		86400	IN	NS	ns2.dns.com.
 2064.cm.		86400	IN	NS	ns1.dns.com.
@@ -2954,8 +2906,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 217373.cm.		86400	IN	NS	cardboard.dnspod.net.
 2174.cm.		86400	IN	NS	david.ns.cloudflare.com.
 2174.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-21789.cm.		86400	IN	NS	david.ns.cloudflare.com.
-21789.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 218.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 218.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 21887.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -3113,8 +3063,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 2257.cm.		86400	IN	NS	ns2.dns.com.
 226.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 226.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-2260.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
-2260.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 2262.cm.		86400	IN	NS	joyce.dnspod.net.
 2262.cm.		86400	IN	NS	cardboard.dnspod.net.
 2264.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -3125,8 +3073,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 226666.cm.		86400	IN	NS	james.ns.cloudflare.com.
 226677.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 226677.cm.		86400	IN	NS	james.ns.cloudflare.com.
-226688.cm.		86400	IN	NS	david.ns.cloudflare.com.
-226688.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 2267.cm.		86400	IN	NS	ns1.dns.com.
 2267.cm.		86400	IN	NS	ns2.dns.com.
 2268.cm.		86400	IN	NS	ns1.dns.com.
@@ -3226,8 +3172,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 233.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 2330.cm.		86400	IN	NS	ns1.dns.com.
 2330.cm.		86400	IN	NS	ns2.dns.com.
-2331.cm.		86400	IN	NS	david.ns.cloudflare.com.
-2331.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 23324.cm.		86400	IN	NS	joyce.dnspod.net.
 23324.cm.		86400	IN	NS	cardboard.dnspod.net.
 2333.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
@@ -3242,8 +3186,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 2338.cm.		86400	IN	NS	ns2.dns.com.
 234.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 234.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-2340.cm.		86400	IN	NS	david.ns.cloudflare.com.
-2340.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 234234.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 234234.cm.		86400	IN	NS	james.ns.cloudflare.com.
 234266.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -3479,8 +3421,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 2516.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 252.cm.			86400	IN	NS	ns6.dnsdun.com.
 252.cm.			86400	IN	NS	ns6.dnsdun.net.
-2520.cm.		86400	IN	NS	david.ns.cloudflare.com.
-2520.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 25225.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 25225.cm.		86400	IN	NS	james.ns.cloudflare.com.
 2525.cm.		86400	IN	NS	dee.ns.cloudflare.com.
@@ -3489,8 +3429,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 252525.cm.		86400	IN	NS	james.ns.cloudflare.com.
 25255.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 25255.cm.		86400	IN	NS	james.ns.cloudflare.com.
-2526.cm.		86400	IN	NS	david.ns.cloudflare.com.
-2526.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 2527.cm.		86400	IN	NS	ns1.dns.com.
 2527.cm.		86400	IN	NS	ns2.dns.com.
 2528.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
@@ -3525,8 +3463,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 2558.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 256.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 256.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-2564.cm.		86400	IN	NS	david.ns.cloudflare.com.
-2564.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 2566.cm.		86400	IN	NS	ns1.dns.com.
 2566.cm.		86400	IN	NS	ns2.dns.com.
 2568.cm.		86400	IN	NS	ns1.alidns.com.
@@ -3537,10 +3473,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 257.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 25700.cm.		86400	IN	NS	joyce.dnspod.net.
 25700.cm.		86400	IN	NS	cardboard.dnspod.net.
-2572.cm.		86400	IN	NS	david.ns.cloudflare.com.
-2572.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-2577.cm.		86400	IN	NS	david.ns.cloudflare.com.
-2577.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 25777.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 25777.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 258.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -3786,8 +3718,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 28365-365.cm.		86400	IN	NS	ns2.dns.com.
 28365365.cm.		86400	IN	NS	ns1.dns.com.
 28365365.cm.		86400	IN	NS	ns2.dns.com.
-2837.cm.		86400	IN	NS	david.ns.cloudflare.com.
-2837.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 2838.cm.		86400	IN	NS	carlane.ns.cloudflare.com.
 2838.cm.		86400	IN	NS	jermaine.ns.cloudflare.com.
 2839.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -4108,8 +4038,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 30365.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 3038.cm.		86400	IN	NS	ns1.dns.com.
 3038.cm.		86400	IN	NS	ns2.dns.com.
-3039.cm.		86400	IN	NS	david.ns.cloudflare.com.
-3039.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 304.cm.			86400	IN	NS	ns1.instradns.com.
 304.cm.			86400	IN	NS	ns2.instradns.com.
 304.cm.			86400	IN	NS	ns3.instradns.com.
@@ -4134,8 +4062,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 3050.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 30524.cm.		86400	IN	NS	ns1.dns.com.
 30524.cm.		86400	IN	NS	ns2.dns.com.
-30555.cm.		86400	IN	NS	david.ns.cloudflare.com.
-30555.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 3056.cm.		86400	IN	NS	ns1.dns.com.
 3056.cm.		86400	IN	NS	ns2.dns.com.
 3059.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -4158,8 +4084,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 3073.cm.		86400	IN	NS	ns2.dns.com.
 307307.cm.		86400	IN	NS	joyce.dnspod.net.
 307307.cm.		86400	IN	NS	cardboard.dnspod.net.
-3077.cm.		86400	IN	NS	david.ns.cloudflare.com.
-3077.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 30773.cm.		86400	IN	NS	joyce.dnspod.net.
 30773.cm.		86400	IN	NS	cardboard.dnspod.net.
 3078.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -4204,8 +4128,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 3103.cm.		86400	IN	NS	ns2.dns.com.
 3104.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 3104.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
-3106.cm.		86400	IN	NS	david.ns.cloudflare.com.
-3106.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 310tv.cm.		86400	IN	NS	ns1.dns.com.
 310tv.cm.		86400	IN	NS	ns2.dns.com.
 310v.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
@@ -4316,8 +4238,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 319.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 3190.cm.		86400	IN	NS	ns1.dns.com.
 3190.cm.		86400	IN	NS	ns2.dns.com.
-3193.cm.		86400	IN	NS	david.ns.cloudflare.com.
-3193.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 3194.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 3194.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 3196.cm.		86400	IN	NS	ns1.dns.com.
@@ -4344,8 +4264,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 320ytmp3.cm.		86400	IN	NS	ns2.parkingcrew.net.
 321.cm.			86400	IN	NS	ns1.4.cn.
 321.cm.			86400	IN	NS	ns2.4.cn.
-3212.cm.		86400	IN	NS	david.ns.cloudflare.com.
-3212.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 321888.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 321888.cm.		86400	IN	NS	james.ns.cloudflare.com.
 322.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -4379,8 +4297,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 324.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 3242.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 3242.cm.		86400	IN	NS	james.ns.cloudflare.com.
-3244.cm.		86400	IN	NS	david.ns.cloudflare.com.
-3244.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 3245.cm.		86400	IN	NS	david.ns.cloudflare.com.
 3245.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 3246.cm.		86400	IN	NS	ns1.dns.com.
@@ -4417,8 +4333,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 32777.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 328.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 328.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-3280.cm.		86400	IN	NS	david.ns.cloudflare.com.
-3280.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 32808.cm.		86400	IN	NS	joyce.dnspod.net.
 32808.cm.		86400	IN	NS	cardboard.dnspod.net.
 328080.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -4431,8 +4345,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 3289.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 329.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 329.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-3290.cm.		86400	IN	NS	david.ns.cloudflare.com.
-3290.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 32911.cm.		86400	IN	NS	joyce.dnspod.net.
 32911.cm.		86400	IN	NS	cardboard.dnspod.net.
 3299.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -4695,8 +4607,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 3408.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 3409.cm.		86400	IN	NS	ns1.alidns.com.
 3409.cm.		86400	IN	NS	ns2.alidns.com.
-341.cm.			86400	IN	NS	ns1.dns.com.
-341.cm.			86400	IN	NS	ns2.dns.com.
 3410.cm.		86400	IN	NS	ns1.dns.com.
 3410.cm.		86400	IN	NS	ns2.dns.com.
 34113.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -4769,8 +4679,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 3456.cm.		86400	IN	NS	alina.ns.cloudflare.com.
 345888.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 345888.cm.		86400	IN	NS	james.ns.cloudflare.com.
-346.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
-346.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 3460.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 3460.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 3467.cm.		86400	IN	NS	ns1.dns.com.
@@ -4909,8 +4817,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 3567.cm.		86400	IN	NS	ns2.dns.com.
 3568.cm.		86400	IN	NS	david.ns.cloudflare.com.
 3568.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-3569.cm.		86400	IN	NS	david.ns.cloudflare.com.
-3569.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 357.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 357.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 357171.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -4981,8 +4887,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 362.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 36222.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 36222.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
-3626.cm.		86400	IN	NS	david.ns.cloudflare.com.
-3626.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 36299.cm.		86400	IN	NS	david.ns.cloudflare.com.
 36299.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 363.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -5141,8 +5045,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 3713.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 3717.cm.		86400	IN	NS	ns1.dns.com.
 3717.cm.		86400	IN	NS	ns2.dns.com.
-3718.cm.		86400	IN	NS	david.ns.cloudflare.com.
-3718.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 372.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 372.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 3721.cm.		86400	IN	NS	ns1.dns.com.
@@ -5187,8 +5089,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 3765.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 37655.cm.		86400	IN	NS	joyce.dnspod.net.
 37655.cm.		86400	IN	NS	cardboard.dnspod.net.
-3766.cm.		86400	IN	NS	david.ns.cloudflare.com.
-3766.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 3767.cm.		86400	IN	NS	david.ns.cloudflare.com.
 3767.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 3768.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -5393,8 +5293,6 @@ cm.			86400	IN	TXT	"Generation Time: 1644080416"
 39365.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 3938.cm.		86400	IN	NS	david.ns.cloudflare.com.
 3938.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-394.cm.			86400	IN	NS	ns1.dns.com.
-394.cm.			86400	IN	NS	ns2.dns.com.
 3940.cm.		86400	IN	NS	ns1.alidns.com.
 3940.cm.		86400	IN	NS	ns2.alidns.com.
 3947.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -5634,8 +5532,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 404.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 4040.cm.		86400	IN	NS	ns1.dns.com.
 4040.cm.		86400	IN	NS	ns2.dns.com.
-4041.cm.		86400	IN	NS	david.ns.cloudflare.com.
-4041.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 4042.cm.		86400	IN	NS	david.ns.cloudflare.com.
 4042.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 4043.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
@@ -5664,8 +5560,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 4066.cm.		86400	IN	NS	cardboard.dnspod.net.
 4067.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 4067.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
-407.cm.			86400	IN	NS	ns1.dns.com.
-407.cm.			86400	IN	NS	ns2.dns.com.
 4070.cm.		86400	IN	NS	ns1.dns.com.
 4070.cm.		86400	IN	NS	ns2.dns.com.
 4071.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -5828,8 +5722,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 4216.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 4218.cm.		86400	IN	NS	david.ns.cloudflare.com.
 4218.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-4219.cm.		86400	IN	NS	david.ns.cloudflare.com.
-4219.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 42193.cm.		86400	IN	NS	joyce.dnspod.net.
 42193.cm.		86400	IN	NS	cardboard.dnspod.net.
 42198.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -6004,8 +5896,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 434.cm.			86400	IN	NS	ingrid.ns.cloudflare.com.
 4340.cm.		86400	IN	NS	ns1.dns.com.
 4340.cm.		86400	IN	NS	ns2.dns.com.
-4342.cm.		86400	IN	NS	david.ns.cloudflare.com.
-4342.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 43437.cm.		86400	IN	NS	ns1.dns.com.
 43437.cm.		86400	IN	NS	ns2.dns.com.
 4346.cm.		86400	IN	NS	irma.ns.cloudflare.com.
@@ -6159,8 +6049,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 444qp.cm.		86400	IN	NS	ns2.dns.com.
 445.cm.			86400	IN	NS	ns1.dns.com.
 445.cm.			86400	IN	NS	ns2.dns.com.
-4450.cm.		86400	IN	NS	david.ns.cloudflare.com.
-4450.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 445555.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 445555.cm.		86400	IN	NS	james.ns.cloudflare.com.
 445566.cm.		86400	IN	NS	irma.ns.cloudflare.com.
@@ -6265,8 +6153,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 4526.cm.		86400	IN	NS	james.ns.cloudflare.com.
 4528.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 4528.cm.		86400	IN	NS	james.ns.cloudflare.com.
-453.cm.			86400	IN	NS	ns1.dns.com.
-453.cm.			86400	IN	NS	ns2.dns.com.
 4531.cm.		86400	IN	NS	ns1.dns.com.
 4531.cm.		86400	IN	NS	ns2.dns.com.
 4532.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -6317,8 +6203,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 4567.cm.		86400	IN	NS	ns2.dnscto.net.
 456888.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 456888.cm.		86400	IN	NS	james.ns.cloudflare.com.
-457.cm.			86400	IN	NS	ns1.dns.com.
-457.cm.			86400	IN	NS	ns2.dns.com.
 4570.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 4570.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 4571.cm.		86400	IN	NS	ns1.dns.com.
@@ -6418,8 +6302,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 465.cm.			86400	IN	NS	ns2.4.cn.
 4651.cm.		86400	IN	NS	david.ns.cloudflare.com.
 4651.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-4652.cm.		86400	IN	NS	david.ns.cloudflare.com.
-4652.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 4654.cm.		86400	IN	NS	david.ns.cloudflare.com.
 4654.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 4656.cm.		86400	IN	NS	irma.ns.cloudflare.com.
@@ -6480,16 +6362,12 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 46898.cm.		86400	IN	NS	cardboard.dnspod.net.
 468qp.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 468qp.cm.		86400	IN	NS	james.ns.cloudflare.com.
-469.cm.			86400	IN	NS	david.ns.cloudflare.com.
-469.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 4694.cm.		86400	IN	NS	ns1.alidns.com.
 4694.cm.		86400	IN	NS	ns2.alidns.com.
 4699.cm.		86400	IN	NS	david.ns.cloudflare.com.
 4699.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 47.cm.			86400	IN	NS	ns1.dns.com.
 47.cm.			86400	IN	NS	ns2.dns.com.
-470.cm.			86400	IN	NS	david.ns.cloudflare.com.
-470.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 4705.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 4705.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 4707.cm.		86400	IN	NS	ns1.dns.com.
@@ -6508,8 +6386,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 4718.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 4719.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 4719.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
-472.cm.			86400	IN	NS	david.ns.cloudflare.com.
-472.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 4721.cm.		86400	IN	NS	ns1.dns.com.
 4721.cm.		86400	IN	NS	ns2.dns.com.
 47253.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -6518,8 +6394,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 4727.cm.		86400	IN	NS	ns2.dns.com.
 4729.cm.		86400	IN	NS	david.ns.cloudflare.com.
 4729.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-473.cm.			86400	IN	NS	david.ns.cloudflare.com.
-473.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 4733.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 4733.cm.		86400	IN	NS	james.ns.cloudflare.com.
 47344.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -6600,8 +6474,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 4787.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 4789.cm.		86400	IN	NS	david.ns.cloudflare.com.
 4789.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-479.cm.			86400	IN	NS	david.ns.cloudflare.com.
-479.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 4790.cm.		86400	IN	NS	david.ns.cloudflare.com.
 4790.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 4796.cm.		86400	IN	NS	irma.ns.cloudflare.com.
@@ -6734,8 +6606,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 48988.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 49.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 49.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-490.cm.			86400	IN	NS	clay.ns.cloudflare.com.
-490.cm.			86400	IN	NS	cheryl.ns.cloudflare.com.
 49001.cm.		86400	IN	NS	joyce.dnspod.net.
 49001.cm.		86400	IN	NS	cardboard.dnspod.net.
 49008.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -6752,8 +6622,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 4906.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 4907.cm.		86400	IN	NS	ns1.alidns.com.
 4907.cm.		86400	IN	NS	ns2.alidns.com.
-491.cm.			86400	IN	NS	clay.ns.cloudflare.com.
-491.cm.			86400	IN	NS	cheryl.ns.cloudflare.com.
 4910.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 4910.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 4911.cm.		86400	IN	NS	ns1.dns.com.
@@ -6770,16 +6638,12 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 4915.cm.		86400	IN	NS	ns2.alidns.com.
 4918.cm.		86400	IN	NS	ns1.dns.com.
 4918.cm.		86400	IN	NS	ns2.dns.com.
-492.cm.			86400	IN	NS	ns1.dns.com.
-492.cm.			86400	IN	NS	ns2.dns.com.
 49208.cm.		86400	IN	NS	joyce.dnspod.net.
 49208.cm.		86400	IN	NS	cardboard.dnspod.net.
 4927.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 4927.cm.		86400	IN	NS	james.ns.cloudflare.com.
 4929.cm.		86400	IN	NS	david.ns.cloudflare.com.
 4929.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-493.cm.			86400	IN	NS	ns1.dns.com.
-493.cm.			86400	IN	NS	ns2.dns.com.
 4932.cm.		86400	IN	NS	ns1.alidns.com.
 4932.cm.		86400	IN	NS	ns2.alidns.com.
 4933.cm.		86400	IN	NS	ns1.dns.com.
@@ -6792,8 +6656,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 49357.cm.		86400	IN	NS	cardboard.dnspod.net.
 4938.cm.		86400	IN	NS	ns1.dns.com.
 4938.cm.		86400	IN	NS	ns2.dns.com.
-4939.cm.		86400	IN	NS	david.ns.cloudflare.com.
-4939.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 494.cm.			86400	IN	NS	david.ns.cloudflare.com.
 494.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 4943.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -6810,8 +6672,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 4949.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 494949.cm.		86400	IN	NS	joyce.dnspod.net.
 494949.cm.		86400	IN	NS	cardboard.dnspod.net.
-495.cm.			86400	IN	NS	ns1.dns.com.
-495.cm.			86400	IN	NS	ns2.dns.com.
 4950.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 4950.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 4951.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
@@ -6844,8 +6704,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 4966.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 4969.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 4969.cm.		86400	IN	NS	james.ns.cloudflare.com.
-497.cm.			86400	IN	NS	clay.ns.cloudflare.com.
-497.cm.			86400	IN	NS	cheryl.ns.cloudflare.com.
 49706.cm.		86400	IN	NS	joyce.dnspod.net.
 49706.cm.		86400	IN	NS	cardboard.dnspod.net.
 497171.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -6874,8 +6732,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 49833.cm.		86400	IN	NS	cardboard.dnspod.net.
 4987.cm.		86400	IN	NS	ns1.alidns.com.
 4987.cm.		86400	IN	NS	ns2.alidns.com.
-4988.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
-4988.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 499.cm.			86400	IN	NS	ns1.ename-dns.com.
 499.cm.			86400	IN	NS	ns2.ename-dns.com.
 499.cm.			86400	IN	NS	ns3.ename-dns.net.
@@ -7213,8 +7069,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 5174.cm.		86400	IN	NS	ns2.dns.com.
 5177.cm.		86400	IN	NS	ns1.dns.com.
 5177.cm.		86400	IN	NS	ns2.dns.com.
-51789.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
-51789.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 518.cm.			86400	IN	NS	ns1.4.cn.
 518.cm.			86400	IN	NS	ns2.4.cn.
 5187.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -7301,8 +7155,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 5227.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 523.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 523.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-5232.cm.		86400	IN	NS	david.ns.cloudflare.com.
-5232.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 52345.cm.		86400	IN	NS	v1s1.xundns.com.
 52345.cm.		86400	IN	NS	v1s2.xundns.com.
 5236.cm.		86400	IN	NS	ns1.dns.com.
@@ -7476,8 +7328,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 5382.cm.		86400	IN	NS	ns03.trademarkarea.com.
 5385.cm.		86400	IN	NS	ns1.dns.com.
 5385.cm.		86400	IN	NS	ns2.dns.com.
-5386.cm.		86400	IN	NS	david.ns.cloudflare.com.
-5386.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 5388.cm.		86400	IN	NS	carlane.ns.cloudflare.com.
 5388.cm.		86400	IN	NS	jermaine.ns.cloudflare.com.
 53888.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -7492,8 +7342,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 5393.cm.		86400	IN	NS	ns2.dns.com.
 5396.cm.		86400	IN	NS	ns1.dns.com.
 5396.cm.		86400	IN	NS	ns2.dns.com.
-5398.cm.		86400	IN	NS	david.ns.cloudflare.com.
-5398.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 53kf.cm.		86400	IN	NS	ns1.bodis.com.
 53kf.cm.		86400	IN	NS	ns2.bodis.com.
 54.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -7504,8 +7352,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 5400.cm.		86400	IN	NS	ns2.dns.com.
 5400dh.cm.		86400	IN	NS	tom.ns.cloudflare.com.
 5400dh.cm.		86400	IN	NS	diva.ns.cloudflare.com.
-5403.cm.		86400	IN	NS	david.ns.cloudflare.com.
-5403.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 540dh.cm.		86400	IN	NS	ns1.dns.com.
 540dh.cm.		86400	IN	NS	ns2.dns.com.
 541.cm.			86400	IN	NS	clay.ns.cloudflare.com.
@@ -7520,8 +7366,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 5418.cm.		86400	IN	NS	ns2.dns.com.
 5419.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 5419.cm.		86400	IN	NS	james.ns.cloudflare.com.
-542.cm.			86400	IN	NS	clay.ns.cloudflare.com.
-542.cm.			86400	IN	NS	cheryl.ns.cloudflare.com.
 5426.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 5426.cm.		86400	IN	NS	james.ns.cloudflare.com.
 5429.cm.		86400	IN	NS	ns1.alidns.com.
@@ -7566,8 +7410,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 54567.cm.		86400	IN	NS	james.ns.cloudflare.com.
 5457.cm.		86400	IN	NS	joyce.dnspod.net.
 5457.cm.		86400	IN	NS	cardboard.dnspod.net.
-546.cm.			86400	IN	NS	ns1.alidns.com.
-546.cm.			86400	IN	NS	ns2.alidns.com.
 5462.cm.		86400	IN	NS	ns1.alidns.com.
 5462.cm.		86400	IN	NS	ns2.alidns.com.
 5463.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -7580,10 +7422,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 5466.cm.		86400	IN	NS	ns2.dns.com.
 5468.cm.		86400	IN	NS	david.ns.cloudflare.com.
 5468.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-547.cm.			86400	IN	NS	clay.ns.cloudflare.com.
-547.cm.			86400	IN	NS	cheryl.ns.cloudflare.com.
-5474.cm.		86400	IN	NS	david.ns.cloudflare.com.
-5474.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 5475.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 5475.cm.		86400	IN	NS	james.ns.cloudflare.com.
 5476.cm.		86400	IN	NS	ns1.alidns.com.
@@ -7608,8 +7446,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 5488.cm.		86400	IN	NS	ns2.dnsdun.net.
 5489.cm.		86400	IN	NS	ns1.dns.com.
 5489.cm.		86400	IN	NS	ns2.dns.com.
-549.cm.			86400	IN	NS	clay.ns.cloudflare.com.
-549.cm.			86400	IN	NS	cheryl.ns.cloudflare.com.
 54924.cm.		86400	IN	NS	joyce.dnspod.net.
 54924.cm.		86400	IN	NS	cardboard.dnspod.net.
 5495.cm.		86400	IN	NS	irma.ns.cloudflare.com.
@@ -7715,8 +7551,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 55402.cm.		86400	IN	NS	mckenzie.ns.cloudflare.com.
 5541.cm.		86400	IN	NS	asa.ns.cloudflare.com.
 5541.cm.		86400	IN	NS	marty.ns.cloudflare.com.
-5543.cm.		86400	IN	NS	david.ns.cloudflare.com.
-5543.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 554455.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 554455.cm.		86400	IN	NS	james.ns.cloudflare.com.
 5545.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -7829,8 +7663,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 5595.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 5596.cm.		86400	IN	NS	david.ns.cloudflare.com.
 5596.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-5598.cm.		86400	IN	NS	david.ns.cloudflare.com.
-5598.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 5599.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
 5599.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 559955.cm.		86400	IN	NS	irma.ns.cloudflare.com.
@@ -7887,8 +7719,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 5634.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 56365.cm.		86400	IN	NS	david.ns.cloudflare.com.
 56365.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-5637.cm.		86400	IN	NS	david.ns.cloudflare.com.
-5637.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 5638.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 5638.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 5639.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
@@ -7964,8 +7794,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 5682.cm.		86400	IN	NS	ns2.dns.com.
 5683.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 5683.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
-5685.cm.		86400	IN	NS	david.ns.cloudflare.com.
-5685.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 5688.cm.		86400	IN	NS	carlane.ns.cloudflare.com.
 5688.cm.		86400	IN	NS	jermaine.ns.cloudflare.com.
 56888.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -8070,8 +7898,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 577511.cm.		86400	IN	NS	cardboard.dnspod.net.
 5776.cm.		86400	IN	NS	david.ns.cloudflare.com.
 5776.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-5778.cm.		86400	IN	NS	david.ns.cloudflare.com.
-5778.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 57797.cm.		86400	IN	NS	joyce.dnspod.net.
 57797.cm.		86400	IN	NS	cardboard.dnspod.net.
 578.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -8180,8 +8006,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 5874.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 5875.cm.		86400	IN	NS	david.ns.cloudflare.com.
 5875.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-5877.cm.		86400	IN	NS	david.ns.cloudflare.com.
-5877.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 58777.cm.		86400	IN	NS	david.ns.cloudflare.com.
 58777.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 5878.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -8409,8 +8233,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 602.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 6020.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6020.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-6022.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6022.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6023.cm.		86400	IN	NS	ns1.dns.com.
 6023.cm.		86400	IN	NS	ns2.dns.com.
 603.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -8419,12 +8241,8 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6030.cm.		86400	IN	NS	ns2.dns.com.
 6033.cm.		86400	IN	NS	ns1.dns.com.
 6033.cm.		86400	IN	NS	ns2.dns.com.
-60333.cm.		86400	IN	NS	david.ns.cloudflare.com.
-60333.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 60365.cm.		86400	IN	NS	david.ns.cloudflare.com.
 60365.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-6038.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6038.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 60399.cm.		86400	IN	NS	david.ns.cloudflare.com.
 60399.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 604.cm.			86400	IN	NS	ns1.dns.com.
@@ -8461,12 +8279,8 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6066.cm.		86400	IN	NS	jermaine.ns.cloudflare.com.
 6067.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6067.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-6068.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6068.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 607.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 607.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-6078.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6078.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6079.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6079.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 608.cm.			86400	IN	NS	ns1.dns.com.
@@ -8531,8 +8345,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6132.cm.		86400	IN	NS	cheryl.ns.cloudflare.com.
 6133.cm.		86400	IN	NS	ns1.dns.com.
 6133.cm.		86400	IN	NS	ns2.dns.com.
-6134.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6134.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 61365.cm.		86400	IN	NS	david.ns.cloudflare.com.
 61365.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6138.cm.		86400	IN	NS	ns1.dns.com.
@@ -8545,8 +8357,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 614.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 6141.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6141.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-6142.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6142.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6145.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6145.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6146.cm.		86400	IN	NS	ns1.dns.com.
@@ -8587,8 +8397,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 61777.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 618.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 618.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-6180.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6180.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6181.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6181.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6188.cm.		86400	IN	NS	carlane.ns.cloudflare.com.
@@ -8599,8 +8407,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 618883.cm.		86400	IN	NS	cardboard.dnspod.net.
 619.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 619.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-6194.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6194.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6196.cm.		86400	IN	NS	ns1.dns.com.
 6196.cm.		86400	IN	NS	ns2.dns.com.
 6199.cm.		86400	IN	NS	ns1.dns.com.
@@ -8752,8 +8558,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 62929.cm.		86400	IN	NS	cardboard.dnspod.net.
 6296.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6296.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-6298.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6298.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 62990.cm.		86400	IN	NS	joyce.dnspod.net.
 62990.cm.		86400	IN	NS	cardboard.dnspod.net.
 63.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -8774,8 +8578,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6310.cm.		86400	IN	NS	ns2.dns.com.
 6311.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6311.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-6319.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6319.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 632.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 632.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 6321.cm.		86400	IN	NS	ns1.dns.com.
@@ -8808,8 +8610,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6345.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6346.cm.		86400	IN	NS	ns1.dns.com.
 6346.cm.		86400	IN	NS	ns2.dns.com.
-6347.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6347.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6348.cm.		86400	IN	NS	ns1.dns.com.
 6348.cm.		86400	IN	NS	ns2.dns.com.
 6349.cm.		86400	IN	NS	irma.ns.cloudflare.com.
@@ -8852,14 +8652,10 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6394.cm.		86400	IN	NS	cardboard.dnspod.net.
 6396.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6396.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-6398.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6398.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6399.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6399.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 64.cm.			86400	IN	NS	clay.ns.cloudflare.com.
 64.cm.			86400	IN	NS	cheryl.ns.cloudflare.com.
-640.cm.			86400	IN	NS	clay.ns.cloudflare.com.
-640.cm.			86400	IN	NS	cheryl.ns.cloudflare.com.
 6403.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6403.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6404.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -8868,8 +8664,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6408.cm.		86400	IN	NS	ns2.dns.com.
 6409.cm.		86400	IN	NS	ns1.dns.com.
 6409.cm.		86400	IN	NS	ns2.dns.com.
-641.cm.			86400	IN	NS	clay.ns.cloudflare.com.
-641.cm.			86400	IN	NS	cheryl.ns.cloudflare.com.
 6410.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 6410.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 6412.cm.		86400	IN	NS	ns1.dns.com.
@@ -8888,8 +8682,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6423.cm.		86400	IN	NS	ns2.dns.com.
 6427.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6427.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-643.cm.			86400	IN	NS	clay.ns.cloudflare.com.
-643.cm.			86400	IN	NS	cheryl.ns.cloudflare.com.
 6432.cm.		86400	IN	NS	ns1.dns.com.
 6432.cm.		86400	IN	NS	ns2.dns.com.
 6434.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
@@ -8952,8 +8744,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6467.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6469.cm.		86400	IN	NS	ns1.dns.com.
 6469.cm.		86400	IN	NS	ns2.dns.com.
-647.cm.			86400	IN	NS	ns1.dns.com.
-647.cm.			86400	IN	NS	ns2.dns.com.
 6474.cm.		86400	IN	NS	ns1.dns.com.
 6474.cm.		86400	IN	NS	ns2.dns.com.
 648.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -8968,8 +8758,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6485.cm.		86400	IN	NS	ns2.alidns.com.
 64888.cm.		86400	IN	NS	david.ns.cloudflare.com.
 64888.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-649.cm.			86400	IN	NS	clay.ns.cloudflare.com.
-649.cm.			86400	IN	NS	cheryl.ns.cloudflare.com.
 6491.cm.		86400	IN	NS	ns1.dns.com.
 6491.cm.		86400	IN	NS	ns2.dns.com.
 6494.cm.		86400	IN	NS	ns1.dns.com.
@@ -9070,8 +8858,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6572.cm.		86400	IN	NS	ns2.dns.com.
 6574.cm.		86400	IN	NS	ns1.dns.com.
 6574.cm.		86400	IN	NS	ns2.dns.com.
-6578.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6578.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 658.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 658.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 6588.cm.		86400	IN	NS	carlane.ns.cloudflare.com.
@@ -9398,12 +9184,8 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6756.cm.		86400	IN	NS	ns2.dns.com.
 676.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 676.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-6761.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6761.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6762.cm.		86400	IN	NS	ns1.dns.com.
 6762.cm.		86400	IN	NS	ns2.dns.com.
-6765.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6765.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6766.cm.		86400	IN	NS	ns1.dns.com.
 6766.cm.		86400	IN	NS	ns2.dns.com.
 67666.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -9496,8 +9278,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6832.cm.		86400	IN	NS	ns2.dns.com.
 6833.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6833.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-6838.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6838.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 684.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 684.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 6841.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -9580,8 +9360,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6902.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6906.cm.		86400	IN	NS	ns1.dns.com.
 6906.cm.		86400	IN	NS	ns2.dns.com.
-6908.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6908.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 6909.cm.		86400	IN	NS	david.ns.cloudflare.com.
 6909.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 691.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -9642,8 +9420,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 6970.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 69779.cm.		86400	IN	NS	joyce.dnspod.net.
 69779.cm.		86400	IN	NS	cardboard.dnspod.net.
-6979.cm.		86400	IN	NS	david.ns.cloudflare.com.
-6979.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 698.cm.			86400	IN	NS	ns2.dnsv1.com.
 698.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 698.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
@@ -9825,8 +9601,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 703399.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 7034.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 7034.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
-7035.cm.		86400	IN	NS	david.ns.cloudflare.com.
-7035.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7036.cm.		86400	IN	NS	ns1.dns.com.
 7036.cm.		86400	IN	NS	ns2.dns.com.
 7038.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
@@ -10227,8 +10001,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 7389.cm.		86400	IN	NS	ns2.dns.com.
 739.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 739.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-7390.cm.		86400	IN	NS	david.ns.cloudflare.com.
-7390.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7395.cm.		86400	IN	NS	david.ns.cloudflare.com.
 7395.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7398.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -10247,8 +10019,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 7408.cm.		86400	IN	NS	james.ns.cloudflare.com.
 7409.cm.		86400	IN	NS	david.ns.cloudflare.com.
 7409.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-741.cm.			86400	IN	NS	clay.ns.cloudflare.com.
-741.cm.			86400	IN	NS	cheryl.ns.cloudflare.com.
 7411.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 7411.cm.		86400	IN	NS	james.ns.cloudflare.com.
 741111.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -10265,8 +10035,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 7418.cm.		86400	IN	NS	james.ns.cloudflare.com.
 7419.cm.		86400	IN	NS	david.ns.cloudflare.com.
 7419.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-742.cm.			86400	IN	NS	david.ns.cloudflare.com.
-742.cm.			86400	IN	NS	heather.ns.cloudflare.com.
 7422.cm.		86400	IN	NS	ns1.dns.com.
 7422.cm.		86400	IN	NS	ns2.dns.com.
 7424.cm.		86400	IN	NS	ns1.dns.com.
@@ -10347,8 +10115,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 75.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 750.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 750.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-75000.cm.		86400	IN	NS	david.ns.cloudflare.com.
-75000.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7501.cm.		86400	IN	NS	david.ns.cloudflare.com.
 7501.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 75088.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -10419,8 +10185,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 7584.cm.		86400	IN	NS	ns2.dns.com.
 7585.cm.		86400	IN	NS	carlane.ns.cloudflare.com.
 7585.cm.		86400	IN	NS	jermaine.ns.cloudflare.com.
-7587.cm.		86400	IN	NS	david.ns.cloudflare.com.
-7587.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7588.cm.		86400	IN	NS	carlane.ns.cloudflare.com.
 7588.cm.		86400	IN	NS	jermaine.ns.cloudflare.com.
 75888.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -10437,10 +10201,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 76.cm.			86400	IN	NS	ns2.dns.com.
 760.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 760.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-76000.cm.		86400	IN	NS	david.ns.cloudflare.com.
-76000.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-7601.cm.		86400	IN	NS	david.ns.cloudflare.com.
-7601.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7605.cm.		86400	IN	NS	david.ns.cloudflare.com.
 7605.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7606.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -10514,8 +10274,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 76589.cm.		86400	IN	NS	cardboard.dnspod.net.
 766.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 766.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-7660.cm.		86400	IN	NS	david.ns.cloudflare.com.
-7660.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7661.cm.		86400	IN	NS	david.ns.cloudflare.com.
 7661.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7664.cm.		86400	IN	NS	ns1.dns.com.
@@ -10536,8 +10294,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 767210.cm.		86400	IN	NS	cardboard.dnspod.net.
 7673.cm.		86400	IN	NS	david.ns.cloudflare.com.
 7673.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-7675.cm.		86400	IN	NS	david.ns.cloudflare.com.
-7675.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 767676.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 767676.cm.		86400	IN	NS	james.ns.cloudflare.com.
 767678.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -10626,8 +10382,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 773.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 7731.cm.		86400	IN	NS	david.ns.cloudflare.com.
 7731.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-7732.cm.		86400	IN	NS	david.ns.cloudflare.com.
-7732.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7733.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
 7733.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 773311.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -10644,8 +10398,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 7736.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7737.cm.		86400	IN	NS	ns1.dns.com.
 7737.cm.		86400	IN	NS	ns2.dns.com.
-7738.cm.		86400	IN	NS	david.ns.cloudflare.com.
-7738.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7739.cm.		86400	IN	NS	ns1.dns.com.
 7739.cm.		86400	IN	NS	ns2.dns.com.
 774.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -10824,8 +10576,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 782.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 7822.cm.		86400	IN	NS	david.ns.cloudflare.com.
 7822.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-7825.cm.		86400	IN	NS	david.ns.cloudflare.com.
-7825.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 783.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 783.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 7830.cm.		86400	IN	NS	ns1.dns.com.
@@ -10896,8 +10646,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 78888.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 789.cm.			86400	IN	NS	john.ns.cloudflare.com.
 789.cm.			86400	IN	NS	jocelyn.ns.cloudflare.com.
-7891.cm.		86400	IN	NS	david.ns.cloudflare.com.
-7891.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 78913.cm.		86400	IN	NS	ns1.dns.com.
 78913.cm.		86400	IN	NS	ns2.dns.com.
 78918.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -10968,12 +10716,8 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 794.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 7943.cm.		86400	IN	NS	david.ns.cloudflare.com.
 7943.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-7945.cm.		86400	IN	NS	david.ns.cloudflare.com.
-7945.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7946.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 7946.cm.		86400	IN	NS	james.ns.cloudflare.com.
-7948.cm.		86400	IN	NS	david.ns.cloudflare.com.
-7948.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 7949.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 7949.cm.		86400	IN	NS	james.ns.cloudflare.com.
 795.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -11099,6 +10843,8 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 7vv.cm.			86400	IN	NS	crystal.ns.cloudflare.com.
 7x.cm.			86400	IN	NS	suzanne.ns.cloudflare.com.
 7x.cm.			86400	IN	NS	giancarlo.ns.cloudflare.com.
+7y.cm.			86400	IN	NS	louis.ns.cloudflare.com.
+7y.cm.			86400	IN	NS	gabriella.ns.cloudflare.com.
 7yh.cm.			86400	IN	NS	ns1.dns.com.
 7yh.cm.			86400	IN	NS	ns2.dns.com.
 7z.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -11240,8 +10986,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 8062.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8066.cm.		86400	IN	NS	david.ns.cloudflare.com.
 8066.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-80666.cm.		86400	IN	NS	david.ns.cloudflare.com.
-80666.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8067.cm.		86400	IN	NS	ns1.dns.com.
 8067.cm.		86400	IN	NS	ns2.dns.com.
 8069.cm.		86400	IN	NS	ns1.dns.com.
@@ -11386,8 +11130,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 819.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 8194.cm.		86400	IN	NS	david.ns.cloudflare.com.
 8194.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-8195.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8195.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8196.cm.		86400	IN	NS	david.ns.cloudflare.com.
 8196.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8196j.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -11420,8 +11162,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 8222.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 82249.cm.		86400	IN	NS	joyce.dnspod.net.
 82249.cm.		86400	IN	NS	cardboard.dnspod.net.
-8225.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8225.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8226.cm.		86400	IN	NS	ns1.dnsdun.com.
 8226.cm.		86400	IN	NS	ns1.dnsdun.net.
 822790.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -11450,8 +11190,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 8252.cm.		86400	IN	NS	cardboard.dnspod.net.
 8254.cm.		86400	IN	NS	ns1.dns.com.
 8254.cm.		86400	IN	NS	ns2.dns.com.
-82567.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
-82567.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 826.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 826.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 8265.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -11540,8 +11278,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 8344.cm.		86400	IN	NS	ns2.dns.com.
 8346.cm.		86400	IN	NS	ns1.dns.com.
 8346.cm.		86400	IN	NS	ns2.dns.com.
-8347.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8347.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8348.cm.		86400	IN	NS	ns1.dns.com.
 8348.cm.		86400	IN	NS	ns2.dns.com.
 835.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -11582,8 +11318,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 8393.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8395.cm.		86400	IN	NS	ns1.dns.com.
 8395.cm.		86400	IN	NS	ns2.dns.com.
-8398.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8398.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 84.cm.			86400	IN	NS	ns1.parkingcrew.com.
 84.cm.			86400	IN	NS	ns2.parkingcrew.com.
 840.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -11602,8 +11336,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 8419.cm.		86400	IN	NS	james.ns.cloudflare.com.
 842.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 842.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-84222.cm.		86400	IN	NS	david.ns.cloudflare.com.
-84222.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8424.cm.		86400	IN	NS	david.ns.cloudflare.com.
 8424.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8425.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
@@ -11700,8 +11432,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 851.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 8510.cm.		86400	IN	NS	ns1.alidns.com.
 8510.cm.		86400	IN	NS	ns2.alidns.com.
-8511.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8511.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8512.cm.		86400	IN	NS	ns1.dns.com.
 8512.cm.		86400	IN	NS	ns2.dns.com.
 85155.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -11724,8 +11454,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 8529.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 853.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 853.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-8534.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8534.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8535.cm.		86400	IN	NS	ns1.dns.com.
 8535.cm.		86400	IN	NS	ns2.dns.com.
 8536.cm.		86400	IN	NS	ns1.dns.com.
@@ -11756,8 +11484,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 8558.cm.		86400	IN	NS	james.ns.cloudflare.com.
 856.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 856.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-8560.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8560.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8565.cm.		86400	IN	NS	david.ns.cloudflare.com.
 8565.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8568.cm.		86400	IN	NS	ns1.dns.com.
@@ -11806,8 +11532,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 860.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 86008.cm.		86400	IN	NS	david.ns.cloudflare.com.
 86008.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-8606.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8606.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 86068.cm.		86400	IN	NS	ns1.dns.com.
 86068.cm.		86400	IN	NS	ns2.dns.com.
 8607.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -11852,16 +11576,12 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 865.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 8654.cm.		86400	IN	NS	ns1.dns.com.
 8654.cm.		86400	IN	NS	ns2.dns.com.
-8655.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8655.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8657.cm.		86400	IN	NS	ns1.dns.com.
 8657.cm.		86400	IN	NS	ns2.dns.com.
 866.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 866.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 86601.cm.		86400	IN	NS	joyce.dnspod.net.
 86601.cm.		86400	IN	NS	cardboard.dnspod.net.
-8663.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8663.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 8664.cm.		86400	IN	NS	ns1.dns.com.
 8664.cm.		86400	IN	NS	ns2.dns.com.
 8666.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
@@ -11996,8 +11716,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 8787.cm.		86400	IN	NS	ns6.myhostadmin.net.
 878787.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 878787.cm.		86400	IN	NS	james.ns.cloudflare.com.
-8789.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8789.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 879.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 879.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 8790.cm.		86400	IN	NS	ns1.dns.com.
@@ -12070,8 +11788,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 8828.cm.		86400	IN	NS	ian.ns.cloudflare.com.
 883.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 883.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-8830.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8830.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 883015.cm.		86400	IN	NS	ns1.dns.com.
 883015.cm.		86400	IN	NS	ns2.dns.com.
 8833.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
@@ -12314,12 +12030,8 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 8905.cm.		86400	IN	NS	ns2.dns.com.
 8907.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 8907.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
-8908.cm.		86400	IN	NS	david.ns.cloudflare.com.
-8908.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 89098.cm.		86400	IN	NS	joyce.dnspod.net.
 89098.cm.		86400	IN	NS	cardboard.dnspod.net.
-89099.cm.		86400	IN	NS	david.ns.cloudflare.com.
-89099.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 891.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 891.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 8914.cm.		86400	IN	NS	ns1.dns.com.
@@ -12535,8 +12247,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 9041.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 9042.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 9042.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
-9044.cm.		86400	IN	NS	david.ns.cloudflare.com.
-9044.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 9045.cm.		86400	IN	NS	david.ns.cloudflare.com.
 9045.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 9047.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
@@ -12635,8 +12345,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 911.cm.			86400	IN	NS	ns2.4.cn.
 91111.cm.		86400	IN	NS	joyce.dnspod.net.
 91111.cm.		86400	IN	NS	cardboard.dnspod.net.
-9114.cm.		86400	IN	NS	ns1.alidns.com.
-9114.cm.		86400	IN	NS	ns2.alidns.com.
 9117.cm.		86400	IN	NS	ns1.dns.com.
 9117.cm.		86400	IN	NS	ns2.dns.com.
 9118.cm.		86400	IN	NS	ns1.dns.com.
@@ -12686,16 +12394,12 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 9161.cm.		86400	IN	NS	ns2.dns.com.
 9163.cm.		86400	IN	NS	ns1.dns.com.
 9163.cm.		86400	IN	NS	ns2.dns.com.
-9165.cm.		86400	IN	NS	david.ns.cloudflare.com.
-9165.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 91678.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 91678.cm.		86400	IN	NS	james.ns.cloudflare.com.
 917.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 917.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 9170.cm.		86400	IN	NS	ns1.dns.com.
 9170.cm.		86400	IN	NS	ns2.dns.com.
-9174.cm.		86400	IN	NS	david.ns.cloudflare.com.
-9174.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 9177.cm.		86400	IN	NS	ns1.dns.com.
 9177.cm.		86400	IN	NS	ns2.dns.com.
 9178.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -12866,8 +12570,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 9322.cm.		86400	IN	NS	ns2.dns.com.
 933.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 933.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-9335.cm.		86400	IN	NS	david.ns.cloudflare.com.
-9335.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 93365.cm.		86400	IN	NS	david.ns.cloudflare.com.
 93365.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 934.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -12938,8 +12640,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 941.cm.			86400	IN	NS	ns2.4.cn.
 9411.cm.		86400	IN	NS	david.ns.cloudflare.com.
 9411.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-9417.cm.		86400	IN	NS	david.ns.cloudflare.com.
-9417.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 942.cm.			86400	IN	NS	ns1.4.cn.
 942.cm.			86400	IN	NS	ns2.4.cn.
 9420.cm.		86400	IN	NS	ns1.dns.com.
@@ -13010,8 +12710,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 9479.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 948.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 948.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-9484.cm.		86400	IN	NS	david.ns.cloudflare.com.
-9484.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 9486.cm.		86400	IN	NS	david.ns.cloudflare.com.
 9486.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 94877.cm.		86400	IN	NS	ns1.ecpage.com.
@@ -13040,8 +12738,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 95.cm.			86400	IN	NS	v1s2.xundns.com.
 950.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 950.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-9500.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
-9500.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 9501.cm.		86400	IN	NS	joyce.dnspod.net.
 9501.cm.		86400	IN	NS	cardboard.dnspod.net.
 9505.cm.		86400	IN	NS	david.ns.cloudflare.com.
@@ -13176,8 +12872,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 9630.cm.		86400	IN	NS	ns2.dns.com.
 964.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 964.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-9641.cm.		86400	IN	NS	david.ns.cloudflare.com.
-9641.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 9644.cm.		86400	IN	NS	ns1.dns.com.
 9644.cm.		86400	IN	NS	ns2.dns.com.
 9645.cm.		86400	IN	NS	ns1.dns.com.
@@ -13218,8 +12912,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 968.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 9680.cm.		86400	IN	NS	ns1.dns.com.
 9680.cm.		86400	IN	NS	ns2.dns.com.
-9681.cm.		86400	IN	NS	david.ns.cloudflare.com.
-9681.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 9685.cm.		86400	IN	NS	ns1.dns.com.
 9685.cm.		86400	IN	NS	ns2.dns.com.
 9686.cm.		86400	IN	NS	joyce.dnspod.net.
@@ -13270,8 +12962,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 973.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 9733.cm.		86400	IN	NS	david.ns.cloudflare.com.
 9733.cm.		86400	IN	NS	heather.ns.cloudflare.com.
-9734.cm.		86400	IN	NS	david.ns.cloudflare.com.
-9734.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 974.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 974.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 9742.cm.		86400	IN	NS	ns1.dns.com.
@@ -13596,8 +13286,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 9972.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 9974.cm.		86400	IN	NS	ns1.dns.com.
 9974.cm.		86400	IN	NS	ns2.dns.com.
-9975.cm.		86400	IN	NS	david.ns.cloudflare.com.
-9975.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 9976.cm.		86400	IN	NS	ns1.dns.com.
 9976.cm.		86400	IN	NS	ns2.dns.com.
 9977.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
@@ -13796,8 +13484,6 @@ a1.cm.			86400	IN	NS	ns1.parkingcrew.net.
 a1.cm.			86400	IN	NS	ns2.parkingcrew.net.
 a10.cm.			86400	IN	NS	ns3.above.com.
 a10.cm.			86400	IN	NS	ns4.above.com.
-a13.cm.			86400	IN	NS	ns1.dns.com.
-a13.cm.			86400	IN	NS	ns2.dns.com.
 a16zcrypt0.cm.		86400	IN	NS	ns1.lexsynergy.net.
 a16zcrypt0.cm.		86400	IN	NS	ns2.lexsynergy.us.
 a16zcrypt0.cm.		86400	IN	NS	ns3.lexsynergy.info.
@@ -19341,8 +19027,8 @@ baml.cm.		86400	IN	NS	dns1.cscdns.net.
 baml.cm.		86400	IN	NS	dns2.cscdns.net.
 bamoundecoeur.cm.	86400	IN	NS	ns1.webhostingpad.com.
 bamoundecoeur.cm.	86400	IN	NS	ns2.webhostingpad.com.
-bams.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
-bams.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
+bams.cm.		86400	IN	NS	ns67.domaincontrol.com.
+bams.cm.		86400	IN	NS	ns68.domaincontrol.com.
 bamsec.cm.		86400	IN	NS	ns1.bodis.com.
 bamsec.cm.		86400	IN	NS	ns2.bodis.com.
 ban.cm.			86400	IN	NS	dns1.idp365.net.
@@ -21651,8 +21337,6 @@ blackforxx.cm.		86400	IN	NS	ns2.lemarit.net.
 blackforxx.cm.		86400	IN	NS	ns3.lemarit.de.
 blackfriday.cm.		86400	IN	NS	759.ns1.above.com.
 blackfriday.cm.		86400	IN	NS	759.ns2.above.com.
-blackhatworld.cm.	86400	IN	NS	aurora.ns.cloudflare.com.
-blackhatworld.cm.	86400	IN	NS	henrik.ns.cloudflare.com.
 blackhawk.cm.		86400	IN	NS	ns1.bodis.com.
 blackhawk.cm.		86400	IN	NS	ns2.bodis.com.
 blackhillsenergy.cm.	86400	IN	NS	ns1.smartname.com.
@@ -22860,8 +22544,6 @@ bradsdeals.cm.		86400	IN	NS	581.ns1.above.com.
 bradsdeals.cm.		86400	IN	NS	581.ns2.above.com.
 brain.cm.		86400	IN	NS	ns17.above.com.
 brain.cm.		86400	IN	NS	ns18.above.com.
-brainconsulting-bc.cm.	86400	IN	NS	ns18.ovh.net.
-brainconsulting-bc.cm.	86400	IN	NS	dns18.ovh.net.
 braincrabs.cm.		86400	IN	NS	dns1.registrar-servers.com.
 braincrabs.cm.		86400	IN	NS	dns2.registrar-servers.com.
 brainly.cm.		86400	IN	NS	ns1.bodis.com.
@@ -25175,8 +24857,6 @@ carltonsports.cm.	86400	IN	NS	ns5.netnames.net.
 carltonsports.cm.	86400	IN	NS	ns6.netnames.net.
 carmax.cm.		86400	IN	NS	ns1.hastydns.com.
 carmax.cm.		86400	IN	NS	ns2.hastydns.com.
-carmel.cm.		86400	IN	NS	ns1.camoogroup.com.
-carmel.cm.		86400	IN	NS	ns2.camoogroup.com.
 carnival.cm.		86400	IN	NS	ns1.hastydns.com.
 carnival.cm.		86400	IN	NS	ns2.hastydns.com.
 carousell.cm.		86400	IN	NS	ns1.bodis.com.
@@ -26710,8 +26390,6 @@ cibil.cm.		86400	IN	NS	ns1.bodis.com.
 cibil.cm.		86400	IN	NS	ns2.bodis.com.
 cic.cm.			86400	IN	NS	ns17.above.com.
 cic.cm.			86400	IN	NS	ns18.above.com.
-cicam.cm.		86400	IN	NS	ns1.o2switch.net.
-cicam.cm.		86400	IN	NS	ns2.o2switch.net.
 cicc.cm.		86400	IN	NS	ns1.contabo.net.
 cicc.cm.		86400	IN	NS	ns2.contabo.net.
 cicc.cm.		86400	IN	NS	ns3.contabo.net.
@@ -35194,10 +34872,8 @@ ericsson.cm.		86400	IN	NS	ns2.ericsson.se.
 ericsson.cm.		86400	IN	NS	e3dns.ericy.com.
 erieinsurance.cm.	86400	IN	NS	ns1.bodis.com.
 erieinsurance.cm.	86400	IN	NS	ns2.bodis.com.
-eriksson.cm.		86400	IN	NS	ns-69.awsdns-08.com.
-eriksson.cm.		86400	IN	NS	ns-868.awsdns-44.net.
-eriksson.cm.		86400	IN	NS	ns-1217.awsdns-24.org.
-eriksson.cm.		86400	IN	NS	ns-1599.awsdns-07.co.uk.
+eriksson.cm.		86400	IN	NS	ns1.messagingengine.com.
+eriksson.cm.		86400	IN	NS	ns2.messagingengine.com.
 erincondren.cm.		86400	IN	NS	581.ns1.above.com.
 erincondren.cm.		86400	IN	NS	581.ns2.above.com.
 ernestinembakou.cm.	86400	IN	NS	ns1.contabo.net.
@@ -36949,6 +36625,8 @@ fe-shop.cm.		86400	IN	NS	dns1.namecheaphosting.com.
 fe-shop.cm.		86400	IN	NS	dns2.namecheaphosting.com.
 feabie.cm.		86400	IN	NS	ns1.bodis.com.
 feabie.cm.		86400	IN	NS	ns2.bodis.com.
+feac.cm.		86400	IN	NS	ns1.camoogroup.com.
+feac.cm.		86400	IN	NS	ns2.camoogroup.com.
 fearnet.cm.		86400	IN	NS	dns1.cscdns.net.
 fearnet.cm.		86400	IN	NS	dns2.cscdns.net.
 featheredfriends.cm.	86400	IN	NS	ns1.bodis.com.
@@ -39478,8 +39156,6 @@ ganeshaspeaks.cm.	86400	IN	NS	ns1.parkingcrew.net.
 ganeshaspeaks.cm.	86400	IN	NS	ns2.parkingcrew.net.
 gang.cm.		86400	IN	NS	ns3.dnsv2.com.
 gang.cm.		86400	IN	NS	ns4.dnsv2.com.
-gangcai.cm.		86400	IN	NS	song.dnspod.net.
-gangcai.cm.		86400	IN	NS	tape.dnspod.net.
 ganji.cm.		86400	IN	NS	ns1.parkingcrew.net.
 ganji.cm.		86400	IN	NS	ns2.parkingcrew.net.
 gaokao.cm.		86400	IN	NS	ray.ns.cloudflare.com.
@@ -40020,6 +39696,8 @@ gettingout.cm.		86400	IN	NS	ns1.smartname.com.
 gettingout.cm.		86400	IN	NS	ns2.smartname.com.
 gettoggle.cm.		86400	IN	NS	ns1.above.com.
 gettoggle.cm.		86400	IN	NS	ns2.above.com.
+gettr.cm.		86400	IN	NS	ns1.parkingcrew.net.
+gettr.cm.		86400	IN	NS	ns2.parkingcrew.net.
 gettyimages.cm.		86400	IN	NS	269.ns1.above.com.
 gettyimages.cm.		86400	IN	NS	269.ns2.above.com.
 getyourguide.cm.	86400	IN	NS	a.dns.gandi.net.
@@ -44704,6 +44382,8 @@ html.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
 html.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 htr.cm.			86400	IN	NS	ns1.mtnbusiness.cm.
 htr.cm.			86400	IN	NS	ns2.mtnbusiness.cm.
+https-briansclub.cm.	86400	IN	NS	ns1.dns-parking.com.
+https-briansclub.cm.	86400	IN	NS	ns2.dns-parking.com.
 htttcuniba-edu.cm.	86400	IN	NS	ns6433.hostgator.com.
 htttcuniba-edu.cm.	86400	IN	NS	ns6434.hostgator.com.
 hu.cm.			86400	IN	NS	ns1.4.cn.
@@ -48739,10 +48419,8 @@ jsfirm.cm.		86400	IN	NS	ns1.bodis.com.
 jsfirm.cm.		86400	IN	NS	ns2.bodis.com.
 jsgj.cm.		86400	IN	NS	ns1.dns.com.
 jsgj.cm.		86400	IN	NS	ns2.dns.com.
-jsh.cm.			86400	IN	NS	ns1.4.cn.
-jsh.cm.			86400	IN	NS	ns2.4.cn.
-jsh.cm.			86400	IN	NS	ns3.goldenname.com.
-jsh.cm.			86400	IN	NS	ns4.goldenname.com.
+jsh.cm.			86400	IN	NS	ns1.dan.com.
+jsh.cm.			86400	IN	NS	ns2.dan.com.
 jsjs.cm.		86400	IN	NS	ns1.dns.com.
 jsjs.cm.		86400	IN	NS	ns2.dns.com.
 jsjt.cm.		86400	IN	NS	ns1.dns.com.
@@ -49107,8 +48785,6 @@ k29.cm.			86400	IN	NS	liv.ns.cloudflare.com.
 k29.cm.			86400	IN	NS	leland.ns.cloudflare.com.
 k3.cm.			86400	IN	NS	ivan.ns.cloudflare.com.
 k3.cm.			86400	IN	NS	nelly.ns.cloudflare.com.
-k31.cm.			86400	IN	NS	ns1.alidns.com.
-k31.cm.			86400	IN	NS	ns2.alidns.com.
 k335.cm.		86400	IN	NS	duke.ns.cloudflare.com.
 k335.cm.		86400	IN	NS	ollie.ns.cloudflare.com.
 k4.cm.			86400	IN	NS	ivan.ns.cloudflare.com.
@@ -56079,8 +55755,6 @@ mhcampus.cm.		86400	IN	NS	ns3.above.com.
 mhcampus.cm.		86400	IN	NS	ns4.above.com.
 mhdc.cm.		86400	IN	NS	ns.iccnet.cm.
 mhdc.cm.		86400	IN	NS	ns1.iccnet.cm.
-mhealthappointments.cm.	86400	IN	NS	ns1.mytrafficmanagement.com.
-mhealthappointments.cm.	86400	IN	NS	ns2.mytrafficmanagement.com.
 mheducation.cm.		86400	IN	NS	pdns85.ultradns.biz.
 mheducation.cm.		86400	IN	NS	pdns85.ultradns.com.
 mheducation.cm.		86400	IN	NS	pdns85.ultradns.net.
@@ -59235,8 +58909,8 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
@@ -59422,8 +59096,8 @@ naturevalley.cm.	86400	IN	NS	mgoextdns1.genmills.com.
 naturevalley.cm.	86400	IN	NS	mgoextdns2.genmills.com.
 naturist-nudist.cm.	86400	IN	NS	170.ns1.above.com.
 naturist-nudist.cm.	86400	IN	NS	170.ns2.above.com.
-naturopathe.cm.		86400	IN	NS	ns1.vsptech.host.
-naturopathe.cm.		86400	IN	NS	ns2.vsptech.host.
+naturopathe.cm.		86400	IN	NS	ns1.hilmandesign.com.
+naturopathe.cm.		86400	IN	NS	ns2.hilmandesign.com.
 natusan.cm.		86400	IN	NS	ns1.jnj.com.
 natusan.cm.		86400	IN	NS	ns3.jnj.com.
 natusan.cm.		86400	IN	NS	ns5.jnj.com.
@@ -67332,8 +67006,6 @@ qm.cm.			86400	IN	NS	candy.ns.cloudflare.com.
 qmail.cm.		86400	IN	NS	ns01.trademarkarea.com.
 qmail.cm.		86400	IN	NS	ns02.trademarkarea.com.
 qmail.cm.		86400	IN	NS	ns03.trademarkarea.com.
-qmcp.cm.		86400	IN	NS	andrea.dnspod.net.
-qmcp.cm.		86400	IN	NS	hayden.dnspod.net.
 qmg.cm.			86400	IN	NS	ns1.parkingcrew.net.
 qmg.cm.			86400	IN	NS	ns2.parkingcrew.net.
 qn.cm.			86400	IN	NS	ns1.4.cn.
@@ -68738,6 +68410,8 @@ relx.cm.		86400	IN	NS	ns2.reedelsevier.com.
 relx.cm.		86400	IN	NS	ns3.reedelsevier.com.
 relyfe.cm.		86400	IN	NS	ns100.ovh.net.
 relyfe.cm.		86400	IN	NS	dns100.ovh.net.
+rem.cm.			86400	IN	NS	ns17.above.com.
+rem.cm.			86400	IN	NS	ns18.above.com.
 remarkable.cm.		86400	IN	NS	ns17.above.com.
 remarkable.cm.		86400	IN	NS	ns18.above.com.
 remax.cm.		86400	IN	NS	ns1.hasns.com.
@@ -71233,8 +70907,6 @@ scp.cm.			86400	IN	NS	b.dnspod.com.
 scp.cm.			86400	IN	NS	c.dnspod.com.
 scpcamprevent.cm.	86400	IN	NS	kim.camnet.cm.
 scpcamprevent.cm.	86400	IN	NS	mbam.camnet.cm.
-scpr.cm.		86400	IN	NS	chelsea.ns.cloudflare.com.
-scpr.cm.		86400	IN	NS	santino.ns.cloudflare.com.
 scrapbook.cm.		86400	IN	NS	ns1.ii51.parklogic.com.
 scrapbook.cm.		86400	IN	NS	ns2.ii51.parklogic.com.
 scrapebox.cm.		86400	IN	NS	ns1.bodis.com.
@@ -73392,8 +73064,6 @@ sma.cm.			86400	IN	NS	ns-132-b.gandi.net.
 smabtp.cm.		86400	IN	NS	ns-2-b.gandi.net.
 smabtp.cm.		86400	IN	NS	ns-20-a.gandi.net.
 smabtp.cm.		86400	IN	NS	ns-70-c.gandi.net.
-small.cm.		86400	IN	NS	vera.ns.cloudflare.com.
-small.cm.		86400	IN	NS	jeremy.ns.cloudflare.com.
 smallbusinessbank.cm.	86400	IN	NS	ns1.bodis.com.
 smallbusinessbank.cm.	86400	IN	NS	ns2.bodis.com.
 smallobjectnetwork.cm.	86400	IN	NS	ns1.mtnbusiness.cm.
@@ -75055,8 +74725,8 @@ standardcharteredbank.cm. 86400	IN	NS	udns1.cscdns.net.
 standardcharteredbank.cm. 86400	IN	NS	udns2.cscdns.uk.
 standardforsuccess.cm.	86400	IN	NS	ns1.smartname.com.
 standardforsuccess.cm.	86400	IN	NS	ns2.smartname.com.
-standards.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
-standards.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
+standards.cm.		86400	IN	NS	ns1.bluehost.com.
+standards.cm.		86400	IN	NS	ns2.bluehost.com.
 standup.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 standup.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 stanjestvari.cm.	86400	IN	NS	ns1.bodis.com.
@@ -78715,8 +78385,6 @@ titties.cm.		86400	IN	NS	clyde.ns.cloudflare.com.
 titties.cm.		86400	IN	NS	barbara.ns.cloudflare.com.
 tivo.cm.		86400	IN	NS	759.ns1.above.com.
 tivo.cm.		86400	IN	NS	759.ns2.above.com.
-tiyu.cm.		86400	IN	NS	clay.ns.cloudflare.com.
-tiyu.cm.		86400	IN	NS	cheryl.ns.cloudflare.com.
 tj.cm.			86400	IN	NS	ns1.4.cn.
 tj.cm.			86400	IN	NS	ns2.4.cn.
 tjktradingcenter.cm.	86400	IN	NS	ns1.mtnbusiness.cm.
@@ -84876,8 +84544,6 @@ worldatlas.cm.		86400	IN	NS	ns1.parkingcrew.net.
 worldatlas.cm.		86400	IN	NS	ns2.parkingcrew.net.
 worldclass.cm.		86400	IN	NS	ns1.dan.com.
 worldclass.cm.		86400	IN	NS	ns2.dan.com.
-worldcoinindex.cm.	86400	IN	NS	freedns1.registrar-servers.com.
-worldcoinindex.cm.	86400	IN	NS	freedns2.registrar-servers.com.
 worldcup.cm.		86400	IN	NS	ns3.above.com.
 worldcup.cm.		86400	IN	NS	ns4.above.com.
 worldfirst.cm.		86400	IN	NS	ns1.bodis.com.
@@ -86219,11 +85885,6 @@ xpedia.cm.		86400	IN	NS	ns1.parkingcrew.net.
 xpedia.cm.		86400	IN	NS	ns2.parkingcrew.net.
 xpee.cm.		86400	IN	NS	ns1.parkingcrew.net.
 xpee.cm.		86400	IN	NS	ns2.parkingcrew.net.
-xpel.cm.		86400	IN	NS	dns1.name-services.com.
-xpel.cm.		86400	IN	NS	dns2.name-services.com.
-xpel.cm.		86400	IN	NS	dns3.name-services.com.
-xpel.cm.		86400	IN	NS	dns4.name-services.com.
-xpel.cm.		86400	IN	NS	dns5.name-services.com.
 xpj.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 xpj.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 xpj1.cm.		86400	IN	NS	ns1.dns.com.
@@ -88335,4 +87996,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022020503 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022020614 28800 3600 604800 86400
