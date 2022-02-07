@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020707 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020710 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1644217287"
+mg.			7200	IN	TXT	"Generation Time: 1644228096"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3157,6 +3157,8 @@ easytech.mg.		7200	IN	NS	ns.tgn.mg.
 easytech.mg.		7200	IN	NS	ns1.tgn.mg.
 easywork.mg.		7200	IN	NS	ns107.ovh.net.
 easywork.mg.		7200	IN	NS	dns107.ovh.net.
+eat.mg.			7200	IN	NS	drew.ns.cloudflare.com.
+eat.mg.			7200	IN	NS	elma.ns.cloudflare.com.
 eauvive.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
 eauvive.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 eauvive.mg.		7200	IN	NS	ns1.fr.malagasy.com.
@@ -3860,6 +3862,8 @@ fjkm.mg.		86400	IN	NS	ns29.dot.mg.
 fjkm.mg.		86400	IN	NS	ns30.dot.mg.
 fjkm-ambanilalana-finoana.mg. 86400 IN	NS	ns29.fjkm.mg.
 fjkm-ambanilalana-finoana.mg. 86400 IN	NS	ns30.fjkm.mg.
+fjkm-ambohijafyfanantenana.mg. 86400 IN	NS	ns29.fjkm.mg.
+fjkm-ambohijafyfanantenana.mg. 86400 IN	NS	ns30.fjkm.mg.
 fjkm-ambohitantely.mg.	86400	IN	NS	ns29.fjkm.mg.
 fjkm-ambohitantely.mg.	86400	IN	NS	ns30.fjkm.mg.
 fjkm-amboniloha.mg.	86400	IN	NS	ns29.fjkm.mg.
@@ -3868,6 +3872,8 @@ fjkm-andravoahangyfiv.mg. 86400	IN	NS	dns100.ovh.net.
 fjkm-andravoahangyfiv.mg. 86400	IN	NS	ns100.ovh.net.
 fjkm-ankadifotsy.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 fjkm-ankadifotsy.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
+fjkm-ankadimbahoaka.mg.	86400	IN	NS	ns29.fjkm.mg.
+fjkm-ankadimbahoaka.mg.	86400	IN	NS	ns30.fjkm.mg.
 fjkm-anonimasina-ziona.mg. 86400 IN	NS	ns1.cloudns.io.
 fjkm-anonimasina-ziona.mg. 86400 IN	NS	ns2.cloudns.io.
 fjkm-anosivavaka.mg.	86400	IN	NS	dns1.supremepanel.com.
@@ -4852,6 +4858,8 @@ huobi.mg.		86400	IN	NS	ns-1810.awsdns-34.co.uk.
 huobi.mg.		86400	IN	NS	ns-1001.awsdns-61.net.
 huobi.mg.		86400	IN	NS	ns-1523.awsdns-62.org.
 huobi.mg.		86400	IN	NS	ns-347.awsdns-43.com.
+hvac.mg.		86400	IN	NS	ns1.da.cloudns.io.
+hvac.mg.		86400	IN	NS	ns2.da.cloudns.io.
 hvmm.mg.		86400	IN	NS	ns1.webmo.fr.
 hvmm.mg.		86400	IN	NS	ns2.webmo.fr.
 hwwc.mg.		86400	IN	NS	dns16.ovh.net.
@@ -8595,8 +8603,8 @@ rand.mg.		86400	IN	NS	dns200.anycast.me.
 rand.mg.		86400	IN	NS	ns200.anycast.me.
 randrianarison.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 randrianarison.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
-ranitra.mg.		86400	IN	NS	ns1.da.cloudns.io.
-ranitra.mg.		86400	IN	NS	ns2.da.cloudns.io.
+ranitra.mg.		86400	IN	NS	ns1.cloudns.io.
+ranitra.mg.		86400	IN	NS	ns2.cloudns.io.
 ranoray.mg.		86400	IN	NS	ns1.cloudns.io.
 ranoray.mg.		86400	IN	NS	ns2.cloudns.io.
 rapideservice.mg.	86400	IN	NS	ns1.servermada.com.
@@ -9955,6 +9963,8 @@ talenta.mg.		86400	IN	NS	ns1.da.cloudns.io.
 talenta.mg.		86400	IN	NS	ns2.da.cloudns.io.
 talia.mg.		86400	IN	NS	dns111.ovh.net.
 talia.mg.		86400	IN	NS	ns111.ovh.net.
+talk.mg.		86400	IN	NS	drew.ns.cloudflare.com.
+talk.mg.		86400	IN	NS	elma.ns.cloudflare.com.
 taloumis.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 taloumis.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 taloumis.mg.		86400	IN	NS	ns1.fr.malagasy.com.
@@ -10629,8 +10639,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11358,4 +11368,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020707 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020710 600 3600 604800 86400
