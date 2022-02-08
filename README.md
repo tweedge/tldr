@@ -1,6 +1,5 @@
 # tldr
 
-[![Running?](https://img.shields.io/uptimerobot/status/m789963227-8ecf98b56e5473d68e65fc94)](https://status.partridge.tech/789963227)
 [![Forked From](https://img.shields.io/badge/forked%20from-TLDR-blue.svg)](https://github.com/mandatoryprogrammer/TLDR)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
 [![Operated By](https://img.shields.io/badge/operated%20by-some%20nerd-red.svg)](https://chris.partridge.tech)
