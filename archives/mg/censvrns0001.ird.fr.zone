@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020907 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020910 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1644390086"
+mg.			7200	IN	TXT	"Generation Time: 1644400893"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3193,8 +3193,10 @@ eco-logik.mg.		7200	IN	NS	ns1.da.cloudns.io.
 eco-logik.mg.		7200	IN	NS	ns2.da.cloudns.io.
 eco-multiservice.mg.	7200	IN	NS	ns.dts.mg.
 eco-multiservice.mg.	7200	IN	NS	ns1.dts.mg.
-ecobazar.mg.		7200	IN	NS	ns1705.websitewelcome.com.
-ecobazar.mg.		7200	IN	NS	ns1706.websitewelcome.com.
+ecobazar.mg.		7200	IN	NS	ns1045.ui-dns.org.
+ecobazar.mg.		7200	IN	NS	ns1045.ui-dns.de.
+ecobazar.mg.		7200	IN	NS	ns1045.ui-dns.biz.
+ecobazar.mg.		7200	IN	NS	ns1045.ui-dns.com.
 ecoclean.mg.		7200	IN	NS	ns1.servermada.com.
 ecoclean.mg.		7200	IN	NS	ns2.servermada.com.
 ecoclean.mg.		7200	IN	NS	ns3.servermada.com.
@@ -4442,6 +4444,8 @@ grossisteenligne.mg.	86400	IN	NS	dns2.supremepanel.com.
 group4securicor.mg.	86400	IN	NS	dns1.idp365.net.
 group4securicor.mg.	86400	IN	NS	dns2.idp365.net.
 group4securicor.mg.	86400	IN	NS	dns3.idp365.net.
+groupe-arcade.mg.	86400	IN	NS	ns1.serveurgasy.com.
+groupe-arcade.mg.	86400	IN	NS	ns2.serveurgasy.com.
 groupe-inviso.mg.	86400	IN	NS	ns1.servermada.com.
 groupe-inviso.mg.	86400	IN	NS	ns2.servermada.com.
 groupe-metropole.mg.	86400	IN	NS	ns1.ex2.com.
@@ -6140,6 +6144,9 @@ loxea.mg.		86400	IN	NS	ns1.cetsi.fr.
 lrtechnologies.mg.	86400	IN	NS	nsa.planethoster.net.
 lrtechnologies.mg.	86400	IN	NS	nsb.planethoster.net.
 lrtechnologies.mg.	86400	IN	NS	nsc.planethoster.net.
+luceo-group.mg.		86400	IN	NS	ns1.onlydomains.com.
+luceo-group.mg.		86400	IN	NS	ns2.onlydomains.com.
+luceo-group.mg.		86400	IN	NS	ns3.onlydomains.com.
 luckkycompany.mg.	86400	IN	NS	ns1.hostns.io.
 luckkycompany.mg.	86400	IN	NS	ns2.hostns.io.
 lugik.mg.		86400	IN	NS	ns-207-a.gandi.net.
@@ -6488,6 +6495,10 @@ mairie-mahajanga.mg.	86400	IN	NS	dns1.indritech.biz.
 mairie-mahajanga.mg.	86400	IN	NS	dns2.indritech.biz.
 maisonbema.mg.		86400	IN	NS	ns1.gasyweb.com.
 maisonbema.mg.		86400	IN	NS	ns2.gasyweb.com.
+maisonetradition.mg.	86400	IN	NS	ns1.afraid.org.
+maisonetradition.mg.	86400	IN	NS	ns2.afraid.org.
+maisonetradition.mg.	86400	IN	NS	ns3.afraid.org.
+maisonetradition.mg.	86400	IN	NS	ns4.afraid.org.
 maisonmarianne.mg.	86400	IN	NS	ns29.illi.co.mg.
 maisonmarianne.mg.	86400	IN	NS	ns29.dot.mg.
 maisonskilonga.mg.	86400	IN	NS	dns1.indritech.biz.
@@ -10659,8 +10670,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11388,4 +11399,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020907 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020910 600 3600 604800 86400
