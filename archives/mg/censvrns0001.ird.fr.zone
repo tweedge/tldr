@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020804 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020907 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1644292846"
+mg.			7200	IN	TXT	"Generation Time: 1644390086"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -511,6 +511,8 @@ agileinterim.mg.	7200	IN	NS	ns-1626.awsdns-11.co.uk.
 agileinterim.mg.	7200	IN	NS	ns-1486.awsdns-57.org.
 agileinterim.mg.	7200	IN	NS	ns-271.awsdns-33.com.
 agileinterim.mg.	7200	IN	NS	ns-932.awsdns-52.net.
+agir-dev.mg.		7200	IN	NS	ns1.da.cloudns.io.
+agir-dev.mg.		7200	IN	NS	ns2.da.cloudns.io.
 aglae.mg.		7200	IN	NS	ns29.dot.mg.
 aglae.mg.		7200	IN	NS	ns29.illi.co.mg.
 agm.mg.			7200	IN	NS	ns.dts.mg.
@@ -2486,6 +2488,8 @@ coinhub.mg.		7200	IN	NS	ns1.icp100.net.
 coinhub.mg.		7200	IN	NS	ns2.icp100.net.
 coinme.mg.		7200	IN	NS	ns1.101domain.com.
 coinme.mg.		7200	IN	NS	ns2.101domain.com.
+cola.mg.		7200	IN	NS	ursula.ns.cloudflare.com.
+cola.mg.		7200	IN	NS	yichun.ns.cloudflare.com.
 colearning.mg.		7200	IN	NS	ns1.o2switch.net.
 colearning.mg.		7200	IN	NS	ns2.o2switch.net.
 college-leparadisdesenfants.mg.	7200 IN	NS	ns1.cloudns.io.
@@ -3189,6 +3193,8 @@ eco-logik.mg.		7200	IN	NS	ns1.da.cloudns.io.
 eco-logik.mg.		7200	IN	NS	ns2.da.cloudns.io.
 eco-multiservice.mg.	7200	IN	NS	ns.dts.mg.
 eco-multiservice.mg.	7200	IN	NS	ns1.dts.mg.
+ecobazar.mg.		7200	IN	NS	ns1705.websitewelcome.com.
+ecobazar.mg.		7200	IN	NS	ns1706.websitewelcome.com.
 ecoclean.mg.		7200	IN	NS	ns1.servermada.com.
 ecoclean.mg.		7200	IN	NS	ns2.servermada.com.
 ecoclean.mg.		7200	IN	NS	ns3.servermada.com.
@@ -3726,6 +3732,8 @@ fc.mg.			86400	IN	NS	ns-128-c.gandi.net.
 fc.mg.			86400	IN	NS	ns-131-a.gandi.net.
 fccim.mg.		86400	IN	NS	ns.dts.mg.
 fccim.mg.		86400	IN	NS	ns1.dts.mg.
+fcra.mg.		86400	IN	NS	ns.tgn.mg.
+fcra.mg.		86400	IN	NS	ns1.tgn.mg.
 fda.mg.			86400	IN	NS	ns1.cloudns.io.
 fda.mg.			86400	IN	NS	ns2.cloudns.io.
 fdgm.mg.		86400	IN	NS	ns1.hostpapa.com.
@@ -3862,6 +3870,8 @@ fjkm-ambanilalana-finoana.mg. 86400 IN	NS	ns29.fjkm.mg.
 fjkm-ambanilalana-finoana.mg. 86400 IN	NS	ns30.fjkm.mg.
 fjkm-ambohijafyfanantenana.mg. 86400 IN	NS	ns29.fjkm.mg.
 fjkm-ambohijafyfanantenana.mg. 86400 IN	NS	ns30.fjkm.mg.
+fjkm-ambohijanaharyfahazavana.mg. 86400	IN NS	ns29.fjkm.mg.
+fjkm-ambohijanaharyfahazavana.mg. 86400	IN NS	ns30.fjkm.mg.
 fjkm-ambohitantely.mg.	86400	IN	NS	ns29.fjkm.mg.
 fjkm-ambohitantely.mg.	86400	IN	NS	ns30.fjkm.mg.
 fjkm-amboniloha.mg.	86400	IN	NS	ns29.fjkm.mg.
@@ -3902,8 +3912,6 @@ flm.mg.			86400	IN	NS	ns10.ovh.net.
 flm.mg.			86400	IN	NS	dns10.ovh.net.
 floreal.mg.		86400	IN	NS	ns.dts.mg.
 floreal.mg.		86400	IN	NS	ns1.dts.mg.
-floribis.mg.		86400	IN	NS	dns109.ovh.net.
-floribis.mg.		86400	IN	NS	ns109.ovh.net.
 flowers.mg.		86400	IN	NS	ns1.markmonitor.com.
 flowers.mg.		86400	IN	NS	ns2.markmonitor.com.
 flowers.mg.		86400	IN	NS	ns3.markmonitor.com.
@@ -4188,6 +4196,8 @@ gasikarako.mg.		86400	IN	NS	ns1.dns-parking.com.
 gasikarako.mg.		86400	IN	NS	ns2.dns-parking.com.
 gassycountryhouse.mg.	86400	IN	NS	ns1.servermada.com.
 gassycountryhouse.mg.	86400	IN	NS	ns2.servermada.com.
+gasy-publishing.mg.	86400	IN	NS	ns1.gasyweb.com.
+gasy-publishing.mg.	86400	IN	NS	ns2.gasyweb.com.
 gasycute.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 gasycute.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 gasycute.mg.		86400	IN	NS	ns1.fr.malagasy.com.
@@ -5265,6 +5275,8 @@ iqos.mg.		86400	IN	NS	ns3.markmonitor.com.
 iqos.mg.		86400	IN	NS	ns7.markmonitor.com.
 iqos.mg.		86400	IN	NS	ns2.markmonitor.com.
 iqos.mg.		86400	IN	NS	ns5.markmonitor.com.
+irany.mg.		86400	IN	NS	ns1.gasyweb.com.
+irany.mg.		86400	IN	NS	ns2.gasyweb.com.
 iray.mg.		86400	IN	NS	ns1.o2switch.net.
 iray.mg.		86400	IN	NS	ns2.o2switch.net.
 irayconseils.mg.	86400	IN	NS	ns.tgn.mg.
@@ -6450,6 +6462,8 @@ magma.mg.		86400	IN	NS	ns1.cloudns.io.
 magma.mg.		86400	IN	NS	ns2.cloudns.io.
 magy.mg.		86400	IN	NS	dns1.supremepanel.com.
 magy.mg.		86400	IN	NS	dns2.supremepanel.com.
+mahaclub.mg.		86400	IN	NS	ns1.da.cloudns.io.
+mahaclub.mg.		86400	IN	NS	ns2.da.cloudns.io.
 mahakama.mg.		86400	IN	NS	ns1.servermada.com.
 mahakama.mg.		86400	IN	NS	ns2.servermada.com.
 mahakama-atsimo.mg.	86400	IN	NS	ns1.o2switch.net.
@@ -6514,12 +6528,6 @@ malio.mg.		86400	IN	NS	dns1.supremepanel.com.
 malio.mg.		86400	IN	NS	dns2.supremepanel.com.
 malp.mg.		86400	IN	NS	ns1.da.cloudns.io.
 malp.mg.		86400	IN	NS	ns2.da.cloudns.io.
-malto-star.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
-malto-star.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
-malto-star.mg.		86400	IN	NS	ns1.fr.malagasy.com.
-maltostar.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
-maltostar.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
-maltostar.mg.		86400	IN	NS	ns1.fr.malagasy.com.
 mamabenz.mg.		86400	IN	NS	ns3029304.ip-178-33-237.eu.
 mamabenz.mg.		86400	IN	NS	sdns2.ovh.net.
 mamaison.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
@@ -7007,6 +7015,8 @@ ministere-sante.mg.	86400	IN	NS	ns.dts.mg.
 ministere-sante.mg.	86400	IN	NS	ns1.dts.mg.
 minitoon-store.mg.	86400	IN	NS	cpanel9.lws-hosting.com.
 minitoon-store.mg.	86400	IN	NS	cpanel10.lws-hosting.com.
+minsante-pta.mg.	86400	IN	NS	dns200.anycast.me.
+minsante-pta.mg.	86400	IN	NS	ns200.anycast.me.
 minsec.mg.		86400	IN	NS	ns1.servermada.com.
 minsec.mg.		86400	IN	NS	ns2.servermada.com.
 mintour.mg.		86400	IN	NS	ns1.o2switch.net.
@@ -7083,6 +7093,8 @@ mnparks.mg.		86400	IN	NS	ns.tgn.mg.
 mnparks.mg.		86400	IN	NS	ns1.tgn.mg.
 mnt.mg.			86400	IN	NS	ns1.dns-parking.com.
 mnt.mg.			86400	IN	NS	ns2.dns-parking.com.
+mobalpa.mg.		86400	IN	NS	dns200.anycast.me.
+mobalpa.mg.		86400	IN	NS	ns200.anycast.me.
 mobility.mg.		86400	IN	NS	nsmpro1.nordnet.com.
 mobility.mg.		86400	IN	NS	nsmpro2.nordnet.com.
 mobitruck.mg.		86400	IN	NS	ns1.reg.ru.
@@ -9410,8 +9422,8 @@ sm.mg.			86400	IN	NS	ns-1311.awsdns-35.org.
 sm.mg.			86400	IN	NS	ns-681.awsdns-21.net.
 sma.mg.			86400	IN	NS	dns102.ovh.net.
 sma.mg.			86400	IN	NS	ns102.ovh.net.
-smagency.mg.		86400	IN	NS	ns1.sahazamarline.net.
-smagency.mg.		86400	IN	NS	ns2.sahazamarline.net.
+smagency.mg.		86400	IN	NS	ns1.o2switch.net.
+smagency.mg.		86400	IN	NS	ns2.o2switch.net.
 smail.mg.		86400	IN	NS	ns1.lemursystems.com.
 smail.mg.		86400	IN	NS	ns2.lemursystems.com.
 smart.mg.		86400	IN	NS	ns1.corpinter.net.
@@ -9942,6 +9954,8 @@ t20210426-132205.mg.	86400	IN	NS	dns1.onamae.com.
 t20210426-132205.mg.	86400	IN	NS	dns2.onamae.com.
 taf.mg.			86400	IN	NS	dns109.ovh.net.
 taf.mg.			86400	IN	NS	ns109.ovh.net.
+tafa.mg.		86400	IN	NS	ns1.cloudns.io.
+tafa.mg.		86400	IN	NS	ns2.cloudns.io.
 tafaray.mg.		86400	IN	NS	ns1.da.cloudns.io.
 tafaray.mg.		86400	IN	NS	ns2.da.cloudns.io.
 tafgourmet.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
@@ -10401,6 +10415,8 @@ tribunal-administratif.mg. 86400 IN	NS	igor.ns.cloudflare.com.
 tribunal-administratif.mg. 86400 IN	NS	maya.ns.cloudflare.com.
 tribunal-administratif-toliara.mg. 86400 IN NS	ns1.cloudns.io.
 tribunal-administratif-toliara.mg. 86400 IN NS	ns2.cloudns.io.
+trice.mg.		86400	IN	NS	ns1.dadns.eu.
+trice.mg.		86400	IN	NS	ns2.dadns.eu.
 trim.mg.		86400	IN	NS	ns1.onlydomains.com.
 trim.mg.		86400	IN	NS	ns2.onlydomains.com.
 trim.mg.		86400	IN	NS	ns3.onlydomains.com.
@@ -10643,8 +10659,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11372,4 +11388,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020804 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020907 600 3600 604800 86400

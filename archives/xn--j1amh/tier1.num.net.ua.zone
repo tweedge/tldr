@@ -1,4 +1,4 @@
-xn--j1amh.		3600	IN	SOA	dns1.u-registry.com. dotukr.uanic.net. 2202080130 86400 3600 2592000 345600
+xn--j1amh.		3600	IN	SOA	dns1.u-registry.com. dotukr.uanic.net. 2202090450 86400 3600 2592000 345600
 xn--j1amh.		3600	IN	NS	dns1.u-registry.com.
 xn--j1amh.		3600	IN	NS	dns2.u-registry.net.
 xn--j1amh.		3600	IN	NS	dns3.dotukr.com.
@@ -791,6 +791,9 @@ xn----7sbab0cpef2azw.xn--j1amh.	3600 IN	NS	ns1.mirohost.net.
 xn----7sbab0cpef2azw.xn--j1amh.	3600 IN	NS	ns2.mirohost.net.
 xn----7sbab3bajbum2cm9df.xn--j1amh. 3600 IN NS	ns02.zonereg.ru.
 xn----7sbab3bajbum2cm9df.xn--j1amh. 3600 IN NS	ns01.zonereg.ru.
+xn----7sbab3cpjhnedqh.xn--j1amh. 3600 IN NS	ns37.inhostedns.org.
+xn----7sbab3cpjhnedqh.xn--j1amh. 3600 IN NS	ns27.inhostedns.net.
+xn----7sbab3cpjhnedqh.xn--j1amh. 3600 IN NS	ns17.inhostedns.com.
 xn----7sbab4bzabde3abdn2d7gh.xn--j1amh.	3600 IN	NS ns119.inhostedns.com.
 xn----7sbab4bzabde3abdn2d7gh.xn--j1amh.	3600 IN	NS ns219.inhostedns.net.
 xn----7sbab4bzabde3abdn2d7gh.xn--j1amh.	3600 IN	NS ns319.inhostedns.org.
@@ -1811,10 +1814,8 @@ xn----7sbeqgde7b6affsq7v.xn--j1amh. 3600 IN NS	ns1.ukraine.com.ua.
 xn----7sbezkwgifgldo1c.xn--j1amh. 3600 IN NS	ns314.inhostedns.org.
 xn----7sbezkwgifgldo1c.xn--j1amh. 3600 IN NS	ns214.inhostedns.net.
 xn----7sbezkwgifgldo1c.xn--j1amh. 3600 IN NS	ns114.inhostedns.com.
-xn----7sbf6bgsdfd9q.xn--j1amh. 3600 IN	NS	a3.dns82.org.
-xn----7sbf6bgsdfd9q.xn--j1amh. 3600 IN	NS	g8.dns82.link.
-xn----7sbf6bgsdfd9q.xn--j1amh. 3600 IN	NS	d5.dns82.net.
-xn----7sbf6bgsdfd9q.xn--j1amh. 3600 IN	NS	b6.dns82.info.
+xn----7sbf6bgsdfd9q.xn--j1amh. 3600 IN	NS	ns2.notpaid.com.ua.
+xn----7sbf6bgsdfd9q.xn--j1amh. 3600 IN	NS	ns1.notpaid.com.ua.
 xn----7sbfc1aad9aadlb3bo6c.xn--j1amh. 3600 IN NS ns4.dmedia-ua.com.
 xn----7sbfc1aad9aadlb3bo6c.xn--j1amh. 3600 IN NS ns3.dmedia-ua.com.
 xn----7sbfc1aosafhcav6a.xn--j1amh. 3600	IN NS	nsc4.srv53.net.
@@ -6036,18 +6037,6 @@ xn--80aaaf7anvkkdte0a4v.xn--j1amh. 3600	IN NS	ns3.mirohost.net.
 xn--80aaafaod9dhte9c.xn--j1amh.	3600 IN	NS	ns1.ukrnames.com.
 xn--80aaafaod9dhte9c.xn--j1amh.	3600 IN	NS	ns2.ukrnames.com.
 xn--80aaafaod9dhte9c.xn--j1amh.	3600 IN	NS	ns3.ukrnames.com.
-xn--80aaafbctvcc7bifaobmi3nna3bzb.xn--j1amh. 3600 IN NS	nsa3.srv53.org.
-xn--80aaafbctvcc7bifaobmi3nna3bzb.xn--j1amh. 3600 IN NS	nsa1.srv53.net.
-xn--80aaafbctvcc7bifaobmi3nna3bzb.xn--j1amh. 3600 IN NS	nsd2.srv53.com.
-xn--80aaafbctvcc7bifaobmi3nna3bzb.xn--j1amh. 3600 IN NS	nsd4.srv53.net.
-xn--80aaafbctvcc7bifaobmi3nna3bzb.xn--j1amh. 3600 IN NS	nsc4.srv53.com.
-xn--80aaafbctvcc7bifaobmi3nna3bzb.xn--j1amh. 3600 IN NS	nsb3.srv53.com.
-xn--80aaafbctvcc7bifaobmi3nna3bzb.xn--j1amh. 3600 IN NS	nsc1.srv53.org.
-xn--80aaafbctvcc7bifaobmi3nna3bzb.xn--j1amh. 3600 IN NS	nsd1.srv53.org.
-xn--80aaafbctvcc7bifaobmi3nna3bzb.xn--j1amh. 3600 IN NS	nsc4.srv53.net.
-xn--80aaafbctvcc7bifaobmi3nna3bzb.xn--j1amh. 3600 IN NS	nsb3.srv53.org.
-xn--80aaafbctvcc7bifaobmi3nna3bzb.xn--j1amh. 3600 IN NS	nsb4.srv53.net.
-xn--80aaafbctvcc7bifaobmi3nna3bzb.xn--j1amh. 3600 IN NS	nsa3.srv53.com.
 xn--80aaafbje8cxa2aw.xn--j1amh.	3600 IN	NS	ns2.court.gov.ua.
 xn--80aaafbje8cxa2aw.xn--j1amh.	3600 IN	NS	ns.court.gov.ua.
 xn--80aaafc6clicj9a.xn--j1amh. 3600 IN	NS	ns219.inhostedns.net.
@@ -6728,16 +6717,16 @@ xn--80aabmgtue2bsh8u.xn--j1amh.	3600 IN	NS	ns2.thehost.com.ua.
 xn--80aabmgtue2bsh8u.xn--j1amh.	3600 IN	NS	ns1.thehost.com.ua.
 xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsb1.srv53.net.
 xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsa1.srv53.net.
+xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsd4.srv53.net.
+xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsc1.srv53.com.
+xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsd1.srv53.org.
+xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsc2.srv53.net.
 xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsb3.srv53.com.
+xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsd3.srv53.com.
+xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsc1.srv53.org.
 xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsb4.srv53.org.
 xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsa2.srv53.com.
 xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsa4.srv53.org.
-xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsd1.srv53.org.
-xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsd3.srv53.com.
-xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsd4.srv53.net.
-xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsc1.srv53.org.
-xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsc1.srv53.com.
-xn--80aabp8abjw.xn--j1amh. 3600	IN	NS	nsc2.srv53.net.
 xn--80aabq0ae1apm.xn--j1amh. 3600 IN	NS	nsa3.srv53.net.
 xn--80aabq0ae1apm.xn--j1amh. 3600 IN	NS	nsa4.srv53.com.
 xn--80aabq0ae1apm.xn--j1amh. 3600 IN	NS	nsd4.srv53.org.
@@ -22426,8 +22415,8 @@ xn--c1aay4a.xn--j1amh.	3600	IN	NS	ns2.google.com.
 xn--c1aay4a.xn--j1amh.	3600	IN	NS	ns4.google.com.
 xn--c1aay4a.xn--j1amh.	3600	IN	NS	ns1.google.com.
 xn--c1aay4a.xn--j1amh.	3600	IN	NS	ns3.google.com.
-xn--c1ab0bm.xn--j1amh.	3600	IN	NS	ns2.pari.host.
-xn--c1ab0bm.xn--j1amh.	3600	IN	NS	ns1.pari.host.
+xn--c1ab0bm.xn--j1amh.	3600	IN	NS	ns1.parihost.online.
+xn--c1ab0bm.xn--j1amh.	3600	IN	NS	ns2.parihost.online.
 xn--c1ab1adbagjqa.xn--j1amh. 3600 IN	NS	nsb3.srv53.com.
 xn--c1ab1adbagjqa.xn--j1amh. 3600 IN	NS	nsd4.srv53.net.
 xn--c1ab1adbagjqa.xn--j1amh. 3600 IN	NS	nsc4.srv53.net.
@@ -23432,8 +23421,8 @@ xn--d1abakdje7bvc8bm1c.xn--j1amh. 3600 IN NS	ns4.gransy.com.
 xn--d1abamfefsaivftu5p.xn--j1amh. 3600 IN NS	ns1.ukrnames.com.
 xn--d1abamfefsaivftu5p.xn--j1amh. 3600 IN NS	ns2.ukrnames.com.
 xn--d1abamfefsaivftu5p.xn--j1amh. 3600 IN NS	ns3.ukrnames.com.
-xn--d1abankqdhli.xn--j1amh. 3600 IN	NS	ns1.s0avahost.net.
-xn--d1abankqdhli.xn--j1amh. 3600 IN	NS	ns2.s0avahost.net.
+xn--d1abankqdhli.xn--j1amh. 3600 IN	NS	dns2.hostiq.ua.
+xn--d1abankqdhli.xn--j1amh. 3600 IN	NS	dns1.hostiq.ua.
 xn--d1abappdchr.xn--j1amh. 3600	IN	NS	dns2.hyperhost.ua.
 xn--d1abappdchr.xn--j1amh. 3600	IN	NS	dns1.hyperhost.ua.
 xn--d1abaqsgomd1a.xn--j1amh. 3600 IN	NS	nsb2.srv53.com.
@@ -27626,6 +27615,9 @@ xn--h1adfa.xn--j1amh.	3600	IN	NS	ns1.ukrnames.com.
 xn--h1adfhbk0a2a.xn--j1amh. 3600 IN	NS	ns3.fastdns.hosting.
 xn--h1adfhbk0a2a.xn--j1amh. 3600 IN	NS	ns1.fastdns.hosting.
 xn--h1adfhbk0a2a.xn--j1amh. 3600 IN	NS	ns2.fastdns.hosting.
+xn--h1adftk.xn--j1amh.	3600	IN	NS	ns319.inhostedns.org.
+xn--h1adftk.xn--j1amh.	3600	IN	NS	ns219.inhostedns.net.
+xn--h1adftk.xn--j1amh.	3600	IN	NS	ns119.inhostedns.com.
 xn--h1adgh5a.xn--j1amh.	3600	IN	NS	ns1.ukrnames.com.
 xn--h1adgh5a.xn--j1amh.	3600	IN	NS	ns3.ukrnames.com.
 xn--h1adgh5a.xn--j1amh.	3600	IN	NS	ns2.ukrnames.com.
@@ -27956,9 +27948,8 @@ xn--h1afxs.xn--j1amh.	3600	IN	NS	nsb4.srv53.org.
 xn--h1afxs.xn--j1amh.	3600	IN	NS	nsb3.srv53.com.
 xn--h1afxs.xn--j1amh.	3600	IN	NS	nsb4.srv53.net.
 xn--h1afxs.xn--j1amh.	3600	IN	NS	nsa3.srv53.org.
-xn--h1agbiaxp.xn--j1amh. 3600	IN	NS	ns3.ukraine-domain.com.
-xn--h1agbiaxp.xn--j1amh. 3600	IN	NS	ns2.ukraine-domain.com.
-xn--h1agbiaxp.xn--j1amh. 3600	IN	NS	ns.ukraine-domain.com.
+xn--h1agbiaxp.xn--j1amh. 3600	IN	NS	ns2.one-dns.net.in.
+xn--h1agbiaxp.xn--j1amh. 3600	IN	NS	ns1.one-dns.net.in.
 xn--h1agcsfi.xn--j1amh.	3600	IN	NS	ns1.mirohost.net.
 xn--h1agcsfi.xn--j1amh.	3600	IN	NS	ns2.mirohost.net.
 xn--h1agcsfi.xn--j1amh.	3600	IN	NS	ns3.mirohost.net.
@@ -30168,4 +30159,4 @@ xn--y1a.xn--j1amh.	3600	IN	NS	ns2.thehost.com.ua.
 xn--y1a.xn--j1amh.	3600	IN	NS	ns1.thehost.com.ua.
 xn--z1a.xn--j1amh.	3600	IN	NS	890.ns1.domainparking.ru.
 xn--z1a.xn--j1amh.	3600	IN	NS	890.ns2.domainparking.ru.
-xn--j1amh.		3600	IN	SOA	dns1.u-registry.com. dotukr.uanic.net. 2202080130 86400 3600 2592000 345600
+xn--j1amh.		3600	IN	SOA	dns1.u-registry.com. dotukr.uanic.net. 2202090450 86400 3600 2592000 345600

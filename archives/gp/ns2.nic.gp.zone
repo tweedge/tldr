@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022020416 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022020821 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -535,6 +535,8 @@ autoguadeloupepieces.gp. 86400	IN	NS	ns2.francedns.com.
 autoguadeloupepieces.gp. 86400	IN	NS	ns3.francedns.com.
 autos.gp.		86400	IN	NS	ns1.sedoparking.com.
 autos.gp.		86400	IN	NS	ns2.sedoparking.com.
+autosolar.gp.		86400	IN	NS	dns1.cloudns.net.
+autosolar.gp.		86400	IN	NS	dns2.cloudns.net.
 auts.gp.		86400	IN	NS	ns1.onefusion.com.au.
 auts.gp.		86400	IN	NS	ns2.onefusion.com.au.
 avail.gp.		86400	IN	NS	pdns13.domaincontrol.com.
@@ -1389,8 +1391,6 @@ dixiesmarttop-gp.gp.	86400	IN	NS	nsusa.comlaude.net.
 dixieware.gp.		86400	IN	NS	nsgbr.comlaude.co.uk.
 dixieware.gp.		86400	IN	NS	nssui.comlaude.ch.
 dixieware.gp.		86400	IN	NS	nsusa.comlaude.net.
-dj.gp.			86400	IN	NS	ns1.undeveloped.com.
-dj.gp.			86400	IN	NS	ns2.undeveloped.com.
 dma.gp.			86400	IN	NS	ns16.ovh.net.
 dma.gp.			86400	IN	NS	dns16.ovh.net.
 ns.dma.gp.		86400	IN	NS	94.124.155.169.gp.
@@ -1890,12 +1890,8 @@ forex.gp.		86400	IN	NS	ns1.sedoparking.com.
 forex.gp.		86400	IN	NS	ns2.sedoparking.com.
 formula-e.gp.		86400	IN	NS	ns1.undeveloped.com.
 formula-e.gp.		86400	IN	NS	ns2.undeveloped.com.
-formula1.gp.		86400	IN	NS	ns1.undeveloped.com.
-formula1.gp.		86400	IN	NS	ns2.undeveloped.com.
 formulae.gp.		86400	IN	NS	ns1.undeveloped.com.
 formulae.gp.		86400	IN	NS	ns2.undeveloped.com.
-formulaone.gp.		86400	IN	NS	ns1.undeveloped.com.
-formulaone.gp.		86400	IN	NS	ns2.undeveloped.com.
 formule1.gp.		86400	IN	NS	ns3.afternic.com.
 formule1.gp.		86400	IN	NS	ns4.afternic.com.
 forsale.gp.		86400	IN	NS	ns15.ovh.net.
@@ -2201,12 +2197,8 @@ grabovoi.gp.		86400	IN	NS	ns1.afraid.org.
 grabovoi.gp.		86400	IN	NS	ns2.afraid.org.
 grabovoi.gp.		86400	IN	NS	ns3.afraid.org.
 grabovoi.gp.		86400	IN	NS	ns4.afraid.org.
-grand-prix.gp.		86400	IN	NS	ns1.undeveloped.com.
-grand-prix.gp.		86400	IN	NS	ns2.undeveloped.com.
 grandmaison.gp.		86400	IN	NS	ns1-gp.mediaserv.net.
 grandmaison.gp.		86400	IN	NS	ns1-mq.mediaserv.net.
-grandprix.gp.		86400	IN	NS	ns1.undeveloped.com.
-grandprix.gp.		86400	IN	NS	ns2.undeveloped.com.
 grandpro.gp.		86400	IN	NS	ns1-gp.mediaserv.net.
 grandpro.gp.		86400	IN	NS	ns1-mq.mediaserv.net.
 greenbydesign.gp.	86400	IN	NS	nsgbr.comlaude.co.uk.
@@ -2322,8 +2314,6 @@ hdrglobaltradingltd.gp.	86400	IN	NS	ns2.markmonitor.com.
 heinekendutch.gp.	86400	IN	NS	ns1.bhosted.nl.
 heinekendutch.gp.	86400	IN	NS	ns3.bhosted.nl.
 heinekendutch.gp.	86400	IN	NS	ns4.bhosted.nl.
-hello.gp.		86400	IN	NS	ns1.undeveloped.com.
-hello.gp.		86400	IN	NS	ns2.undeveloped.com.
 help.gp.		86400	IN	NS	ns2.gigaparts.net.
 help.gp.		86400	IN	NS	raq44.gigaparts.net.
 hermes.gp.		86400	IN	NS	dns1.cscdns.net.
@@ -4656,6 +4646,9 @@ speedo.gp.		86400	IN	NS	ns6.markmonitor.com.
 speedo.gp.		86400	IN	NS	ns7.markmonitor.com.
 spl-sa20.gp.		86400	IN	NS	ns103.ovh.net.
 spl-sa20.gp.		86400	IN	NS	dns103.ovh.net.
+spoly.gp.		86400	IN	NS	ns1.netim.net.
+spoly.gp.		86400	IN	NS	ns2.netim.net.
+spoly.gp.		86400	IN	NS	ns3.netim.net.
 sportdirect.gp.		86400	IN	NS	ns1.netnames.net.
 sportdirect.gp.		86400	IN	NS	ns2.netnames.net.
 sportdirect.gp.		86400	IN	NS	ns5.netnames.net.
@@ -5426,4 +5419,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022020416 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022020821 86400 7200 2592000 345600
