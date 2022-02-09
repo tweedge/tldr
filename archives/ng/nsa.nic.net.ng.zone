@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020933 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1644422435"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020939 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1644433223"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -2332,10 +2332,8 @@ agora.ng.		3600	IN	NS	ns-1426.awsdns-50.org.
 agora.ng.		3600	IN	NS	ns-1737.awsdns-25.co.uk.
 agord.ng.		3600	IN	NS	ns41.doveserver.com.
 agord.ng.		3600	IN	NS	ns42.doveserver.com.
-agpay.ng.		3600	IN	NS	ns-361.awsdns-45.com.
-agpay.ng.		3600	IN	NS	ns-550.awsdns-04.net.
-agpay.ng.		3600	IN	NS	ns-1356.awsdns-41.org.
-agpay.ng.		3600	IN	NS	ns-1712.awsdns-22.co.uk.
+agpay.ng.		3600	IN	NS	ns1secured-server.me.
+agpay.ng.		3600	IN	NS	ns2secured-server.me.
 agr.ng.			3600	IN	NS	ns1.technoworth.com.ng.
 agr.ng.			3600	IN	NS	ns2.technoworth.com.ng.
 agreaterdeltastate.ng.	3600	IN	NS	ns1.site4now.net.
@@ -3819,6 +3817,10 @@ analyzeeverythi.ng.	3600	IN	NS	ns3.epik.com.
 analyzeeverythi.ng.	3600	IN	NS	ns4.epik.com.
 anambranews.ng.		3600	IN	NS	wns9.webhostbox.net.
 anambranews.ng.		3600	IN	NS	wns10.webhostbox.net.
+anambratalents.ng.	3600	IN	NS	nsa.whogohost.com.
+anambratalents.ng.	3600	IN	NS	nsb.whogohost.com.
+anambratalentstrack.ng.	3600	IN	NS	nsa.whogohost.com.
+anambratalentstrack.ng.	3600	IN	NS	nsb.whogohost.com.
 anambratoday.ng.	3600	IN	NS	ns1.cfamedia.net.
 anambratoday.ng.	3600	IN	NS	ns2.cfamedia.net.
 anambrayouths.ng.	3600	IN	NS	ns1.anambrayouths.ng.
@@ -3946,8 +3948,9 @@ anierahomes.ng.		3600	IN	NS	ns2.mhostserver.com.
 anike.ng.		3600	IN	NS	ns1.digitalocean.com.
 anike.ng.		3600	IN	NS	ns2.digitalocean.com.
 anike.ng.		3600	IN	NS	ns3.digitalocean.com.
-animalcare.ng.		3600	IN	NS	cns399.hostgator.com.
-animalcare.ng.		3600	IN	NS	cns400.hostgator.com.
+animalcare.ng.		3600	IN	NS	ns1.contabo.net.
+animalcare.ng.		3600	IN	NS	ns2.contabo.net.
+animalcare.ng.		3600	IN	NS	ns3.contabo.net.
 animalfarm.ng.		3600	IN	NS	ns1.digitalocean.com.
 animalfarm.ng.		3600	IN	NS	ns2.digitalocean.com.
 animalfarm.ng.		3600	IN	NS	ns3.digitalocean.com.
@@ -4286,6 +4289,7 @@ apple.ng.		3600	IN	NS	ns1.whogohost.com.
 apple.ng.		3600	IN	NS	ns2.whogohost.com.
 applegreen.ng.		3600	IN	NS	nsa.whogohost.com.
 applegreen.ng.		3600	IN	NS	nsb.whogohost.com.
+applestore.ng.		3600	IN	NS	dns1.web-hosting.com.
 applestore.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 applestore.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 applicant.ng.		3600	IN	NS	ns1.inmotionhosting.com.
@@ -15950,6 +15954,10 @@ ns1.csm.ng.		3600	IN	A	162.241.137.188
 ns2.csm.ng.		3600	IN	A	162.241.137.205
 csmr.ng.		3600	IN	NS	ns1.dknoc.com.
 csmr.ng.		3600	IN	NS	ns2.dknoc.com.
+csn.ng.			3600	IN	NS	ns1.mogrexhost.com.
+csn.ng.			3600	IN	NS	ns2.mogrexhost.com.
+csn.ng.			3600	IN	NS	ns3.mogrexhost.com.
+csn.ng.			3600	IN	NS	ns4.mogrexhost.com.
 cso.ng.			3600	IN	NS	ns1.dknoc.com.
 cso.ng.			3600	IN	NS	ns2.dknoc.com.
 csonews24.ng.		3600	IN	NS	dns1.webhosting.com.
@@ -17086,8 +17094,8 @@ deepcatch.ng.		3600	IN	NS	ns2.dns-h.com.
 deepcatch.ng.		3600	IN	NS	ns2.host-h.net.
 deepdive.ng.		3600	IN	NS	nsa.whogohost.com.
 deepdive.ng.		3600	IN	NS	nsb.whogohost.com.
-deepdivi.ng.		3600	IN	NS	ns1.dknoc.com.
-deepdivi.ng.		3600	IN	NS	ns2.dknoc.com.
+deepdivi.ng.		3600	IN	NS	mary.ns.cloudflare.com.
+deepdivi.ng.		3600	IN	NS	sterling.ns.cloudflare.com.
 deepijatel.ng.		3600	IN	NS	ns27.domaincontrol.com.
 deepijatel.ng.		3600	IN	NS	ns28.domaincontrol.com.
 deeplearni.ng.		3600	IN	NS	ns-425.awsdns-53.com.
@@ -35098,6 +35106,8 @@ kadirs.ng.		3600	IN	NS	ns-cloud-a3.googledomains.com.
 kadirs.ng.		3600	IN	NS	ns-cloud-a4.googledomains.com.
 kadosh.ng.		3600	IN	NS	nsa.whogohost.com.
 kadosh.ng.		3600	IN	NS	nsb.whogohost.com.
+kadra.ng.		3600	IN	NS	nsa.whogohost.com.
+kadra.ng.		3600	IN	NS	nsb.whogohost.com.
 kadruwassa.ng.		3600	IN	NS	ns8085.hostgator.com.
 kadruwassa.ng.		3600	IN	NS	ns8086.hostgator.com.
 kadstra.ng.		3600	IN	NS	ns1.digitalocean.com.
@@ -37957,6 +37967,8 @@ lendanarm.ng.		3600	IN	NS	dns1.p06.nsone.net.
 lendanarm.ng.		3600	IN	NS	dns2.p06.nsone.net.
 lendanarm.ng.		3600	IN	NS	dns3.p06.nsone.net.
 lendanarm.ng.		3600	IN	NS	dns4.p06.nsone.net.
+lendbuy.ng.		3600	IN	NS	ns23.qservers.net.
+lendbuy.ng.		3600	IN	NS	ns24.qservers.net.
 lenders.ng.		3600	IN	NS	jose.ns.cloudflare.com.
 lenders.ng.		3600	IN	NS	amalia.ns.cloudflare.com.
 lendgrid.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -41103,6 +41115,9 @@ medex.ng.		3600	IN	NS	nsb.whogohost.com.
 medfinder.ng.		3600	IN	NS	ns1.digitalocean.com.
 medfinder.ng.		3600	IN	NS	ns2.digitalocean.com.
 medfinder.ng.		3600	IN	NS	ns3.digitalocean.com.
+medfix.ng.		3600	IN	NS	ns1.digitalocean.com.
+medfix.ng.		3600	IN	NS	ns2.digitalocean.com.
+medfix.ng.		3600	IN	NS	ns3.digitalocean.com.
 medfonts.ng.		3600	IN	NS	ns1.upperserver29.com.
 medfonts.ng.		3600	IN	NS	ns2.upperserver29.com.
 medhelp247.ng.		3600	IN	NS	ns1.qservers.net.
@@ -64219,8 +64234,8 @@ surplus.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 surplus.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 surprises.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 surprises.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-surpriseworld.ng.	3600	IN	NS	nsa.whogohost.com.
-surpriseworld.ng.	3600	IN	NS	nsb.whogohost.com.
+surpriseworld.ng.	3600	IN	NS	dns1.harmonweb.net.
+surpriseworld.ng.	3600	IN	NS	dns2.harmonweb.net.
 surramcontinental.ng.	3600	IN	NS	ns9.qservers.net.
 surramcontinental.ng.	3600	IN	NS	ns10.qservers.net.
 surubuy.ng.		3600	IN	NS	ns5.garanntor.net.
@@ -75207,6 +75222,8 @@ ns1.zoomba.ng.		3600	IN	A	198.54.113.2
 ns2.zoomba.ng.		3600	IN	A	198.54.113.2
 zoombet.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 zoombet.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+zoombets.ng.		3600	IN	NS	nsa.whogohost.com.
+zoombets.ng.		3600	IN	NS	nsb.whogohost.com.
 zoomclass.ng.		3600	IN	NS	ns3.dktlds.com.
 zoomclass.ng.		3600	IN	NS	ns4.dktlds.com.
 zoomi.ng.		3600	IN	NS	ns1.domain.io.
@@ -75339,4 +75356,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020933 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022020939 10800 3600 604800 3600
