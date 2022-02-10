@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021042 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1644516805"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021051 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1644527616"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -535,6 +535,8 @@ ns2.1stattorneys.ng.	3600	IN	A	23.227.135.35
 402.ng.			3600	IN	NS	ns2.linkservehost.com.
 420.ng.			3600	IN	NS	ns1.dknoc.com.
 420.ng.			3600	IN	NS	ns2.dknoc.com.
+42lagos.ng.		3600	IN	NS	nsa.whogohost.com.
+42lagos.ng.		3600	IN	NS	nsb.whogohost.com.
 440.ng.			3600	IN	NS	rob.ns.cloudflare.com.
 440.ng.			3600	IN	NS	vera.ns.cloudflare.com.
 440bet.ng.		3600	IN	NS	ns1.whogohost.com.
@@ -33832,8 +33834,8 @@ iyaloja.ng.		3600	IN	NS	nsa.whogohost.com.
 iyaloja.ng.		3600	IN	NS	nsb.whogohost.com.
 iyaoloja.ng.		3600	IN	NS	rory.ns.cloudflare.com.
 iyaoloja.ng.		3600	IN	NS	clara.ns.cloudflare.com.
-iyara.ng.		3600	IN	NS	ns1.dknoc.com.
-iyara.ng.		3600	IN	NS	ns2.dknoc.com.
+iyara.ng.		3600	IN	NS	ns1.host-ww.net.
+iyara.ng.		3600	IN	NS	ns2.host-ww.net.
 iyawo.ng.		3600	IN	NS	nsa.whogohost.com.
 iyawo.ng.		3600	IN	NS	nsb.whogohost.com.
 iyke.ng.		3600	IN	NS	ns1.iyke.click.
@@ -38291,9 +38293,8 @@ lifecrystalrivers.ng.	3600	IN	NS	nsa.whogohost.com.
 lifecrystalrivers.ng.	3600	IN	NS	nsb.whogohost.com.
 lifeelastic.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 lifeelastic.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-lifegatebank.ng.	3600	IN	NS	ns1.digitalocean.com.
-lifegatebank.ng.	3600	IN	NS	ns2.digitalocean.com.
-lifegatebank.ng.	3600	IN	NS	ns3.digitalocean.com.
+lifegatebank.ng.	3600	IN	NS	nsa.whogohost.com.
+lifegatebank.ng.	3600	IN	NS	nsb.whogohost.com.
 lifehappens.ng.		3600	IN	NS	ns1.lexsynergy.net.
 lifehappens.ng.		3600	IN	NS	ns2.lexsynergy.us.
 lifehappens.ng.		3600	IN	NS	ns3.lexsynergy.info.
@@ -44305,6 +44306,8 @@ myqrob.ng.		3600	IN	NS	jim.ns.cloudflare.com.
 myqrob.ng.		3600	IN	NS	liv.ns.cloudflare.com.
 myqrobe.ng.		3600	IN	NS	jim.ns.cloudflare.com.
 myqrobe.ng.		3600	IN	NS	liv.ns.cloudflare.com.
+myquba.ng.		3600	IN	NS	nsa.whogohost.com.
+myquba.ng.		3600	IN	NS	nsb.whogohost.com.
 myquickcv.ng.		3600	IN	NS	ns1.digitalocean.com.
 myquickcv.ng.		3600	IN	NS	ns2.digitalocean.com.
 myquickcv.ng.		3600	IN	NS	ns3.digitalocean.com.
@@ -52437,8 +52440,8 @@ plugme.ng.		3600	IN	NS	nsb.whogohost.com.
 plugr.ng.		3600	IN	NS	ns1.digitalocean.com.
 plugr.ng.		3600	IN	NS	ns2.digitalocean.com.
 plugr.ng.		3600	IN	NS	ns3.digitalocean.com.
-plugs.ng.		3600	IN	NS	ns1.qservers.net.
-plugs.ng.		3600	IN	NS	ns2.qservers.net.
+plugs.ng.		3600	IN	NS	ns1.epizy.com.
+plugs.ng.		3600	IN	NS	ns2.epizy.com.
 plugz.ng.		3600	IN	NS	ns1.web4africa.com.
 plugz.ng.		3600	IN	NS	ns2.web4africa.com.
 plugz.ng.		3600	IN	NS	ns3.web4africa.com.
@@ -65769,6 +65772,8 @@ temitopetubosunomolade.ng. 3600	IN	NS	dns3.simplecplogin.com.
 temitopetubosunomolade.ng. 3600	IN	NS	dns4.simplecplogin.com.
 temp.ng.		3600	IN	NS	ns15.doveserver.com.
 temp.ng.		3600	IN	NS	ns16.doveserver.com.
+tempa.ng.		3600	IN	NS	vera.ns.cloudflare.com.
+tempa.ng.		3600	IN	NS	piers.ns.cloudflare.com.
 templates.ng.		3600	IN	NS	ns1.whogohost.com.
 templates.ng.		3600	IN	NS	ns2.whogohost.com.
 templatestore.ng.	3600	IN	NS	ns1.web4africa.com.
@@ -69624,6 +69629,8 @@ umobile.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 umobile.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 umoeno.ng.		3600	IN	NS	dns1.doveserver.com.
 umoeno.ng.		3600	IN	NS	dns2.doveserver.com.
+umoeno2023supportgroup.ng. 3600	IN	NS	nsa.whogohost.com.
+umoeno2023supportgroup.ng. 3600	IN	NS	nsb.whogohost.com.
 umusic.ng.		3600	IN	NS	dns1.cscdns.net.
 umusic.ng.		3600	IN	NS	dns2.cscdns.net.
 una.ng.			3600	IN	NS	ns8.concordserver.com.
@@ -74533,9 +74540,9 @@ yinya.ng.		3600	IN	NS	nsa.whogohost.com.
 yinya.ng.		3600	IN	NS	nsb.whogohost.com.
 yip.ng.			3600	IN	NS	ns1.yiponline.com.
 yip.ng.			3600	IN	NS	ns2.yiponline.com.
+yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yipe.ng.		3600	IN	NS	clint.ns.cloudflare.com.
 yipe.ng.		3600	IN	NS	addyson.ns.cloudflare.com.
-yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yito.ng.		3600	IN	NS	tom.ns.cloudflare.com.
 yito.ng.		3600	IN	NS	jocelyn.ns.cloudflare.com.
 yizha.ng.		3600	IN	NS	ns-168.awsdns-21.com.
@@ -75408,4 +75415,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021042 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021051 10800 3600 604800 3600
