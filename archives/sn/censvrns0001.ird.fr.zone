@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425725 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220411071002 20220210061002 17389 sn. BjBF7ilz8v0UnuXhh7H6839P/k/6adw8z/m8446slTU9gV2uS3R3tXLY U692PiIDHHFvd79Qf/pJeOqw9bOP8A==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425743 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220411101003 20220210091003 17389 sn. q/vZarFAaChc/kdSjF3QS96dPpFbNHmt92VejBiryqxjJw1GluvHMy7i ELoA1jgcH8ZmCnjBhEZSJePMpGpiOA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [10/02/2022 08H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220401042734 20220210061002 17389 sn. uNuH3+0EC3M1HUSMGmSyZVGVNHbvGUsOLYaMb+7nrJjCaip8QDtr78ki Ctc4FMuDX5KLZEGM/Rw8p9UTn2BqNg==
+sn.			172800	IN	TXT	"No RRs processed [10/02/2022 11H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220405005417 20220210091003 17389 sn. hHjfi/FgMaIV44sQ7F7ILmRV1xtbDhO+c8XgEjlnJ8fnUq7G86kg79z8 H0lnbmWSKelIMfbSqy+W3xNyPj1YDg==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -1526,9 +1526,9 @@ aol.sn.			43200	IN	NS	ns4.yahoo.com.
 aol.sn.			43200	IN	NS	ns5.yahoo.com.
 aos.sn.			43200	IN	NS	eisdns1.expertis.sn.
 aos.sn.			43200	IN	NS	eisdns2.expertis.sn.
-apa.sn.			172800	IN	NS	ns1.netim.net.
 apa.sn.			172800	IN	NS	ns2.netim.net.
 apa.sn.			172800	IN	NS	ns3.netim.net.
+apa.sn.			172800	IN	NS	ns1.bdm.microsoftonline.com.
 apavesahel.sn.		43200	IN	NS	ns1.mdc.mk.
 apavesahel.sn.		43200	IN	NS	ns2.mdc.mk.
 apbef.sn.		43200	IN	NS	dns1.alwaysdata.com.
@@ -1587,9 +1587,9 @@ applestore.sn.		43200	IN	NS	c.ns.apple.com.
 applestore.sn.		43200	IN	NS	d.ns.apple.com.
 apporio.sn.		43200	IN	NS	may.ns.cloudflare.com.
 apporio.sn.		43200	IN	NS	aragorn.ns.cloudflare.com.
-appysport.sn.		43200	IN	NS	a.dns.gandi.net.
-appysport.sn.		43200	IN	NS	b.dns.gandi.net.
-appysport.sn.		43200	IN	NS	c.dns.gandi.net.
+appysport.sn.		172800	IN	NS	ns-42-c.gandi.net.
+appysport.sn.		172800	IN	NS	ns-61-a.gandi.net.
+appysport.sn.		172800	IN	NS	ns-252-b.gandi.net.
 apr.sn.			43200	IN	NS	ns1.kheweul.net.
 apr.sn.			43200	IN	NS	ns2.kheweul.net.
 april.sn.		43200	IN	NS	udns1.cscdns.net.
@@ -23715,4 +23715,4 @@ VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 VV3IDF84ISCK27
 VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220330114406 20220129112402 17389 sn. RouxRQiWqKSqdAblthbVj/SSWriWr4iyBaYEhouGv3o6tQSzdXco4Xig 0birnDsQjOTHDlwDils7stlWov2T1A==
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 02LIE766VG7G8G4SE6UGGCHJ9DD79PD9 NS DS RRSIG
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220330114406 20220129112402 17389 sn. +CwqvbAWCSGpevreT9NV99MXVgbNLltGQmmMeR5FLMPm4fg9Uc9FJIH0 q/8EKg5+1RMUJ1IHtPJ4DmVq068q/Q==
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425725 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425743 3600 1800 3600000 5400
