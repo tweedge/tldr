@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021015 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021023 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1644501619"
+cm.			86400	IN	TXT	"Generation Time: 1644530413"
 0.cm.			86400	IN	NS	ns1.dnspanel.com.
 0.cm.			86400	IN	NS	ns2.dnspanel.com.
 0-1.cm.			86400	IN	NS	ns1.ndns.cn.
@@ -13684,8 +13684,8 @@ abyfoupay.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 abyfoupay.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 ac.cm.			86400	IN	NS	ns1-show.myhostadmin.net.
 ac.cm.			86400	IN	NS	ns2-show.myhostadmin.net.
-acaaf.cm.		86400	IN	NS	ns1.camoogroup.com.
-acaaf.cm.		86400	IN	NS	ns2.camoogroup.com.
+acaaf.cm.		86400	IN	NS	ns05.domaincontrol.com.
+acaaf.cm.		86400	IN	NS	ns06.domaincontrol.com.
 acac.cm.		86400	IN	NS	ns1.bodis.com.
 acac.cm.		86400	IN	NS	ns2.bodis.com.
 acad.cm.		86400	IN	NS	mefou.minesup.gov.cm.
@@ -19844,6 +19844,8 @@ bellelily.cm.		86400	IN	NS	ns2198.hexonet.net.
 bellelily.cm.		86400	IN	NS	ns3174.hexonet.net.
 bellem.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 bellem.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
+belleslettrescameroun.cm. 86400	IN	NS	cpanel15.lws-hosting.com.
+belleslettrescameroun.cm. 86400	IN	NS	cpanel16.lws-hosting.com.
 bellewholesale.cm.	86400	IN	NS	ns17.above.com.
 bellewholesale.cm.	86400	IN	NS	ns18.above.com.
 bellomarlearning.cm.	86400	IN	NS	ns1.ntas-server.com.
@@ -33045,8 +33047,12 @@ ebaycommerce.cm.	86400	IN	NS	ns3.markmonitor.com.
 ebaycommerce.cm.	86400	IN	NS	ns4.markmonitor.com.
 ebaycommerce.cm.	86400	IN	NS	ns6.markmonitor.com.
 ebaycommerce.cm.	86400	IN	NS	ns7.markmonitor.com.
-ebaycommercenetwork.cm.	86400	IN	NS	ns1any.shopping.com.
-ebaycommercenetwork.cm.	86400	IN	NS	ns2any.shopping.com.
+ebaycommercenetwork.cm.	86400	IN	NS	ns1.markmonitor.com.
+ebaycommercenetwork.cm.	86400	IN	NS	ns2.markmonitor.com.
+ebaycommercenetwork.cm.	86400	IN	NS	ns3.markmonitor.com.
+ebaycommercenetwork.cm.	86400	IN	NS	ns4.markmonitor.com.
+ebaycommercenetwork.cm.	86400	IN	NS	ns6.markmonitor.com.
+ebaycommercenetwork.cm.	86400	IN	NS	ns7.markmonitor.com.
 ebayconnectedcommerce.cm. 86400	IN	NS	ns1.markmonitor.com.
 ebayconnectedcommerce.cm. 86400	IN	NS	ns3.markmonitor.com.
 ebayconnectscommerce.cm. 86400	IN	NS	ns1.markmonitor.com.
@@ -38096,6 +38102,7 @@ foxtv.cm.		86400	IN	NS	ns3.markmonitor.com.
 foxtv.cm.		86400	IN	NS	ns4.markmonitor.com.
 foxtv.cm.		86400	IN	NS	ns5.markmonitor.com.
 foxtv.cm.		86400	IN	NS	ns6.markmonitor.com.
+foxtv.cm.		86400	IN	NS	ns7.markmonitor.com.
 foxweather.cm.		86400	IN	NS	ns1188.ispapi.net.
 foxweather.cm.		86400	IN	NS	ns2224.ispapi.net.
 foxweather.cm.		86400	IN	NS	ns3211.ispapi.net.
@@ -58741,8 +58748,8 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
+ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
@@ -83862,6 +83869,9 @@ wiley.cm.		86400	IN	NS	ns1.parkingcrew.net.
 wiley.cm.		86400	IN	NS	ns2.parkingcrew.net.
 wileyplus.cm.		86400	IN	NS	581.ns1.above.com.
 wileyplus.cm.		86400	IN	NS	581.ns2.above.com.
+will.cm.		86400	IN	NS	ns1.netim.net.
+will.cm.		86400	IN	NS	ns2.netim.net.
+will.cm.		86400	IN	NS	ns3.netim.net.
 willhill.cm.		86400	IN	NS	dns1.idp365.net.
 willhill.cm.		86400	IN	NS	dns2.idp365.net.
 willhill.cm.		86400	IN	NS	dns3.idp365.net.
@@ -87813,4 +87823,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021015 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021023 28800 3600 604800 86400
