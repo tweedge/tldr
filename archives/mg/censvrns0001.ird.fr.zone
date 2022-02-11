@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021027 600 3600 604800 86400
-mg.			7200	IN	TXT	"Generation Time: 1644501642"
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021115 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
+mg.			7200	IN	TXT	"Generation Time: 1644562887"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -558,10 +558,6 @@ air-austral.mg.		7200	IN	NS	dns1.nettica.com.
 air-austral.mg.		7200	IN	NS	dns2.nettica.com.
 air-austral.mg.		7200	IN	NS	dns3.nettica.com.
 air-austral.mg.		7200	IN	NS	dns5.nettica.com.
-air-services.mg.	7200	IN	NS	ns-1372.awsdns-43.org.
-air-services.mg.	7200	IN	NS	ns-594.awsdns-10.net.
-air-services.mg.	7200	IN	NS	ns-1764.awsdns-28.co.uk.
-air-services.mg.	7200	IN	NS	ns-353.awsdns-44.com.
 airaustral.mg.		7200	IN	NS	dns1.nettica.com.
 airaustral.mg.		7200	IN	NS	dns2.nettica.com.
 airaustral.mg.		7200	IN	NS	dns3.nettica.com.
@@ -3399,9 +3395,9 @@ enterprise.mg.		7200	IN	NS	ns4.markmonitor.com.
 enterprise.mg.		7200	IN	NS	ns5.markmonitor.com.
 enterprise.mg.		7200	IN	NS	ns2.markmonitor.com.
 enterprise.mg.		7200	IN	NS	ns7.markmonitor.com.
-entrepreneuriat.mg.	86400	IN	DS	2371 13 2 9E61DBD2644CE02AC9FA419FF63EB620A7D6B622232BE8BCE4ACC4FF 43A72947
 entrepreneuriat.mg.	7200	IN	NS	lina.ns.cloudflare.com.
 entrepreneuriat.mg.	7200	IN	NS	phil.ns.cloudflare.com.
+entrepreneuriat.mg.	86400	IN	DS	2371 13 2 9E61DBD2644CE02AC9FA419FF63EB620A7D6B622232BE8BCE4ACC4FF 43A72947
 entreprisejj-mada.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 entreprisejj-mada.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 entreprisejj-mada.mg.	86400	IN	NS	ns1.fr.malagasy.com.
@@ -3929,10 +3925,6 @@ flyingblue.mg.		86400	IN	NS	ns2.kpn.net.
 flyingblue.mg.		86400	IN	NS	ns4.kpn.net.
 flyservice.mg.		86400	IN	NS	ns1.gasyweb.com.
 flyservice.mg.		86400	IN	NS	ns2.gasyweb.com.
-fm.mg.			86400	IN	NS	ns-980.awsdns-58.net.
-fm.mg.			86400	IN	NS	ns-46.awsdns-05.com.
-fm.mg.			86400	IN	NS	ns-2012.awsdns-59.co.uk.
-fm.mg.			86400	IN	NS	ns-1063.awsdns-04.org.
 fmam.mg.		86400	IN	NS	ns1.justhost.com.
 fmam.mg.		86400	IN	NS	ns2.justhost.com.
 fmf.mg.			86400	IN	NS	ns29.dot.mg.
@@ -6287,9 +6279,9 @@ madagascar-edu.mg.	86400	IN	NS	ns2.servermada.com.
 madagascar-instn.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns1.fr.malagasy.com.
-madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-internet.mg.	86400	IN	NS	ns1.servermada.com.
 madagascar-internet.mg.	86400	IN	NS	ns2.servermada.com.
+madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns2.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.fr.malagasy.com.
@@ -6352,8 +6344,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -6718,9 +6710,9 @@ mbike.mg.		86400	IN	NS	dns1.dedie-ipt.com.
 mbike.mg.		86400	IN	NS	dns2.dedie-ipt.com.
 mbikelivraisonexpress.mg. 86400	IN	NS	dns16.ovh.net.
 mbikelivraisonexpress.mg. 86400	IN	NS	ns16.ovh.net.
-mbola.mg.		86400	IN	DS	57764 13 2 705546A939F622CBEF05A2D986E33F8353A640E9C37D9588EADE366E 140BD661
 mbola.mg.		86400	IN	NS	ns1.freesite.vip.
 mbola.mg.		86400	IN	NS	ns2.freesite.vip.
+mbola.mg.		86400	IN	DS	57764 13 2 705546A939F622CBEF05A2D986E33F8353A640E9C37D9588EADE366E 140BD661
 mbolatiana-strategie.mg. 86400	IN	NS	ns29.dot.mg.
 mbolatiana-strategie.mg. 86400	IN	NS	ns29.illi.co.mg.
 mca.mg.			86400	IN	NS	sdns2.ovh.net.
@@ -6805,8 +6797,6 @@ medp.mg.		86400	IN	NS	ns1.servermada.com.
 medp.mg.		86400	IN	NS	ns2.servermada.com.
 meetfp.mg.		86400	IN	NS	ns29.dot.mg.
 meetfp.mg.		86400	IN	NS	ns29.illi.co.mg.
-megatana.mg.		86400	IN	NS	ns1.da.cloudns.io.
-megatana.mg.		86400	IN	NS	ns2.da.cloudns.io.
 megaworm.mg.		86400	IN	NS	ns1.onyx.cloudns.io.
 megaworm.mg.		86400	IN	NS	ns2.onyx.cloudns.io.
 megogo.mg.		86400	IN	NS	ns1.101domain.com.
@@ -7384,6 +7374,8 @@ net.mg.			86400	IN	NS	pch.nic.mg.
 net.mg.			86400	IN	NS	ns.nic.mg.
 net.mg.			86400	IN	NS	ns.dts.mg.
 net.mg.			86400	IN	NS	censvrns0001.ird.fr.
+net-fortuna.mg.		86400	IN	NS	ns1.da.cloudns.io.
+net-fortuna.mg.		86400	IN	NS	ns2.da.cloudns.io.
 net-studio.mg.		86400	IN	NS	ns1601.websitewelcome.com.
 net-studio.mg.		86400	IN	NS	ns1602.websitewelcome.com.
 netasec.mg.		86400	IN	NS	ns1.servermada.com.
@@ -7719,6 +7711,8 @@ omda.mg.		86400	IN	NS	ns.dts.mg.
 omda.mg.		86400	IN	NS	ns1.dts.mg.
 omdf.mg.		86400	IN	NS	ns1.cloudns.io.
 omdf.mg.		86400	IN	NS	ns2.cloudns.io.
+omert.mg.		86400	IN	NS	aryanna.ns.cloudflare.com.
+omert.mg.		86400	IN	NS	patrick.ns.cloudflare.com.
 omg.mg.			86400	IN	NS	a.ns.cron.sh.
 omg.mg.			86400	IN	NS	i.ns.buddyns.com.
 omh.mg.			86400	IN	NS	ns.dts.mg.
@@ -8287,8 +8281,6 @@ poly.mg.		86400	IN	NS	dns1.cscdns.net.
 poly.mg.		86400	IN	NS	dns2.cscdns.net.
 polyaquaculture.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 polyaquaculture.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
-polyma.mg.		86400	IN	NS	ns1.mada-webhosting.com.
-polyma.mg.		86400	IN	NS	ns2.mada-webhosting.com.
 polymur.mg.		86400	IN	NS	ns29.dot.mg.
 polymur.mg.		86400	IN	NS	ns29.illi.co.mg.
 polytech.mg.		86400	IN	NS	ns29.illi.co.mg.
@@ -8613,9 +8605,9 @@ rallygasy.mg.		86400	IN	NS	ns111.ovh.net.
 rallygasy.mg.		86400	IN	NS	dns111.ovh.net.
 ram.mg.			86400	IN	NS	ns1.extra.chrysler.com.
 ram.mg.			86400	IN	NS	ns2.extra.chrysler.com.
-ramanitra.mg.		86400	IN	DS	2371 13 2 2B8B5EFCF92A6EA78A912F33D0369BDE0293369AE040EC62AB842109 786FEFD3
 ramanitra.mg.		86400	IN	NS	brett.ns.cloudflare.com.
 ramanitra.mg.		86400	IN	NS	margot.ns.cloudflare.com.
+ramanitra.mg.		86400	IN	DS	2371 13 2 2B8B5EFCF92A6EA78A912F33D0369BDE0293369AE040EC62AB842109 786FEFD3
 ramatoa.mg.		86400	IN	NS	ns1.cloudns.io.
 ramatoa.mg.		86400	IN	NS	ns2.cloudns.io.
 ramboloson.mg.		86400	IN	NS	dns14.ovh.net.
@@ -8752,8 +8744,6 @@ relyfe.mg.		86400	IN	NS	ns100.ovh.net.
 rematiptop.mg.		86400	IN	NS	ns1.101domain.com.
 rematiptop.mg.		86400	IN	NS	ns5.101domain.com.
 rematiptop.mg.		86400	IN	NS	ns2.101domain.com.
-remindo.mg.		86400	IN	NS	ns29.dot.mg.
-remindo.mg.		86400	IN	NS	ns29.illi.co.mg.
 renault.mg.		86400	IN	NS	ns.dts.mg.
 renault.mg.		86400	IN	NS	ns1.dts.mg.
 renault-trucks.mg.	86400	IN	NS	ns.dts.mg.
@@ -8917,6 +8907,8 @@ royalbeach.mg.		86400	IN	NS	ns.dts.mg.
 royalbeach.mg.		86400	IN	NS	ns1.dts.mg.
 royalbingo.mg.		86400	IN	NS	ns1.cloudns.io.
 royalbingo.mg.		86400	IN	NS	ns2.cloudns.io.
+royaldrinks.mg.		86400	IN	NS	ns1.servermada.com.
+royaldrinks.mg.		86400	IN	NS	ns2.servermada.com.
 royalenfield.mg.	86400	IN	NS	ns1.cloudns.io.
 royalenfield.mg.	86400	IN	NS	ns2.cloudns.io.
 royalgold.mg.		86400	IN	NS	ns.dts.mg.
@@ -10776,8 +10768,6 @@ venoa.mg.		86400	IN	NS	ns4.netim.net.
 venoa.mg.		86400	IN	NS	ns5.netim.net.
 ventice.mg.		86400	IN	NS	ns1.dagocloud.com.
 ventice.mg.		86400	IN	NS	ns2.dagocloud.com.
-venusconsulting.mg.	86400	IN	NS	ns1.da.cloudns.io.
-venusconsulting.mg.	86400	IN	NS	ns2.da.cloudns.io.
 vertec.mg.		86400	IN	NS	ns.dts.mg.
 vertec.mg.		86400	IN	NS	ns1.dts.mg.
 vesta-security.mg.	86400	IN	NS	ns1.mysecurecloudhost.com.
@@ -11399,4 +11389,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021027 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021115 600 3600 604800 86400
