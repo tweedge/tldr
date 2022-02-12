@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021106 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021113 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1644555609"
+cm.			86400	IN	TXT	"Generation Time: 1644580821"
 0.cm.			86400	IN	NS	ns1.dnspanel.com.
 0.cm.			86400	IN	NS	ns2.dnspanel.com.
 0-1.cm.			86400	IN	NS	ns1.ndns.cn.
@@ -2918,6 +2918,7 @@ cm.			86400	IN	TXT	"Generation Time: 1644555609"
 21stcenturyfox.cm.	86400	IN	NS	ns4.markmonitor.com.
 21stcenturyfox.cm.	86400	IN	NS	ns5.markmonitor.com.
 21stcenturyfox.cm.	86400	IN	NS	ns6.markmonitor.com.
+21stcenturyfox.cm.	86400	IN	NS	ns7.markmonitor.com.
 22.cm.			86400	IN	NS	ns1.dns.com.
 22.cm.			86400	IN	NS	ns2.dns.com.
 220.cm.			86400	IN	NS	ns2.dnsv1.com.
@@ -41594,6 +41595,8 @@ h4.cm.			86400	IN	NS	ns1.dns.com.
 h4.cm.			86400	IN	NS	ns2.dns.com.
 h5.cm.			86400	IN	NS	leah.ns.cloudflare.com.
 h5.cm.			86400	IN	NS	major.ns.cloudflare.com.
+h58.cm.			86400	IN	NS	bjorn.ns.cloudflare.com.
+h58.cm.			86400	IN	NS	kinsley.ns.cloudflare.com.
 h6.cm.			86400	IN	NS	meera.ns.cloudflare.com.
 h6.cm.			86400	IN	NS	ishaan.ns.cloudflare.com.
 h66.cm.			86400	IN	NS	liv.ns.cloudflare.com.
@@ -46719,6 +46722,8 @@ itke.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 itke.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 itlink.cm.		86400	IN	NS	cp3.dnshostservices.com.
 itlink.cm.		86400	IN	NS	cp4.dnshostservices.com.
+itpro.cm.		86400	IN	NS	ns1.101domain.com.
+itpro.cm.		86400	IN	NS	ns2.101domain.com.
 its.cm.			86400	IN	NS	hybrid1120.fr.ns.planethoster.net.
 its.cm.			86400	IN	NS	hybrid1120-1.fr.ns.planethoster.net.
 itsapark.cm.		86400	IN	NS	a5-65.akam.net.
@@ -65574,6 +65579,8 @@ pozam.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 pozam.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 pp.cm.			86400	IN	NS	ns1.4.cn.
 pp.cm.			86400	IN	NS	ns2.4.cn.
+pp24.cm.		86400	IN	NS	zeus.ns.cloudflare.com.
+pp24.cm.		86400	IN	NS	crystal.ns.cloudflare.com.
 ppbi.cm.		86400	IN	NS	ns1.above.com.
 ppbi.cm.		86400	IN	NS	ns2.above.com.
 ppe.cm.			86400	IN	NS	ian.ns.cloudflare.com.
@@ -87909,4 +87916,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021106 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021113 28800 3600 604800 86400
