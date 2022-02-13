@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021316 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1644735635"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021322 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1644746428"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -37887,10 +37887,8 @@ legend.ng.		3600	IN	NS	ns3.web4africa.com.
 legend.ng.		3600	IN	NS	ns4.web4africa.com.
 legendmail.ng.		3600	IN	NS	ns1.suburbanfiberco.net.
 legendmail.ng.		3600	IN	NS	ns2.suburbanfiberco.net.
-legendpay.ng.		3600	IN	NS	ns1.web4africa.com.
-legendpay.ng.		3600	IN	NS	ns2.web4africa.com.
-legendpay.ng.		3600	IN	NS	ns3.web4africa.com.
-legendpay.ng.		3600	IN	NS	ns4.web4africa.com.
+legendpay.ng.		3600	IN	NS	ns1.suburbancloud.ng.
+legendpay.ng.		3600	IN	NS	ns2.suburbancloud.ng.
 legendshop.ng.		3600	IN	NS	ns1.dknoc.com.
 legendshop.ng.		3600	IN	NS	ns2.dknoc.com.
 legendsofnollywood.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -42954,6 +42952,8 @@ morningstaronline.ng.	3600	IN	NS	ns15.doveserver.com.
 morningstaronline.ng.	3600	IN	NS	ns16.doveserver.com.
 morocco.ng.		3600	IN	NS	cp.nira.org.ng.
 morocco.ng.		3600	IN	NS	ns1.nira.org.ng.
+morphgen.ng.		3600	IN	NS	ns19.garanntor.net.
+morphgen.ng.		3600	IN	NS	ns20.garanntor.net.
 morsi.ng.		3600	IN	NS	ns1.unoeuro.com.
 morsi.ng.		3600	IN	NS	ns2.unoeuro.com.
 morsi.ng.		3600	IN	NS	ns3.unoeuro.com.
@@ -43837,6 +43837,9 @@ mycoven.ng.		3600	IN	NS	nsa.whogohost.com.
 mycoven.ng.		3600	IN	NS	nsb.whogohost.com.
 mycredentials.ng.	3600	IN	NS	ns1.darrell-hill.com.
 mycredentials.ng.	3600	IN	NS	ns2.darrell-hill.com.
+mycredit.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+mycredit.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+mycredit.ng.		3600	IN	NS	dns3.registrar-servers.com.
 mycreditscore.ng.	3600	IN	NS	ns450.whukns.com.
 mycreditscore.ng.	3600	IN	NS	ns451.whukns.com.
 mycreds.ng.		3600	IN	NS	ns0.registeram.com.
@@ -45716,8 +45719,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -56657,6 +56660,8 @@ rid.ng.			3600	IN	NS	kara.ns.cloudflare.com.
 rid.ng.			3600	IN	NS	ishaan.ns.cloudflare.com.
 ride.ng.		3600	IN	NS	ns1.dan.com.
 ride.ng.		3600	IN	NS	ns2.dan.com.
+ridego.ng.		3600	IN	NS	ns5.garanntor.net.
+ridego.ng.		3600	IN	NS	ns6.garanntor.net.
 ridehome.ng.		3600	IN	NS	nsa.whogohost.com.
 ridehome.ng.		3600	IN	NS	nsb.whogohost.com.
 rideme.ng.		3600	IN	NS	ns1.bh-ht-4.webhostbox.net.
@@ -66154,9 +66159,9 @@ thebest.ng.		3600	IN	NS	nsa.whogohost.com.
 thebest.ng.		3600	IN	NS	nsb.whogohost.com.
 thebestfirst.ng.	3600	IN	NS	dns1.cscdns.net.
 thebestfirst.ng.	3600	IN	NS	dns2.cscdns.net.
-thebigbo.ng.		86400	IN	DS	21109 13 2 3709A850D7BA9484CE0A27B4D4688E7EEB02A938965996931D1F0BA8 BA9B15A8
 thebigbo.ng.		3600	IN	NS	ns3.epik.com.
 thebigbo.ng.		3600	IN	NS	ns4.epik.com.
+thebigbo.ng.		86400	IN	DS	21109 13 2 3709A850D7BA9484CE0A27B4D4688E7EEB02A938965996931D1F0BA8 BA9B15A8
 thebigdeal.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 thebigdeal.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 thebignews.ng.		3600	IN	NS	dns1.supremedns.com.
@@ -67428,6 +67433,8 @@ timelines.ng.		3600	IN	NS	ns3-02.azure-dns.org.
 timelines.ng.		3600	IN	NS	ns4-02.azure-dns.info.
 timelyticketing.ng.	3600	IN	NS	n8.iclassserver.com.
 timelyticketing.ng.	3600	IN	NS	n9.iclassserver.com.
+timepost.ng.		3600	IN	NS	nsa.whogohost.com.
+timepost.ng.		3600	IN	NS	nsb.whogohost.com.
 times.ng.		3600	IN	NS	ns1.parkingcrew.net.
 times.ng.		3600	IN	NS	ns2.parkingcrew.net.
 timeslive.ng.		3600	IN	NS	ns1.lexsynergy.net.
@@ -67496,8 +67503,8 @@ tinu.ng.		3600	IN	NS	ns1.upperserver26.com.
 tinu.ng.		3600	IN	NS	ns2.upperserver26.com.
 tinuade.ng.		3600	IN	NS	nsa.whogohost.com.
 tinuade.ng.		3600	IN	NS	nsb.whogohost.com.
-tinubu.ng.		3600	IN	NS	dns1.namecheaphosting.com.
-tinubu.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+tinubu.ng.		3600	IN	NS	adam.ns.cloudflare.com.
+tinubu.ng.		3600	IN	NS	lindsey.ns.cloudflare.com.
 tinubu2023.ng.		3600	IN	NS	ns1.siteground.net.
 tinubu2023.ng.		3600	IN	NS	ns2.siteground.net.
 tinubu4president.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -75402,4 +75409,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021316 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021322 10800 3600 604800 3600
