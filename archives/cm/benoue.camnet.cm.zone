@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021304 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021311 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1644721214"
+cm.			86400	IN	TXT	"Generation Time: 1644746412"
 0.cm.			86400	IN	NS	ns1.dnspanel.com.
 0.cm.			86400	IN	NS	ns2.dnspanel.com.
 0-1.cm.			86400	IN	NS	ns1.ndns.cn.
@@ -28552,8 +28552,6 @@ cp24.cm.		86400	IN	NS	ns1.bodis.com.
 cp24.cm.		86400	IN	NS	ns2.bodis.com.
 cpa.cm.			86400	IN	NS	lila.ns.cloudflare.com.
 cpa.cm.			86400	IN	NS	terry.ns.cloudflare.com.
-cpabien.cm.		86400	IN	NS	ns1.bodis.com.
-cpabien.cm.		86400	IN	NS	ns2.bodis.com.
 cpagrip.cm.		86400	IN	NS	ns1.bodis.com.
 cpagrip.cm.		86400	IN	NS	ns2.bodis.com.
 cpalead.cm.		86400	IN	NS	ns1.bodis.com.
@@ -58809,8 +58807,8 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
@@ -60805,6 +60803,8 @@ nxs.cm.			86400	IN	NS	ns3.above.com.
 nxs.cm.			86400	IN	NS	ns4.above.com.
 nxt.cm.			86400	IN	NS	ns1.parkingcrew.net.
 nxt.cm.			86400	IN	NS	ns2.parkingcrew.net.
+nxx.cm.			86400	IN	NS	ns3.above.com.
+nxx.cm.			86400	IN	NS	ns4.above.com.
 nxxx.cm.		86400	IN	NS	ns1.bodis.com.
 nxxx.cm.		86400	IN	NS	ns2.bodis.com.
 ny.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -83720,6 +83720,8 @@ whatsappshop.cm.	86400	IN	NS	ns1.panelboxmanager.com.
 whatsappshop.cm.	86400	IN	NS	ns2.panelboxmanager.com.
 whatsappweb.cm.		86400	IN	NS	ns3.above.com.
 whatsappweb.cm.		86400	IN	NS	ns4.above.com.
+whatsmyip.cm.		86400	IN	NS	ns3.above.com.
+whatsmyip.cm.		86400	IN	NS	ns4.above.com.
 whatsmyserp.cm.		86400	IN	NS	ns1.bodis.com.
 whatsmyserp.cm.		86400	IN	NS	ns2.bodis.com.
 whatsnear.cm.		86400	IN	NS	ns1.contabo.net.
@@ -86029,6 +86031,8 @@ xxxn.cm.		86400	IN	NS	ns1.bodis.com.
 xxxn.cm.		86400	IN	NS	ns2.bodis.com.
 xxxnx.cm.		86400	IN	NS	ns3.above.com.
 xxxnx.cm.		86400	IN	NS	ns4.above.com.
+xxxtube.cm.		86400	IN	NS	ns3.above.com.
+xxxtube.cm.		86400	IN	NS	ns4.above.com.
 xxxx.cm.		86400	IN	NS	ns1.bodis.com.
 xxxx.cm.		86400	IN	NS	ns2.bodis.com.
 xxxxx.cm.		86400	IN	NS	ns17.above.com.
@@ -87911,4 +87915,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021304 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021311 28800 3600 604800 86400
