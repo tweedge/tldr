@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021311 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021400 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1644746412"
+cm.			86400	IN	TXT	"Generation Time: 1644793216"
 0.cm.			86400	IN	NS	ns1.dnspanel.com.
 0.cm.			86400	IN	NS	ns2.dnspanel.com.
 0-1.cm.			86400	IN	NS	ns1.ndns.cn.
@@ -14547,8 +14547,6 @@ africanmetaphysical-society.cm.	86400 IN NS	kim.camnet.cm.
 africanmetaphysical-society.cm.	86400 IN NS	mbam.camnet.cm.
 africapay.cm.		86400	IN	NS	nscloud105.caphosting.com.
 africapay.cm.		86400	IN	NS	nscloud106.caphosting.com.
-africasservices.cm.	86400	IN	NS	ns1.camoogroup.com.
-africasservices.cm.	86400	IN	NS	ns2.camoogroup.com.
 africatech.cm.		86400	IN	NS	ns8527.hostgator.com.
 africatech.cm.		86400	IN	NS	ns8528.hostgator.com.
 africaventuregroup.cm.	86400	IN	NS	dns2015a.trouble-free.net.
@@ -14773,6 +14771,8 @@ agroteam.cm.		86400	IN	NS	ns11.hoststage.net.
 agroteam.cm.		86400	IN	NS	ns12.hoststage.net.
 agrumes.cm.		86400	IN	NS	ns1.webhostingpad.com.
 agrumes.cm.		86400	IN	NS	ns2.webhostingpad.com.
+ags.cm.			86400	IN	NS	ns17.above.com.
+ags.cm.			86400	IN	NS	ns18.above.com.
 agsie.cm.		86400	IN	NS	ns1.o2switch.net.
 agsie.cm.		86400	IN	NS	ns2.o2switch.net.
 agt.cm.			86400	IN	NS	ns17.above.com.
@@ -24750,6 +24750,9 @@ carte-scolaire.cm.	86400	IN	NS	ns1.mtnbusiness.cm.
 carte-scolaire.cm.	86400	IN	NS	ns2.mtnbusiness.cm.
 cartecommunale.cm.	86400	IN	NS	dns1.ex2-r9.com.
 cartecommunale.cm.	86400	IN	NS	dns2.ex2-r9.com.
+cartel.cm.		86400	IN	NS	ns1.geoscaling.com.
+cartel.cm.		86400	IN	NS	ns2.geoscaling.com.
+cartel.cm.		86400	IN	NS	ns3.geoscaling.com.
 carter.cm.		86400	IN	NS	ns1.parkingcrew.net.
 carter.cm.		86400	IN	NS	ns2.parkingcrew.net.
 carters.cm.		86400	IN	NS	pns21.cloudns.net.
@@ -29429,8 +29432,6 @@ cvuc.cm.		86400	IN	NS	eric.ns.cloudflare.com.
 cvuc.cm.		86400	IN	NS	nadia.ns.cloudflare.com.
 cvv.cm.			86400	IN	NS	ns3.above.com.
 cvv.cm.			86400	IN	NS	ns4.above.com.
-cvv-ru.cm.		86400	IN	NS	ns1.disabled.ispapi.net.
-cvv-ru.cm.		86400	IN	NS	ns2.disabled.ispapi.net.
 cw.cm.			86400	IN	NS	ns1.dns.com.
 cw.cm.			86400	IN	NS	ns2.dns.com.
 cwc.cm.			86400	IN	NS	ns1.zoom-lab.com.
@@ -29773,6 +29774,9 @@ danielwellington.cm.	86400	IN	NS	ns1.bodis.com.
 danielwellington.cm.	86400	IN	NS	ns2.bodis.com.
 danisco.cm.		86400	IN	NS	dns1.cscdns.net.
 danisco.cm.		86400	IN	NS	dns2.cscdns.net.
+danixt.cm.		86400	IN	NS	ns-42-b.gandi.net.
+danixt.cm.		86400	IN	NS	ns-200-a.gandi.net.
+danixt.cm.		86400	IN	NS	ns-200-c.gandi.net.
 danke.cm.		86400	IN	NS	ns15.ovh.net.
 danke.cm.		86400	IN	NS	dns15.ovh.net.
 danmurphy.cm.		86400	IN	NS	ns0.telstra.net.
@@ -45506,6 +45510,9 @@ incestflix.cm.		86400	IN	NS	pns23.cloudns.net.
 incestflix.cm.		86400	IN	NS	pns24.cloudns.net.
 incfile.cm.		86400	IN	NS	ns1.smartname.com.
 incfile.cm.		86400	IN	NS	ns2.smartname.com.
+inch.cm.		86400	IN	NS	ns.inwx.de.
+inch.cm.		86400	IN	NS	ns2.inwx.de.
+inch.cm.		86400	IN	NS	ns3.inwx.eu.
 inchesto.cm.		86400	IN	NS	170.ns1.above.com.
 inchesto.cm.		86400	IN	NS	170.ns2.above.com.
 inchto.cm.		86400	IN	NS	170.ns1.above.com.
@@ -45881,8 +45888,8 @@ instabet.cm.		86400	IN	NS	ns-148-a.gandi.net.
 instabet.cm.		86400	IN	NS	ns-230-b.gandi.net.
 instacart.cm.		86400	IN	NS	ns1.bodis.com.
 instacart.cm.		86400	IN	NS	ns2.bodis.com.
-instadrive.cm.		86400	IN	NS	dns1.registrar-servers.com.
-instadrive.cm.		86400	IN	NS	dns2.registrar-servers.com.
+instadrive.cm.		86400	IN	NS	dns1.namecheaphosting.com.
+instadrive.cm.		86400	IN	NS	dns2.namecheaphosting.com.
 instaflex.cm.		86400	IN	NS	ns1.mytrafficmanagement.com.
 instaflex.cm.		86400	IN	NS	ns2.mytrafficmanagement.com.
 instaforex.cm.		86400	IN	NS	a.dnspod.com.
@@ -58807,10 +58814,10 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
+ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
 namesilo.cm.		86400	IN	NS	ns2.bodis.com.
 nametests.cm.		86400	IN	NS	ns1.bodis.com.
@@ -80998,6 +81005,8 @@ usatoday.cm.		86400	IN	NS	ns1.hastydns.com.
 usatoday.cm.		86400	IN	NS	ns2.hastydns.com.
 usaver.cm.		86400	IN	NS	nsem02.national.com.au.
 usaver.cm.		86400	IN	NS	nskx02.national.com.au.
+usb.cm.			86400	IN	NS	ns17.above.com.
+usb.cm.			86400	IN	NS	ns18.above.com.
 usbank.cm.		86400	IN	NS	dns1.registrar-servers.com.
 usbank.cm.		86400	IN	NS	dns2.registrar-servers.com.
 usbankreliacard.cm.	86400	IN	NS	759.ns1.above.com.
@@ -87915,4 +87924,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021311 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022021400 28800 3600 604800 86400
