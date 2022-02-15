@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021539 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1644951623"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021545 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1644962430"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -11531,8 +11531,8 @@ carcity.ng.		3600	IN	NS	ns148.namehero.net.
 cardano.ng.		3600	IN	NS	ns.zxcs.be.
 cardano.ng.		3600	IN	NS	ns.zxcs.eu.
 cardano.ng.		3600	IN	NS	ns.zxcs.nl.
-cardbarter.ng.		3600	IN	NS	ns29.doveserver.com.
-cardbarter.ng.		3600	IN	NS	ns30.doveserver.com.
+cardbarter.ng.		3600	IN	NS	ns5.doveserver.com.
+cardbarter.ng.		3600	IN	NS	ns6.doveserver.com.
 cardbroker.ng.		3600	IN	NS	ns29.hostnownow.com.
 cardbroker.ng.		3600	IN	NS	ns30.hostnownow.com.
 cardcom.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -21016,6 +21016,8 @@ emassl.ng.		3600	IN	NS	dns2.wpsolutions.com.ng.
 embassy.ng.		3600	IN	NS	ns1.gigalayer.com.
 embassy.ng.		3600	IN	NS	ns2.gigalayer.com.
 embassy.ng.		3600	IN	NS	ns3.gigalayer.com.
+embassycafe.ng.		3600	IN	NS	mdns3.hostwindsdns.com.
+embassycafe.ng.		3600	IN	NS	mdns4.hostwindsdns.com.
 embc.ng.		3600	IN	NS	ns1.uplserver7.com.
 embc.ng.		3600	IN	NS	ns2.uplserver7.com.
 embe.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -53815,10 +53817,10 @@ promechanic.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 prometis.ng.		3600	IN	NS	ns1.regzone.cz.
 prometis.ng.		3600	IN	NS	ns1.regzone.de.
 prometis.ng.		3600	IN	NS	ns1.regzone.info.
-promisecard.ng.		3600	IN	NS	ns-cloud-e1.googledomains.com.
-promisecard.ng.		3600	IN	NS	ns-cloud-e2.googledomains.com.
-promisecard.ng.		3600	IN	NS	ns-cloud-e3.googledomains.com.
-promisecard.ng.		3600	IN	NS	ns-cloud-e4.googledomains.com.
+promisecard.ng.		3600	IN	NS	ns1.web4africa.com.
+promisecard.ng.		3600	IN	NS	ns2.web4africa.com.
+promisecard.ng.		3600	IN	NS	ns3.web4africa.com.
+promisecard.ng.		3600	IN	NS	ns4.web4africa.com.
 promiseland.ng.		3600	IN	NS	ns-338.awsdns-42.com.
 promiseland.ng.		3600	IN	NS	ns-717.awsdns-25.net.
 promiseland.ng.		3600	IN	NS	ns-1040.awsdns-02.org.
@@ -59067,6 +59069,8 @@ seedmoney.ng.		3600	IN	NS	ns1.webhostingpad.com.
 seedmoney.ng.		3600	IN	NS	ns2.webhostingpad.com.
 seedzone.ng.		3600	IN	NS	nsa.whogohost.com.
 seedzone.ng.		3600	IN	NS	nsb.whogohost.com.
+seeit.ng.		3600	IN	NS	ns23.doveserver.com.
+seeit.ng.		3600	IN	NS	ns24.doveserver.com.
 seek.ng.		3600	IN	NS	ns1.uk43.siteground.eu.
 seek.ng.		3600	IN	NS	ns2.uk43.siteground.eu.
 seeker.ng.		3600	IN	NS	dns1.doveserver.com.
@@ -66158,6 +66162,10 @@ the10kstore.ng.		3600	IN	NS	ns1.web4africa.com.
 the10kstore.ng.		3600	IN	NS	ns2.web4africa.com.
 the10kstore.ng.		3600	IN	NS	ns3.web4africa.com.
 the10kstore.ng.		3600	IN	NS	ns4.web4africa.com.
+the222brand.ng.		3600	IN	NS	ns1.web4africa.com.
+the222brand.ng.		3600	IN	NS	ns2.web4africa.com.
+the222brand.ng.		3600	IN	NS	ns3.web4africa.com.
+the222brand.ng.		3600	IN	NS	ns4.web4africa.com.
 the411.ng.		3600	IN	NS	ns3.dktlds.com.
 the411.ng.		3600	IN	NS	ns4.dktlds.com.
 the606agency.ng.	3600	IN	NS	ns1.uplserver4.com.
@@ -71882,8 +71890,8 @@ vuclip.ng.		3600	IN	NS	ns5.101domain.com.
 vuclipprime.ng.		3600	IN	NS	ns1.101domain.com.
 vuclipprime.ng.		3600	IN	NS	ns2.101domain.com.
 vuclipprime.ng.		3600	IN	NS	ns5.101domain.com.
-vulnerable.ng.		3600	IN	NS	nsa.whogohost.com.
 vulnerable.ng.		3600	IN	NS	nsb.whogohost.com.
+vulnerable.ng.		3600	IN	NS	www.vulnerable.com.
 vulte.ng.		3600	IN	NS	13.dns.com.ng.
 vulte.ng.		3600	IN	NS	14.dns.com.ng.
 vum.ng.			3600	IN	NS	ns1.thcservers.com.
@@ -75513,4 +75521,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021539 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021545 10800 3600 604800 3600
