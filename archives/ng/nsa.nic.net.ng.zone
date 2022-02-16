@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021605 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1644973451"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021609 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1644980766"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -1716,6 +1716,8 @@ adoki.ng.		3600	IN	NS	ns21.doveserver.com.
 adoki.ng.		3600	IN	NS	ns22.doveserver.com.
 adola.ng.		3600	IN	NS	ns1.justhost.com.
 adola.ng.		3600	IN	NS	ns2.justhost.com.
+adomata.ng.		3600	IN	NS	ns27.doveserver.com.
+adomata.ng.		3600	IN	NS	ns28.doveserver.com.
 adonisamerihealth.ng.	3600	IN	NS	pdns09.domaincontrol.com.
 adonisamerihealth.ng.	3600	IN	NS	pdns10.domaincontrol.com.
 adoptachild.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -43782,6 +43784,8 @@ mybodysecrets.ng.	3600	IN	NS	dns3.supremepanel.com.
 mybodysecrets.ng.	3600	IN	NS	dns4.supremepanel.com.
 mybonusstore.ng.	3600	IN	NS	ns1.cybonia.com.
 mybonusstore.ng.	3600	IN	NS	ns2.cybonia.com.
+mybook.ng.		3600	IN	NS	dns1.doveserver.com.
+mybook.ng.		3600	IN	NS	dns2.doveserver.com.
 mybooki.ng.		3600	IN	NS	ns-347.awsdns-43.com.
 mybooki.ng.		3600	IN	NS	ns-865.awsdns-44.net.
 mybooki.ng.		3600	IN	NS	ns-1239.awsdns-26.org.
@@ -45755,8 +45759,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -54096,6 +54100,8 @@ proteges.ng.		3600	IN	NS	nsa.whogohost.com.
 proteges.ng.		3600	IN	NS	nsb.whogohost.com.
 protein.ng.		3600	IN	NS	ns10.wixdns.net.
 protein.ng.		3600	IN	NS	ns11.wixdns.net.
+proteingrillz.ng.	3600	IN	NS	nsa.whogohost.com.
+proteingrillz.ng.	3600	IN	NS	nsb.whogohost.com.
 proteintech.ng.		3600	IN	NS	simon.ns.cloudflare.com.
 proteintech.ng.		3600	IN	NS	athena.ns.cloudflare.com.
 proton.ng.		3600	IN	NS	ns1.sedoparking.com.
@@ -67688,6 +67694,10 @@ tnq.ng.			3600	IN	NS	nsa.whogohost.com.
 tnq.ng.			3600	IN	NS	nsb.whogohost.com.
 tns.ng.			3600	IN	NS	ns1.parkingcrew.net.
 tns.ng.			3600	IN	NS	ns2.parkingcrew.net.
+tnt.ng.			3600	IN	NS	ns1.web4africa.com.
+tnt.ng.			3600	IN	NS	ns2.web4africa.com.
+tnt.ng.			3600	IN	NS	ns3.web4africa.com.
+tnt.ng.			3600	IN	NS	ns4.web4africa.com.
 tntnigeria.ng.		3600	IN	NS	nsa.whogohost.com.
 tntnigeria.ng.		3600	IN	NS	nsb.whogohost.com.
 toan.ng.		3600	IN	NS	ns29.smartwebng.com.
@@ -73934,6 +73944,10 @@ wtch.ng.		3600	IN	NS	kara.ns.cloudflare.com.
 wtch.ng.		3600	IN	NS	ishaan.ns.cloudflare.com.
 wtg.ng.			3600	IN	NS	ns23.syskay.com.
 wtg.ng.			3600	IN	NS	ns24.syskay.com.
+wtunigeria.ng.		3600	IN	NS	ns1.web4africa.com.
+wtunigeria.ng.		3600	IN	NS	ns2.web4africa.com.
+wtunigeria.ng.		3600	IN	NS	ns3.web4africa.com.
+wtunigeria.ng.		3600	IN	NS	ns4.web4africa.com.
 wtwco.ng.		3600	IN	NS	ns1.p29.dynect.net.
 wtwco.ng.		3600	IN	NS	ns2.p29.dynect.net.
 wtwco.ng.		3600	IN	NS	ns3.p29.dynect.net.
@@ -75457,4 +75471,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021605 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021609 10800 3600 604800 3600
