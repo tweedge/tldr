@@ -1,20 +1,20 @@
-fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2022021613 21600 3600 604800 3600
-fj.			3600	IN	RRSIG	SOA 8 1 3600 20220301081403 20220215190015 43719 fj. fMGUUVsAZ7PwA/L2CWDgkWuCZJVstBk8Y+oNhGXec/3R6V6qZDkekeI3 JVUqYGCerCDLA0uOKKi+VDPlygUG4zCzrynfXsI0Dj3bVyuFemwEI+ml Qp+AE91NVAGOtWuC3HrHdsVWpGh71YNf4zwJWojOgdscAwBV/Uoxv5dA 0GVh5CUiSX81/UtM/981sAnLC9BbahO03VOL648fkDr2fN3MfagE4ut7 hKypZEKSABBfsPPzL5NLM+nMT3/vsMK8YDniZhkoKkn72mMXSEpuMxUe 5oxq4wJjxVz58YF4pu++fPWKwj+8PQk+RI4TYFQl9SRzYIKIQfg+xxwz gUHlwA==
+fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2022021618 21600 3600 604800 3600
+fj.			3600	IN	RRSIG	SOA 8 1 3600 20220301142303 20220215230006 43719 fj. lqm1CAe9R/FIejrC7KwJd0jwGCTl4ugnLBURXLX292DMH+7X/o1N9LZK tlTGekmqbRzDAHB9sfNaNtrzdVjSfY6rAvjvoNUeDjZXr3paHPYpH7EU adGs0FG+YN4feMubQPtJRqSSypReX98f/yPq1L8qfXn/z/m2oBMmLkBT wzH/R+sHOsvGWsqdR0k9GqAcfPf/it8SUIoOQAkmY0dXaxzfqh0hWEV/ qHNRf2l8h3eBhFmgn4dTEksmsUAa0LojAJxNAYgFN/1VykFCK6d+OtAb TeD/Y2Dlm85tFTjonw3BoKOYGfQkzrEXhoHwyivHrbzJoI6SjQVu7n0+ vGa9qA==
 fj.			0	IN	NSEC3PARAM 1 0 5 F0EA3EA23B519104
 fj.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20220222100953 20220208210006 43719 fj. bpPn6AUb0ch/CQOuU7Shrz9hmbVmRkwlWbZJA/iCYkhUFdSldeGtu1Is /OUkv9nO4Ey0OEOjE2AN9FzPwTwehza58RFP3bcY/mlFhRJ7h6P9tWoW KexMgEhD7OscP2nOP/LtpzMb0yh5Wi7hJ/fF9NvO66oHO6j8eke07f2E YUBelgsOFylm34juykw4VWhCO9wiN5OUO3dHwHQs+Q14Y+Ydi51AHi8N 2Xg7LSPAoel7r+XJTbujFu6R5K1NLGWcvD8YrmF4TB1cXSNZCcfXK0x6 By3HeTtOlI6yUHVLbI8PcO/Re6P416MlhrsXfz22dCXss4/07lhjHMZ7 NG313A==
 fj.			3600	IN	DNSKEY	257 3 8 AwEAAZxrs2rb6CDuoDCkHTs2Gc9/he/WnIYo2UvWt9YclvEckcuv4z0i 4iXVNtEShBhZzR2y3CvcwhQbRNWe6a3CnZ1fFg76BKzCEODedPCi64AN dUv+QpoHgdwhsxM3mwVyk/tmYSl5n61+/4liAkRHDKxG3/IgJgZBmRg8 CnNqJc8/4/XvYrAzGWcdSkieEjCXhWvIotFPoSd3l2HW75EuT+02sDmf CyVQ/yeLEYfjIV6xGemq3f3B9pjFocCp30dvPJf3mO11dGHr/femBOqH 6exRbQ2+ZiwKuUf4B9hIPx8DmXR9AAMrBAWJUJHWHcPucQwNehDRjWap W0CwKei8Dx0=
 fj.			3600	IN	DNSKEY	256 3 8 AwEAAa4ByCtivSU2rNJE/LUMkEbzZFr/5y6PV9NxGURDJz5W40yVboy/ GBRF1eyoduQzPAEk8w4UV0F+lhO/DCTC5lgoOxRURUtDScPoRlKQk5gO vZwvC0N1I5Gi4WFMrdg6Se+3MdzkSbCtwGubjDYCPqVTnzfmbeEjBlsR NefpMRXpxTjDM6RhE7JNimeQWd5HfMKih+ee1kGQS4kBOff01nAe801m r26Y9Kowi/fnRc9X/3VhJRpykMO2fVVptaR4Y0XBkC8JA6CB6VFfC3io YVzEi88lY244oFPw0nu8DhgvRIJ4Inoy+QtvhNcU4HKKF/g+GnQPlHCV C99wWBmbkPU=
 fj.			3600	IN	RRSIG	DNSKEY 8 1 3600 20220221073425 20220207030005 18952 fj. cOcoC3gjnWFGaXlfToaElsWvQ4lj8+gN9gk4R7ZTv/LyvEULeIOidgd4 Qwq6YyZnjJbur0LaAWGK72Y/BrTKCyRWuBLuQ810aUxV3IVwt3Y7Kswd ySiVxjyxzlRzJopzkR+O2qaSOFv8dpOFtsLgMU8gxUmL4CQVHzUPPxG+ WLnmOFyHwcbxBBLbpLFD8zjM9pY8KOeK8JK6BSUqxjk2Eo9Yr7CmoTGi RJD4l0Gs3f3QW05VMuxbGRf7v3/vWXI5gNDFfW6y4oEIGRNALUogAIP5 7+als8oxsrxMXlHD5YlG95K7Yu/gEWrX6MJeKwaKsQ1GVwZYlYZr+jRg Yh6A6g==
-fj.			86400	IN	TXT	"Generation Time: 1644955210"
-fj.			86400	IN	RRSIG	TXT 8 1 86400 20220301204318 20220215190015 43719 fj. Eb9uF1TS82MyeJvcmTRe0nBX+Z33d4N6WttMi9BXT8r1tXnngLwdwkom 5IiFwC+7mVsERU8uckBGK/KYD36A5vx7k2OwZ3UzgIxNXufU6r4v1w8w b7vJrNi1VGFkDppPwk9T01f8dM3vbXeWCr0XZp4ZI3Zq+bPN+uq7TnCy Z7cMV8liJu2mTm2f/9AuF5s5Li/kZ5sjWr5Tp8x2+o/GU4yVXI1C97CX xKuCjXmzmTLMont63z/RQfGgZXHmkE0/sNmP70uQdw0ztUYKdmEur7E9 9J++kuOs46Fn27QvPlMDRL4VOiOioGCYJqemDND1FOOIXnXJAycB3Gvg IFhbjQ==
+fj.			86400	IN	TXT	"Generation Time: 1644969601"
+fj.			86400	IN	RRSIG	TXT 8 1 86400 20220301203705 20220215230006 43719 fj. TpIMmXcYvA+s/XuD8STK1x/fxR0cx3xtWpHSFvXju+lE+V3RAv1Pe/6A nL78rfmgdgb4CrCWiC7l2OurxU4W9I0q02i7DwtuA9MSnF7TN9BnEPUS 1i0chGtXvIafYTmeLs1ZPAWOh8zG7x6b7VrkrKDg/PztoAtk4099HuJH 2vWZYV9/p0Z6r52mjCEMEcb7toPHCKNnBQj85vXpm8q3obHrgivv/5ux 2QudNu3qnSmw0qsZULSC403kue2adbu2QWK7mCaB6I4T8WYVNB/Q/rip prCPAp8cSSbA+GIj+2xfU+ni0u8wVA5gGmvUnSZy/TH3t/7lkXgeKCWw ZB/tTw==
 fj.			86400	IN	NS	ns1.fj.
 fj.			86400	IN	NS	ns2.fj.
 fj.			86400	IN	NS	ns3.fj.
 fj.			86400	IN	NS	ns4.fj.
 fj.			86400	IN	NS	ns5.fj.
-fj.			86400	IN	RRSIG	NS 8 1 86400 20220218210930 20220204130006 43719 fj. ZFmnMd2c5QgK6MI6LwUTnrRimUZQzNXNGVk9xQ4P+u+THIguliegVcAp Cqh6LCBZKo+V/bWRxW8u1jn+juJiWo2S013aA48tE5ckVO1CkG/EPOP+ 3X18naKoYslHlOfRdj+A9Yba3b7Fy4M1xRt6/fLMfmteP4LPAVRodYru 945QML7R/sx/6m/4hz+/NORcxJem6ozSq0ZWezmI04dP2g5kCjSl4eZu PEty6PFvlpzta5t1EzUsiV8/d3PviWhvwSv74e+hYbeFsW9+nrSKju8N 1BUYhNsm3bn713PjU+Q5mcN3eKpAm6Le3odM2APb6Fz9WdkD3Rl2m4aA 4OqOYQ==
-ac.fj.			86400	IN	TXT	"Generation Time: 1644955211"
-ac.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220302072541 20220215190015 43719 fj. lBmEACFCHoVdIBR7z+VFA7t7ezecgpF2QwMJvsaQi0ucZJbtlat0rYgq NbeFM1h207yTaao0kR/nZ/JisArlDz2LcGB4SMtecRjkhHA8bz7kNM8H LJCmu7cysEDe0fStPMGz+vP7dFCbehD2XabaC+3gY9DKu8DzuuHabOlv nnlbYbH18Dpqd4DkQQOQoJf7Euzy1124Jcyk6raFJgBnpU+Df5wNlEDb DKCRk4M+p1gV1XQceshLmgV8ML8lFEemV66oJK1EUR+7KMcq3Mp39FlR wfC5tnvOe8hxP7/8s6QkrwW/WHXEsKjPNC0xZx5Wc3Tz0NryAVF3XsHQ sfqb/g==
+fj.			86400	IN	RRSIG	NS 8 1 86400 20220301133853 20220215210006 43719 fj. WU0aYK6Kmp/xilTIxnGyudvZpgXabbwb+7lx1QyVNllxbkaBTGzzdreM vlv2vSVZnzf+I60LzymKB9i4gqKPGpHTPXkv5BUykfmimIANoam2paax IMT/bsl5uuCf9xiyjV8sNtNRxkg96aFFID7IHnPCw+3zkSnVNzwNjVyK OxdEfNf6CK4RKdwQU9KVx6Is2nGzxjizHsG3mwdH9WVDGU4Z14ERTJ/S 5RC6Hy73S+Lls5KfG0qqTXIo8Mp5+mw3KcrKyomIE4I84A488z0gFMoT OSdhW+N488Hm1t8nOX0ViDAOjwnyOQCrzpPYrEb0CROcb7QHhmv/ZeQg uuRRSg==
+ac.fj.			86400	IN	TXT	"Generation Time: 1644969602"
+ac.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220301202139 20220215230006 43719 fj. OMEIyt87pxs/spS4sbkrMAv/98Wh98P6NqaMJUdXLH0NI4R71gyxsoZS p+gSPChr7sN6L0vps1fg/9qnKYri21g7PQq1ptRVA8lN1MKGZ6WauO1N 2noY08dSPaICyTtKxHsryAI5S3w8SlciobPUuPg8Vhw3uA4arx6bSWrB 8nBVjEbmf5d7ZZNxEpUbyHMMIB3XP45C8H4a5+9aMu/r+RTZgaG3umgu 0nsF6UAePbz9U0TOt8QD1zBvCI5LSaI5Wi5OQ7QYG6ZNPjDIJB9NGKH7 ilIeVvG1HbLxUbIZvZL26pX/E3lpiWbxuvzGemWTlnoRa7ubt/dgrUwk Fp21Rg==
 adventist.ac.fj.	86400	IN	NS	carlos.ns.cloudflare.com.
 adventist.ac.fj.	86400	IN	NS	lucy.ns.cloudflare.com.
 bges.ac.fj.		86400	IN	NS	irma.ns.cloudflare.com.
@@ -137,8 +137,8 @@ wordlanguageinstitute.ac.fj. 86400 IN	NS	manu.usp.ac.fj.
 wordlanguageinstitute.ac.fj. 86400 IN	NS	teri.usp.ac.fj.
 yogafiji.ac.fj.		86400	IN	NS	ns1.fj.
 yogafiji.ac.fj.		86400	IN	NS	ns2.fj.
-biz.fj.			86400	IN	TXT	"Generation Time: 1644955211"
-biz.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220301192228 20220215190015 43719 fj. Sh6Zzdn+HmK1w+w/taCFkTG1IXew3SPDSaz9y9f17kb+lxocDSIhOOsM N/dDsIj/cVL/1221dMYeUiRPzEGNtKmMf6qXYJVPTj3snWCt1xWLpMk7 rFk5WfKnpO5oQUdtUJyWJf3jtTyziV+Ps3KZzz0v3L+aLGExneCOs1Zd j3zDSSk/HYq+pjBUkk6HuCkMIGaEehsfr+hziIWnrG535HVnBp8Nbw2j ukeOtIbL8vAwmCSyC3RhhA5xb5pCG78QUASPNJYI0Qm+DrjyjzbE/AkK JmzCRDDIxOXm3vF3woXr/I3D5n+L7xZzvo5ffDWzjky00TQA91iEHXfU un4e6Q==
+biz.fj.			86400	IN	TXT	"Generation Time: 1644969602"
+biz.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220302024604 20220215230006 43719 fj. oNgNYeQKDmwRzFqNoed9wufCstbXsA8iikYjvFBAPncwE6W9rO5y9qEj AsrLu7s0ERq0AAvr5vTbOZ4JsZ/xtQ6rnAfEvD0GIQgyt8w4BzQJP+rq CMqN6upMthevq57WUTintpUmEVMuCjB80ml8sSmBCE6/nq7CskhtSnoZ V8Y5i6DXArDsFGUkmY9TaDfJ1qe5/0qAQRvluHZ8dx11DuNbrDIHYGLa kOXP4t17+Oi7EkBkI86qgAodHRxiC/X69SRxfKXhpJNgAaQPrAwIDPYA xSxsqHo4P6s2WBWrmrsOYvz0amMWYiNo0ezcjF581WPmZxyOYFYOHDnf IVU3ow==
 ajynk.biz.fj.		86400	IN	NS	ns1.onlydomains.com.
 ajynk.biz.fj.		86400	IN	NS	ns2.onlydomains.com.
 altria.biz.fj.		86400	IN	NS	dns1.cscdns.net.
@@ -192,8 +192,8 @@ vodafone.biz.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodafone.biz.fj.	86400	IN	NS	ns2.vodafone.net.fj.
 vodaphone.biz.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodaphone.biz.fj.	86400	IN	NS	ns2.vodafone.net.fj.
-com.fj.			86400	IN	TXT	"Generation Time: 1644955214"
-com.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220302024449 20220215190015 43719 fj. pUC8Az4tRjWEVrs65FovjhkdZKCRE4vFLQYz2HBpFz4s7yyvpxJE+PU2 eo1aQGEpvCQOWPWDXLKMhpgMKYsBOMfy68GmU1mx3IgFdvUgpoQfX6xv GVtSdBYIDuQK3MNTkC+MpzzQ0She4hq76OAPU27BEFx6fBL/V2TSoN+i 5oWY+dV4uA/RxSs0q2jYDyhk3Wf1ZBDEyzuFW9+AJV/4mJmA5PqtHpN5 dUNIr9AEn9aClDls7TPVIxkhw+iyFfE75sE1lEZkiOmedI9gn4v9B9CI ztKgPER8SZtnGgxgacWfEc6aaxCx54482zhhRivxfw3m+tlYJxIvGH6u 7ksHhQ==
+com.fj.			86400	IN	TXT	"Generation Time: 1644969604"
+com.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220301182136 20220215230006 43719 fj. OUU7i0rHqO3so+2nWWeorLTCjhNEsX5A8XUEt5v/jR0xHvgz38+Q7bzN 4aJ3QUisqELxwX1YzBkEf31E9xtmwZVsuTLnPOsSzBMY6AVuEamAPSVK z84hsuNyjv8soXdnzR0RaRh7meKKAY9eY3kyITxJ2TriVY8LC+Yahedm wW9HdXF5RAqvlCl+ojXee2cR0G1NVS+pafIXNFs9TSVYaGRknxHf8p6D OtA2mxV+RsjjJHdd0Vcct8dduxBBOuGG/61MfRDSrsXlV453xSyxbkdU wGWtlFGhC2GQGdToBCkNQW6jqqe4NZnoFeneQan7A2hepp4DmavH4uWE HH1LDQ==
 101domain.com.fj.	86400	IN	NS	ns1.101domain.com.
 101domain.com.fj.	86400	IN	NS	ns5.101domain.com.
 101domains.com.fj.	86400	IN	NS	ns1.101domain.com.
@@ -489,6 +489,7 @@ ama.com.fj.		86400	IN	NS	ns1.kidanet.com.fj.
 ama.com.fj.		86400	IN	NS	ns2.kidanet.com.fj.
 amalpestfiji.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 amalpestfiji.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+amalpestfiji.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 amazingfoods.com.fj.	86400	IN	NS	drua.tfl.com.fj.
 amazingfoods.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
 amazon.com.fj.		86400	IN	NS	ns1.p31.dynect.net.
@@ -1108,6 +1109,7 @@ bspfiji.com.fj.		86400	IN	NS	ns1.vodafone.net.fj.
 bspfiji.com.fj.		86400	IN	NS	ns2.vodafone.net.fj.
 bspfinance.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 bspfinance.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+bspfinance.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 bsplife.com.fj.		86400	IN	NS	dns1.stabletransit.com.
 bsplife.com.fj.		86400	IN	NS	dns2.stabletransit.com.
 bspsteel.com.fj.	86400	IN	NS	drua.tfl.com.fj.
@@ -1266,6 +1268,7 @@ candygroup.com.fj.	86400	IN	NS	ns1.fj.
 candygroup.com.fj.	86400	IN	NS	ns2.fj.
 canform.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 canform.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+canform.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 canigetaloan.com.fj.	86400	IN	NS	ns1.auserver.com.au.
 canigetaloan.com.fj.	86400	IN	NS	ns2.auserver.com.au.
 cannibal.com.fj.	86400	IN	NS	dns1.stabletransit.com.
@@ -1537,6 +1540,7 @@ clydepac.com.fj.	86400	IN	NS	drua.tfl.com.fj.
 clydepac.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
 cmda.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 cmda.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+cmda.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 cmfiprimary.com.fj.	86400	IN	NS	ns1.ipage.com.
 cmfiprimary.com.fj.	86400	IN	NS	ns2.ipage.com.
 cmfisecondary.com.fj.	86400	IN	NS	ns1.ipage.com.
@@ -1709,6 +1713,7 @@ cosmeticsoffiji.com.fj.	86400	IN	NS	ximon.abovehosts.com.
 cosmeticsoffiji.com.fj.	86400	IN	NS	xyleena.abovehosts.com.
 cosmic.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 cosmic.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+cosmic.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 counterpain.com.fj.	86400	IN	NS	ns1.bms.com.
 counterpain.com.fj.	86400	IN	NS	ns2.bms.com.
 counterpoint.com.fj.	86400	IN	NS	ns1.auserver.com.au.
@@ -1954,6 +1959,7 @@ development.com.fj.	86400	IN	NS	manu.usp.ac.fj.
 development.com.fj.	86400	IN	NS	teri.usp.ac.fj.
 devenpsharma.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 devenpsharma.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+devenpsharma.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 dfc.com.fj.		86400	IN	NS	drua.tfl.com.fj.
 dfc.com.fj.		86400	IN	NS	tabua.tfl.com.fj.
 dff.com.fj.		86400	IN	NS	drua.tfl.com.fj.
@@ -1991,6 +1997,7 @@ digicelskypacific.com.fj. 86400	IN	NS	manu.usp.ac.fj.
 digicelskypacific.com.fj. 86400	IN	NS	teri.usp.ac.fj.
 diginet.com.fj.		86400	IN	NS	ns1.dignet.vu.
 diginet.com.fj.		86400	IN	NS	ns2.diginet.vu.
+diginet.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 digitalbytes.com.fj.	86400	IN	NS	ns1.he.net.
 digitalbytes.com.fj.	86400	IN	NS	ns2.he.net.
 digitaledge.com.fj.	86400	IN	NS	dns1.namecheaphosting.com.
@@ -2041,6 +2048,7 @@ domino.com.fj.		86400	IN	NS	ns1.au12.tmd.cloud.
 domino.com.fj.		86400	IN	NS	ns2.au12.tmd.cloud.
 douglas.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 douglas.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+douglas.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 dplgroup.com.fj.	86400	IN	NS	dns1.name-services.com.
 dplgroup.com.fj.	86400	IN	NS	dns2.name-services.com.
 dpp.com.fj.		86400	IN	NS	manu.usp.ac.fj.
@@ -2076,6 +2084,7 @@ dstl.com.fj.		86400	IN	NS	drua.tfl.com.fj.
 dstl.com.fj.		86400	IN	NS	tabua.tfl.com.fj.
 dtronics.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 dtronics.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+dtronics.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 duaull.com.fj.		86400	IN	NS	drua.tfl.com.fj.
 duaull.com.fj.		86400	IN	NS	tabua.tfl.com.fj.
 dudleyhighschool.com.fj. 86400	IN	NS	manu.usp.ac.fj.
@@ -2331,6 +2340,7 @@ etaxi.com.fj.		86400	IN	NS	manu.usp.ac.fj.
 etaxi.com.fj.		86400	IN	NS	teri.usp.ac.fj.
 etech.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 etech.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+etech.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 ethos-edge.com.fj.	86400	IN	NS	caching01.usp.ac.fj.
 ethos-edge.com.fj.	86400	IN	NS	caching02.usp.ac.fj.
 eticket.com.fj.		86400	IN	NS	ns10.dnsmadeeasy.com.
@@ -2410,10 +2420,9 @@ extra.com.fj.		86400	IN	NS	ns1.vodafone.net.fj.
 extra.com.fj.		86400	IN	NS	ns2.vodafone.net.fj.
 extravirgin.com.fj.	86400	IN	NS	drua.tfl.com.fj.
 extravirgin.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
-extreme.com.fj.		86400	IN	NS	manu.usp.ac.fj.
 extreme.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 extreme.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
-extreme.com.fj.		86400	IN	NS	teri.usp.ac.fj.
+extreme.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 exxchange.com.fj.	86400	IN	NS	ns1.markmonitor.com.
 exxchange.com.fj.	86400	IN	NS	ns2.markmonitor.com.
 exxchange.com.fj.	86400	IN	NS	ns3.markmonitor.com.
@@ -2439,6 +2448,7 @@ ezidesigns.com.fj.	86400	IN	NS	ns1.bluehost.com.
 ezidesigns.com.fj.	86400	IN	NS	ns2.bluehost.com.
 ezishop.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 ezishop.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+ezishop.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 ezyrubberstamp.com.fj.	86400	IN	NS	drua.tfl.com.fj.
 ezyrubberstamp.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
 ezyrubbertech.com.fj.	86400	IN	NS	ns45.hostingraja.in.
@@ -2496,6 +2506,7 @@ fastfind.com.fj.	86400	IN	NS	ns1.codero.com.
 fastfind.com.fj.	86400	IN	NS	ns2.codero.com.
 fastkil.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 fastkil.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+fastkil.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 fbal.com.fj.		86400	IN	NS	drua.tfl.com.fj.
 fbal.com.fj.		86400	IN	NS	tabua.tfl.com.fj.
 fbc.com.fj.		86400	IN	NS	dns1.streamcom.net.
@@ -2516,6 +2527,7 @@ fcc.com.fj.		86400	IN	NS	drua.tfl.com.fj.
 fcc.com.fj.		86400	IN	NS	tabua.tfl.com.fj.
 fcdcl.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 fcdcl.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+fcdcl.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 fcef.com.fj.		86400	IN	NS	dns1.stabletransit.com.
 fcef.com.fj.		86400	IN	NS	dns2.stabletransit.com.
 fcmc.com.fj.		86400	IN	NS	ns1.rhostjh.com.
@@ -2884,6 +2896,7 @@ fijitravel.com.fj.	86400	IN	NS	ns77.domaincontrol.com.
 fijitravel.com.fj.	86400	IN	NS	ns78.domaincontrol.com.
 fijitv.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 fijitv.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+fijitv.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 fijivillage.com.fj.	86400	IN	NS	ns1.bdm.microsoftonline.com.
 fijivillage.com.fj.	86400	IN	NS	ns2.bdm.microsoftonline.com.
 fijivillage.com.fj.	86400	IN	NS	ns3.bdm.microsoftonline.com.
@@ -3024,6 +3037,7 @@ fortech.com.fj.		86400	IN	NS	ns1.66yards.com.
 fortech.com.fj.		86400	IN	NS	ns2.66yards.com.
 fortune.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 fortune.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+fortune.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 fosters.com.fj.		86400	IN	NS	dns0.optus.net.au.
 fosters.com.fj.		86400	IN	NS	server01.cub.com.au.
 fox.com.fj.		86400	IN	NS	ns1.markmonitor.com.
@@ -3080,6 +3094,7 @@ freshmax.com.fj.	86400	IN	NS	drua.tfl.com.fj.
 freshmax.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
 frespac.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 frespac.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+frespac.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 friendlynorthinn.com.fj. 86400	IN	NS	ns1.dreamhost.com.
 friendlynorthinn.com.fj. 86400	IN	NS	ns2.dreamhost.com.
 friends.com.fj.		86400	IN	NS	drua.tfl.com.fj.
@@ -3271,6 +3286,7 @@ go.com.fj.		86400	IN	NS	orns01.dig.com.
 go.com.fj.		86400	IN	NS	sens01.dig.com.
 goadvertising.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 goadvertising.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+goadvertising.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 godaddy.com.fj.		86400	IN	NS	cns1.secureserver.net.
 godaddy.com.fj.		86400	IN	NS	cns2.secureserver.net.
 gofiji.com.fj.		86400	IN	NS	ns1.zonomi.com.
@@ -3449,6 +3465,7 @@ hansraj.com.fj.		86400	IN	NS	ns1.syrahost.com.
 hansraj.com.fj.		86400	IN	NS	ns2.syrahost.com.
 hanuasuppliers.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 hanuasuppliers.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+hanuasuppliers.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 hao123.com.fj.		86400	IN	NS	ns1.baidu.com.
 hao123.com.fj.		86400	IN	NS	ns2.baidu.com.
 harcourts.com.fj.	86400	IN	NS	ns1-04.azure-dns.com.
@@ -3846,6 +3863,7 @@ integer.com.fj.		86400	IN	NS	manu.usp.ac.fj.
 integer.com.fj.		86400	IN	NS	teri.usp.ac.fj.
 integrapacific.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 integrapacific.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+integrapacific.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 integrated.com.fj.	86400	IN	NS	ns1.sm2.siteground.biz.
 integrated.com.fj.	86400	IN	NS	ns2.sm2.siteground.biz.
 intel.com.fj.		86400	IN	NS	ns1.intel.com.
@@ -3996,6 +4014,7 @@ jdedwards.com.fj.	86400	IN	NS	ns3.p04.dynect.net.
 jdedwards.com.fj.	86400	IN	NS	ns4.p04.dynect.net.
 jennsconstruction.com.fj. 86400	IN	NS	ns1.unwired.com.fj.
 jennsconstruction.com.fj. 86400	IN	NS	ns2.unwired.com.fj.
+jennsconstruction.com.fj. 86400	IN	NS	ns5.digicelsamoa.ws.
 jetabroad.com.fj.	86400	IN	NS	ns1.101domain.com.
 jetabroad.com.fj.	86400	IN	NS	ns2.101domain.com.
 jetar.com.fj.		86400	IN	NS	dns11.domainnetwork.com.
@@ -4307,6 +4326,7 @@ lalini.com.fj.		86400	IN	NS	manu.usp.ac.fj.
 lalini.com.fj.		86400	IN	NS	teri.usp.ac.fj.
 lamdev.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 lamdev.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+lamdev.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 lamichemist.com.fj.	86400	IN	NS	drua.tfl.com.fj.
 lamichemist.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
 lamikava.com.fj.	86400	IN	NS	hank.ns.cloudflare.com.
@@ -5010,6 +5030,7 @@ mrmobile.com.fj.	86400	IN	NS	drua.tfl.com.fj.
 mrmobile.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
 msaf.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 msaf.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+msaf.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 mscu.com.fj.		86400	IN	NS	ns1.yourwebhosting.com.
 mscu.com.fj.		86400	IN	NS	ns2.yourwebhosting.com.
 msl.com.fj.		86400	IN	NS	ns1.auserver.com.au.
@@ -5123,6 +5144,7 @@ naia.com.fj.		86400	IN	NS	ns2.dreamhost.com.
 naia.com.fj.		86400	IN	NS	ns3.dreamhost.com.
 naidulawyers.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 naidulawyers.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+naidulawyers.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 naina.com.fj.		86400	IN	NS	manu.usp.ac.fj.
 naina.com.fj.		86400	IN	NS	teri.usp.ac.fj.
 naisosoconstruction.com.fj. 86400 IN	NS	ns1-ded.webcrowd.com.au.
@@ -5195,6 +5217,7 @@ nandha.com.fj.		86400	IN	NS	pdns01.domaincontrol.com.
 nandha.com.fj.		86400	IN	NS	pdns02.domaincontrol.com.
 nandslaw.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 nandslaw.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+nandslaw.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 nanettes.com.fj.	86400	IN	NS	ns1.hosting-services.net.au.
 nanettes.com.fj.	86400	IN	NS	ns2.hosting-services.net.au.
 nanoguard.com.fj.	86400	IN	NS	ns09.domaincontrol.com.
@@ -5291,6 +5314,7 @@ netsuite.com.fj.	86400	IN	NS	ns4.p04.dynect.net.
 nettsplanning.com.fj.	86400	IN	NS	www.nettsplanning.com.fj.
 networkbright.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 networkbright.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+networkbright.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 neumode.com.fj.		86400	IN	NS	ns1.vodafone.net.fj.
 neumode.com.fj.		86400	IN	NS	ns2.vodafone.net.fj.
 neutechelectrical.com.fj. 86400	IN	NS	ns1.hostingfiji.com.
@@ -5413,6 +5437,7 @@ novotel.com.fj.		86400	IN	NS	ns5.netnames.net.
 novotel.com.fj.		86400	IN	NS	ns6.netnames.net.
 novotelnadi.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 novotelnadi.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+novotelnadi.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 novotelsuva.com.fj.	86400	IN	NS	ns1.netnames.net.
 novotelsuva.com.fj.	86400	IN	NS	ns2.netnames.net.
 novotelsuva.com.fj.	86400	IN	NS	ns5.netnames.net.
@@ -5702,6 +5727,7 @@ pacifique.com.fj.	86400	IN	NS	manu.usp.ac.fj.
 pacifique.com.fj.	86400	IN	NS	teri.usp.ac.fj.
 pacinvestconsult.com.fj. 86400	IN	NS	ns1.unwired.com.fj.
 pacinvestconsult.com.fj. 86400	IN	NS	ns2.unwired.com.fj.
+pacinvestconsult.com.fj. 86400	IN	NS	ns5.digicelsamoa.ws.
 paclink.com.fj.		86400	IN	NS	ns21.domaincontrol.com.
 paclink.com.fj.		86400	IN	NS	ns22.domaincontrol.com.
 pacnews.com.fj.		86400	IN	NS	ns7.ixwebhosting.com.
@@ -6098,6 +6124,7 @@ ra-ad.com.fj.		86400	IN	NS	ns1.voodoofiji.com.
 ra-ad.com.fj.		86400	IN	NS	ns2.voodoofiji.com.
 radial.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 radial.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+radial.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 radianz.com.fj.		86400	IN	NS	gvans1.radianz.com.
 radianz.com.fj.		86400	IN	NS	gvans3.radianz.com.
 radianz.com.fj.		86400	IN	NS	nutns1.radianz.com.
@@ -6255,6 +6282,7 @@ relaischateaux.com.fj.	86400	IN	NS	a.dns.gandi.net.
 relaischateaux.com.fj.	86400	IN	NS	b.dns.gandi.net.
 reliablecomputers.com.fj. 86400	IN	NS	ns1.unwired.com.fj.
 reliablecomputers.com.fj. 86400	IN	NS	ns2.unwired.com.fj.
+reliablecomputers.com.fj. 86400	IN	NS	ns5.digicelsamoa.ws.
 reliance.com.fj.	86400	IN	NS	drua.tfl.com.fj.
 reliance.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
 remax.com.fj.		86400	IN	NS	ns1.netnames.net.
@@ -6645,6 +6673,7 @@ signzplus.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
 silverarrow.com.fj.	86400	IN	NS	ns1.netfiji.com.fj.
 silvertec.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 silvertec.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+silvertec.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 simmons.com.fj.		86400	IN	NS	ns1.ipmanagerinc.net.
 simmons.com.fj.		86400	IN	NS	ns2.ipmanagerinc.net.
 simpleliving.com.fj.	86400	IN	NS	manu.usp.ac.fj.
@@ -7130,6 +7159,7 @@ teamenergy.com.fj.	86400	IN	NS	ns6399.hostgator.com.
 teamenergy.com.fj.	86400	IN	NS	ns6400.hostgator.com.
 teamgroupofcompanies.com.fj. 86400 IN	NS	ns1.unwired.com.fj.
 teamgroupofcompanies.com.fj. 86400 IN	NS	ns2.unwired.com.fj.
+teamgroupofcompanies.com.fj. 86400 IN	NS	ns5.digicelsamoa.ws.
 teamviewer.com.fj.	86400	IN	NS	ns01.anexia.at.
 teamviewer.com.fj.	86400	IN	NS	ns02.anexia.at.
 tebarameatsfiji.com.fj.	86400	IN	NS	drua.tfl.com.fj.
@@ -7392,6 +7422,7 @@ toro.com.fj.		86400	IN	NS	ns2.toro.com.
 toro.com.fj.		86400	IN	NS	ns3.toro.com.
 tosabussan.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 tosabussan.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+tosabussan.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 toshiba.com.fj.		86400	IN	NS	ns1.markmonitor.com.
 toshiba.com.fj.		86400	IN	NS	ns3.markmonitor.com.
 toshiba.com.fj.		86400	IN	NS	ns5.markmonitor.com.
@@ -7439,12 +7470,14 @@ townhouse.com.fj.	86400	IN	NS	brenda.ns.cloudflare.com.
 townhouse.com.fj.	86400	IN	NS	kevin.ns.cloudflare.com.
 toyota.com.fj.		86400	IN	NS	idns1.netsol.com.
 toyota.com.fj.		86400	IN	NS	idns2.netsol.com.
-traceyfarrington.com.fj. 86400	IN	NS	ns1.bluehost.com.
-traceyfarrington.com.fj. 86400	IN	NS	ns2.bluehost.com.
+traceyfarrington.com.fj. 86400	IN	NS	ns1.unwired.com.fj.
+traceyfarrington.com.fj. 86400	IN	NS	ns2.unwired.com.fj.
+traceyfarrington.com.fj. 86400	IN	NS	ns5.digicelsamoa.ws.
 trade.com.fj.		86400	IN	NS	manu.usp.ac.fj.
 trade.com.fj.		86400	IN	NS	teri.usp.ac.fj.
 tradeair.com.fj.	86400	IN	NS	ns1.unwired.com.fj.
 tradeair.com.fj.	86400	IN	NS	ns2.unwired.com.fj.
+tradeair.com.fj.	86400	IN	NS	ns5.digicelsamoa.ws.
 tradedepot.com.fj.	86400	IN	NS	ns1.crazydomains.com.
 tradedepot.com.fj.	86400	IN	NS	ns2.crazydomains.com.
 tradeexpress.com.fj.	86400	IN	NS	manu.usp.ac.fj.
@@ -7680,6 +7713,7 @@ ups.com.fj.		86400	IN	NS	nsa.ups.com.
 ups.com.fj.		86400	IN	NS	nsb.ups.com.
 urofiji.com.fj.		86400	IN	NS	ns1.unwired.com.fj.
 urofiji.com.fj.		86400	IN	NS	ns2.unwired.com.fj.
+urofiji.com.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 usave.com.fj.		86400	IN	NS	ns2-03.azure-dns.net.
 usave.com.fj.		86400	IN	NS	ns3-03.azure-dns.com.
 usp.com.fj.		86400	IN	NS	manu.usp.ac.fj.
@@ -7726,6 +7760,7 @@ vatuvara.com.fj.	86400	IN	NS	pdns05.domaincontrol.com.
 vatuvara.com.fj.	86400	IN	NS	pdns06.domaincontrol.com.
 vatuwaqaengineering.com.fj. 86400 IN	NS	ns1.unwired.com.fj.
 vatuwaqaengineering.com.fj. 86400 IN	NS	ns2.unwired.com.fj.
+vatuwaqaengineering.com.fj. 86400 IN	NS	ns5.digicelsamoa.ws.
 vbet.com.fj.		86400	IN	NS	ns1.eurodns.com.
 vbet.com.fj.		86400	IN	NS	ns2.eurodns.com.
 vbi.com.fj.		86400	IN	NS	ns09.domaincontrol.com.
@@ -8270,7 +8305,7 @@ www.domains.fj.		86400	IN	RRSIG	A 8 3 86400 20220220021028 20220205150006 43719 
 ns1.sit.ac.fj.fj.	86400	IN	A	162.241.241.41
 ns1.sit.ac.fj.fj.	86400	IN	RRSIG	A 8 5 86400 20220301103818 20220215010004 43719 fj. iMsapTT1SfajrqawaIxalmOKEz2g9qBpwbFdO1eeRVhuVYHdMmdMH5G3 S5RD7sYH4hPylPGI47gsCD8hr8b9n7r8dNwsbadUmpG2KRbyjjbCYIBR iJeBA03I5E8Qg8M6Mjpa0BGhD0g9I8ygjq0GqY2Q0SgpM49goLad6S2b tXTV/uiKlldG1EOw4iL9z5ucgBBBOM0M41z9qF45t/Q+T/2wnLMVdVMy taouAoHVqK/FQtQm10VyEKs+BtT1RNqfdNoXazQ/mwPCQkSNMegvW49r 2IWS+bq+p5NO3Vdp3XscodnIMOz0RC1upA3u+Dr/UPSb/plJYRriKLR5 JQabAw==
 ns2.sit.ac.fj.fj.	86400	IN	A	162.241.241.65
-ns2.sit.ac.fj.fj.	86400	IN	RRSIG	A 8 5 86400 20220218224814 20220204210005 43719 fj. hh8dGvgVevX4xTAJNJgXFlesN+vKquAaj00Z2kL7C7GkMaUoSrsG/Cfl 8fJeyuBMUISWwCQcAi3LM6bhBRuiomKShFyPRfDD/NGs3HOfB2GwN0wP OV3ed7/Io1odxSeHL0c1YErnh8WjKwF1zCN5NUhHFp16z/BcKElxKoAI jtXYKqrG0F5HOGBaDDhl4dN5/Y/lIk5JjVXVvSuyXkmZG36Dsq+OTvib VsZMVMedZeu78gEulsvzJtMtiGHmIimRgD4lEMd4tXQOUbAV9HEQBieW cjZ8faeYINMXBR+2DOkKzKXcJIOEFkKr0yCDFCY0pGIcQEzRnaozYnjR k6AOBg==
+ns2.sit.ac.fj.fj.	86400	IN	RRSIG	A 8 5 86400 20220302083820 20220215230006 43719 fj. X/EOSYz0V58wIkuq4A39If5nQjcW3ysJ3LN0vo14LTBh3su0bhVCHs0v lv6EgRq1L8OkGeptETlfRyGzT5Qfc+t6uBYfQ08husHIvmQNl0/HG5ql VYLNpxsq8UrtufaGLQdbhVPEVs7juY90W6JpHTvLztfC+L6MUkTjYPwm 82VuN8svsjw9SSNRpIiW4JKyIurZ4oRkN88ma1ZU43aUTjX54SrP1Sq6 mLOx9yKnWh2kFfvowOn2jqJn1GGZ+Gr4O/9CtEnnlP3gN2kQcYX9ATYl vROoWI1DM2x4aY7E2kSPMTkpiZ0mpZ3dgDCoM8VCe+acKX2NDDAX5q+d zIud3Q==
 gov.fj.			86400	IN	NS	ns-ext.vix.com.
 gov.fj.			86400	IN	NS	tabua.tfl.com.fj.
 gov.fj.			86400	IN	NS	itcns1.gov.fj.
@@ -8289,8 +8324,8 @@ gransy-anycast1.fj.	86400	IN	AAAA	2a00:fea0:dead::beef
 gransy-anycast1.fj.	86400	IN	RRSIG	AAAA 8 2 86400 20220219223542 20220205130006 43719 fj. b4NSnOY8mLfP/SNMgX1sFjSPmgB1s5NfQ4U6NPoTrdBTBWmEFB/mJOgt M28i73zvipao075HuB4nWHLVIXorHdN2fgWe3zmcenn1kqmHA73/KvS5 7P8wY7SeF6OH0Lb48pYhHy8HrFthTTamt92fV9Q2BwJgYd/rMo6RT4TD HF09v0gIZTjg5KpeS1+RgCxnI2tWfglOd9RnxBuVMJTXw7DxwbKxO+ra Kp/IgGBexXRrtwQBjiR+ZrEV9xjoxB0RMuq6a6/K4yfYi5nxVGMWT3QC tIJtxXDiuwpq1A1//i3HU0DeA2XENCoPctMlwScEvSmGPL4zqzfe36B1 FuifDA==
 gransy-anycast2.fj.	86400	IN	A	185.38.108.108
 gransy-anycast2.fj.	86400	IN	RRSIG	A 8 2 86400 20220219184304 20220205190006 43719 fj. I+HSqJwJqWmNKAm8yenZFalS1B8rOoHrLdJgy6mAdIwogwLfRq8fD/NB 3EJ9Dxa9aS52df9fdGesJekP93MCQN4rkZ/yJRshJfke1eZS20Zf/TW8 3cHdR6MR+NkFo3p3jHZRjfIyB6wIkw0oSJxMw/MMH+20U9GmP3taUJ02 AkDHFhnZ/t2EykK1AsUKVafklQOSHk1Z+6NhEMoNrHiO7UImeWvxUTE2 sUyWvHI1gihrTo3Lwjz664XlB0wm0Txmk9dmVIwPFd+RBJenBw+xB287 h0CLcN/P0THi9xR77Jc3W3cVTasimN3t7fNGQjPFpNBj4H+YUTrT0/27 Jw3kfw==
-info.fj.		86400	IN	TXT	"Generation Time: 1644955214"
-info.fj.		86400	IN	RRSIG	TXT 8 2 86400 20220302005804 20220215190015 43719 fj. Ec6L3A388J+//vJUIL7+NDOgsCx3t/WvefkSVN25kwz1KoKlT93+p+pU OxXBx7HzAQjrDI6XjM9arUZ9Ts+I6FFZYAxN4+OgIXIa1TYK0nXyN4a8 M+ALy5WKkuTZE1bPGyvhNdj5O3cIBW7yCz8jojYmqZnja1U1ZQMOKjFE G7mUMnLwFIrXJngBJvzjPzsVnj1OwrAUIjQKA+iCnJ9v7mYkUqdGTyeo gKgXTRGkMBTjSG+whJNQs3s05tLvy+D3d+hRGkSUQKKqPTgKHFZK0ujp fxszsewfoF3apjU41FkMfkHi4T8yZ6ytieUwoNetjB/tlzhmTVOv1bsu P8JTnA==
+info.fj.		86400	IN	TXT	"Generation Time: 1644969605"
+info.fj.		86400	IN	RRSIG	TXT 8 2 86400 20220302041110 20220215230006 43719 fj. gfWVjaOkLRtRuBEM22YsbhxhTzu5+VM/otLS0wbIyoRQOJiEBiL6keZ4 QJTpYKhyc5zsUxoZ+o8khKj5CQr1CLQgvgBmLoQxgsk8Ia1siZ04B8aA nq/dH3CwD9QX2jvAkq48nzXqXYTo3hDZjTg/XZDySfjmIXA6P/CAUnFd TvfkQSpnI2nE128FJ7VKFCQpNPXMl/jLgjmYBGHWgROt3IGxdiv7tDZN bR3/Ty7GuZRu2wHj4e3+i2sjbC3acC2zNPJPRlgo3d2pu1d6NjQYhx0C x5oAuJNb1T2bYVYWa6bGHEArpsWAzr7QRIqx60Qh3v2GV897a1SYwfFY 21lqAQ==
 altria.info.fj.		86400	IN	NS	dns1.cscdns.net.
 altria.info.fj.		86400	IN	NS	dns2.cscdns.net.
 brother.info.fj.	86400	IN	NS	ns1.ipmirror.com.
@@ -8334,21 +8369,21 @@ vodafone.info.fj.	86400	IN	NS	ns2.vodafone.net.fj.
 vodaphone.info.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodaphone.info.fj.	86400	IN	NS	ns2.vodafone.net.fj.
 master.fj.		86400	IN	A	144.120.141.11
-master.fj.		86400	IN	RRSIG	A 8 2 86400 20220218221035 20220204230006 43719 fj. b7LTvIP7Ojjb7q9yAIMGqjcrTkLcZD50D7b9YfJOS7V8hNkdxU0cU5CU hJ3kPjEa3LFiSUHAqF7daxfo1n4O83aTOo5YHTaVyHx3159rY0DneDPJ CitKWllD9Ib9f8Hjrhlp1VmKjEsnMDovy+OYUGzrZ1pCr/lX3q85lGe1 4tM8YKeWMQMTSomONrF12rnLG0/7rckJf0/din6OgQAu38htkfDhZxQE xMGz270tb3nZntbjnBNae00Ex7GC4rmwabdRA6jCMtxpA76zOyk51Abr YS5BTBGdJVizJ2QOBHI8uXMIw7UCAQI6eVc/veOZ5enxWnc+ngCEv4Bq uC/quQ==
+master.fj.		86400	IN	RRSIG	A 8 2 86400 20220301142238 20220215230006 43719 fj. fvgvuYGQFZ8BkD0Rl0kIJyoslt0AgTCBd0Pg8caKPFE/RGWl9q/ywRTY 3204nbajvjjf8o+EbTT5jirRFbx8qc0YY7d5NpClkOewDiFomu6s6MvG edsGvpmE/cXqLLEpe/7oeYEPyorYKiZsTR4uM0ySMabx4myf00GRahhk GWzTfv265t2Q1kluLEZ0zcmGSeenoOmspSAdRBk+Kmu94ncw5GAs6gtS G63zshVbqm+XEmADWPG9sCpLcLc8NhfEEVVUDIe5XlWEf3LiMBzyPAK6 6rSxUV5BSkmNj1bFiPd6kQgKnQhW5OP9N8hA8DQKkxnvYtRhAwRgVkRd tgj0/Q==
 _E2521623B72CCEC17D755E027B0FEB6D.master.fj. 86400 IN CNAME 68E23B12AED826CB6DD518CED98AC737.D18771CDC0331DF3C32048E2AF4F8884.n5v4wKb1Xm5oP55y5NI5.comodoca.com.
 _E2521623B72CCEC17D755E027B0FEB6D.master.fj. 86400 IN RRSIG CNAME 8 3 86400 20220219223731 20220206090005 43719 fj. BNO/xkdue4M+cixLIrU6jWsRkuIhbnvGsP3tGiQdU76Kew/wcpXOQNu+ RXNOfmPnNUzJpgDQAakh73K/XrXZf1Bnwp1u4W4ZACiqp64dwKJJfge7 Bwzq42UeJhCe10tjnG7ZUIjD2IwI7VPntBtm2wAASzkCDZeyyS7zf4bo pdcxpjXSOCB29gEo4UfNhoEDal7oIblHm3WaHGHClXsK5U76zbIBaQ9b 13w3LQI6b5gJYhaNpk7VqNaA9MEUl+GiDB8ASklWHryOdSo4r8Lfv0TB PwdoXV7CRzRXQpyTDArTDZ6aLwNqC0LRtWJ2PIH9MqnYVxqvqpQilAAS 3XoFKg==
 www.master.fj.		86400	IN	A	144.120.141.11
 www.master.fj.		86400	IN	RRSIG	A 8 3 86400 20220219144350 20220205210005 43719 fj. eHPFN9+atyyZMZgqWMq2XNWUKUoJAKQlbRCABm/uggEFQEtOYrjiJcty Q7KejSJXtGVXLPoPpwoHEcr650MLX8z1m7NmzS9AzsmAJPos5ipxS4iT h2kWHjqi5wLI7Eo0pBWQWWAaMcydnK7MGpyciJrBHRic9IpHWEDSXIfB qjFVwbL0iw4t1X+O8lRwy7z+Mir1IULl+QRRZ8+i7Om8kFNDhZwTXJru u8LEw1uyvBwVl2lnrCxvZTiqAznut03Xv1d7lvRakFp/cSxgO5osoS/D ypoX+zLLjhHr6JKzhJiI42De87sJdX2NxBKT1G2ckiSJJRu5vFKZZA3k 9vovkg==
-mil.fj.			86400	IN	TXT	"Generation Time: 1644955214"
-mil.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220301220934 20220215190015 43719 fj. U6NiNXRdarkCcSZtEf9z5k814bxncSUeCJKHd/CLUy9PrMQqHKwQYvOO fG2MdvQCL5aihStpu9aoBNIDOS4T0KsEkQW3xDWWjiEQlbhjGKx6Btlj hh10fdr+sGzTZMPM0T0U/rfL5IsH0T7ML4hlcdxPdaNxzJpy5DU8Neqf gz0Z2GNaw7N3huvQDqQ4hIWWk8E2fI47HSEAKGK2odoNI9g+2eE46zRQ oDjRyeajSWveIHhTaAEyus0vVBgmmpt9VcnxRTO5dg55bPp9ka8Houyz 0zs7n++yDWPsbSMI8Nx60oO4mkayLyYNg7/UGxqZSGTaEQy32+HsX4sa x1n5mQ==
+mil.fj.			86400	IN	TXT	"Generation Time: 1644969604"
+mil.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220301200954 20220215230006 43719 fj. X1qbHpSFxUZijbkDRRZAGRs1jMpgH1Lfy4BpDlPV7sNCtyjBEST75bDH sPWAzFlivgbR99WwXOl7irDfLSCmCMzl3PcpPtveq/pYuXdpxlNB+SHE u8ktwsG8/h0QnvLUgfX1h+p5WnXZLv338yTNccV6J0bd8zeOv5cyj4ag NY+YdPcsITMOtUcdFcSPg7HPa28z9mFKjWY5BlVuNE0N2tjTlCT3S6+N MJxxskge8Y/87ONqbdr3hECuGgeYWkmACRuyUXPNcV+Am941Qz/SyTU7 Rnq7Bq1urx7TJjc2XWdvt6Te79kbGFPhf/sdJ2Zl+iVcjIyKCqIi5WWj U33aPA==
 isatap.mil.fj.		86400	IN	NS	manu.usp.ac.fj.
 isatap.mil.fj.		86400	IN	NS	teri.usp.ac.fj.
 navneet.mil.fj.		86400	IN	NS	ns1.usp.ac.fj.
 navneet.mil.fj.		86400	IN	NS	ns2.usp.ac.fj.
 rfmf.mil.fj.		86400	IN	NS	ns4011.hostgator.com.
 rfmf.mil.fj.		86400	IN	NS	ns4012.hostgator.com.
-name.fj.		86400	IN	TXT	"Generation Time: 1644955214"
-name.fj.		86400	IN	RRSIG	TXT 8 2 86400 20220301155016 20220215190015 43719 fj. Mvh/V+Lv1U76Uudw6iLNg7SaVp/1JFC7RkHzrj17vTw0xHUAVtmFm2Mk 1EGwfyGOK0+wLEtLN9zamDd+CKLcUAKCoGEEmzTBK2mFbRMZ8F/TtUsi UgrpFF0LA9gZ7Nhy4GdsTyZYk2IM4LR+EvGP2lzXKKPLOx7k0NfXZifi /3pV29AhK5Jt3/PlDaMIT0tVzMvG+LGDVEDwKaD9yq6p3Fc0QIAl1Oxp udc83+r6iENS3O21NMSxPamoodJF8+fv0zfww4PbC/lnFrNj2xO1yfmD CRhFrTBhv0fJE975B+8GJ1CI9+M/3pDbXxdKmnrGajmgl9FYIXaa/sc2 Wy3Cmw==
+name.fj.		86400	IN	TXT	"Generation Time: 1644969605"
+name.fj.		86400	IN	RRSIG	TXT 8 2 86400 20220302094819 20220215230006 43719 fj. MbHnawZ+no4aLkmy2bPMvtOk9AtKrI7aM3+T7Wy+xqIhR3gxYY2qlf19 qNrGyEwJaSF4R4q9pHpnbpe4yye0Y20h7Ky4syKqsw3zw/5FxRpqQVMD l35OchDq7cBmd92W3t50PtUS8NDjMJ5tBLxP5/YrlvUpiTb/FooV1nq5 wove6mRPzwRNEJRiSZPs6r7hKWujJIBaFB9x/ZRHRpUc2ZkjUX7MuQaP eAhRPF736zRfQHNwdT8Qbk8xTtlblE1qPrOXeH0Ukv8AoNhMKjrdYUVp sa7E1MSga3fE33T5U8e7maBe1Y+g5Am1fQrMDFyiiQt7WLLos0F4XRef fdjjYQ==
 altria.name.fj.		86400	IN	NS	dns1.cscdns.net.
 altria.name.fj.		86400	IN	NS	dns2.cscdns.net.
 brother.name.fj.	86400	IN	NS	ns1.ipmirror.com.
@@ -8385,8 +8420,8 @@ vodafone.name.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodafone.name.fj.	86400	IN	NS	ns2.vodafone.net.fj.
 vodaphone.name.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodaphone.name.fj.	86400	IN	NS	ns2.vodafone.net.fj.
-net.fj.			86400	IN	TXT	"Generation Time: 1644955214"
-net.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220302011711 20220215190015 43719 fj. WqdFBsZbDtpLz3cFRgOUS0lWh2FP/XlplSY9/4UKEh05ACiQIDon6syD oj5N5MCbvK5EtCQyRX8oUi0nzrNAfTF4gjK31IDwrXNMivUQ7u9Hj+pq GIuHH+bWIxryDGDJWvFTTrUxwRGl4471EKX5fq7PvyLJL+SwYcvv+scq QuNJgD7sjA4n2qDmLv8tJCsAvUgZO0m2rS1Eybj6znyFqUI6dELo3pT1 4ytKx0ey4QhWivqjazYajih39+cQufToNbOMyaLuNygl9lX3Na3jwbOs swGWIjqjLz3t6RG6f9VjG2RqQDhvstpyIJumYrLvnZOraaIxEGJM8Qqg VZbAKw==
+net.fj.			86400	IN	TXT	"Generation Time: 1644969605"
+net.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220301172849 20220215230006 43719 fj. cQWTVLTJFgLy8O17Y3J7h6KzqtfhSE0RkBvwWoVlZ2BXvMqA4Ytn4p// neLN8/Jrd/Jx0LeYzP5wh6LNjzL3MpIPG31fm2mNHR73/P/skyy7N/WP K8/K4yv2hzIe7leqnf0ZlKscENQrH3ODhINsCFOITbJj7c6kojdIloBO qYR4j/BlZRruaYnkTvBDZN/E/e6iC5dOwHf6w1nHK5/MHt4ATL8NxHCE Z4ESP29l158+3JnNjQHVJBHt4Ffpxq1gmxwzyGR9YC3COj749vzB+rM6 80YLJ85h/trUsoWviU8mI9coYNjC08E7zqBsCfgHvxNqKNdoasVDm6bv 2Wu4Hw==
 3m.net.fj.		86400	IN	NS	ns.3m.com.
 3m.net.fj.		86400	IN	NS	pigseye.mmm.com.
 3mcompany.net.fj.	86400	IN	NS	ns.3m.com.
@@ -8587,8 +8622,8 @@ ns4.fj.			86400	IN	A	185.28.194.194
 ns4.fj.			86400	IN	RRSIG	A 8 2 86400 20220301065806 20220215090004 43719 fj. DYEMRjRzao3Dm1KXZal8vYGBB4i4/cyxhLhP+443p9yh6Z0wLVQAdFca t2zfn8ziJXkiopKD7DDibjhNl/5FNwpGBAcSBRbGw7CVqrzwcaPy+W1N q1lz2O4Q+ldvZvXGrZGA+XMARL0fjVl8QqBX/PHj1gLGbQT5mFpWPinY 5p09jAH3Bui1Ek8l6vpTDmhcueJdjzjdw9zP9wyUxwr58qYEZpa15vEL +2sEc+tk+4QLsk7KeSd3s7mdaQ0TeUbwGr6gAcc7OWhg2Su8Qmo97UDJ iCuf0Jqu7l2VBi1CVwfCGyRgJKqglF9eVJXA1XCbVKZm2Fei0RL1aT03 DDP4aQ==
 ns5.fj.			86400	IN	A	204.61.216.138
 ns5.fj.			86400	IN	RRSIG	A 8 2 86400 20220301113843 20220215050005 43719 fj. jrtiiWIA46742ZjoZpYSOUnGvB0XXMy55Q+J2BD4XlvEIcuBeWhN9ZOb Zv16ZADJlx+M2xAt0mjrwbBNP0Nw3kJkTpZHcNUPFvuhPxdxEta6/SS+ jl4adY6sdhq1INX83pxBfTOIcKuil85bEcAgkEO1+iCJmqBDwxGtRB8A 17uAYdk8a+ImuRf3wrUEkYJ+BJgo96dbX6RsshQ4WBABGPVsAPtpHiOx rLUEuUeLktO9G+s2BuP3KBRdtWbXcIQIxBppTqPLZ7vnsshSNSID2Mf/ RlvHllJAVQ+oKb0kEpST9nMaNQi623r2OUKxbueUMURBjcES9AAEjK+m bn0Ysw==
-org.fj.			86400	IN	TXT	"Generation Time: 1644955214"
-org.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220301155139 20220215190015 43719 fj. lMISpcXu9Tjmb6Xo/o9YN3r1P9Nrml0Cx8Avnc9t+lvbmBR497Z04A4Y /n8NASo78FR9P57zDitHvz6s8QresdCDWm1YqxxBd0NuM/ynYqAlWLhB OcFQDIrGUCpd7l/9n9DafotKZJpLiuTGcv7izJ8GSvTdMv8062vpCN/h k4JULxN3WdlVqOgjK92AFrR2ehUCIGfnG54tuaKMDWkEadyaL4Kmghxm DYOUEMWEaY7tGNQyV0XYuFh2juOB573ZDE+aR3BTfMiOPI5Z4sYsZFV1 vhHHQYa8S4/46TSFIo8mo+iITGXiC2OnX04fqjpu/vTgziwFKZbfG9K6 SP7JwQ==
+org.fj.			86400	IN	TXT	"Generation Time: 1644969605"
+org.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220301232218 20220215230006 43719 fj. Et8CpMJoUMrvV90MIykASSNkutgE35NxsbBzvRBQo5tmeInm59sTG8Bj D7sw6bHa1pt8iulGYvNDMU1Uz5auHu8UCPEIymdW7YfayRWouDBbzTsF whzhA/7Gi1uLj7ICaPr8n7F4Xjmfm0urCteJL6VE6ocmhCTzDu1VFzui Q2bA2wCDkYAPpxuvYt4cNJOdwX7jaFGvdfnKdW5AcTFr/ZkyGwXOAUkk 4PUcLYZNPfiWH3pE9miKyBFCOTvs9wD8k9/keozHXBa6L8EkeNWe7OqX pLAv4u1+dYaaAN6ngQqXl4NcHnlvrWU6bx02W/EjHyI3lVmy9+DrO5B6 uoFxnA==
 3m.org.fj.		86400	IN	NS	ns.3m.com.
 3m.org.fj.		86400	IN	NS	pigseye.mmm.com.
 3mcompany.org.fj.	86400	IN	NS	ns.3m.com.
@@ -8679,6 +8714,7 @@ cru.org.fj.		86400	IN	NS	ns-1377.awsdns-44.org.
 cru.org.fj.		86400	IN	NS	ns-527.awsdns-01.net.
 csn.org.fj.		86400	IN	NS	ns1.unwired.com.fj.
 csn.org.fj.		86400	IN	NS	ns2.unwired.com.fj.
+csn.org.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 curekids.org.fj.	86400	IN	NS	becky.ns.cloudflare.com.
 curekids.org.fj.	86400	IN	NS	ian.ns.cloudflare.com.
 daghewardmills.org.fj.	86400	IN	NS	ns1.syrahost.com.
@@ -8800,6 +8836,7 @@ freemasonry.org.fj.	86400	IN	NS	drua.tfl.com.fj.
 freemasonry.org.fj.	86400	IN	NS	tabua.tfl.com.fj.
 fsmsuva.org.fj.		86400	IN	NS	ns1.unwired.com.fj.
 fsmsuva.org.fj.		86400	IN	NS	ns2.unwired.com.fj.
+fsmsuva.org.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 fspi.org.fj.		86400	IN	NS	ns1.bluehost.com.
 fspi.org.fj.		86400	IN	NS	ns2.bluehost.com.
 fta.org.fj.		86400	IN	NS	ns1.siteground199.com.
@@ -8809,12 +8846,14 @@ ftactl.org.fj.		86400	IN	NS	ns2.site4now.net.
 ftactl.org.fj.		86400	IN	NS	ns3.site4now.net.
 ftib.org.fj.		86400	IN	NS	ns1.unwired.com.fj.
 ftib.org.fj.		86400	IN	NS	ns2.unwired.com.fj.
+ftib.org.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 ftuc.org.fj.		86400	IN	NS	ns1.hosting-cloud.net.
 ftuc.org.fj.		86400	IN	NS	ns2.hosting-cloud.net.
 fujitsu.org.fj.		86400	IN	NS	rns1.rightsdns.com.
 fujitsu.org.fj.		86400	IN	NS	rns2.rightsdns.com.
 fwrm.org.fj.		86400	IN	NS	ns1.unwired.com.fj.
 fwrm.org.fj.		86400	IN	NS	ns2.unwired.com.fj.
+fwrm.org.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 gccaf.org.fj.		86400	IN	NS	ns1.unwired.com.fj.
 gccaf.org.fj.		86400	IN	NS	ns2.unwired.com.fj.
 gccaf.org.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
@@ -9023,6 +9062,7 @@ rsyc.org.fj.		86400	IN	NS	ns1.auserver.com.au.
 rsyc.org.fj.		86400	IN	NS	ns2.auserver.com.au.
 sailing.org.fj.		86400	IN	NS	ns1.unwired.com.fj.
 sailing.org.fj.		86400	IN	NS	ns2.unwired.com.fj.
+sailing.org.fj.		86400	IN	NS	ns5.digicelsamoa.ws.
 salvationarmy.org.fj.	86400	IN	NS	ns1.101domain.com.
 salvationarmy.org.fj.	86400	IN	NS	ns2.101domain.com.
 savethechildren.org.fj.	86400	IN	NS	cloudwebx-dns1.newtekdns.com.
@@ -9113,8 +9153,8 @@ yatsenfiji.org.fj.	86400	IN	NS	manu.usp.ac.fj.
 yatsenfiji.org.fj.	86400	IN	NS	teri.usp.ac.fj.
 youthcamp.org.fj.	86400	IN	NS	ns1.justhost.com.
 youthcamp.org.fj.	86400	IN	NS	ns2.justhost.com.
-pro.fj.			86400	IN	TXT	"Generation Time: 1644955214"
-pro.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220301180752 20220215190015 43719 fj. SDr1sFbdFZT0hTClFEYTYEIQcjMMxy3wdPvgghXwWEKqZWWDJRcVizBH FYOA8VqzI8TmJsD58lcxMPTtFt/jCnC1SlDD0dxe0h1V9Fu+X5Dmn/pK dYa8VsW3LUQwk+VVUvlVVPcT2AtcIvtK3L5mca5GwX+YxHjg+/dcLwr2 DwYmDlWQo2OJY3rO80QvlkzYMpzN4sYK6ykP/SyuEQjLqTYvGK8rQz0t M0FH2fqFDKXs4DgF88/pWyYpy5KTnqc7aetq6CAW69Cl7Mo42IWDv/Kl Cs8uBXBS+NPGtwLR4QGTDy2XtwvinvOBKxj6p+SlB/Xsa4tuDuxidhx/ YUzPxg==
+pro.fj.			86400	IN	TXT	"Generation Time: 1644969605"
+pro.fj.			86400	IN	RRSIG	TXT 8 2 86400 20220301214637 20220215230006 43719 fj. M1sisCZ0sdmcSZhjrEcCia9uqDbI62Wki+tjyBVfzLgVpUFVj/BOmTz0 3TYsWgZloM5EnejSwk2BFCorzcDohNN+6JMUEGuhjajPjk9mG8/RthK5 lyWFpsNU0dr0vJuC85aluQ7WDb+9gVH+rskhzy4PQTaQo3rB4giOj62W wmBPiHAQ8zE9AVlZ2TasD3dseadJsm23voEYLdbdHwK8xtrFo+l+bvN4 T1OlJAM3xRW5uuNFgeHwsWSqvHO+AUvbFhQFxX3txVDqL7U2bqDMycmJ CgDjWJVYwji9lzX9+u2K6ySRzNpiWXx3tn7UKK1IzALslSJGrNLhjBJW grVXLg==
 altria.pro.fj.		86400	IN	NS	dns1.cscdns.net.
 altria.pro.fj.		86400	IN	NS	dns2.cscdns.net.
 brother.pro.fj.		86400	IN	NS	ns1.ipmirror.com.
@@ -9172,7 +9212,7 @@ school.fj.		86400	IN	NS	tabua.tfl.com.fj.
 school.fj.		86400	IN	NS	drua.tfl.com.fj.
 school.fj.		86400	IN	NS	ns-ext.isc.org.
 whois.fj.		86400	IN	A	144.120.146.4
-whois.fj.		86400	IN	RRSIG	A 8 2 86400 20220218202142 20220204150117 43719 fj. Vg/ukQH5bxmjOCAYoneheCtHaQZi6ETrZsVnvVXiUc/aIWF7IRWgwTZj yHpR2QWMrtJwVngB3DMeh0s/w9EvMkPpIsZ1qluPza2ya854f9biAU43 qGTrvTT1AZXoGo1bZGmjmR8e5bvqkBt1aQEKNlwwdVwlyVvUhVV+0Zs9 bpBGak4qmQN9ciQNpdXUurBHcYAeW+QRKHaI9o36u97aDVtiuN7Hwohl ams+ccKmEtcHBN7W/Osm4dr/xaDcEdb8XrfJHYDnr5Z7ro1nRcv4G5kT /SbTRxmbfzw8opEemqDh1yJj2NZev1onLjrKM2CXGMLKEb0QAInUh4p2 s2PNkA==
+whois.fj.		86400	IN	RRSIG	A 8 2 86400 20220301175728 20220215210006 43719 fj. dt7k78WoJJMrS3mRVVShcQ1IFQpxpEkuY7GtWTGlwppRGBqloGyn+Zdq 7Eml4GQWWm4cDVT4UJpUE+L97hbo11KxCFYGWBcXpcuTTpn6tb+lNzbT hDyomFqZ/02BabbRtFgjcoPvcnx4lr0PKvFHGLlOySU3y9wFewlpoDL/ jcUj93Jxc4Ph2YctTZ13u7LArFktD5vIUW3cuTcp3bAFlEBRS+YkCx+1 jxmUglDMveO2tANSvlWuXvbG3VZngUZXmQ1apisn54FLsBYfUgIjh/cn GQ+w7WAVCK30p+EoaDSZ3uVA6VxwhXWZiyvaZCFg/0SZocCCJfTLxLlV O9RRVA==
 www.whois.fj.		86400	IN	A	144.120.146.4
 www.whois.fj.		86400	IN	RRSIG	A 8 3 86400 20220228030226 20220214030005 43719 fj. KyYRgNPn2r0I6cj1Dq4VCiXchCzK7/lt/aAqLmPWGP/McJ0whNOF5zkI DhSFNkGALA/uAa+DqMQBDhbHX6tjtLbkqSHHFB1MsBbuWibUIbdGgszd kC8pVzpjSJXM0ay40sMVsJsjte2KPsWwA0m6PW8VyD7e9CHIqDUiBTX+ fHMPjWMglZ8SvlURTh6oLtWPCkOIlY+lMLP49tgCUEMwTjRNVfaHJ9C9 KhGqsrGkCxhTXZe+P9OvqJ/1HumDmpZq/ALR1LHiAmOrlKZU4RiACvL/ Zrb8tZ6meNY6Y6kRatDIN2xtSfXR3sa9ctbhBhHq6Yqy+ki96NqUuaZU CXTDRw==
 002dl6a9f0suqqqip9e3og4ermdenafo.fj. 3600 IN NSEC3 1 0 5 F0EA3EA23B519104 00OB3DGVSQ3UREG5QA5AT7CT3RHIBIQG NS
@@ -17283,4 +17323,4 @@ vvff7h7h2icategcvia8rh0qpfgcaft5.fj. 3600 IN NSEC3 1 0 5 F0EA3EA23B519104 VVNOPU
 vvff7h7h2icategcvia8rh0qpfgcaft5.fj. 3600 IN RRSIG NSEC3 8 2 3600 20220224044629 20220209190005 43719 fj. ZsWxCmxgaQMIGCIkPWGDL3+dhzbe0xjQcDhXa9Qqsxo/Oa3fVIo6EmVg Bf6z+VERRcsBqEgLx2/Uv9GmOocWsRsiyY1SfyfOhvmkFx7qyuLG+FXW Ab5bT0mHE+4cSfyPb1M5+Y4zKB0JrXHJUAD//AnAjEK9dr13FLrpJlww vOF+4s5eMaVpSD4iuYZD5XQAaz4feJHtzVawY+/1aHacIhELCyag/IfT LObsIezQB6CKo58A9bYRHNTxm3U7b8dpwJS4Q/CKj5T9SueXlkGqcPw7 BOzYgGutI/1VPqhD3LONgmHkNVqp4ysQxQEZwGevECKTcC21OlvQDXx+ tRa2Lw==
 vvnopu5o9j1r157mebure9588nsnge97.fj. 3600 IN NSEC3 1 0 5 F0EA3EA23B519104 002DL6A9F0SUQQQIP9E3OG4ERMDENAFO NS
 vvnopu5o9j1r157mebure9588nsnge97.fj. 3600 IN RRSIG NSEC3 8 2 3600 20220224061022 20220210130005 43719 fj. HTGZHNgSCtuCxomyC/ybBbyPnDnrL2nryh3Dozv1IrB99nkSsByKbYK+ Sy5pVfrgmqBVd2RThr98E0VphMDWBgeELYbUOBksmcsQJsgwjq23x5Jw 8d4iReBOz1FVQbBD9oCMWmUh+ALGQreM3HWijhUw8iX7btQxm3p9Pd2P 0ZwVztcPu7p7vmr7xNzW9Qt+O5DMxV/NRoQnh5hVYkfEEV9OrrdT4osA z7BhLZ0S2fdS2VJKwFiQzUio7In9O794DIBm1GGQctxhteZGSWUwlau0 VdBODKrk7Ze3NV68gUZB5PSUWC/JKwqBY5qJQb4mMW76R62SbZEAQWOI jSJoxA==
-fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2022021613 21600 3600 604800 3600
+fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2022021618 21600 3600 604800 3600
