@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021710 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021713 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1645092091"
+mg.			7200	IN	TXT	"Generation Time: 1645102883"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -8281,8 +8281,8 @@ poly.mg.		86400	IN	NS	dns1.cscdns.net.
 poly.mg.		86400	IN	NS	dns2.cscdns.net.
 polyaquaculture.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 polyaquaculture.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
-polyma.mg.		86400	IN	NS	ns1.mada-webhosting.com.
-polyma.mg.		86400	IN	NS	ns2.mada-webhosting.com.
+polyma.mg.		86400	IN	NS	ns1.gasyweb.com.
+polyma.mg.		86400	IN	NS	ns2.gasyweb.com.
 polymur.mg.		86400	IN	NS	ns29.dot.mg.
 polymur.mg.		86400	IN	NS	ns29.illi.co.mg.
 polytech.mg.		86400	IN	NS	ns29.illi.co.mg.
@@ -9726,8 +9726,8 @@ sp2c.mg.		86400	IN	NS	ns1.fr.malagasy.com.
 spareroom.mg.		86400	IN	NS	ns1.instradns.com.
 spareroom.mg.		86400	IN	NS	ns2.instradns.com.
 spareroom.mg.		86400	IN	NS	ns3.instradns.com.
-spci.mg.		86400	IN	NS	ns1.mada-webhosting.com.
-spci.mg.		86400	IN	NS	ns2.mada-webhosting.com.
+spci.mg.		86400	IN	NS	ns1.gasyweb.com.
+spci.mg.		86400	IN	NS	ns2.gasyweb.com.
 spe.mg.			86400	IN	NS	pdns71.ultradns.com.
 spe.mg.			86400	IN	NS	pdns71.ultradns.org.
 spe.mg.			86400	IN	NS	pdns71.ultradns.co.uk.
@@ -10463,6 +10463,9 @@ trustwallet.mg.		86400	IN	NS	dns2.suspended-domains.com.
 trustylabs.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 trustylabs.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 trustylabs.mg.		86400	IN	NS	ns1.fr.malagasy.com.
+trx.mg.			86400	IN	NS	ns-201-b.gandi.net.
+trx.mg.			86400	IN	NS	ns-114-a.gandi.net.
+trx.mg.			86400	IN	NS	ns-65-c.gandi.net.
 ts.mg.			86400	IN	NS	ns.dts.mg.
 ts.mg.			86400	IN	NS	ns1.dts.mg.
 tsara.mg.		86400	IN	NS	ns1.101domain.com.
@@ -10658,8 +10661,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11387,4 +11390,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021710 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021713 600 3600 604800 86400
