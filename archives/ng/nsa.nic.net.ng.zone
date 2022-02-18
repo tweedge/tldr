@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021840 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1645210896"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021848 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1645221870"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -4744,6 +4744,8 @@ aromaticgallery.ng.	3600	IN	NS	nsa.whogohost.com.
 aromaticgallery.ng.	3600	IN	NS	nsb.whogohost.com.
 aron.ng.		3600	IN	NS	nsa.whogohost.com.
 aron.ng.		3600	IN	NS	nsb.whogohost.com.
+arosazoconsulting.ng.	3600	IN	NS	nsa.whogohost.com.
+arosazoconsulting.ng.	3600	IN	NS	nsb.whogohost.com.
 arpackaging.ng.		3600	IN	NS	a.ns14.net.
 arpackaging.ng.		3600	IN	NS	b.ns14.net.
 arpackaging.ng.		3600	IN	NS	c.ns14.net.
@@ -20629,6 +20631,10 @@ eidispatch.ng.		3600	IN	NS	ns-504.awsdns-63.com.
 eidispatch.ng.		3600	IN	NS	ns-842.awsdns-41.net.
 eidispatch.ng.		3600	IN	NS	ns-1158.awsdns-16.org.
 eidispatch.ng.		3600	IN	NS	ns-1951.awsdns-51.co.uk.
+eidu.ng.		3600	IN	NS	ns-195.awsdns-24.com.
+eidu.ng.		3600	IN	NS	ns-895.awsdns-47.net.
+eidu.ng.		3600	IN	NS	ns-1465.awsdns-55.org.
+eidu.ng.		3600	IN	NS	ns-2002.awsdns-58.co.uk.
 eie.ng.			3600	IN	NS	ns1.eienigeria.org.
 eie.ng.			3600	IN	NS	ns2.eienigeria.org.
 eifil.ng.		3600	IN	NS	ns69.qservers.net.
@@ -24747,6 +24753,8 @@ flofoundation.ng.	3600	IN	NS	aron.ns.cloudflare.com.
 flofoundation.ng.	3600	IN	NS	charles.ns.cloudflare.com.
 floodgate.ng.		3600	IN	NS	nsa.whogohost.com.
 floodgate.ng.		3600	IN	NS	nsb.whogohost.com.
+floori.ng.		3600	IN	NS	ns1.domains.ng.
+floori.ng.		3600	IN	NS	ns2.domains.ng.
 floorpro.ng.		3600	IN	NS	ns57.qservers.net.
 floorpro.ng.		3600	IN	NS	ns58.qservers.net.
 floors.ng.		3600	IN	NS	dns1.doveserver.com.
@@ -45851,8 +45859,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -55438,6 +55446,10 @@ rba.ng.			3600	IN	NS	ns2.digitalocean.com.
 rba.ng.			3600	IN	NS	ns3.digitalocean.com.
 rbc.ng.			3600	IN	NS	ns5.doveserver.com.
 rbc.ng.			3600	IN	NS	ns6.doveserver.com.
+rblxbotti.ng.		3600	IN	NS	ns1.web4africa.com.
+rblxbotti.ng.		3600	IN	NS	ns2.web4africa.com.
+rblxbotti.ng.		3600	IN	NS	ns3.web4africa.com.
+rblxbotti.ng.		3600	IN	NS	ns4.web4africa.com.
 rbs.ng.			3600	IN	NS	dns1.namecheaphosting.com.
 rbs.ng.			3600	IN	NS	dns2.namecheaphosting.com.
 rca.ng.			3600	IN	NS	nsa.whogohost.com.
@@ -55749,8 +55761,8 @@ recruitment.ng.		3600	IN	NS	ns1.domains.ng.
 recruitment.ng.		3600	IN	NS	ns2.domains.ng.
 recruitmentday.ng.	3600	IN	NS	ns1.dknoc.com.
 recruitmentday.ng.	3600	IN	NS	ns2.dknoc.com.
-recruitmentportal.ng.	3600	IN	NS	ns1.dknoc.com.
-recruitmentportal.ng.	3600	IN	NS	ns2.dknoc.com.
+recruitmentportal.ng.	3600	IN	NS	ns1.bluehost.com.
+recruitmentportal.ng.	3600	IN	NS	ns2.bluehost.com.
 recurri.ng.		3600	IN	NS	ns1.sedoparking.com.
 recurri.ng.		3600	IN	NS	ns2.sedoparking.com.
 recycl.ng.		3600	IN	NS	kara.ns.cloudflare.com.
@@ -75579,4 +75591,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021840 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021848 10800 3600 604800 3600
