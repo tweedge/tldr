@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021810 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1645156897"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021816 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1645167687"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -26274,6 +26274,8 @@ gadgetsmart.ng.		3600	IN	NS	ns1.gadgetsmart.ng.
 gadgetsmart.ng.		3600	IN	NS	ns2.gadgetsmart.ng.
 ns1.gadgetsmart.ng.	3600	IN	A	66.29.131.225
 ns2.gadgetsmart.ng.	3600	IN	A	66.29.131.225
+gae.ng.			3600	IN	NS	ns5.doveserver.com.
+gae.ng.			3600	IN	NS	ns6.doveserver.com.
 gaf.ng.			3600	IN	NS	ns1.siteground.net.
 gaf.ng.			3600	IN	NS	ns2.siteground.net.
 gagastores.ng.		3600	IN	NS	ns1.getlitehost.com.
@@ -75495,4 +75497,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021810 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021816 10800 3600 604800 3600
