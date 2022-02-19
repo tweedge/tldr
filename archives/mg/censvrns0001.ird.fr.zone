@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021907 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021910 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1645254090"
+mg.			7200	IN	TXT	"Generation Time: 1645264883"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1463,10 +1463,8 @@ barcelo.mg.		7200	IN	NS	ns2.entornodns.com.
 barday.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
 barday.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 barday.mg.		7200	IN	NS	ns1.fr.malagasy.com.
-baronbet.mg.		7200	IN	NS	dns1.p06.nsone.net.
-baronbet.mg.		7200	IN	NS	dns2.p06.nsone.net.
-baronbet.mg.		7200	IN	NS	dns3.p06.nsone.net.
-baronbet.mg.		7200	IN	NS	dns4.p06.nsone.net.
+baronbet.mg.		7200	IN	NS	ns1.101domain.com.
+baronbet.mg.		7200	IN	NS	ns2.101domain.com.
 basan.mg.		7200	IN	NS	paul.ns.cloudflare.com.
 basan.mg.		7200	IN	NS	venus.ns.cloudflare.com.
 basetoliara.mg.		7200	IN	NS	ns1.instradns.com.
@@ -2883,8 +2881,6 @@ dev-tech.mg.		7200	IN	NS	adam.ns.cloudflare.com.
 dev-tech.mg.		7200	IN	NS	sloan.ns.cloudflare.com.
 dexios.mg.		7200	IN	NS	dns102.ovh.net.
 dexios.mg.		7200	IN	NS	ns102.ovh.net.
-dfcmada.mg.		7200	IN	NS	dns18.ovh.net.
-dfcmada.mg.		7200	IN	NS	ns18.ovh.net.
 dgcf.mg.		7200	IN	NS	ns.tgn.mg.
 dgcf.mg.		7200	IN	NS	ns1.tgn.mg.
 dgfag.mg.		7200	IN	NS	ns.dts.mg.
@@ -11383,4 +11379,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021907 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021910 600 3600 604800 86400
