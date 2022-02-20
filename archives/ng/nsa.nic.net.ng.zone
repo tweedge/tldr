@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022022032 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1645370016"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022022038 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1645380802"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -5466,8 +5466,8 @@ auj.ng.			3600	IN	NS	ns11.syskay.com.
 auj.ng.			3600	IN	NS	ns12.syskay.com.
 aup.ng.			3600	IN	NS	ns1.giowm1266.siteground.biz.
 aup.ng.			3600	IN	NS	ns2.giowm1266.siteground.biz.
-aura.ng.		3600	IN	NS	nero.ns.cloudflare.com.
-aura.ng.		3600	IN	NS	josephine.ns.cloudflare.com.
+aura.ng.		3600	IN	NS	nsa.whogohost.com.
+aura.ng.		3600	IN	NS	nsb.whogohost.com.
 aurahair.ng.		3600	IN	NS	nsa.whogohost.com.
 aurahair.ng.		3600	IN	NS	nsb.whogohost.com.
 aure.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -5730,6 +5730,8 @@ autowerks.ng.		3600	IN	NS	ns59.domaincontrol.com.
 autowerks.ng.		3600	IN	NS	ns60.domaincontrol.com.
 autoworks.ng.		3600	IN	NS	ns53.domaincontrol.com.
 autoworks.ng.		3600	IN	NS	ns54.domaincontrol.com.
+autox.ng.		3600	IN	NS	nsa.whogohost.com.
+autox.ng.		3600	IN	NS	nsb.whogohost.com.
 autozone.ng.		3600	IN	NS	ns1.autozone.com.
 autozone.ng.		3600	IN	NS	ns2.autozone.com.
 autozone.ng.		3600	IN	NS	ns3.autozone.com.
@@ -45793,8 +45795,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -69724,10 +69726,8 @@ unclebuck.ng.		3600	IN	NS	nsb.whogohost.com.
 uncledee.ng.		3600	IN	NS	ns0.registeram.com.
 uncledee.ng.		3600	IN	NS	ns1.registeram.com.
 uncledee.ng.		3600	IN	NS	ns2.registeram.com.
-unclevinnies.ng.	3600	IN	NS	ns1.web4africa.com.
-unclevinnies.ng.	3600	IN	NS	ns2.web4africa.com.
-unclevinnies.ng.	3600	IN	NS	ns3.web4africa.com.
-unclevinnies.ng.	3600	IN	NS	ns4.web4africa.com.
+unclevinnies.ng.	3600	IN	NS	ns1.bluehost.com.
+unclevinnies.ng.	3600	IN	NS	ns2.bluehost.com.
 uncommonsense.ng.	3600	IN	NS	nsa.whogohost.com.
 uncommonsense.ng.	3600	IN	NS	nsb.whogohost.com.
 uncover.ng.		3600	IN	NS	dns1.doveserver.com.
@@ -73078,6 +73078,8 @@ whiteaxis.ng.		3600	IN	NS	nsa.whogohost.com.
 whiteaxis.ng.		3600	IN	NS	nsb.whogohost.com.
 whitecloud.ng.		3600	IN	NS	ns1.c18576.sgvps.net.
 whitecloud.ng.		3600	IN	NS	ns2.c18576.sgvps.net.
+whitecoats.ng.		3600	IN	NS	ns1.qservers.net.
+whitecoats.ng.		3600	IN	NS	ns2.qservers.net.
 whiteeagle.ng.		3600	IN	NS	ns-210.awsdns-26.com.
 whiteeagle.ng.		3600	IN	NS	ns-1006.awsdns-61.net.
 whiteeagle.ng.		3600	IN	NS	ns-1304.awsdns-35.org.
@@ -75477,4 +75479,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022022032 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022022038 10800 3600 604800 3600
