@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022022207 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022022210 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1645513236"
+mg.			7200	IN	TXT	"Generation Time: 1645524032"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -6227,8 +6227,8 @@ madacart.mg.		86400	IN	NS	plesk4900a.trouble-free.net.
 madacart.mg.		86400	IN	NS	plesk4900b.trouble-free.net.
 madacompost.mg.		86400	IN	NS	ns1.cloudns.io.
 madacompost.mg.		86400	IN	NS	ns2.cloudns.io.
-madacredito.mg.		86400	IN	NS	ns.dts.mg.
-madacredito.mg.		86400	IN	NS	ns1.dts.mg.
+madacredito.mg.		86400	IN	NS	ns14.ovh.net.
+madacredito.mg.		86400	IN	NS	dns14.ovh.net.
 madadev.mg.		86400	IN	NS	ns1.da.cloudns.io.
 madadev.mg.		86400	IN	NS	ns2.da.cloudns.io.
 madadigischool.mg.	86400	IN	NS	ns1.da.cloudns.io.
@@ -8033,8 +8033,8 @@ pay.mg.			86400	IN	NS	ns-1649.awsdns-14.co.uk.
 payfort.mg.		86400	IN	NS	nsgbr.comlaude.co.uk.
 payfort.mg.		86400	IN	NS	nssui.comlaude.ch.
 payfort.mg.		86400	IN	NS	nsusa.comlaude.net.
-paypaika.mg.		86400	IN	NS	ns.dts.mg.
-paypaika.mg.		86400	IN	NS	ns1.dts.mg.
+paypaika.mg.		86400	IN	NS	ns14.ovh.net.
+paypaika.mg.		86400	IN	NS	dns14.ovh.net.
 paypal.mg.		86400	IN	NS	ns1.markmonitor.com.
 paypal.mg.		86400	IN	NS	ns2.markmonitor.com.
 paypal.mg.		86400	IN	NS	ns3.markmonitor.com.
@@ -11363,4 +11363,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022022207 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022022210 600 3600 604800 86400
