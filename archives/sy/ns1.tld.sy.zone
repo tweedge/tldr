@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022022321 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1645610533"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022022326 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1645621333"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -5998,8 +5998,8 @@ sfi.sy.			86400	IN	NS	suspend1.tld.sy.
 sfi.sy.			86400	IN	NS	suspend2.tld.sy.
 sfs-edu.sy.		86400	IN	NS	ns1.waveshost.sy.
 sfs-edu.sy.		86400	IN	NS	ns2.waveshost.sy.
-sgb.sy.			86400	IN	NS	ns1.aldrtech.sy.
-sgb.sy.			86400	IN	NS	ns2.aldrtech.sy.
+sgb.sy.			86400	IN	NS	ns3.tld.sy.
+sgb.sy.			86400	IN	NS	ns4.tld.sy.
 sh.sy.			86400	IN	NS	suspend1.tld.sy.
 sh.sy.			86400	IN	NS	suspend2.tld.sy.
 shabablink.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
@@ -6341,8 +6341,8 @@ srsj-gors.sy.		86400	IN	NS	ns3.tld.sy.
 srsj-gors.sy.		86400	IN	NS	ns4.tld.sy.
 ss.sy.			86400	IN	NS	pam.ns.cloudflare.com.
 ss.sy.			86400	IN	NS	lakas.ns.cloudflare.com.
-ssas.sy.		86400	IN	NS	suspend1.tld.sy.
-ssas.sy.		86400	IN	NS	suspend2.tld.sy.
+ssas.sy.		86400	IN	NS	ns1.alifouad91.com.
+ssas.sy.		86400	IN	NS	ns2.alifouad91.com.
 sscc.sy.		86400	IN	NS	ns1.alanqaa.com.
 sscc.sy.		86400	IN	NS	ns2.alanqaa.com.
 sscsyr.sy.		86400	IN	NS	ns1.bluehost.com.
@@ -7525,4 +7525,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022022321 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022022326 3600 3600 2592000 3600

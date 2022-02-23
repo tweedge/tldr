@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022302 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022309 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1645578012"
+cm.			86400	IN	TXT	"Generation Time: 1645603223"
 0.cm.			86400	IN	NS	dns1.p01.nsone.net.
 0.cm.			86400	IN	NS	dns2.p01.nsone.net.
 0.cm.			86400	IN	NS	dns3.p01.nsone.net.
@@ -58550,8 +58550,8 @@ nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
 namesilo.cm.		86400	IN	NS	ns2.bodis.com.
 nametests.cm.		86400	IN	NS	ns1.bodis.com.
@@ -58971,8 +58971,8 @@ neilpatel.cm.		86400	IN	NS	ns1.smartname.com.
 neilpatel.cm.		86400	IN	NS	ns2.smartname.com.
 neimanmarcus.cm.	86400	IN	NS	ns1.hastydns.com.
 neimanmarcus.cm.	86400	IN	NS	ns2.hastydns.com.
-neko.cm.		86400	IN	NS	young.dnspod.net.
-neko.cm.		86400	IN	NS	cygnus.dnspod.net.
+neko.cm.		86400	IN	NS	road.dnspod.net.
+neko.cm.		86400	IN	NS	gelding.dnspod.net.
 nelly.cm.		86400	IN	NS	ns1.ii51.parklogic.com.
 nelly.cm.		86400	IN	NS	ns2.ii51.parklogic.com.
 nelnet.cm.		86400	IN	NS	ns3.above.com.
@@ -68196,6 +68196,8 @@ rescoping.cm.		86400	IN	NS	ns1.markmonitor.com.
 rescoping.cm.		86400	IN	NS	ns2.markmonitor.com.
 rescoping.cm.		86400	IN	NS	ns3.markmonitor.com.
 rescoping.cm.		86400	IN	NS	ns4.markmonitor.com.
+rescueamerica.cm.	86400	IN	NS	ns1.mytrafficmanagement.com.
+rescueamerica.cm.	86400	IN	NS	ns2.mytrafficmanagement.com.
 rescuemebyallstate.cm.	86400	IN	NS	ns1.brandsight-dns.com.
 rescuemebyallstate.cm.	86400	IN	NS	ns1.brandsight-dns.net.
 rescuemebyallstate.cm.	86400	IN	NS	ns2.brandsight-dns.com.
@@ -75874,6 +75876,7 @@ tab5wd.cm.		86400	IN	NS	ns3.above.com.
 tab5wd.cm.		86400	IN	NS	ns4.above.com.
 tabala.cm.		86400	IN	NS	ns1.domain.com.
 tabala.cm.		86400	IN	NS	ns2.domain.com.
+tabala.cm.		86400	IN	NS	plesk6200a.trouble-free.net.
 tabelog.cm.		86400	IN	NS	ns01.idc.jp.
 tabelog.cm.		86400	IN	NS	ns02.idc.jp.
 tabelog.cm.		86400	IN	NS	ns03.idc.jp.
@@ -79412,6 +79415,8 @@ tumbview.cm.		86400	IN	NS	ns1.bodis.com.
 tumbview.cm.		86400	IN	NS	ns2.bodis.com.
 tumi.cm.		86400	IN	NS	ns1.parkingcrew.net.
 tumi.cm.		86400	IN	NS	ns2.parkingcrew.net.
+tunaendpurchasersettlement.cm. 86400 IN	NS	ns1.mytrafficmanagement.com.
+tunaendpurchasersettlement.cm. 86400 IN	NS	ns2.mytrafficmanagement.com.
 tunecore.cm.		86400	IN	NS	ns1.ii51.parklogic.com.
 tunecore.cm.		86400	IN	NS	ns2.ii51.parklogic.com.
 tunein.cm.		86400	IN	NS	ns1.parkingcrew.net.
@@ -86949,6 +86954,11 @@ zenza.cm.		86400	IN	NS	ns2.brandshelter.de.
 zenza.cm.		86400	IN	NS	ns3.brandshelter.info.
 zenza.cm.		86400	IN	NS	ns4.brandshelter.net.
 zenza.cm.		86400	IN	NS	ns5.brandshelter.us.
+zenzacredit.cm.		86400	IN	NS	ns1.brandshelter.com.
+zenzacredit.cm.		86400	IN	NS	ns2.brandshelter.de.
+zenzacredit.cm.		86400	IN	NS	ns3.brandshelter.info.
+zenzacredit.cm.		86400	IN	NS	ns4.brandshelter.net.
+zenzacredit.cm.		86400	IN	NS	ns5.brandshelter.us.
 zenzacreditsolutions.cm. 86400	IN	NS	ns1.brandshelter.com.
 zenzacreditsolutions.cm. 86400	IN	NS	ns2.brandshelter.de.
 zenzacreditsolutions.cm. 86400	IN	NS	ns3.brandshelter.info.
@@ -87478,4 +87488,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022302 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022309 28800 3600 604800 86400
