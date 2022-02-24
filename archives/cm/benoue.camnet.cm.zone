@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022405 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022412 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1645675224"
+cm.			86400	IN	TXT	"Generation Time: 1645704014"
 0.cm.			86400	IN	NS	dns1.p01.nsone.net.
 0.cm.			86400	IN	NS	dns2.p01.nsone.net.
 0.cm.			86400	IN	NS	dns3.p01.nsone.net.
@@ -14119,8 +14119,8 @@ afc.cm.			86400	IN	NS	ns1.ccntechnologies.com.
 afc.cm.			86400	IN	NS	ns2.ccntechnologies.com.
 afcurgentcaredenver.cm.	86400	IN	NS	ns1.smartname.com.
 afcurgentcaredenver.cm.	86400	IN	NS	ns2.smartname.com.
-afeg.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
-afeg.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
+afeg.cm.		86400	IN	NS	ns1.host-pride.com.
+afeg.cm.		86400	IN	NS	ns2.host-pride.com.
 afes.cm.		86400	IN	NS	dns1.namecheaphosting.com.
 afes.cm.		86400	IN	NS	dns2.namecheaphosting.com.
 aff.cm.			86400	IN	NS	dns1.name-services.com.
@@ -52092,8 +52092,8 @@ loopnet.cm.		86400	IN	NS	ns1.markmonitor.com.
 loopnet.cm.		86400	IN	NS	ns2.markmonitor.com.
 loopreturns.cm.		86400	IN	NS	ns1.smartname.com.
 loopreturns.cm.		86400	IN	NS	ns2.smartname.com.
-loot.cm.		86400	IN	NS	ns1.sedoparking.com.
-loot.cm.		86400	IN	NS	ns2.sedoparking.com.
+loot.cm.		86400	IN	NS	ns3.epik.com.
+loot.cm.		86400	IN	NS	ns4.epik.com.
 lootcrate.cm.		86400	IN	NS	ns1.bodis.com.
 lootcrate.cm.		86400	IN	NS	ns2.bodis.com.
 lopc.cm.		86400	IN	NS	ns1.globexcamhost.com.
@@ -58317,8 +58317,8 @@ nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
 namesilo.cm.		86400	IN	NS	ns2.bodis.com.
 nametests.cm.		86400	IN	NS	ns1.bodis.com.
@@ -71902,6 +71902,8 @@ sims.cm.		86400	IN	NS	ns1.hostamnow.website.
 sims.cm.		86400	IN	NS	ns2.hostamnow.website.
 sina.cm.		86400	IN	NS	ns1.hastydns.com.
 sina.cm.		86400	IN	NS	ns2.hastydns.com.
+sinai.cm.		86400	IN	NS	dns2015a.trouble-free.net.
+sinai.cm.		86400	IN	NS	dns2015b.trouble-free.net.
 sinaimg.cm.		86400	IN	NS	ns1.radinko.com.
 sinaimg.cm.		86400	IN	NS	ns2.radinko.com.
 sindz-palace.cm.	86400	IN	NS	ns10.wixdns.net.
@@ -75979,8 +75981,6 @@ taxbit.cm.		86400	IN	NS	ns1.parkingcrew.net.
 taxbit.cm.		86400	IN	NS	ns2.parkingcrew.net.
 taxes.cm.		86400	IN	NS	ns3.above.com.
 taxes.cm.		86400	IN	NS	ns4.above.com.
-taxfreeusa.cm.		86400	IN	NS	ns3.above.com.
-taxfreeusa.cm.		86400	IN	NS	ns4.above.com.
 taxi.cm.		86400	IN	NS	ns1.sedoparking.com.
 taxi.cm.		86400	IN	NS	ns2.sedoparking.com.
 taxicash.cm.		86400	IN	NS	ns1.mytrafficmanagement.com.
@@ -85795,8 +85795,6 @@ yellow.cm.		86400	IN	NS	ns2.dan.com.
 yellowbet.cm.		86400	IN	NS	ns1.francedns.com.
 yellowbet.cm.		86400	IN	NS	ns2.francedns.com.
 yellowbet.cm.		86400	IN	NS	ns3.francedns.com.
-yellowbook.cm.		86400	IN	NS	ns3.above.com.
-yellowbook.cm.		86400	IN	NS	ns4.above.com.
 yellowbullet.cm.	86400	IN	NS	ns3.above.com.
 yellowbullet.cm.	86400	IN	NS	ns4.above.com.
 yellowcard.cm.		86400	IN	NS	ns-4.awsdns-00.com.
@@ -87255,4 +87253,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022405 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022412 28800 3600 604800 86400
