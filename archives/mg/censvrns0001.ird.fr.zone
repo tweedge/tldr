@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022022513 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022022516 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1645794085"
+mg.			7200	IN	TXT	"Generation Time: 1645804895"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -4503,6 +4503,9 @@ h3m.mg.			86400	IN	NS	ns1.onyx.cloudns.io.
 h3m.mg.			86400	IN	NS	ns2.onyx.cloudns.io.
 h6.mg.			86400	IN	NS	ns1.51dns.com.
 h6.mg.			86400	IN	NS	ns2.51dns.com.
+habakabaka.mg.		86400	IN	NS	ns1.digitalocean.com.
+habakabaka.mg.		86400	IN	NS	ns2.digitalocean.com.
+habakabaka.mg.		86400	IN	NS	ns3.digitalocean.com.
 habakae-mangazina.mg.	86400	IN	NS	ns1.serveurgasy.com.
 habakae-mangazina.mg.	86400	IN	NS	ns2.serveurgasy.com.
 habbo.mg.		86400	IN	NS	mary.ns.cloudflare.com.
@@ -9813,6 +9816,9 @@ starterpack.mg.		86400	IN	NS	ns1.serveurgasy.com.
 starterpack.mg.		86400	IN	NS	ns2.serveurgasy.com.
 startimestv.mg.		86400	IN	NS	ns.dts.mg.
 startimestv.mg.		86400	IN	NS	ns1.dts.mg.
+stay.mg.		86400	IN	NS	ns0.transip.net.
+stay.mg.		86400	IN	NS	ns1.transip.nl.
+stay.mg.		86400	IN	NS	ns2.transip.eu.
 stcv.mg.		86400	IN	NS	ns1.servermada.com.
 stcv.mg.		86400	IN	NS	ns2.servermada.com.
 stcv.mg.		86400	IN	NS	ns3.servermada.com.
@@ -10663,8 +10669,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11394,4 +11400,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022022513 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022022516 600 3600 604800 86400
