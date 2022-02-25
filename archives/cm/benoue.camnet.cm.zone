@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022509 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022512 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1645786820"
+cm.			86400	IN	TXT	"Generation Time: 1645801224"
 0.cm.			86400	IN	NS	dns1.p01.nsone.net.
 0.cm.			86400	IN	NS	dns2.p01.nsone.net.
 0.cm.			86400	IN	NS	dns3.p01.nsone.net.
@@ -23561,6 +23561,8 @@ cameroonmagazine.cm.	86400	IN	NS	alina.ns.cloudflare.com.
 cameroonmagazine.cm.	86400	IN	NS	apollo.ns.cloudflare.com.
 cameroonpower.cm.	86400	IN	NS	ns01.domaincontrol.com.
 cameroonpower.cm.	86400	IN	NS	ns02.domaincontrol.com.
+cameroonpp22.cm.	86400	IN	NS	kim.camnet.cm.
+cameroonpp22.cm.	86400	IN	NS	mbam.camnet.cm.
 cameroonproducts.cm.	86400	IN	NS	ns1.camoogroup.com.
 cameroonproducts.cm.	86400	IN	NS	ns2.camoogroup.com.
 cameroonservices.cm.	86400	IN	NS	sv1.worldvoice.eu.
@@ -25551,6 +25553,9 @@ chengdu.cm.		86400	IN	NS	ns1.4.cn.
 chengdu.cm.		86400	IN	NS	ns2.4.cn.
 chengxin.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
 chengxin.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
+chenosis.cm.		86400	IN	NS	ns1.lexsynergy.net.
+chenosis.cm.		86400	IN	NS	ns2.lexsynergy.us.
+chenosis.cm.		86400	IN	NS	ns3.lexsynergy.info.
 chercher.cm.		86400	IN	NS	ns1191.ispapi.net.
 chercher.cm.		86400	IN	NS	ns2186.ispapi.net.
 chercher.cm.		86400	IN	NS	ns3174.ispapi.net.
@@ -58319,8 +58324,8 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
@@ -78506,8 +78511,10 @@ travelboutiqueonline.cm. 86400	IN	NS	ns1.bodis.com.
 travelboutiqueonline.cm. 86400	IN	NS	ns2.bodis.com.
 travelchannel.cm.	86400	IN	NS	ns1.parkingcrew.net.
 travelchannel.cm.	86400	IN	NS	ns2.parkingcrew.net.
-travelclick.cm.		86400	IN	NS	ns1.markmonitor.com.
-travelclick.cm.		86400	IN	NS	ns3.markmonitor.com.
+travelclick.cm.		86400	IN	NS	ns1.ascio.com.
+travelclick.cm.		86400	IN	NS	ns2.ascio.com.
+travelclick.cm.		86400	IN	NS	ns3.ascio.com.
+travelclick.cm.		86400	IN	NS	ns4.ascio.com.
 travelers.cm.		86400	IN	NS	ns1.hastydns.com.
 travelers.cm.		86400	IN	NS	ns2.hastydns.com.
 travelex.cm.		86400	IN	NS	ns1.above.com.
@@ -87244,4 +87251,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022509 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022512 28800 3600 604800 86400
