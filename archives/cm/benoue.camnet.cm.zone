@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022412 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022418 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1645704014"
+cm.			86400	IN	TXT	"Generation Time: 1645725622"
 0.cm.			86400	IN	NS	dns1.p01.nsone.net.
 0.cm.			86400	IN	NS	dns2.p01.nsone.net.
 0.cm.			86400	IN	NS	dns3.p01.nsone.net.
@@ -20498,6 +20498,9 @@ biometrics.cm.		86400	IN	NS	ns3.above.com.
 biometrics.cm.		86400	IN	NS	ns4.above.com.
 bionluk.cm.		86400	IN	NS	ns1.bodis.com.
 bionluk.cm.		86400	IN	NS	ns2.bodis.com.
+biontech.cm.		86400	IN	NS	ns.udag.de.
+biontech.cm.		86400	IN	NS	ns.udag.net.
+biontech.cm.		86400	IN	NS	ns.udag.org.
 biooil.cm.		86400	IN	NS	ns1.markmonitor.com.
 biooil.cm.		86400	IN	NS	ns2.markmonitor.com.
 biooil.cm.		86400	IN	NS	ns3.markmonitor.com.
@@ -27341,6 +27344,8 @@ communeombessa.cm.	86400	IN	NS	ns1.blogvisa.com.
 communeombessa.cm.	86400	IN	NS	ns2.blogvisa.com.
 communezoetele.cm.	86400	IN	NS	cpanel11.lws-hosting.com.
 communezoetele.cm.	86400	IN	NS	cpanel12.lws-hosting.com.
+communicationworld.cm.	86400	IN	NS	ns1.mtnbusiness.cm.
+communicationworld.cm.	86400	IN	NS	ns2.mtnbusiness.cm.
 communityarchitect.cm.	86400	IN	NS	authns1.untd.com.
 communityarchitect.cm.	86400	IN	NS	authns2.untd.com.
 communityarchitect.cm.	86400	IN	NS	authns3.untd.com.
@@ -33972,8 +33977,6 @@ enphase.cm.		86400	IN	NS	ns1.smartname.com.
 enphase.cm.		86400	IN	NS	ns2.smartname.com.
 ens.cm.			86400	IN	NS	pdns11.domaincontrol.com.
 ens.cm.			86400	IN	NS	pdns12.domaincontrol.com.
-ens-tp.cm.		86400	IN	NS	ns1.101domain.com.
-ens-tp.cm.		86400	IN	NS	ns2.101domain.com.
 ens-uy1.cm.		86400	IN	NS	ns1.camoogroup.com.
 ens-uy1.cm.		86400	IN	NS	ns2.camoogroup.com.
 ensai-alumni.cm.	86400	IN	NS	ns1.mtnbusiness.cm.
@@ -36445,8 +36448,6 @@ files.cm.		86400	IN	NS	ns1.parkingcrew.net.
 files.cm.		86400	IN	NS	ns2.parkingcrew.net.
 filescdn.cm.		86400	IN	NS	ns1.bodis.com.
 filescdn.cm.		86400	IN	NS	ns2.bodis.com.
-fileshare.cm.		86400	IN	NS	ns1.clo.xelgrp.com.
-fileshare.cm.		86400	IN	NS	ns2.clo.xelgrp.com.
 filigrane.cm.		86400	IN	NS	ns-cloud-a1.googledomains.com.
 filigrane.cm.		86400	IN	NS	ns-cloud-a2.googledomains.com.
 filigrane.cm.		86400	IN	NS	ns-cloud-a3.googledomains.com.
@@ -55536,8 +55537,6 @@ mimoshop.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
 mimoshop.cm.		86400	IN	NS	ns2.mtnbusiness.cm.
 min.cm.			86400	IN	NS	ns1.create.com.
 min.cm.			86400	IN	NS	ns2.create.com.
-min-epia.cm.		86400	IN	NS	ns1.101domain.com.
-min-epia.cm.		86400	IN	NS	ns2.101domain.com.
 minac.cm.		86400	IN	NS	cpanel5.lws-hosting.com.
 minac.cm.		86400	IN	NS	cpanel6.lws-hosting.com.
 minader.cm.		86400	IN	NS	kim.camnet.cm.
@@ -56290,6 +56289,9 @@ momo.cm.		86400	IN	NS	meg.ns.cloudflare.com.
 momo.cm.		86400	IN	NS	denver.ns.cloudflare.com.
 momojeandedieu.cm.	86400	IN	NS	gerardo.ns.cloudflare.com.
 momojeandedieu.cm.	86400	IN	NS	raphaela.ns.cloudflare.com.
+momomarket.cm.		86400	IN	NS	ns1.lexsynergy.net.
+momomarket.cm.		86400	IN	NS	ns2.lexsynergy.us.
+momomarket.cm.		86400	IN	NS	ns3.lexsynergy.info.
 momondo.cm.		86400	IN	NS	ns1.bodis.com.
 momondo.cm.		86400	IN	NS	ns2.bodis.com.
 momotracker.cm.		86400	IN	NS	dns1.namecheaphosting.com.
@@ -82695,6 +82697,8 @@ webnic.cm.		86400	IN	NS	ns1.ezydomain.com.
 webnic.cm.		86400	IN	NS	ns2.ezydomain.com.
 webnode.cm.		86400	IN	NS	ns1.bodis.com.
 webnode.cm.		86400	IN	NS	ns2.bodis.com.
+webover.cm.		86400	IN	NS	ns1.camoogroup.com.
+webover.cm.		86400	IN	NS	ns2.camoogroup.com.
 webpage.cm.		86400	IN	NS	ns1.squadhelp.com.
 webpage.cm.		86400	IN	NS	ns2.squadhelp.com.
 webproof.cm.		86400	IN	NS	ns1.instradns.com.
@@ -87253,4 +87257,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022412 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022418 28800 3600 604800 86400
