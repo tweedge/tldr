@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022519 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022606 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1645826422"
+cm.			86400	IN	TXT	"Generation Time: 1645851622"
 0.cm.			86400	IN	NS	dns1.p01.nsone.net.
 0.cm.			86400	IN	NS	dns2.p01.nsone.net.
 0.cm.			86400	IN	NS	dns3.p01.nsone.net.
@@ -34722,6 +34722,10 @@ etsy.cm.		86400	IN	NS	ns-1212.awsdns-23.org.
 etsy.cm.		86400	IN	NS	ns-2042.awsdns-63.co.uk.
 ett.cm.			86400	IN	NS	ns1.parkingcrew.net.
 ett.cm.			86400	IN	NS	ns2.parkingcrew.net.
+etu.cm.			86400	IN	NS	ns-438.awsdns-54.com.
+etu.cm.			86400	IN	NS	ns-720.awsdns-26.net.
+etu.cm.			86400	IN	NS	ns-1355.awsdns-41.org.
+etu.cm.			86400	IN	NS	ns-1960.awsdns-53.co.uk.
 etudierenfrance.cm.	86400	IN	NS	ns1.o2switch.net.
 etudierenfrance.cm.	86400	IN	NS	ns2.o2switch.net.
 etuovi.cm.		86400	IN	NS	ns17.above.com.
@@ -58335,8 +58339,8 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
@@ -65213,8 +65217,6 @@ premier-rewards.cm.	86400	IN	NS	ns1.bodis.com.
 premier-rewards.cm.	86400	IN	NS	ns2.bodis.com.
 premier6.cm.		86400	IN	NS	arya.ns.cloudflare.com.
 premier6.cm.		86400	IN	NS	will.ns.cloudflare.com.
-premierbe.cm.		86400	IN	NS	ns17.above.com.
-premierbe.cm.		86400	IN	NS	ns18.above.com.
 premierbet.cm.		86400	IN	NS	donald.ns.cloudflare.com.
 premierbet.cm.		86400	IN	NS	karina.ns.cloudflare.com.
 premierbetloto.cm.	86400	IN	NS	donald.ns.cloudflare.com.
@@ -66798,8 +66800,8 @@ qwq.cm.			86400	IN	NS	owen.ns.cloudflare.com.
 qwq.cm.			86400	IN	NS	paityn.ns.cloudflare.com.
 qx.cm.			86400	IN	NS	ns1.dns.com.
 qx.cm.			86400	IN	NS	ns2.dns.com.
-qxc.cm.			86400	IN	NS	ns1.dan.com.
-qxc.cm.			86400	IN	NS	ns2.dan.com.
+qxc.cm.			86400	IN	NS	andrea.dnspod.net.
+qxc.cm.			86400	IN	NS	hayden.dnspod.net.
 qy.cm.			86400	IN	NS	ns1.4.cn.
 qy.cm.			86400	IN	NS	ns2.4.cn.
 qy888.cm.		86400	IN	NS	ns1.cloud-dns.net.
@@ -79955,9 +79957,6 @@ uniccc.cm.		86400	IN	NS	dns1.namecheaphosting.com.
 uniccc.cm.		86400	IN	NS	dns2.namecheaphosting.com.
 uniccshop.cm.		86400	IN	NS	a.dnspod.com.
 uniccshop.cm.		86400	IN	NS	c.dnspod.com.
-uniccshop-bazar.cm.	86400	IN	NS	a.dnspod.com.
-uniccshop-bazar.cm.	86400	IN	NS	b.dnspod.com.
-uniccshop-bazar.cm.	86400	IN	NS	c.dnspod.com.
 uniccv.cm.		86400	IN	NS	ns41.hosterbox.com.
 uniccv.cm.		86400	IN	NS	ns42.hosterbox.com.
 unice.cm.		86400	IN	NS	ns1.parkingcrew.net.
@@ -85759,8 +85758,6 @@ yc58.cm.		86400	IN	NS	matt.ns.cloudflare.com.
 yc58.cm.		86400	IN	NS	stevie.ns.cloudflare.com.
 ych.cm.			86400	IN	NS	ns1.bodis.com.
 ych.cm.			86400	IN	NS	ns2.bodis.com.
-ycmc.cm.		86400	IN	NS	152.ns1.above.com.
-ycmc.cm.		86400	IN	NS	152.ns2.above.com.
 ycnews.cm.		86400	IN	NS	sreeni.ns.cloudflare.com.
 ycnews.cm.		86400	IN	NS	venkat.ns.cloudflare.com.
 ycombinator.cm.		86400	IN	NS	ns3.above.com.
@@ -87264,4 +87261,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022519 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022022606 28800 3600 604800 86400
