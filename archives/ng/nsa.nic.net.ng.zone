@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022022605 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1645837453"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022022609 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1645844764"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -26530,6 +26530,8 @@ gbraci.ng.		3600	IN	NS	ns1.phase8.net.
 gbraci.ng.		3600	IN	NS	ns2.phase8.net.
 gbs.ng.			3600	IN	NS	ns1.lanrepedro.com.
 gbs.ng.			3600	IN	NS	ns2.lanrepedro.com.
+gbsl.ng.		3600	IN	NS	ns21.hostripples.com.
+gbsl.ng.		3600	IN	NS	ns22.hostripples.com.
 gbstore.ng.		3600	IN	NS	nsa.whogohost.com.
 gbstore.ng.		3600	IN	NS	nsb.whogohost.com.
 gbt.ng.			3600	IN	NS	ns1.lexsynergy.net.
@@ -29018,6 +29020,9 @@ halvest.ng.		3600	IN	NS	ns4.web4africa.com.
 halvi.ng.		3600	IN	NS	ns1.digitalocean.com.
 halvi.ng.		3600	IN	NS	ns2.digitalocean.com.
 halvi.ng.		3600	IN	NS	ns3.digitalocean.com.
+hamir.ng.		3600	IN	NS	ns1.site4now.net.
+hamir.ng.		3600	IN	NS	ns2.site4now.net.
+hamir.ng.		3600	IN	NS	ns3.site4now.net.
 hamleys.ng.		3600	IN	NS	ns1.netnames.net.
 hamleys.ng.		3600	IN	NS	ns2.netnames.net.
 hamleys.ng.		3600	IN	NS	ns5.netnames.net.
@@ -45814,8 +45819,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -63553,8 +63558,9 @@ stockbroker.ng.		3600	IN	NS	nsa.whogohost.com.
 stockbroker.ng.		3600	IN	NS	nsb.whogohost.com.
 stockfish.ng.		3600	IN	NS	ns1.qservers.net.
 stockfish.ng.		3600	IN	NS	ns2.qservers.net.
-stocki.ng.		3600	IN	NS	audrey.ns.cloudflare.com.
-stocki.ng.		3600	IN	NS	mustafa.ns.cloudflare.com.
+stocki.ng.		3600	IN	NS	ns1.dan.com.
+stocki.ng.		3600	IN	NS	ns2.dan.com.
+stocki.ng.		3600	IN	NS	verification-mmtuksyv.ns3.dan.hosting.
 stockmarket.ng.		3600	IN	NS	ns1.bodis.com.
 stockmarket.ng.		3600	IN	NS	ns2.bodis.com.
 stockmarketcollege.ng.	3600	IN	NS	ns1.upperserver29.com.
@@ -75524,4 +75530,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022022605 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022022609 10800 3600 604800 3600
