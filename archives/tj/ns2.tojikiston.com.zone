@@ -1,4 +1,4 @@
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022022805 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022022808 7200 3600 2678400 7200
 tj.			7200	IN	NS	tj.cctld.authdns.ripe.net.
 tj.			7200	IN	NS	ns1.nic.tj.
 tj.			7200	IN	NS	ns2.tojikiston.com.
@@ -2426,6 +2426,8 @@ btaxi.tj.		7200	IN	NS	ns2.ehost.tj.
 btc.tj.			7200	IN	NS	noah.ns.cloudflare.com.
 btc.tj.			7200	IN	NS	molly.ns.cloudflare.com.
 btsu.tj.		7200	IN	NS	ns.tojikiston.com.
+btt.tj.			7200	IN	NS	ns.tojikiston.com.
+btt.tj.			7200	IN	NS	ns1.tojikiston.com.
 bu.tj.			7200	IN	NS	ns.alsan.com.ua.
 bu.tj.			7200	IN	NS	ns.secondary.net.ua.
 bud.tj.			7200	IN	NS	ns.domainnetwork.se.
@@ -4619,6 +4621,8 @@ ds.tj.			7200	IN	NS	ns1.domainparking.ru.
 ds.tj.			7200	IN	NS	ns2.domainparking.ru.
 dsc.tj.			7200	IN	NS	ns1.hosting.reg.ru.
 dsc.tj.			7200	IN	NS	ns2.hosting.reg.ru.
+dshop.tj.		7200	IN	NS	ns1.hosting.reg.ru.
+dshop.tj.		7200	IN	NS	ns2.hosting.reg.ru.
 dspo.tj.		7200	IN	NS	ns.tarena-tj.org.
 dspo.tj.		7200	IN	NS	ns2.tarena.tj.
 dssx.tj.		7200	IN	NS	ns.tarena.tj.
@@ -7051,8 +7055,9 @@ internat-rasht.tj.	7200	IN	NS	ns1.rspd.tj.
 internat-rasht.tj.	7200	IN	NS	ns2.rspd.tj.
 internet.tj.		7200	IN	NS	ns.server.tj.
 internet.tj.		7200	IN	NS	ns2.server.tj.
-internews.tj.		7200	IN	NS	ns1.sprinthost.ru.
-internews.tj.		7200	IN	NS	ns2.sprinthost.ru.
+internews.tj.		7200	IN	NS	ns1.1host.kz.
+internews.tj.		7200	IN	NS	ns2.1host.kz.
+internews.tj.		7200	IN	NS	ns3.1host.kz.
 interno.tj.		7200	IN	NS	ns1.hosting.reg.ru.
 interno.tj.		7200	IN	NS	ns2.hosting.reg.ru.
 interpol.tj.		7200	IN	NS	ns1.netnames.net.
@@ -9369,8 +9374,8 @@ mjtm.tj.		7200	IN	NS	pins1.eastera.tj.
 mjtm.tj.		7200	IN	NS	pins2.eastera.tj.
 mkf.tj.			7200	IN	NS	dns1.yandex.net.
 mkf.tj.			7200	IN	NS	dns2.yandex.net.
-mkgroup.tj.		7200	IN	NS	ns1.ehost.tj.
-mkgroup.tj.		7200	IN	NS	ns2.ehost.tj.
+mkgroup.tj.		7200	IN	NS	ns3.gettj.net.
+mkgroup.tj.		7200	IN	NS	ns4.gettj.net.
 mkn.tj.			7200	IN	NS	ns1.timeweb.ru.
 mkn.tj.			7200	IN	NS	ns3.timeweb.org.
 mkt.tj.			7200	IN	NS	ns.tojikiston.com.
@@ -15808,4 +15813,4 @@ zzap.tj.		7200	IN	NS	ns.abcp.ru.
 zzap.tj.		7200	IN	NS	ns.nodacdn.net.
 zzap.tj.		7200	IN	NS	ns3.abcp.ru.
 zzap.tj.		7200	IN	NS	ns3.nodacdn.net.
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022022805 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022022808 7200 3600 2678400 7200
