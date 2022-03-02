@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022030215 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1646201341"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022030220 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1646212229"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -2676,6 +2676,8 @@ aiontechnologies.ng.	3600	IN	NS	ns2.dns-parking.com.
 aipl.ng.		3600	IN	NS	ns1.gigalayer.com.
 aipl.ng.		3600	IN	NS	ns2.gigalayer.com.
 aipl.ng.		3600	IN	NS	ns3.gigalayer.com.
+aipower.ng.		3600	IN	NS	ns1.gxkjdns.com.
+aipower.ng.		3600	IN	NS	ns2.gxkjdns.com.
 aiq.ng.			3600	IN	NS	vin.ns.cloudflare.com.
 aiq.ng.			3600	IN	NS	carrera.ns.cloudflare.com.
 air.ng.			3600	IN	NS	ns1.parkingcrew.net.
@@ -12757,6 +12759,8 @@ checkmypeople.ng.	3600	IN	NS	ns1.upperserver29.com.
 checkmypeople.ng.	3600	IN	NS	ns2.upperserver29.com.
 checkmypipo.ng.		3600	IN	NS	ns1.upperserver29.com.
 checkmypipo.ng.		3600	IN	NS	ns2.upperserver29.com.
+checknaija.ng.		3600	IN	NS	ns1.access360.africa.
+checknaija.ng.		3600	IN	NS	ns2.access360.africa.
 checknin.ng.		3600	IN	NS	ns-64.awsdns-08.com.
 checknin.ng.		3600	IN	NS	ns-541.awsdns-03.net.
 checknin.ng.		3600	IN	NS	ns-1258.awsdns-29.org.
@@ -14572,6 +14576,8 @@ composi.ng.		3600	IN	NS	a.ns.kesim.org.
 composi.ng.		3600	IN	NS	b.ns.kesim.org.
 compound.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 compound.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+computax.ng.		3600	IN	NS	nsa.whogohost.com.
+computax.ng.		3600	IN	NS	nsb.whogohost.com.
 computdreams.ng.	3600	IN	NS	ns15.doveserver.com.
 computdreams.ng.	3600	IN	NS	ns16.doveserver.com.
 computer.ng.		3600	IN	NS	ns1.dknoc.com.
@@ -20369,6 +20375,8 @@ edunation.ng.		3600	IN	NS	ns1.web4africa.com.
 edunation.ng.		3600	IN	NS	ns2.web4africa.com.
 edunation.ng.		3600	IN	NS	ns3.web4africa.com.
 edunation.ng.		3600	IN	NS	ns4.web4africa.com.
+eduos.ng.		3600	IN	NS	nsa.whogohost.com.
+eduos.ng.		3600	IN	NS	nsb.whogohost.com.
 edupad.ng.		3600	IN	NS	nsa.whogohost.com.
 edupad.ng.		3600	IN	NS	nsb.whogohost.com.
 edupaypoint.ng.		3600	IN	NS	freedns1.registrar-servers.com.
@@ -24175,10 +24183,10 @@ firescape.ng.		3600	IN	NS	ns1.globalspectrumltd.com.
 firescape.ng.		3600	IN	NS	ns2.globalspectrumltd.com.
 firestone.ng.		3600	IN	NS	rns1.rightsdns.com.
 firestone.ng.		3600	IN	NS	rns2.rightsdns.com.
-fireworx.ng.		3600	IN	NS	ns-359.awsdns-44.com.
-fireworx.ng.		3600	IN	NS	ns-533.awsdns-02.net.
-fireworx.ng.		3600	IN	NS	ns-1312.awsdns-36.org.
-fireworx.ng.		3600	IN	NS	ns-1649.awsdns-14.co.uk.
+fireworx.ng.		3600	IN	NS	ns-150.awsdns-18.com.
+fireworx.ng.		3600	IN	NS	ns-827.awsdns-39.net.
+fireworx.ng.		3600	IN	NS	ns-1510.awsdns-60.org.
+fireworx.ng.		3600	IN	NS	ns-1934.awsdns-49.co.uk.
 firialta.ng.		3600	IN	NS	pdns1.cscdns.net.
 firialta.ng.		3600	IN	NS	pdns2.cscdns.net.
 firm.ng.		3600	IN	NS	ns1.nic.ltd.ng.
@@ -26723,6 +26731,8 @@ genuinewatches.ng.	3600	IN	NS	nsa.whogohost.com.
 genuinewatches.ng.	3600	IN	NS	nsb.whogohost.com.
 genuss.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 genuss.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+geo.ng.			3600	IN	NS	ns1.parkingcrew.net.
+geo.ng.			3600	IN	NS	ns2.parkingcrew.net.
 geoanalytica.ng.	3600	IN	NS	ns1.host-e.com.
 geoanalytica.ng.	3600	IN	NS	ns2.host-e.com.
 geocachi.ng.		3600	IN	NS	ns.toivola.name.
@@ -34386,6 +34396,8 @@ jktechnologies.ng.	3600	IN	NS	ns2.digitalocean.com.
 jktechnologies.ng.	3600	IN	NS	ns3.digitalocean.com.
 jll.ng.			3600	IN	NS	ns1.sedoparking.com.
 jll.ng.			3600	IN	NS	ns2.sedoparking.com.
+jmarkventure.ng.	3600	IN	NS	ns5.doveserver.com.
+jmarkventure.ng.	3600	IN	NS	ns6.doveserver.com.
 jmc.ng.			3600	IN	NS	nsa.whogohost.com.
 jmc.ng.			3600	IN	NS	nsb.whogohost.com.
 jmp.ng.			3600	IN	NS	ns29.doveserver.com.
@@ -34622,6 +34634,8 @@ johnsonandwilner.ng.	3600	IN	NS	ns72.domaincontrol.com.
 johnsonsbaby.ng.	3600	IN	NS	ns1.jnj.com.
 johnsonsbaby.ng.	3600	IN	NS	ns3.jnj.com.
 johnsonsbaby.ng.	3600	IN	NS	ns5.jnj.com.
+johnsonsuleman.ng.	3600	IN	NS	nsa.whogohost.com.
+johnsonsuleman.ng.	3600	IN	NS	nsb.whogohost.com.
 joinapc.ng.		3600	IN	NS	ns1.qservers.net.
 joinapc.ng.		3600	IN	NS	ns2.qservers.net.
 joini.ng.		3600	IN	NS	kara.ns.cloudflare.com.
@@ -53963,6 +53977,8 @@ propertyconnect.ng.	3600	IN	NS	ns1.dns-parking.com.
 propertyconnect.ng.	3600	IN	NS	ns2.dns-parking.com.
 propertydatabase.ng.	3600	IN	NS	ns1.upperserver29.com.
 propertydatabase.ng.	3600	IN	NS	ns2.upperserver29.com.
+propertydeal.ng.	3600	IN	NS	dns1.namecheaphosting.com.
+propertydeal.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 propertydirect.ng.	3600	IN	NS	nsa.whogohost.com.
 propertydirect.ng.	3600	IN	NS	nsb.whogohost.com.
 propertydiva.ng.	3600	IN	NS	ns49.qservers.net.
@@ -64698,10 +64714,8 @@ swordpress.ng.		3600	IN	NS	ns1.supercp.com.
 swordpress.ng.		3600	IN	NS	ns2.supercp.com.
 swot.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 swot.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-swottech.ng.		3600	IN	NS	ns1.swottech.ng.
-swottech.ng.		3600	IN	NS	ns2.swottech.ng.
-ns1.swottech.ng.	3600	IN	A	102.164.36.211
-ns2.swottech.ng.	3600	IN	A	102.164.36.211
+swottech.ng.		3600	IN	NS	nsa.whogohost.com.
+swottech.ng.		3600	IN	NS	nsb.whogohost.com.
 swu.ng.			3600	IN	NS	ns1.eurodns.com.
 swu.ng.			3600	IN	NS	ns2.eurodns.com.
 swu.ng.			3600	IN	NS	ns3.eurodns.com.
@@ -75535,4 +75549,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022030215 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022030220 10800 3600 604800 3600
