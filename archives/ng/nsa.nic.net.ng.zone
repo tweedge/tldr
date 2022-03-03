@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022030327 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1646312438"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022030333 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1646323225"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -5777,6 +5777,8 @@ avenatechnologies.ng.	3600	IN	NS	ns2.dreamhost.com.
 avenatechnologies.ng.	3600	IN	NS	ns3.dreamhost.com.
 avenue.ng.		3600	IN	NS	nsa.whogohost.com.
 avenue.ng.		3600	IN	NS	nsb.whogohost.com.
+avenue7.ng.		3600	IN	NS	ns1.bluehost.com.
+avenue7.ng.		3600	IN	NS	ns2.bluehost.com.
 averyavenue.ng.		3600	IN	NS	ns1.bluehost.com.
 averyavenue.ng.		3600	IN	NS	ns2.bluehost.com.
 avezaenergy.ng.		3600	IN	NS	ns1.bergehost.com.
@@ -11789,6 +11791,8 @@ carrefour.ng.		3600	IN	NS	ns1.eu.rrpproxy.net.
 carrefour.ng.		3600	IN	NS	ns2.eu.rrpproxy.net.
 carrefour.ng.		3600	IN	NS	antor.carrefour.com.
 carrefour.ng.		3600	IN	NS	pendragon.carrefour.com.
+carrent.ng.		3600	IN	NS	nsa.whogohost.com.
+carrent.ng.		3600	IN	NS	nsb.whogohost.com.
 carrera.ng.		3600	IN	NS	dns.porsche.ch.
 carrera.ng.		3600	IN	NS	dns.porsche.de.
 carrera.ng.		3600	IN	NS	dns.porsche.com.
@@ -26284,6 +26288,8 @@ gainaffiliate.ng.	3600	IN	NS	dns1.cscdns.net.
 gainaffiliate.ng.	3600	IN	NS	dns2.cscdns.net.
 gaincapital.ng.		3600	IN	NS	dns1.cscdns.net.
 gaincapital.ng.		3600	IN	NS	dns2.cscdns.net.
+gainmoni.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+gainmoni.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 gainvest.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 gainvest.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 gainz.ng.		3600	IN	NS	ns1.web4africa.com.
@@ -26560,8 +26566,8 @@ gbs.ng.			3600	IN	NS	ns1.lanrepedro.com.
 gbs.ng.			3600	IN	NS	ns2.lanrepedro.com.
 gbsl.ng.		3600	IN	NS	ns21.hostripples.com.
 gbsl.ng.		3600	IN	NS	ns22.hostripples.com.
-gbstore.ng.		3600	IN	NS	nsa.whogohost.com.
-gbstore.ng.		3600	IN	NS	nsb.whogohost.com.
+gbstore.ng.		3600	IN	NS	ns1.dns-parking.com.
+gbstore.ng.		3600	IN	NS	ns2.dns-parking.com.
 gbt.ng.			3600	IN	NS	ns1.lexsynergy.net.
 gbt.ng.			3600	IN	NS	ns2.lexsynergy.us.
 gbt.ng.			3600	IN	NS	ns3.lexsynergy.info.
@@ -52823,6 +52829,8 @@ ponea.ng.		3600	IN	NS	ns2.cloudoon.com.
 ponea.ng.		3600	IN	NS	ns3.cloudoon.com.
 poolcentre.ng.		3600	IN	NS	nsa.whogohost.com.
 poolcentre.ng.		3600	IN	NS	nsb.whogohost.com.
+poolee.ng.		3600	IN	NS	nsa.whogohost.com.
+poolee.ng.		3600	IN	NS	nsb.whogohost.com.
 poolhaus.ng.		3600	IN	NS	nsa.whogohost.com.
 poolhaus.ng.		3600	IN	NS	nsb.whogohost.com.
 poolinvest.ng.		3600	IN	NS	ns1.qservers.net.
@@ -61381,10 +61389,8 @@ smartspaceiptv.ng.	3600	IN	NS	nsa.whogohost.com.
 smartspaceiptv.ng.	3600	IN	NS	nsb.whogohost.com.
 smartspaces.ng.		3600	IN	NS	nsa.whogohost.com.
 smartspaces.ng.		3600	IN	NS	nsb.whogohost.com.
-smarttech.ng.		3600	IN	NS	ns-457.awsdns-57.com.
-smarttech.ng.		3600	IN	NS	ns-601.awsdns-11.net.
-smarttech.ng.		3600	IN	NS	ns-1490.awsdns-58.org.
-smarttech.ng.		3600	IN	NS	ns-1995.awsdns-57.co.uk.
+smarttech.ng.		3600	IN	NS	ns1.upperserver29.com.
+smarttech.ng.		3600	IN	NS	ns2.upperserver29.com.
 smartticketing.ng.	3600	IN	NS	ns35.qservers.net.
 smartticketing.ng.	3600	IN	NS	ns36.qservers.net.
 smartvest.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -75627,4 +75633,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022030327 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022030333 10800 3600 604800 3600
