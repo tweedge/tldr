@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022030412 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022030414 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1646391612"
+cm.			86400	IN	TXT	"Generation Time: 1646398819"
 0.cm.			86400	IN	NS	dns1.p01.nsone.net.
 0.cm.			86400	IN	NS	dns2.p01.nsone.net.
 0.cm.			86400	IN	NS	dns3.p01.nsone.net.
@@ -3282,6 +3282,8 @@ cm.			86400	IN	TXT	"Generation Time: 1646391612"
 2466.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 2467.cm.		86400	IN	NS	david.ns.cloudflare.com.
 2467.cm.		86400	IN	NS	heather.ns.cloudflare.com.
+2468.cm.		86400	IN	NS	zoe.ns.cloudflare.com.
+2468.cm.		86400	IN	NS	bryce.ns.cloudflare.com.
 2469.cm.		86400	IN	NS	yoxall.ns.cloudflare.com.
 2469.cm.		86400	IN	NS	jasmine.ns.cloudflare.com.
 246sq.cm.		86400	IN	NS	170.ns1.above.com.
@@ -41096,6 +41098,8 @@ h7.cm.			86400	IN	NS	vip1.alidns.com.
 h7.cm.			86400	IN	NS	vip2.alidns.com.
 h7088.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
 h7088.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
+h73.cm.			86400	IN	NS	bjorn.ns.cloudflare.com.
+h73.cm.			86400	IN	NS	kinsley.ns.cloudflare.com.
 h8.cm.			86400	IN	NS	chad.ns.cloudflare.com.
 h8.cm.			86400	IN	NS	samara.ns.cloudflare.com.
 h8088.cm.		86400	IN	NS	ns1.dns.com.
@@ -87096,4 +87100,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022030412 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022030414 28800 3600 604800 86400
