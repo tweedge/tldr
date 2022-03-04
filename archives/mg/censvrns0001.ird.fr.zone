@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030409 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030415 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1646366490"
+mg.			7200	IN	TXT	"Generation Time: 1646377279"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -4059,8 +4059,6 @@ foxsports.mg.		86400	IN	NS	ns2.markmonitor.com.
 foxsports.mg.		86400	IN	NS	ns5.markmonitor.com.
 foyers-des-paysans.mg.	86400	IN	NS	ns1.gasyweb.com.
 foyers-des-paysans.mg.	86400	IN	NS	ns2.gasyweb.com.
-fpmantanivao.mg.	86400	IN	NS	ns1.cloudns.io.
-fpmantanivao.mg.	86400	IN	NS	ns2.cloudns.io.
 fpp.mg.			86400	IN	NS	ns1.servermada.com.
 fpp.mg.			86400	IN	NS	ns2.servermada.com.
 fraise-cat.mg.		86400	IN	NS	ns1.da.cloudns.io.
@@ -4473,8 +4471,6 @@ groupeuser.mg.		86400	IN	NS	ns1.hostns.io.
 groupeuser.mg.		86400	IN	NS	ns2.hostns.io.
 groupmedia.mg.		86400	IN	NS	ns1.servermada.com.
 groupmedia.mg.		86400	IN	NS	ns2.servermada.com.
-grouptrimeta.mg.	86400	IN	NS	ns1.servermada.com.
-grouptrimeta.mg.	86400	IN	NS	ns2.servermada.com.
 grund.mg.		86400	IN	NS	ns1.da.cloudns.io.
 grund.mg.		86400	IN	NS	ns2.da.cloudns.io.
 gsimadagascar.mg.	86400	IN	NS	dns1.indritech.biz.
@@ -5997,8 +5993,6 @@ lepatio.mg.		86400	IN	NS	ns1.cloudns.io.
 lepatio.mg.		86400	IN	NS	ns2.cloudns.io.
 lerelais.mg.		86400	IN	NS	katelyn.ns.cloudflare.com.
 lerelais.mg.		86400	IN	NS	matt.ns.cloudflare.com.
-leroyalpalace.mg.	86400	IN	NS	dns1.indritech.biz.
-leroyalpalace.mg.	86400	IN	NS	dns2.indritech.biz.
 leroymerlin.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 leroymerlin.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 leroymerlin.mg.		86400	IN	NS	ns1.fr.malagasy.com.
@@ -6351,8 +6345,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -6635,9 +6629,6 @@ marotohananymaro.mg.	86400	IN	NS	ns1.da.cloudns.io.
 marotohananymaro.mg.	86400	IN	NS	ns2.da.cloudns.io.
 masaka.mg.		86400	IN	NS	major.ns.cloudflare.com.
 masaka.mg.		86400	IN	NS	raegan.ns.cloudflare.com.
-masc-mahajanga.mg.	86400	IN	NS	ns1.indritech.mg.
-masc-mahajanga.mg.	86400	IN	NS	ns2.indritech.mg.
-masc-mahajanga.mg.	86400	IN	NS	ns3.indritech.mg.
 masecurite.mg.		86400	IN	NS	ns1.damanager.xyz.
 masecurite.mg.		86400	IN	NS	ns2.damanager.xyz.
 masikita.mg.		86400	IN	NS	nsa.planethoster.net.
@@ -7498,8 +7489,8 @@ nostra.mg.		86400	IN	NS	ns29.dot.mg.
 nostra.mg.		86400	IN	NS	ns29.illi.co.mg.
 nosy-mada-tours.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 nosy-mada-tours.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
-nosybe.mg.		86400	IN	NS	dns1.supremepanel.com.
-nosybe.mg.		86400	IN	NS	dns2.supremepanel.com.
+nosybe.mg.		86400	IN	NS	ns1.da.cloudns.io.
+nosybe.mg.		86400	IN	NS	ns2.da.cloudns.io.
 nosysaba.mg.		86400	IN	NS	ns1.servermada.com.
 nosysaba.mg.		86400	IN	NS	ns2.servermada.com.
 notaires.mg.		86400	IN	NS	ns.dts.mg.
@@ -10435,8 +10426,6 @@ trimeta-agrofood.mg.	86400	IN	NS	ns1.cloudns.io.
 trimeta-agrofood.mg.	86400	IN	NS	ns2.cloudns.io.
 trimetagroup.mg.	86400	IN	NS	ns1.da.cloudns.io.
 trimetagroup.mg.	86400	IN	NS	ns2.da.cloudns.io.
-trimetagroupe.mg.	86400	IN	NS	ns1.servermada.com.
-trimetagroupe.mg.	86400	IN	NS	ns2.servermada.com.
 trimobe.mg.		86400	IN	NS	dns107.ovh.net.
 trimobe.mg.		86400	IN	NS	ns107.ovh.net.
 triumph.mg.		86400	IN	NS	dns108.ovh.net.
@@ -11401,4 +11390,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030409 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030415 600 3600 604800 86400
