@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022030612 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022030700 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1646564421"
+cm.			86400	IN	TXT	"Generation Time: 1646640010"
 0.cm.			86400	IN	NS	dns1.p01.nsone.net.
 0.cm.			86400	IN	NS	dns2.p01.nsone.net.
 0.cm.			86400	IN	NS	dns3.p01.nsone.net.
@@ -14725,11 +14725,6 @@ ajuricaba.cm.		86400	IN	NS	ns1.parkingcrew.net.
 ajuricaba.cm.		86400	IN	NS	ns2.parkingcrew.net.
 ak.cm.			86400	IN	NS	ns1.4.cn.
 ak.cm.			86400	IN	NS	ns2.4.cn.
-aka.cm.			86400	IN	NS	dome.ns4.mydns.center.
-aka.cm.			86400	IN	NS	cascade.ns1.mydns.center.
-aka.cm.			86400	IN	NS	glacier.ns3.mydns.center.
-aka.cm.			86400	IN	NS	rainier.ns2.mydns.center.
-aka.cm.			86400	IN	NS	eldorado.ns5.mydns.center.
 akamai.cm.		86400	IN	NS	ns1.bodis.com.
 akamai.cm.		86400	IN	NS	ns2.bodis.com.
 akamasoft.cm.		86400	IN	NS	ns1.mtnbusiness.cm.
@@ -44335,8 +44330,8 @@ icly.cm.		86400	IN	NS	ns1.globexcamhost.com.
 icly.cm.		86400	IN	NS	ns2.globexcamhost.com.
 icm.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 icm.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
-icmarkets.cm.		86400	IN	NS	andrea.dnspod.net.
-icmarkets.cm.		86400	IN	NS	hayden.dnspod.net.
+icmarkets.cm.		86400	IN	NS	sky.ns.cloudflare.com.
+icmarkets.cm.		86400	IN	NS	etienne.ns.cloudflare.com.
 ico.cm.			86400	IN	NS	gail.ns.cloudflare.com.
 ico.cm.			86400	IN	NS	matt.ns.cloudflare.com.
 icoalert.cm.		86400	IN	NS	ns17.above.com.
@@ -58250,8 +58245,8 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
+ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
@@ -63610,9 +63605,6 @@ phaya.cm.		86400	IN	NS	ns11.lwsdns.com.
 phaya.cm.		86400	IN	NS	ns12.lwsdns.com.
 phd.cm.			86400	IN	NS	ns1.bodis.com.
 phd.cm.			86400	IN	NS	ns2.bodis.com.
-phemex.cm.		86400	IN	NS	ns1194.ispapi.net.
-phemex.cm.		86400	IN	NS	ns2219.ispapi.net.
-phemex.cm.		86400	IN	NS	ns3189.ispapi.net.
 phhmortgage.cm.		86400	IN	NS	ns1.above.com.
 phhmortgage.cm.		86400	IN	NS	ns2.above.com.
 phi.cm.			86400	IN	NS	dns1.registrar-servers.com.
@@ -69783,10 +69775,6 @@ sav.cm.			86400	IN	NS	ns17.above.com.
 sav.cm.			86400	IN	NS	ns18.above.com.
 savagex.cm.		86400	IN	NS	581.ns1.above.com.
 savagex.cm.		86400	IN	NS	581.ns2.above.com.
-savalo.cm.		86400	IN	NS	ns17.lwsdns.com.
-savalo.cm.		86400	IN	NS	ns18.lwsdns.com.
-savalo.cm.		86400	IN	NS	ns19.lwsdns.com.
-savalo.cm.		86400	IN	NS	ns20.lwsdns.com.
 savannah-energy.cm.	86400	IN	NS	ns1.netim.net.
 savannah-energy.cm.	86400	IN	NS	ns2.netim.net.
 savannah-energy.cm.	86400	IN	NS	ns3.netim.net.
@@ -87126,4 +87114,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022030612 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022030700 28800 3600 604800 86400
