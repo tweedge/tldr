@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030909 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030915 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1646798487"
+mg.			7200	IN	TXT	"Generation Time: 1646809291"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -6661,9 +6661,8 @@ mastodon.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 mastodon.mg.		86400	IN	NS	ns1.fr.malagasy.com.
 mat.mg.			86400	IN	NS	ns1.cloudns.io.
 mat.mg.			86400	IN	NS	ns2.cloudns.io.
-matac-madagascar.mg.	86400	IN	NS	ns1.contabo.net.
-matac-madagascar.mg.	86400	IN	NS	ns2.contabo.net.
-matac-madagascar.mg.	86400	IN	NS	ns3.contabo.net.
+matac-madagascar.mg.	86400	IN	NS	leland.ns.cloudflare.com.
+matac-madagascar.mg.	86400	IN	NS	nataly.ns.cloudflare.com.
 mate.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 mate.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 mate.mg.		86400	IN	NS	ns1.fr.malagasy.com.
@@ -8812,8 +8811,6 @@ reup.mg.		86400	IN	NS	b.ns.reup.cloud.
 reup.mg.		86400	IN	NS	c.ns.reup.cloud.
 reup.mg.		86400	IN	NS	d.ns.reup.cloud.
 reup.mg.		86400	IN	NS	e.ns.reup.cloud.
-revedecouverte.mg.	86400	IN	NS	ns29.dot.mg.
-revedecouverte.mg.	86400	IN	NS	ns29.illi.co.mg.
 revlon.mg.		86400	IN	NS	ns1.markmonitor.com.
 revlon.mg.		86400	IN	NS	ns3.markmonitor.com.
 rexroth.mg.		86400	IN	NS	gwa.fe.bosch.de.
@@ -10252,6 +10249,8 @@ timeshare.mg.		86400	IN	NS	ns1.sahazamarline.net.
 timeshare.mg.		86400	IN	NS	ns2.sahazamarline.net.
 tisinday.mg.		86400	IN	NS	ns.dts.mg.
 tisinday.mg.		86400	IN	NS	ns1.dts.mg.
+titan.mg.		86400	IN	NS	katelyn.ns.cloudflare.com.
+titan.mg.		86400	IN	NS	matt.ns.cloudflare.com.
 titrepublic.mg.		86400	IN	NS	ns.dts.mg.
 titrepublic.mg.		86400	IN	NS	ns1.dts.mg.
 tls-vigie.mg.		86400	IN	NS	ns.dts.mg.
@@ -10674,8 +10673,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -10930,9 +10929,8 @@ voakajy.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 voakajy.mg.		86400	IN	NS	ns1.fr.malagasy.com.
 voiedunefemme.mg.	86400	IN	NS	ns1.mada-webhosting.com.
 voiedunefemme.mg.	86400	IN	NS	ns2.mada-webhosting.com.
-voiladoc.mg.		86400	IN	NS	ns1.francedns.com.
-voiladoc.mg.		86400	IN	NS	ns2.francedns.com.
-voiladoc.mg.		86400	IN	NS	ns3.francedns.com.
+voiladoc.mg.		86400	IN	NS	ns1.dns-parking.com.
+voiladoc.mg.		86400	IN	NS	ns2.dns-parking.com.
 vokatsoa.mg.		86400	IN	NS	ns1.da.cloudns.io.
 vokatsoa.mg.		86400	IN	NS	ns2.da.cloudns.io.
 vola.mg.		86400	IN	NS	drew.ns.cloudflare.com.
@@ -11401,4 +11399,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030909 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030915 600 3600 604800 86400
