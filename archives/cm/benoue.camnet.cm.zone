@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022031115 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022031120 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1647007211"
+cm.			86400	IN	TXT	"Generation Time: 1647032422"
 0.cm.			86400	IN	NS	dns1.p01.nsone.net.
 0.cm.			86400	IN	NS	dns2.p01.nsone.net.
 0.cm.			86400	IN	NS	dns3.p01.nsone.net.
@@ -29400,6 +29400,8 @@ deri.cm.		86400	IN	NS	ns7.alidns.com.
 deri.cm.		86400	IN	NS	ns8.alidns.com.
 deribit.cm.		86400	IN	NS	ns1.aftermarket.pl.
 deribit.cm.		86400	IN	NS	ns2.aftermarket.pl.
+derivative.cm.		86400	IN	NS	ns1.bluehost.com.
+derivative.cm.		86400	IN	NS	ns2.bluehost.com.
 dermabond.cm.		86400	IN	NS	ns1.jnj.com.
 dermabond.cm.		86400	IN	NS	ns3.jnj.com.
 dermabond.cm.		86400	IN	NS	ns5.jnj.com.
@@ -56200,6 +56202,10 @@ mp3lio.cm.		86400	IN	NS	ns1.ii51.parklogic.com.
 mp3lio.cm.		86400	IN	NS	ns2.ii51.parklogic.com.
 mp4ba.cm.		86400	IN	NS	ns3.above.com.
 mp4ba.cm.		86400	IN	NS	ns4.above.com.
+mp4moviez.cm.		86400	IN	NS	may.ns.cloudflare.com.
+mp4moviez.cm.		86400	IN	NS	anuj.ns.cloudflare.com.
+mpa.cm.			86400	IN	NS	ns1.camoogroup.com.
+mpa.cm.			86400	IN	NS	ns2.camoogroup.com.
 mpay.cm.		86400	IN	NS	ns1.uniregistrymarket.link.
 mpay.cm.		86400	IN	NS	ns2.uniregistrymarket.link.
 mpb.cm.			86400	IN	NS	ns17.above.com.
@@ -57684,10 +57690,10 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
+ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
 namesilo.cm.		86400	IN	NS	ns2.bodis.com.
 nametests.cm.		86400	IN	NS	ns1.bodis.com.
@@ -68715,8 +68721,8 @@ s-s.cm.			86400	IN	NS	ns9.cdncenter.com.
 s-s.cm.			86400	IN	NS	ns10.cdncenter.com.
 s-s.cm.			86400	IN	NS	ns11.cdncenter.com.
 s-s.cm.			86400	IN	NS	ns12.cdncenter.com.
-s1.cm.			86400	IN	NS	kellen.ns.cloudflare.com.
-s1.cm.			86400	IN	NS	addilyn.ns.cloudflare.com.
+s1.cm.			86400	IN	NS	isla.ns.cloudflare.com.
+s1.cm.			86400	IN	NS	kobe.ns.cloudflare.com.
 s11.cm.			86400	IN	NS	glen.ns.cloudflare.com.
 s11.cm.			86400	IN	NS	addilyn.ns.cloudflare.com.
 s12.cm.			86400	IN	NS	mia.ns.cloudflare.com.
@@ -86667,4 +86673,4 @@ zzzttt.cm.		86400	IN	NS	joyce.dnspod.net.
 zzzttt.cm.		86400	IN	NS	cardboard.dnspod.net.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022031115 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022031120 28800 3600 604800 86400
