@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031226 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1647087213"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031232 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1647098017"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -3489,6 +3489,8 @@ alstom.ng.		3600	IN	NS	ns3.nameshield.net.
 alstom.ng.		3600	IN	NS	obs.ns1.fr.
 alt.ng.			3600	IN	NS	nsa.whogohost.com.
 alt.ng.			3600	IN	NS	nsb.whogohost.com.
+alt360.ng.		3600	IN	NS	ns1.bluehost.com.
+alt360.ng.		3600	IN	NS	ns2.bluehost.com.
 altaco.ng.		3600	IN	NS	ns1.markmonitor.com.
 altaco.ng.		3600	IN	NS	ns2.markmonitor.com.
 altaco.ng.		3600	IN	NS	ns3.markmonitor.com.
@@ -6190,6 +6192,8 @@ baddhia.ng.		3600	IN	NS	nsa.whogohost.com.
 baddhia.ng.		3600	IN	NS	nsb.whogohost.com.
 bademassage.ng.		3600	IN	NS	ns1.cp-ht-11.webhostbox.net.
 bademassage.ng.		3600	IN	NS	ns2.cp-ht-11.webhostbox.net.
+badgermedia.ng.		3600	IN	NS	nsa.whogohost.com.
+badgermedia.ng.		3600	IN	NS	nsb.whogohost.com.
 badmus.ng.		3600	IN	NS	cdns1.interserver.net.
 badmus.ng.		3600	IN	NS	cdns2.interserver.net.
 badnews.ng.		3600	IN	NS	ns1.upperserver29.com.
@@ -20973,8 +20977,8 @@ electronicsvilla.ng.	3600	IN	NS	ns2.digitalocean.com.
 electronicsvilla.ng.	3600	IN	NS	ns3.digitalocean.com.
 elegal.ng.		3600	IN	NS	nsa.whogohost.com.
 elegal.ng.		3600	IN	NS	nsb.whogohost.com.
-elegant.ng.		3600	IN	NS	ns1.qservers.net.
-elegant.ng.		3600	IN	NS	ns2.qservers.net.
+elegant.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+elegant.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 elektra.ng.		3600	IN	NS	nsa.whogohost.com.
 elektra.ng.		3600	IN	NS	nsb.whogohost.com.
 elektraxs.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -32795,8 +32799,8 @@ inomedis.ng.		3600	IN	NS	lara.ns.cloudflare.com.
 inomedis.ng.		3600	IN	NS	alexis.ns.cloudflare.com.
 inovate.ng.		3600	IN	NS	carl.ns.cloudflare.com.
 inovate.ng.		3600	IN	NS	maxine.ns.cloudflare.com.
-inpulsemedia.ng.	3600	IN	NS	ns8637.hostgator.com.
-inpulsemedia.ng.	3600	IN	NS	ns8638.hostgator.com.
+inpulsemedia.ng.	3600	IN	NS	ns6449.hostgator.com.
+inpulsemedia.ng.	3600	IN	NS	ns6450.hostgator.com.
 inqababiotec.ng.	3600	IN	NS	ns1.bdm.microsoftonline.com.
 inqababiotec.ng.	3600	IN	NS	ns2.bdm.microsoftonline.com.
 inreporters.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -36900,8 +36904,8 @@ kupo.ng.		3600	IN	NS	ns3.inbranddns.com.
 kupo.ng.		3600	IN	NS	ns4.inbranddns.com.
 kura365.ng.		3600	IN	NS	ns13.asurahosting.com.
 kura365.ng.		3600	IN	NS	ns14.asurahosting.com.
-kuryaloaded.ng.		3600	IN	NS	dawn.ns.cloudflare.com.
-kuryaloaded.ng.		3600	IN	NS	doug.ns.cloudflare.com.
+kuryaloaded.ng.		3600	IN	NS	da600a.trouble-free.net.
+kuryaloaded.ng.		3600	IN	NS	da600b.trouble-free.net.
 kuuzza.ng.		3600	IN	NS	nsa.whogohost.com.
 kuuzza.ng.		3600	IN	NS	nsb.whogohost.com.
 kuvuki.ng.		3600	IN	NS	ns19.doveserver.com.
@@ -44485,6 +44489,8 @@ myoutlet.ng.		3600	IN	NS	ns1.myoutlet.ng.
 myoutlet.ng.		3600	IN	NS	ns2.myoutlet.ng.
 ns1.myoutlet.ng.	3600	IN	A	162.214.185.213
 ns2.myoutlet.ng.	3600	IN	A	162.214.198.161
+myowlette.ng.		3600	IN	NS	nsa.whogohost.com.
+myowlette.ng.		3600	IN	NS	nsb.whogohost.com.
 myown.ng.		3600	IN	NS	ns1.dkshared.com.
 myown.ng.		3600	IN	NS	ns2.dkshared.com.
 myownlawyer.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -46044,8 +46050,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -55514,6 +55520,8 @@ rampware.ng.		3600	IN	NS	ns3.digitalocean.com.
 rampware-app.ng.	3600	IN	NS	ns1.digitalocean.com.
 rampware-app.ng.	3600	IN	NS	ns2.digitalocean.com.
 rampware-app.ng.	3600	IN	NS	ns3.digitalocean.com.
+ran.ng.			3600	IN	NS	ns7.webline-dns.com.
+ran.ng.			3600	IN	NS	ns8.webline-dns.com.
 ranch.ng.		3600	IN	NS	alan.ns.cloudflare.com.
 ranch.ng.		3600	IN	NS	sofia.ns.cloudflare.com.
 ranchcraft.ng.		3600	IN	NS	dns1.doveserver.com.
@@ -70854,6 +70862,8 @@ validata.ng.		3600	IN	NS	ns-1253.awsdns-28.org.
 validata.ng.		3600	IN	NS	ns-1909.awsdns-46.co.uk.
 validate.ng.		3600	IN	NS	ns1.upperserver29.com.
 validate.ng.		3600	IN	NS	ns2.upperserver29.com.
+validatelaunchpad.ng.	3600	IN	NS	nsa.whogohost.com.
+validatelaunchpad.ng.	3600	IN	NS	nsb.whogohost.com.
 validdreams.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 validdreams.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 validinfo.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -76001,4 +76011,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031226 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031232 10800 3600 604800 3600
