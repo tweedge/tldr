@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031215 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1647065357"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031221 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1647076338"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -560,6 +560,8 @@ ns2.1stattorneys.ng.	3600	IN	A	23.227.135.35
 440bet.ng.		3600	IN	NS	ns0.ukservers.com.
 4590.ng.		3600	IN	NS	nsa.whogohost.com.
 4590.ng.		3600	IN	NS	nsb.whogohost.com.
+4am.ng.			3600	IN	NS	dns1.namecheaphosting.com.
+4am.ng.			3600	IN	NS	dns2.namecheaphosting.com.
 4cmillion.ng.		3600	IN	NS	nsa.whogohost.com.
 4cmillion.ng.		3600	IN	NS	nsb.whogohost.com.
 4figure.ng.		3600	IN	NS	ns41.qservers.net.
@@ -27900,6 +27902,10 @@ gomibo.ng.		3600	IN	NS	ns2.openprovider.be.
 gomibo.ng.		3600	IN	NS	ns3.openprovider.eu.
 gomje.ng.		3600	IN	NS	ns1.host-ww.net.
 gomje.ng.		3600	IN	NS	ns2.host-ww.net.
+gomms.ng.		3600	IN	NS	plesk1.securemydot.com.
+gomms.ng.		3600	IN	NS	plesk2.securemydot.com.
+gomms.ng.		3600	IN	NS	cpanel1.securemydot.com.
+gomms.ng.		3600	IN	NS	cpanel2.securemydot.com.
 gomobile.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 gomobile.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 gomomo.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -35764,6 +35770,8 @@ kekenow.ng.		3600	IN	NS	ns1.web4africa.com.
 kekenow.ng.		3600	IN	NS	ns2.web4africa.com.
 kekenow.ng.		3600	IN	NS	ns3.web4africa.com.
 kekenow.ng.		3600	IN	NS	ns4.web4africa.com.
+kekesoft.ng.		3600	IN	NS	dns1.doveserver.com.
+kekesoft.ng.		3600	IN	NS	dns2.doveserver.com.
 kelajtravels.ng.	3600	IN	NS	ns1.web4africa.com.
 kelajtravels.ng.	3600	IN	NS	ns2.web4africa.com.
 kelajtravels.ng.	3600	IN	NS	ns3.web4africa.com.
@@ -65164,10 +65172,10 @@ tabriz.ng.		3600	IN	NS	ns8297.hostgator.com.
 tabriz.ng.		3600	IN	NS	ns8298.hostgator.com.
 tacademy.ng.		3600	IN	NS	nsa.whogohost.com.
 tacademy.ng.		3600	IN	NS	nsb.whogohost.com.
-tachere.ng.		3600	IN	NS	ns1.web4africa.com.
-tachere.ng.		3600	IN	NS	ns2.web4africa.com.
-tachere.ng.		3600	IN	NS	ns3.web4africa.com.
-tachere.ng.		3600	IN	NS	ns4.web4africa.com.
+tachere.ng.		3600	IN	NS	ns-428.awsdns-53.com.
+tachere.ng.		3600	IN	NS	ns-800.awsdns-36.net.
+tachere.ng.		3600	IN	NS	ns-1462.awsdns-54.org.
+tachere.ng.		3600	IN	NS	ns-1627.awsdns-11.co.uk.
 tackz.ng.		3600	IN	NS	ns1.upperserver29.com.
 tackz.ng.		3600	IN	NS	ns2.upperserver29.com.
 tacmedia.ng.		3600	IN	NS	ns3.rillahost.com.
@@ -66792,6 +66800,8 @@ theclimatepledge.ng.	3600	IN	NS	nssui.comlaude.ch.
 theclimatepledge.ng.	3600	IN	NS	nsusa.comlaude.net.
 thecollinsadi.ng.	3600	IN	NS	ns1.unaux.com.
 thecollinsadi.ng.	3600	IN	NS	ns2.unaux.com.
+thecomment.ng.		3600	IN	NS	bill.ns.cloudflare.com.
+thecomment.ng.		3600	IN	NS	kristin.ns.cloudflare.com.
 thecommunity.ng.	3600	IN	NS	alex.ns.cloudflare.com.
 thecommunity.ng.	3600	IN	NS	marjory.ns.cloudflare.com.
 thecompleteuniversityguide.ng. 3600 IN	NS	nsa.whogohost.com.
@@ -68715,6 +68725,8 @@ tractor.ng.		3600	IN	NS	ns1.sedoparking.com.
 tractor.ng.		3600	IN	NS	ns2.sedoparking.com.
 trad.ng.		3600	IN	NS	nsa.whogohost.com.
 trad.ng.		3600	IN	NS	nsb.whogohost.com.
+trade9ja.ng.		3600	IN	NS	dns1.doveserver.com.
+trade9ja.ng.		3600	IN	NS	dns2.doveserver.com.
 tradeactions.ng.	3600	IN	NS	nsa.whogohost.com.
 tradeactions.ng.	3600	IN	NS	nsb.whogohost.com.
 tradeclub.ng.		3600	IN	NS	ns1.lexsynergy.net.
@@ -75815,6 +75827,8 @@ zolene.ng.		3600	IN	NS	ns1.bluehost.com.
 zolene.ng.		3600	IN	NS	ns2.bluehost.com.
 zomato.ng.		3600	IN	NS	ns7.alidns.com.
 zomato.ng.		3600	IN	NS	ns8.alidns.com.
+zonepro.ng.		3600	IN	NS	nsa.whogohost.com.
+zonepro.ng.		3600	IN	NS	nsb.whogohost.com.
 zonkegroup.ng.		3600	IN	NS	pdns1.registrar-servers.com.
 zonkegroup.ng.		3600	IN	NS	pdns2.registrar-servers.com.
 zoo.ng.			3600	IN	NS	ns1.dan.com.
@@ -75961,4 +75975,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031215 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031221 10800 3600 604800 3600
