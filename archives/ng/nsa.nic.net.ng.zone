@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031416 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1647241288"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031422 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1647252088"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -3888,6 +3888,10 @@ anambratalentstrack.ng.	3600	IN	NS	keanu.ns.cloudflare.com.
 anambratalentstrack.ng.	3600	IN	NS	rosalie.ns.cloudflare.com.
 anambratoday.ng.	3600	IN	NS	ns1.cfamedia.net.
 anambratoday.ng.	3600	IN	NS	ns2.cfamedia.net.
+anambratransition.ng.	3600	IN	NS	ns1.cfamedia.net.
+anambratransition.ng.	3600	IN	NS	ns2.cfamedia.net.
+anambratransitioncommittee.ng. 3600 IN	NS	ns1.cfamedia.net.
+anambratransitioncommittee.ng. 3600 IN	NS	ns2.cfamedia.net.
 anambrayouths.ng.	3600	IN	NS	ns1.anambrayouths.ng.
 anambrayouths.ng.	3600	IN	NS	ns2.anambrayouths.ng.
 ns1.anambrayouths.ng.	3600	IN	A	204.93.161.184
@@ -22454,6 +22458,8 @@ eventone.ng.		3600	IN	NS	ns.web-solutions.dk.
 eventone.ng.		3600	IN	NS	ns2.web-solutions.dk.
 eventpermit.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 eventpermit.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+eventphotography.ng.	3600	IN	NS	ns1.qservers.net.
+eventphotography.ng.	3600	IN	NS	ns2.qservers.net.
 eventplanner.ng.	3600	IN	NS	bob.ns.cloudflare.com.
 eventplanner.ng.	3600	IN	NS	rita.ns.cloudflare.com.
 eventquotes.ng.		3600	IN	NS	ns1.digitalocean.com.
@@ -25448,6 +25454,9 @@ forsagebusd.ng.		3600	IN	NS	ns1.dns-parking.com.
 forsagebusd.ng.		3600	IN	NS	ns2.dns-parking.com.
 forsagemedia.ng.	3600	IN	NS	ns1.dknoc.com.
 forsagemedia.ng.	3600	IN	NS	ns2.dknoc.com.
+forschu.ng.		3600	IN	NS	ns1.hosting.de.
+forschu.ng.		3600	IN	NS	ns2.hosting.de.
+forschu.ng.		3600	IN	NS	ns3.hosting.de.
 forsure.ng.		3600	IN	NS	rs47a.registrar-servers.com.
 forsure.ng.		3600	IN	NS	rs47b.registrar-servers.com.
 fortebet.ng.		3600	IN	NS	ns1.onlydomains.com.
@@ -44899,8 +44908,8 @@ naccimayouth.ng.	3600	IN	NS	ns1.dknoc.com.
 naccimayouth.ng.	3600	IN	NS	ns2.dknoc.com.
 nack.ng.		3600	IN	NS	nsa.whogohost.com.
 nack.ng.		3600	IN	NS	nsb.whogohost.com.
-nacstech.ng.		3600	IN	NS	nsa.whogohost.com.
-nacstech.ng.		3600	IN	NS	nsb.whogohost.com.
+nacstech.ng.		3600	IN	NS	ns1.hostpapa.com.
+nacstech.ng.		3600	IN	NS	ns2.hostpapa.com.
 nadiaskitchen.ng.	3600	IN	NS	nsa.whogohost.com.
 nadiaskitchen.ng.	3600	IN	NS	nsb.whogohost.com.
 nadina.ng.		3600	IN	NS	ns727.websitewelcome.com.
@@ -53210,8 +53219,8 @@ poswarehouse.ng.	3600	IN	NS	ns1.takerss.com.
 poswarehouse.ng.	3600	IN	NS	ns2.takerss.com.
 pot.ng.			3600	IN	NS	ns1.sedoparking.com.
 pot.ng.			3600	IN	NS	ns2.sedoparking.com.
-potadmin.ng.		3600	IN	NS	ns1.hostnity.com.
-potadmin.ng.		3600	IN	NS	ns2.hostnity.com.
+potadmin.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+potadmin.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 potti.ng.		3600	IN	NS	ns1.yourwebhoster.com.
 potti.ng.		3600	IN	NS	ns2.yourwebhoster.com.
 potti.ng.		3600	IN	NS	ns3.yourwebhoster.nl.
@@ -62849,8 +62858,8 @@ spendify.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 spendify.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 spendless.ng.		3600	IN	NS	nsa.whogohost.com.
 spendless.ng.		3600	IN	NS	nsb.whogohost.com.
-spendright.ng.		3600	IN	NS	nsa.whogohost.com.
-spendright.ng.		3600	IN	NS	nsb.whogohost.com.
+spendright.ng.		3600	IN	NS	ns1.fra1.hostarmada.net.
+spendright.ng.		3600	IN	NS	ns2.fra1.hostarmada.net.
 spendrite.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 spendrite.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 spendwise.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -63261,6 +63270,8 @@ sso.ng.			3600	IN	NS	ns-1370.awsdns-43.org.
 sso.ng.			3600	IN	NS	ns-1662.awsdns-15.co.uk.
 ssp.ng.			3600	IN	NS	nsa.whogohost.com.
 ssp.ng.			3600	IN	NS	nsb.whogohost.com.
+ssphda.ng.		3600	IN	NS	ns77.qservers.net.
+ssphda.ng.		3600	IN	NS	ns78.qservers.net.
 ssr.ng.			3600	IN	NS	hope.ns.cloudflare.com.
 ssr.ng.			3600	IN	NS	jake.ns.cloudflare.com.
 sssn.ng.		3600	IN	NS	ns1.bh-41.webhostbox.net.
@@ -66111,6 +66122,10 @@ tee-effassociates.ng.	3600	IN	NS	ns17.garanntor.net.
 tee-effassociates.ng.	3600	IN	NS	ns18.garanntor.net.
 teeble.ng.		3600	IN	NS	ns33.qservers.net.
 teeble.ng.		3600	IN	NS	ns34.qservers.net.
+teecom.ng.		3600	IN	NS	ns1.web4africa.com.
+teecom.ng.		3600	IN	NS	ns2.web4africa.com.
+teecom.ng.		3600	IN	NS	ns3.web4africa.com.
+teecom.ng.		3600	IN	NS	ns4.web4africa.com.
 teedekpolytechnic.ng.	3600	IN	NS	bs1.certizonprivatedns.com.
 teedekpolytechnic.ng.	3600	IN	NS	bs2.certizonprivatedns.com.
 teejet.ng.		3600	IN	NS	dns1.cscdns.net.
@@ -74317,6 +74332,8 @@ worldcoin.ng.		3600	IN	NS	ns2.dan.com.
 worldcup.ng.		3600	IN	NS	ams-ns1.websitehostserver.net.
 worldcup.ng.		3600	IN	NS	chi-ns1.websitehostserver.net.
 worldcup.ng.		3600	IN	NS	chi-ns2.websitehostserver.net.
+worldelite.ng.		3600	IN	NS	ns1.hostbrisk.com.
+worldelite.ng.		3600	IN	NS	ns2.hostbrisk.com.
 worldgift.ng.		3600	IN	NS	ns01.trademarkarea.com.
 worldgift.ng.		3600	IN	NS	ns02.trademarkarea.com.
 worldgift.ng.		3600	IN	NS	ns03.trademarkarea.com.
@@ -76023,4 +76040,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031416 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031422 10800 3600 604800 3600
