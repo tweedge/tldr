@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022031422 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1647264734"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022031426 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1647271940"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -5591,8 +5591,8 @@ rahal.sy.		86400	IN	NS	suspend1.tld.sy.
 rahal.sy.		86400	IN	NS	suspend2.tld.sy.
 rahhal.sy.		86400	IN	NS	suspend1.tld.sy.
 rahhal.sy.		86400	IN	NS	suspend2.tld.sy.
-rahmonews.sy.		86400	IN	NS	suspend1.tld.sy.
-rahmonews.sy.		86400	IN	NS	suspend2.tld.sy.
+rahmonews.sy.		86400	IN	NS	ns1.ksa.onl.
+rahmonews.sy.		86400	IN	NS	ns2.ksa.onl.
 rahwanji-cards.sy.	86400	IN	NS	ns1.alanqaa.com.
 rahwanji-cards.sy.	86400	IN	NS	ns2.alanqaa.com.
 rahwanjicards.sy.	86400	IN	NS	ns1.alanqaa.com.
@@ -7622,4 +7622,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022031422 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022031426 3600 3600 2592000 3600
