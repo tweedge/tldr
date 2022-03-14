@@ -1,4 +1,4 @@
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022031404 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022031406 7200 3600 2678400 7200
 tj.			7200	IN	NS	tj.cctld.authdns.ripe.net.
 tj.			7200	IN	NS	ns1.nic.tj.
 tj.			7200	IN	NS	ns2.tojikiston.com.
@@ -10769,8 +10769,9 @@ palatin.tj.		7200	IN	NS	ns1.ehost.tj.
 palatin.tj.		7200	IN	NS	ns2.ehost.tj.
 palfinger.tj.		7200	IN	NS	adns001.dc1.conova.com.
 palfinger.tj.		7200	IN	NS	adns002.dc1.conova.com.
-palood.tj.		7200	IN	NS	ns9.ismtj.co.
-palood.tj.		7200	IN	NS	ns10.ismtj.co.
+palood.tj.		7200	IN	NS	dns1.mrservers.net.
+palood.tj.		7200	IN	NS	dns2.mrservers.net.
+palood.tj.		7200	IN	NS	dns3.mrservers.net.
 pamir.tj.		7200	IN	NS	pins1.eastera.tj.
 pamir.tj.		7200	IN	NS	pins2.eastera.tj.
 pamir-highway.tj.	7200	IN	NS	ns1.timeweb.ru.
@@ -12450,6 +12451,10 @@ shell.tj.		7200	IN	NS	dns1.shell.com.
 shell.tj.		7200	IN	NS	dns2.shell.com.
 sher.tj.		7200	IN	NS	ns1.timeweb.ru.
 sher.tj.		7200	IN	NS	ns2.timeweb.ru.
+shib.tj.		7200	IN	NS	ns1.timeweb.ru.
+shib.tj.		7200	IN	NS	ns2.timeweb.ru.
+shib.tj.		7200	IN	NS	ns3.timeweb.org.
+shib.tj.		7200	IN	NS	ns4.timeweb.org.
 shifer.tj.		7200	IN	NS	ns1.tajnet.ru.
 shifer.tj.		7200	IN	NS	ns2.tajnet.ru.
 shifo.tj.		7200	IN	NS	ns1.rsnx.ru.
@@ -14195,6 +14200,8 @@ tojnet.tj.		7200	IN	NS	ns1.rspd.tj.
 tojnet.tj.		7200	IN	NS	ns2.rspd.tj.
 tojplast.tj.		7200	IN	NS	ns1.rsnx.ru.
 tojplast.tj.		7200	IN	NS	ns2.rsnx.ru.
+tojsafar.tj.		7200	IN	NS	ns3.servermax.net.
+tojsafar.tj.		7200	IN	NS	ns4.servermax.net.
 tojtel.tj.		7200	IN	NS	ns1.reg.ru.
 tojtel.tj.		7200	IN	NS	ns1.hosting.reg.ru.
 tojtel.tj.		7200	IN	NS	ns2.reg.ru.
@@ -15634,8 +15641,8 @@ zhuma.tj.		7200	IN	NS	ns1.aliftech.net.
 zhuma.tj.		7200	IN	NS	ns2.aliftech.net.
 zira.tj.		7200	IN	NS	ns1.reg.ru.
 zira.tj.		7200	IN	NS	ns2.reg.ru.
-ziraksor80.tj.		7200	IN	NS	ns1.rspd.tj.
-ziraksor80.tj.		7200	IN	NS	ns2.rspd.tj.
+ziraksor80.tj.		7200	IN	NS	ns1.hosting.reg.ru.
+ziraksor80.tj.		7200	IN	NS	ns2.hosting.reg.ru.
 zirkon.tj.		7200	IN	NS	ns1.hosting.reg.ru.
 zirkon.tj.		7200	IN	NS	ns2.hosting.reg.ru.
 ziroatkor.tj.		7200	IN	NS	ns9.ismtj.co.
@@ -15717,4 +15724,4 @@ zzap.tj.		7200	IN	NS	ns.abcp.ru.
 zzap.tj.		7200	IN	NS	ns.nodacdn.net.
 zzap.tj.		7200	IN	NS	ns3.abcp.ru.
 zzap.tj.		7200	IN	NS	ns3.nodacdn.net.
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022031404 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022031406 7200 3600 2678400 7200
