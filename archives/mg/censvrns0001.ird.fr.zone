@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031416 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031419 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1647273681"
+mg.			7200	IN	TXT	"Generation Time: 1647284485"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -4905,8 +4905,8 @@ i-madagasikara.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 i-madagasikara.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
 i-politika.mg.		86400	IN	NS	ns1.da.cloudns.io.
 i-politika.mg.		86400	IN	NS	ns2.da.cloudns.io.
-i-sekoliko.mg.		86400	IN	NS	ns16.ovh.net.
-i-sekoliko.mg.		86400	IN	NS	dns16.ovh.net.
+i-sekoliko.mg.		86400	IN	NS	dns200.anycast.me.
+i-sekoliko.mg.		86400	IN	NS	ns200.anycast.me.
 i-sekoly.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
 i-sekoly.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
 i-tantsoroka.mg.	86400	IN	NS	ns1.digitalocean.com.
@@ -8566,6 +8566,13 @@ radiofrequenceplus.mg.	86400	IN	NS	ns6.lwsdns.com.
 radiomaria.mg.		86400	IN	NS	ns1.instradns.com.
 radiomaria.mg.		86400	IN	NS	ns2.instradns.com.
 radiomaria.mg.		86400	IN	NS	ns3.instradns.com.
+radissonhotels.mg.	86400	IN	NS	ns1.markmonitor.com.
+radissonhotels.mg.	86400	IN	NS	ns2.markmonitor.com.
+radissonhotels.mg.	86400	IN	NS	ns3.markmonitor.com.
+radissonhotels.mg.	86400	IN	NS	ns4.markmonitor.com.
+radissonhotels.mg.	86400	IN	NS	ns5.markmonitor.com.
+radissonhotels.mg.	86400	IN	NS	ns6.markmonitor.com.
+radissonhotels.mg.	86400	IN	NS	ns7.markmonitor.com.
 radooinformatika.mg.	86400	IN	NS	ns1.cloudns.io.
 radooinformatika.mg.	86400	IN	NS	ns2.cloudns.io.
 radoran.mg.		86400	IN	NS	ns1.serveurgasy.com.
@@ -10666,8 +10673,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11394,4 +11401,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031416 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031419 600 3600 604800 86400
