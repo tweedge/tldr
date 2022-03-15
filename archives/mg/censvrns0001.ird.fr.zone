@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031519 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031521 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1647370888"
+mg.			7200	IN	TXT	"Generation Time: 1647378082"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -5151,11 +5151,6 @@ infras.mg.		86400	IN	NS	dns200.anycast.me.
 infras.mg.		86400	IN	NS	ns200.anycast.me.
 ingco.mg.		86400	IN	NS	ns01.trademarkarea.com.
 ingco.mg.		86400	IN	NS	ns02.trademarkarea.com.
-ingeliance.mg.		86400	IN	NS	ns1.netim.net.
-ingeliance.mg.		86400	IN	NS	ns2.netim.net.
-ingeliance.mg.		86400	IN	NS	ns3.netim.net.
-ingeliance.mg.		86400	IN	NS	ns4.netim.net.
-ingeliance.mg.		86400	IN	NS	ns5.netim.net.
 ingenosya.mg.		86400	IN	NS	ns1.contabo.net.
 ingenosya.mg.		86400	IN	NS	ns2.contabo.net.
 ingenosya.mg.		86400	IN	NS	ns3.contabo.net.
@@ -10682,8 +10677,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11410,4 +11405,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031519 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031521 600 3600 604800 86400
