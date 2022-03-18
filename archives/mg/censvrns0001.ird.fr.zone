@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031807 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031810 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1647586952"
+mg.			7200	IN	TXT	"Generation Time: 1647597776"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3137,6 +3137,8 @@ e-madagascar.mg.	7200	IN	NS	ns1.da.cloudns.io.
 e-madagascar.mg.	7200	IN	NS	ns2.da.cloudns.io.
 e-magazine.mg.		7200	IN	NS	ns1.da.cloudns.io.
 e-magazine.mg.		7200	IN	NS	ns2.da.cloudns.io.
+e-market.mg.		7200	IN	NS	ns1.servermada.com.
+e-market.mg.		7200	IN	NS	ns2.servermada.com.
 e-media.mg.		7200	IN	NS	ns1.servermada.com.
 e-media.mg.		7200	IN	NS	ns2.servermada.com.
 e-mianatra.mg.		7200	IN	NS	ns1.da.cloudns.io.
@@ -10188,6 +10190,10 @@ test.mg.		86400	IN	NS	ns2.1984hosting.com.
 test.mg.		86400	IN	NS	ns2.1984.is.
 testdemo-ctm.mg.	86400	IN	NS	ns1.cloudns.io.
 testdemo-ctm.mg.	86400	IN	NS	ns2.cloudns.io.
+tetema.mg.		86400	IN	NS	ns1045.ui-dns.org.
+tetema.mg.		86400	IN	NS	ns1045.ui-dns.de.
+tetema.mg.		86400	IN	NS	ns1045.ui-dns.biz.
+tetema.mg.		86400	IN	NS	ns1045.ui-dns.com.
 tetragon.mg.		86400	IN	NS	ns.udag.de.
 tetragon.mg.		86400	IN	NS	ns.udag.org.
 tetragon.mg.		86400	IN	NS	ns.udag.net.
@@ -11404,4 +11410,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031807 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031810 600 3600 604800 86400
