@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022032107 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022032110 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1647846083"
+mg.			7200	IN	TXT	"Generation Time: 1647856884"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2928,6 +2928,8 @@ dggfpe.mg.		7200	IN	NS	karl.ns.cloudflare.com.
 dggfpe.mg.		7200	IN	NS	oaklyn.ns.cloudflare.com.
 diabe.mg.		7200	IN	NS	ns5.webhostingpad.com.
 diabe.mg.		7200	IN	NS	ns6.webhostingpad.com.
+diantana.mg.		7200	IN	NS	ns1.madanetinfo.mg.
+diantana.mg.		7200	IN	NS	ns2.madanetinfo.mg.
 diarynofy.mg.		7200	IN	NS	ns1.cloudns.io.
 diarynofy.mg.		7200	IN	NS	ns2.cloudns.io.
 diaspora.mg.		7200	IN	NS	ns6111.hostgator.com.
@@ -3635,6 +3637,8 @@ eveil-enfant.mg.	86400	IN	NS	ns1.servermada.com.
 eveil-enfant.mg.	86400	IN	NS	ns2.servermada.com.
 eventplus.mg.		86400	IN	NS	ns1-boxer.vivawebhost.com.
 eventplus.mg.		86400	IN	NS	ns2-boxer.vivawebhost.com.
+eventslab.mg.		86400	IN	NS	dns1.alwaysdata.com.
+eventslab.mg.		86400	IN	NS	dns2.alwaysdata.com.
 everyevery.mg.		86400	IN	NS	ns1.svsdns.asia.
 everyevery.mg.		86400	IN	NS	ns2.svsdns.asia.
 evisa.mg.		86400	IN	NS	ns29.dot.mg.
@@ -4684,6 +4688,8 @@ hertz.mg.		86400	IN	NS	dns5.hertz.com.
 hertz.mg.		86400	IN	NS	dns6.hertz.com.
 hery2018.mg.		86400	IN	NS	dns12.ovh.net.
 hery2018.mg.		86400	IN	NS	ns12.ovh.net.
+hetsikasyketrika.mg.	86400	IN	NS	ns1.hostns.io.
+hetsikasyketrika.mg.	86400	IN	NS	ns2.hostns.io.
 hexagone.mg.		86400	IN	NS	ns1.inmotionhosting.com.
 hexagone.mg.		86400	IN	NS	ns2.inmotionhosting.com.
 hff.mg.			86400	IN	NS	ns1.mg.tambazotra.net.
@@ -6361,8 +6367,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -7534,8 +7540,8 @@ novo-comm.mg.		86400	IN	NS	margot.ns.cloudflare.com.
 now.mg.			86400	IN	NS	ns1.domaindiscount24.net.
 now.mg.			86400	IN	NS	ns2.domaindiscount24.net.
 now.mg.			86400	IN	NS	ns3.domaindiscount24.net.
-ns-entreprise.mg.	86400	IN	NS	ns1.hostns.io.
-ns-entreprise.mg.	86400	IN	NS	ns2.hostns.io.
+ns-entreprise.mg.	86400	IN	NS	ns10.wixdns.net.
+ns-entreprise.mg.	86400	IN	NS	ns11.wixdns.net.
 nsegsm.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 nsegsm.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 nsegsm.mg.		86400	IN	NS	ns1.fr.malagasy.com.
@@ -9606,7 +9612,6 @@ soeco.mg.		86400	IN	NS	ns2.gasyweb.com.
 sofitrans.mg.		86400	IN	NS	ns1.servermada.com.
 sofitrans.mg.		86400	IN	NS	ns2.servermada.com.
 sofitrans.mg.		86400	IN	NS	ns3.servermada.com.
-sofitrans.mg.		86400	IN	NS	ns1.sofitrans.sofitrans.mg.
 sofortprogramm.mg.	86400	IN	NS	ns26.ns26.de.
 sofortprogramm.mg.	86400	IN	NS	ns27.ns27.de.
 sofortprogramm.mg.	86400	IN	NS	ns28.ns28.de.
@@ -10695,8 +10700,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11412,4 +11417,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022032107 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022032110 600 3600 604800 86400
