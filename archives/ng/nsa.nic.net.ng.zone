@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032211 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1647922024"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032215 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1647929355"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -9475,6 +9475,8 @@ booksellers.ng.		3600	IN	NS	ns1.ckdigital.net.
 booksellers.ng.		3600	IN	NS	ns2.ckdigital.net.
 booksffair.ng.		3600	IN	NS	ns6162.hostgator.com.
 booksffair.ng.		3600	IN	NS	ns16161.hostgator.com.
+bookspider.ng.		3600	IN	NS	ns1.dns-parking.com.
+bookspider.ng.		3600	IN	NS	ns2.dns-parking.com.
 bookstore.ng.		3600	IN	NS	nsa.whogohost.com.
 bookstore.ng.		3600	IN	NS	nsb.whogohost.com.
 bookteller.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -37763,6 +37765,8 @@ laukamz.ng.		3600	IN	NS	nsa.whogohost.com.
 laukamz.ng.		3600	IN	NS	nsb.whogohost.com.
 launchbridge.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 launchbridge.ng.	3600	IN	NS	dns2.namecheaphosting.com.
+launchi.ng.		3600	IN	NS	denver.ns.cloudflare.com.
+launchi.ng.		3600	IN	NS	jasmine.ns.cloudflare.com.
 launchpad.ng.		3600	IN	NS	ns7.garanntor.net.
 launchpad.ng.		3600	IN	NS	ns8.garanntor.net.
 launchpadeducare.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -46240,8 +46244,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -49679,9 +49683,9 @@ onpointclothing.ng.	3600	IN	NS	uk1.vastgig.com.
 onpointclothing.ng.	3600	IN	NS	uk2.vastgig.com.
 onpos.ng.		3600	IN	NS	ns1.gigalayer.com.
 onpos.ng.		3600	IN	NS	ns2.gigalayer.com.
-onspri.ng.		86400	IN	DS	2371 13 2 057660598D3FEE23BE39259D6B32FF0CDB536CAA529871E2E0393EC4 13CA14EB
 onspri.ng.		3600	IN	NS	ken.ns.cloudflare.com.
 onspri.ng.		3600	IN	NS	rita.ns.cloudflare.com.
+onspri.ng.		86400	IN	DS	2371 13 2 057660598D3FEE23BE39259D6B32FF0CDB536CAA529871E2E0393EC4 13CA14EB
 onthego.ng.		3600	IN	NS	ns11.meiranet.com.
 onthego.ng.		3600	IN	NS	ns12.meiranet.com.
 onthemarket.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -60911,8 +60915,8 @@ showafrica.ng.		3600	IN	NS	nsa.whogohost.com.
 showafrica.ng.		3600	IN	NS	nsb.whogohost.com.
 showbuz.ng.		3600	IN	NS	nsa.whogohost.com.
 showbuz.ng.		3600	IN	NS	nsb.whogohost.com.
-showhub.ng.		3600	IN	NS	aisha.ns.cloudflare.com.
-showhub.ng.		3600	IN	NS	yevgen.ns.cloudflare.com.
+showhub.ng.		3600	IN	NS	nsa.whogohost.com.
+showhub.ng.		3600	IN	NS	nsb.whogohost.com.
 showi.ng.		3600	IN	NS	ns1.webhosting4.me.
 showi.ng.		3600	IN	NS	ns2.webhosting4.me.
 showmax.ng.		3600	IN	NS	paul.ns.cloudflare.com.
@@ -66966,9 +66970,9 @@ thebest.ng.		3600	IN	NS	nsa.whogohost.com.
 thebest.ng.		3600	IN	NS	nsb.whogohost.com.
 thebestfirst.ng.	3600	IN	NS	dns1.cscdns.net.
 thebestfirst.ng.	3600	IN	NS	dns2.cscdns.net.
+thebigbo.ng.		86400	IN	DS	21109 13 2 3709A850D7BA9484CE0A27B4D4688E7EEB02A938965996931D1F0BA8 BA9B15A8
 thebigbo.ng.		3600	IN	NS	ns3.epik.com.
 thebigbo.ng.		3600	IN	NS	ns4.epik.com.
-thebigbo.ng.		86400	IN	DS	21109 13 2 3709A850D7BA9484CE0A27B4D4688E7EEB02A938965996931D1F0BA8 BA9B15A8
 thebigdeal.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 thebigdeal.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 thebignews.ng.		3600	IN	NS	dns1.supremedns.com.
@@ -76306,4 +76310,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032211 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032215 10800 3600 604800 3600
