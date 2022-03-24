@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022032202 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022032400 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -223,8 +223,8 @@ unigoroka.AC.pg.	172800	IN	NS	ns2.sgp41.siteground.asia.
 UNITECH.AC.pg.		172800	IN	NS	dns1.unitech.ac.pg.
 dns1.UNITECH.AC.pg.	172800	IN	A	202.1.32.4
 ns1.UNITECH.AC.pg.	172800	IN	A	202.1.32.49
-unre.AC.pg.		172800	IN	NS	ns1.telinet.com.pg.
-unre.AC.pg.		172800	IN	NS	ns2.telinet.com.pg.
+unre.AC.pg.		172800	IN	NS	ns1.agentpoint.com.au.
+unre.AC.pg.		172800	IN	NS	ns2.agentpoint.com.au.
 uog.AC.pg.		172800	IN	NS	ns1.online.net.pg.
 uog.AC.pg.		172800	IN	NS	ns2.online.net.pg.
 upng.AC.pg.		172800	IN	NS	ns1.datec.net.pg.
@@ -546,6 +546,8 @@ bemcopng.COM.pg.	172800	IN	NS	ns1.telinet.com.pg.
 bemcopng.COM.pg.	172800	IN	NS	ns2.telinet.com.pg.
 bepacificdigital.COM.pg. 172800	IN	NS	ns1.bluehost.com.
 bepacificdigital.COM.pg. 172800	IN	NS	ns2.bluehost.com.
+beremlawyers.COM.pg.	172800	IN	NS	ns1.servconfig.com.
+beremlawyers.COM.pg.	172800	IN	NS	ns2.servconfig.com.
 bernal.COM.pg.		172800	IN	NS	ns1.datec.net.pg.
 bernal.COM.pg.		172800	IN	NS	ns2.datec.net.pg.
 bernal.COM.pg.		172800	IN	NS	ns3.datec.net.pg.
@@ -2225,9 +2227,8 @@ leasemaster.COM.pg.	172800	IN	NS	ns2.daltron.com.pg.
 leblanc.COM.pg.		172800	IN	NS	ns1.datec.net.pg.
 leblanc.COM.pg.		172800	IN	NS	ns2.datec.net.pg.
 leblanc.COM.pg.		172800	IN	NS	ns3.datec.net.pg.
-leepartners.COM.pg.	172800	IN	NS	ns1.qnetau.com.
-leepartners.COM.pg.	172800	IN	NS	ns2.qnetau.com.
-leepartners.COM.pg.	172800	IN	NS	ns3.qnetau.com.
+leepartners.COM.pg.	172800	IN	NS	ns1.digiteccloud.com.
+leepartners.COM.pg.	172800	IN	NS	ns2.digiteccloud.com.
 leisure.COM.pg.		172800	IN	NS	ns1.telinet.com.pg.
 leisure.COM.pg.		172800	IN	NS	ns2.telinet.com.pg.
 lexacorp.COM.pg.	172800	IN	NS	ns1.hostingpng.com.
@@ -5258,6 +5259,9 @@ bahai.ORG.pg.		172800	IN	NS	ns2.shaktechnology.com.au.
 battle.ORG.pg.		172800	IN	NS	ns1.datec.net.pg.
 battle.ORG.pg.		172800	IN	NS	ns2.datec.net.pg.
 battle.ORG.pg.		172800	IN	NS	ns3.datec.net.pg.
+bcep.ORG.pg.		172800	IN	NS	ns1.global.net.pg.pg.
+bcep.ORG.pg.		172800	IN	NS	ns2.global.net.pg.pg.
+bcep.ORG.pg.		172800	IN	NS	ns3.global.net.pg.pg.
 bcpng.ORG.pg.		172800	IN	NS	ns1.global.net.pg.
 bcpng.ORG.pg.		172800	IN	NS	ns2.global.net.pg.
 belisipng.ORG.pg.	172800	IN	NS	kate.ns.cloudflare.com.
@@ -5884,4 +5888,4 @@ ywamships.ORG.pg.	172800	IN	NS	ns3.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns1.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns2.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns3.qnetau.com.
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022032202 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022032400 14400 7200 1728000 14400
