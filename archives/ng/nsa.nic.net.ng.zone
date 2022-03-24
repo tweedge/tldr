@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032440 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1648148490"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032449 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1648159713"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -4507,6 +4507,8 @@ aquacontrol.ng.		3600	IN	NS	ns-349.awsdns-43.com.
 aquacontrol.ng.		3600	IN	NS	ns-601.awsdns-11.net.
 aquacontrol.ng.		3600	IN	NS	ns-1480.awsdns-57.org.
 aquacontrol.ng.		3600	IN	NS	ns-1877.awsdns-42.co.uk.
+aquaculture.ng.		3600	IN	NS	ns43.doveserver.com.
+aquaculture.ng.		3600	IN	NS	ns44.doveserver.com.
 aquacy.ng.		3600	IN	NS	ns1.plexumdns.com.
 aquacy.ng.		3600	IN	NS	ns2.plexumdns.com.
 aquafave.ng.		3600	IN	NS	dns1.doveserver.com.
@@ -7953,9 +7955,8 @@ bid4u.ng.		3600	IN	NS	ns3.web4africa.com.
 bid4u.ng.		3600	IN	NS	ns4.web4africa.com.
 bidd.ng.		3600	IN	NS	kara.ns.cloudflare.com.
 bidd.ng.		3600	IN	NS	ishaan.ns.cloudflare.com.
-bidders.ng.		3600	IN	NS	ns1.digitalocean.com.
-bidders.ng.		3600	IN	NS	ns2.digitalocean.com.
-bidders.ng.		3600	IN	NS	ns3.digitalocean.com.
+bidders.ng.		3600	IN	NS	cns4009.webhostbox.net.
+bidders.ng.		3600	IN	NS	cns4010.webhostbox.net.
 biddi.ng.		3600	IN	NS	a.ns14.net.
 biddi.ng.		3600	IN	NS	b.ns14.net.
 biddi.ng.		3600	IN	NS	c.ns14.net.
@@ -17427,6 +17428,8 @@ defencetimes.ng.	3600	IN	NS	ns1.speedng.net.
 defencetimes.ng.	3600	IN	NS	ns2.speedng.net.
 defi.ng.		3600	IN	NS	nsa.whogohost.com.
 defi.ng.		3600	IN	NS	nsb.whogohost.com.
+deforum.ng.		3600	IN	NS	nsa.whogohost.com.
+deforum.ng.		3600	IN	NS	nsb.whogohost.com.
 deftadroit.ng.		3600	IN	NS	nsa.whogohost.com.
 deftadroit.ng.		3600	IN	NS	nsb.whogohost.com.
 deftjobs.ng.		3600	IN	NS	ns1.hostbuka.com.
@@ -17559,6 +17562,8 @@ deltasmartcity.ng.	3600	IN	NS	ns1.deltasmartcity.ng.
 deltasmartcity.ng.	3600	IN	NS	ns2.deltasmartcity.ng.
 ns1.deltasmartcity.ng.	3600	IN	A	169.255.57.41
 ns2.deltasmartcity.ng.	3600	IN	A	169.255.57.41
+deltastategov.ng.	3600	IN	NS	ns01.one.com.
+deltastategov.ng.	3600	IN	NS	ns02.one.com.
 deltastatejobcreation.ng. 3600	IN	NS	dns1.namecheaphosting.com.
 deltastatejobcreation.ng. 3600	IN	NS	dns2.namecheaphosting.com.
 deltastatejudicary.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -24913,7 +24918,6 @@ flexport.ng.		3600	IN	NS	ns2.101domain.com.
 flexport.ng.		3600	IN	NS	ns5.101domain.com.
 flexriders.ng.		3600	IN	NS	ns1.uplserver11.com.
 flexriders.ng.		3600	IN	NS	ns2.uplserver11.com.
-flexwork.ng.		3600	IN	NS	dns1.web-hosting.com.
 flexwork.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 flexwork.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 flexymedia.ng.		3600	IN	NS	ns1.cloudoon.com.
@@ -40052,6 +40056,8 @@ luminate.ng.		3600	IN	NS	ns1.sidmach.net.ng.
 luminate.ng.		3600	IN	NS	ns2.sidmach.net.ng.
 luminis.ng.		3600	IN	NS	nsa.whogohost.com.
 luminis.ng.		3600	IN	NS	nsb.whogohost.com.
+lumkalt.ng.		3600	IN	NS	ns1.todhost.com.
+lumkalt.ng.		3600	IN	NS	ns2.todhost.com.
 lumo.ng.		3600	IN	NS	ns21.smartwebng.com.
 lumo.ng.		3600	IN	NS	ns22.smartwebng.com.
 lunarlandi.ng.		3600	IN	NS	ns.inwx.de.
@@ -43775,8 +43781,8 @@ mplempirehomes.ng.	3600	IN	NS	nsa.whogohost.com.
 mplempirehomes.ng.	3600	IN	NS	nsb.whogohost.com.
 mplify.ng.		3600	IN	NS	ns1.upperserver29.com.
 mplify.ng.		3600	IN	NS	ns2.upperserver29.com.
-mployer.ng.		3600	IN	NS	ns1207.websitewelcome.com.
-mployer.ng.		3600	IN	NS	ns1208.websitewelcome.com.
+mployer.ng.		3600	IN	NS	jay.ns.cloudflare.com.
+mployer.ng.		3600	IN	NS	joan.ns.cloudflare.com.
 mps.ng.			3600	IN	NS	ns1.webguru.ng.
 mps.ng.			3600	IN	NS	ns2.webguru.ng.
 mpx.ng.			3600	IN	NS	ns1.webguru.ng.
@@ -46328,6 +46334,8 @@ neomedia.ng.		3600	IN	NS	ns1.cfamedia.net.
 neomedia.ng.		3600	IN	NS	ns2.cfamedia.net.
 neomoney.ng.		3600	IN	NS	nsa.whogohost.com.
 neomoney.ng.		3600	IN	NS	nsb.whogohost.com.
+neon.ng.		3600	IN	NS	ns1.parkingcrew.net.
+neon.ng.		3600	IN	NS	ns2.parkingcrew.net.
 neonbeach.ng.		3600	IN	NS	ns01.trademarkarea.com.
 neonbeach.ng.		3600	IN	NS	ns02.trademarkarea.com.
 neonbeach.ng.		3600	IN	NS	ns03.trademarkarea.com.
@@ -52286,6 +52294,8 @@ peternet.ng.		3600	IN	NS	plesk1.securemydot.com.
 peternet.ng.		3600	IN	NS	plesk2.securemydot.com.
 peternet.ng.		3600	IN	NS	cpanel1.securemydot.com.
 peternet.ng.		3600	IN	NS	cpanel2.securemydot.com.
+peterobi.ng.		3600	IN	NS	ns1.nameserver.com.
+peterobi.ng.		3600	IN	NS	ns2.nameserver.com.
 peterobi2023.ng.	3600	IN	NS	nsa.whogohost.com.
 peterobi2023.ng.	3600	IN	NS	nsb.whogohost.com.
 peterzha.ng.		3600	IN	NS	ns1.netim.net.
@@ -67648,6 +67658,8 @@ thelemonadenetwork.ng.	3600	IN	NS	nsa.whogohost.com.
 thelemonadenetwork.ng.	3600	IN	NS	nsb.whogohost.com.
 theliberationnews.ng.	3600	IN	NS	ns1.bluehost.com.
 theliberationnews.ng.	3600	IN	NS	ns2.bluehost.com.
+thelightville.ng.	3600	IN	NS	ns3.thelightville.net.
+thelightville.ng.	3600	IN	NS	ns4.thelightville.net.
 thelignegroup.ng.	3600	IN	NS	ns21.doveserver.com.
 thelignegroup.ng.	3600	IN	NS	ns22.doveserver.com.
 thelink.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -70617,6 +70629,10 @@ ularxi.ng.		3600	IN	NS	ns1.p15.dynect.net.
 ularxi.ng.		3600	IN	NS	ns2.p15.dynect.net.
 ularxi.ng.		3600	IN	NS	ns3.p15.dynect.net.
 ularxi.ng.		3600	IN	NS	ns4.p15.dynect.net.
+ulbsconference.ng.	3600	IN	NS	dns1.supremedns.com.
+ulbsconference.ng.	3600	IN	NS	dns2.supremedns.com.
+ulbsconference.ng.	3600	IN	NS	dns3.supremedns.com.
+ulbsconference.ng.	3600	IN	NS	dns4.supremedns.com.
 ulda-edu.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 ulda-edu.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 ulearn.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -71894,6 +71910,8 @@ verse.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 verse.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 verser.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 verser.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+verseverify.ng.		3600	IN	NS	ns73.qservers.net.
+verseverify.ng.		3600	IN	NS	ns74.qservers.net.
 versicheru.ng.		3600	IN	NS	ns.udag.de.
 versicheru.ng.		3600	IN	NS	ns.udag.net.
 versicheru.ng.		3600	IN	NS	ns.udag.org.
@@ -76546,4 +76564,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032440 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032449 10800 3600 604800 3600
