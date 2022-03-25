@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032510 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1648180828"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032516 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1648191634"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -2556,6 +2556,8 @@ agrosolutions.ng.	3600	IN	NS	ns27.qservers.net.
 agrosolutions.ng.	3600	IN	NS	ns28.qservers.net.
 agrostorm.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 agrostorm.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+agrotech.ng.		3600	IN	NS	nsa.whogohost.com.
+agrotech.ng.		3600	IN	NS	nsb.whogohost.com.
 agroterres.ng.		3600	IN	NS	ns1.servconfig.com.
 agroterres.ng.		3600	IN	NS	ns2.servconfig.com.
 agrovest.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -46331,8 +46333,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -52240,8 +52242,8 @@ peternet.ng.		3600	IN	NS	plesk1.securemydot.com.
 peternet.ng.		3600	IN	NS	plesk2.securemydot.com.
 peternet.ng.		3600	IN	NS	cpanel1.securemydot.com.
 peternet.ng.		3600	IN	NS	cpanel2.securemydot.com.
-peterobi.ng.		3600	IN	NS	ns1.nameserver.com.
-peterobi.ng.		3600	IN	NS	ns2.nameserver.com.
+peterobi.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+peterobi.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 peterobi2023.ng.	3600	IN	NS	nsa.whogohost.com.
 peterobi2023.ng.	3600	IN	NS	nsb.whogohost.com.
 peterzha.ng.		3600	IN	NS	ns1.netim.net.
@@ -76465,4 +76467,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032510 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032516 10800 3600 604800 3600
