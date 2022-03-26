@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022032604 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022032607 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1648267284"
+mg.			7200	IN	TXT	"Generation Time: 1648278088"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3918,8 +3918,6 @@ fjkm-ambohitantely.mg.	86400	IN	NS	ns29.fjkm.mg.
 fjkm-ambohitantely.mg.	86400	IN	NS	ns30.fjkm.mg.
 fjkm-amboniloha.mg.	86400	IN	NS	ns29.fjkm.mg.
 fjkm-amboniloha.mg.	86400	IN	NS	ns30.fjkm.mg.
-fjkm-andravoahangyfiv.mg. 86400	IN	NS	dns100.ovh.net.
-fjkm-andravoahangyfiv.mg. 86400	IN	NS	ns100.ovh.net.
 fjkm-ankadifotsy.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 fjkm-ankadifotsy.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
 fjkm-ankadimbahoaka.mg.	86400	IN	NS	ns29.fjkm.mg.
@@ -5083,9 +5081,6 @@ immonosy.mg.		86400	IN	NS	ns2.dns-parking.com.
 immopack.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 immopack.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 immopack.mg.		86400	IN	NS	ns1.fr.malagasy.com.
-immor.mg.		86400	IN	NS	ns1.rungraphikserv.com.
-immor.mg.		86400	IN	NS	ns2.rungraphikserv.com.
-immor.mg.		86400	IN	NS	ns3.rungraphikserv.com.
 immotulear.mg.		86400	IN	NS	dns111.ovh.net.
 immotulear.mg.		86400	IN	NS	ns111.ovh.net.
 imperial-brands.mg.	86400	IN	NS	lina.ns.cloudflare.com.
@@ -6374,8 +6369,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -9993,8 +9988,6 @@ t20210426-132205.mg.	86400	IN	NS	dns1.onamae.com.
 t20210426-132205.mg.	86400	IN	NS	dns2.onamae.com.
 taf.mg.			86400	IN	NS	dns109.ovh.net.
 taf.mg.			86400	IN	NS	ns109.ovh.net.
-tafa.mg.		86400	IN	NS	ns1.cloudns.io.
-tafa.mg.		86400	IN	NS	ns2.cloudns.io.
 tafaray.mg.		86400	IN	NS	ns1.da.cloudns.io.
 tafaray.mg.		86400	IN	NS	ns2.da.cloudns.io.
 tafgourmet.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
@@ -10591,8 +10584,6 @@ tuto.mg.		86400	IN	NS	bayan.ns.cloudflare.com.
 tuto.mg.		86400	IN	NS	cheryl.ns.cloudflare.com.
 tuto-info.mg.		86400	IN	NS	ns1.da.cloudns.io.
 tuto-info.mg.		86400	IN	NS	ns2.da.cloudns.io.
-tvm.mg.			86400	IN	NS	ns1.cloudns.io.
-tvm.mg.			86400	IN	NS	ns2.cloudns.io.
 tvpresse.mg.		86400	IN	NS	ns1.cloudns.io.
 tvpresse.mg.		86400	IN	NS	ns2.cloudns.io.
 twf.mg.			86400	IN	NS	ns1.evm1295.sgvps.net.
@@ -11420,4 +11411,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022032604 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022032607 600 3600 604800 86400
