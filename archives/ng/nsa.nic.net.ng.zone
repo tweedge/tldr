@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032605 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1648256646"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032611 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1648267630"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -25249,6 +25249,8 @@ folajomi.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 folajomi.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 foldi.ng.		3600	IN	NS	ns1.domain.io.
 foldi.ng.		3600	IN	NS	ns2.domain.io.
+folen.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+folen.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 folio.ng.		3600	IN	NS	ns1.parkingcrew.net.
 folio.ng.		3600	IN	NS	ns2.parkingcrew.net.
 foliocommunications.ng.	3600	IN	NS	ns1.folioholdings.ng.
@@ -46381,8 +46383,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -76518,4 +76520,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032605 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032611 10800 3600 604800 3600
