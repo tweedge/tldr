@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032709 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1648353637"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032715 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1648364430"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -7841,10 +7841,6 @@ betwazo.ng.		3600	IN	NS	freedns4.registrar-servers.com.
 betwazo.ng.		3600	IN	NS	freedns5.registrar-servers.com.
 betwinner.ng.		3600	IN	NS	dana.ns.cloudflare.com.
 betwinner.ng.		3600	IN	NS	damon.ns.cloudflare.com.
-betworld.ng.		3600	IN	NS	ns1.eurodns.com.
-betworld.ng.		3600	IN	NS	ns2.eurodns.com.
-betworld.ng.		3600	IN	NS	ns3.eurodns.com.
-betworld.ng.		3600	IN	NS	ns4.eurodns.com.
 betxperience.ng.	3600	IN	NS	ns1.web4africa.com.
 betxperience.ng.	3600	IN	NS	ns2.web4africa.com.
 betxperience.ng.	3600	IN	NS	ns3.web4africa.com.
@@ -45945,6 +45941,8 @@ nationaltimes.ng.	3600	IN	NS	ns1.bluecollar.com.ng.
 nationaltimes.ng.	3600	IN	NS	ns2.bluecollar.com.ng.
 nationalyouthconference.ng. 3600 IN	NS	nsa.whogohost.com.
 nationalyouthconference.ng. 3600 IN	NS	nsb.whogohost.com.
+nationhall.ng.		3600	IN	NS	ns1.bluehost.com.
+nationhall.ng.		3600	IN	NS	ns2.bluehost.com.
 nationnews.ng.		3600	IN	NS	ns1.hostloni.com.
 nationnews.ng.		3600	IN	NS	ns2.hostloni.com.
 nativeai.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -75645,9 +75643,9 @@ yinya.ng.		3600	IN	NS	nsa.whogohost.com.
 yinya.ng.		3600	IN	NS	nsb.whogohost.com.
 yip.ng.			3600	IN	NS	ns1.yiponline.com.
 yip.ng.			3600	IN	NS	ns2.yiponline.com.
+yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yipe.ng.		3600	IN	NS	clint.ns.cloudflare.com.
 yipe.ng.		3600	IN	NS	addyson.ns.cloudflare.com.
-yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yippee.ng.		3600	IN	NS	nsa.whogohost.com.
 yippee.ng.		3600	IN	NS	nsb.whogohost.com.
 yito.ng.		3600	IN	NS	tom.ns.cloudflare.com.
@@ -76532,4 +76530,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032709 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032715 10800 3600 604800 3600
