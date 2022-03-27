@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032715 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1648364430"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032721 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1648375235"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -46369,8 +46369,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -52694,6 +52694,9 @@ pickmi.ng.		3600	IN	NS	ns1.dknoc.com.
 pickmi.ng.		3600	IN	NS	ns2.dknoc.com.
 pickndrop.ng.		3600	IN	NS	nsa.whogohost.com.
 pickndrop.ng.		3600	IN	NS	nsb.whogohost.com.
+picknfix.ng.		3600	IN	NS	ns1.digitalocean.com.
+picknfix.ng.		3600	IN	NS	ns2.digitalocean.com.
+picknfix.ng.		3600	IN	NS	ns3.digitalocean.com.
 picknpay.ng.		3600	IN	NS	ns1.iptwins.net.
 picknpay.ng.		3600	IN	NS	ns2.iptwins.net.
 picknpay.ng.		3600	IN	NS	ns3.iptwins.com.
@@ -53687,6 +53690,8 @@ powerpay.ng.		3600	IN	NS	ns-1947.awsdns-51.co.uk.
 powerplug.ng.		3600	IN	NS	dns1.web-hosting.com.
 powerplug.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 powerplug.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+powerpoint.ng.		3600	IN	NS	ns1.upperserver29.com.
+powerpoint.ng.		3600	IN	NS	ns2.upperserver29.com.
 powerpro.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 powerpro.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 powershop.ng.		3600	IN	NS	jobs.ns.cloudflare.com.
@@ -76530,4 +76535,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032715 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032721 10800 3600 604800 3600
