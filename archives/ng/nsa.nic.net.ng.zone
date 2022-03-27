@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032721 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1648375235"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032727 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1648386025"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -5073,6 +5073,8 @@ asepay.ng.		3600	IN	NS	nsb.whogohost.com.
 asfa-irrigation.ng.	3600	IN	NS	ns1.instradns.com.
 asfa-irrigation.ng.	3600	IN	NS	ns2.instradns.com.
 asfa-irrigation.ng.	3600	IN	NS	ns3.instradns.com.
+asfaleia.ng.		3600	IN	NS	nsa.whogohost.com.
+asfaleia.ng.		3600	IN	NS	nsb.whogohost.com.
 asg.ng.			3600	IN	NS	nsa.whogohost.com.
 asg.ng.			3600	IN	NS	nsb.whogohost.com.
 ashare.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -24125,9 +24127,9 @@ fieldpro.ng.		3600	IN	NS	linda.ns.cloudflare.com.
 fieldpro.ng.		3600	IN	NS	terry.ns.cloudflare.com.
 fifa.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 fifa.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-fifi.ng.		86400	IN	DS	57991 13 2 06129C9BA20EF9901FF9482FE0AE82427FCADB901C5A108482E9D0BE 5D387CD9
 fifi.ng.		3600	IN	NS	ns3.epik.com.
 fifi.ng.		3600	IN	NS	ns4.epik.com.
+fifi.ng.		86400	IN	DS	57991 13 2 06129C9BA20EF9901FF9482FE0AE82427FCADB901C5A108482E9D0BE 5D387CD9
 fifiscakeallure.ng.	3600	IN	NS	nsa.whogohost.com.
 fifiscakeallure.ng.	3600	IN	NS	nsb.whogohost.com.
 fighti.ng.		3600	IN	NS	tim.ns.cloudflare.com.
@@ -39632,6 +39634,8 @@ loliga.ng.		3600	IN	NS	riya.ns.cloudflare.com.
 lomee.ng.		3600	IN	NS	ns1.site4now.net.
 lomee.ng.		3600	IN	NS	ns2.site4now.net.
 lomee.ng.		3600	IN	NS	ns3.site4now.net.
+lomentertainment.ng.	3600	IN	NS	nsa.whogohost.com.
+lomentertainment.ng.	3600	IN	NS	nsb.whogohost.com.
 loms.ng.		3600	IN	NS	nsa.whogohost.com.
 loms.ng.		3600	IN	NS	nsb.whogohost.com.
 lona.ng.		3600	IN	NS	ns1.bh-4.webhostbox.net.
@@ -46369,8 +46373,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -53057,6 +53061,8 @@ platforms.ng.		3600	IN	NS	ns1.inmotionhosting.com.
 platforms.ng.		3600	IN	NS	ns2.inmotionhosting.com.
 platformuniversity.ng.	3600	IN	NS	ns1.whogohost.com.
 platformuniversity.ng.	3600	IN	NS	ns2.whogohost.com.
+platinumchoicesedu.ng.	3600	IN	NS	nsa.whogohost.com.
+platinumchoicesedu.ng.	3600	IN	NS	nsb.whogohost.com.
 platinumexpress.ng.	3600	IN	NS	ns1.servconfig.com.
 platinumexpress.ng.	3600	IN	NS	ns2.servconfig.com.
 platinumplay.ng.	3600	IN	NS	ns1.lexsynergy.net.
@@ -57573,6 +57579,8 @@ rightcall.ng.		3600	IN	NS	ns1.web4africa.com.
 rightcall.ng.		3600	IN	NS	ns2.web4africa.com.
 rightcall.ng.		3600	IN	NS	ns3.web4africa.com.
 rightcall.ng.		3600	IN	NS	ns4.web4africa.com.
+righteouscitysolar.ng.	3600	IN	NS	n1.dreamhost.com.
+righteouscitysolar.ng.	3600	IN	NS	n2.dreamhost.com.
 rightexchange.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 rightexchange.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 righthost.ng.		3600	IN	NS	dns1.rythost.com.
@@ -57591,6 +57599,8 @@ rightpath.ng.		3600	IN	NS	ns1.websguy.com.
 rightpath.ng.		3600	IN	NS	ns2.websguy.com.
 rightprice.ng.		3600	IN	NS	ns1.cybonia.com.
 rightprice.ng.		3600	IN	NS	ns2.cybonia.com.
+rightsourceenergy.ng.	3600	IN	NS	n1.dreamhost.com.
+rightsourceenergy.ng.	3600	IN	NS	n2.dreamhost.com.
 rightstay.ng.		3600	IN	NS	nsa.whogohost.com.
 rightstay.ng.		3600	IN	NS	nsb.whogohost.com.
 righttrade.ng.		3600	IN	NS	ns40.cleannameservers.com.
@@ -76535,4 +76545,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032721 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032727 10800 3600 604800 3600
