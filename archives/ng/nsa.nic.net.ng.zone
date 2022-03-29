@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032934 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1648569628"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032940 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1648580433"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -11585,6 +11585,8 @@ candycurls.ng.		3600	IN	NS	nsa.whogohost.com.
 candycurls.ng.		3600	IN	NS	nsb.whogohost.com.
 candytv.ng.		3600	IN	NS	burt.ns.cloudflare.com.
 candytv.ng.		3600	IN	NS	venus.ns.cloudflare.com.
+candywarehouse.ng.	3600	IN	NS	nsa.whogohost.com.
+candywarehouse.ng.	3600	IN	NS	nsb.whogohost.com.
 canfixit.ng.		3600	IN	NS	ns1.dkshared1.com.
 canfixit.ng.		3600	IN	NS	ns2.dkshared1.com.
 canline.ng.		3600	IN	NS	igor.ns.cloudflare.com.
@@ -24033,6 +24035,8 @@ festac2077.ng.		3600	IN	NS	ns545.domainhosting.com.ng.
 festac2077.ng.		3600	IN	NS	ns546.domainhosting.com.ng.
 festacweekly.ng.	3600	IN	NS	ns1.upperserver8.com.
 festacweekly.ng.	3600	IN	NS	ns2.upperserver8.com.
+festi.ng.		3600	IN	NS	ns1.vercel-dns.com.
+festi.ng.		3600	IN	NS	ns2.vercel-dns.com.
 festive.ng.		3600	IN	NS	nsa.whogohost.com.
 festive.ng.		3600	IN	NS	nsb.whogohost.com.
 festo.ng.		3600	IN	NS	ns0.atvirtual.com.
@@ -31479,8 +31483,9 @@ hubryde.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 hubryde.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 hubs.ng.		3600	IN	NS	ns1.domains.ng.
 hubs.ng.		3600	IN	NS	ns2.domains.ng.
-hubuk.ng.		3600	IN	NS	nsa.whogohost.com.
-hubuk.ng.		3600	IN	NS	nsb.whogohost.com.
+hubuk.ng.		3600	IN	NS	ns1.digitalocean.com.
+hubuk.ng.		3600	IN	NS	ns2.digitalocean.com.
+hubuk.ng.		3600	IN	NS	ns3.digitalocean.com.
 hudson.ng.		3600	IN	NS	nsa.whogohost.com.
 hudson.ng.		3600	IN	NS	nsb.whogohost.com.
 hudsonnigeria.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -42500,6 +42505,8 @@ michelintyres.ng.	3600	IN	NS	dns1.cscdns.net.
 michelintyres.ng.	3600	IN	NS	dns2.cscdns.net.
 michelle.ng.		3600	IN	NS	nsa.whogohost.com.
 michelle.ng.		3600	IN	NS	nsb.whogohost.com.
+michlayo.ng.		3600	IN	NS	ns3.dktlds.com.
+michlayo.ng.		3600	IN	NS	ns4.dktlds.com.
 mickyskincare.ng.	3600	IN	NS	ns3011.mochahost.com.
 mickyskincare.ng.	3600	IN	NS	ns4011.mochahost.com.
 micro.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -46410,8 +46417,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -65058,6 +65065,8 @@ supando.ng.		3600	IN	NS	ns15.domaincontrol.com.
 supando.ng.		3600	IN	NS	ns16.domaincontrol.com.
 supaprix.ng.		3600	IN	NS	ns1.bluehost.com.
 supaprix.ng.		3600	IN	NS	ns2.bluehost.com.
+supashop.ng.		3600	IN	NS	nsa.whogohost.com.
+supashop.ng.		3600	IN	NS	nsb.whogohost.com.
 supaworld.ng.		3600	IN	NS	nsa.whogohost.com.
 supaworld.ng.		3600	IN	NS	nsb.whogohost.com.
 super.ng.		3600	IN	NS	ns1.upperserver29.com.
@@ -70288,9 +70297,9 @@ turfarena.ng.		3600	IN	NS	ns1.web4africa.com.
 turfarena.ng.		3600	IN	NS	ns2.web4africa.com.
 turfarena.ng.		3600	IN	NS	ns3.web4africa.com.
 turfarena.ng.		3600	IN	NS	ns4.web4africa.com.
+turi.ng.		86400	IN	DS	46680 13 2 C4BF7BC08B2D1B1E62956392DA033B5191DE99B9D1590287226FDB58 53AAD861
 turi.ng.		3600	IN	NS	ns3.epik.com.
 turi.ng.		3600	IN	NS	ns4.epik.com.
-turi.ng.		86400	IN	DS	46680 13 2 C4BF7BC08B2D1B1E62956392DA033B5191DE99B9D1590287226FDB58 53AAD861
 turkedin.ng.		3600	IN	NS	nsa.whogohost.com.
 turkedin.ng.		3600	IN	NS	nsb.whogohost.com.
 turkey.ng.		3600	IN	NS	cp.nira.org.ng.
@@ -71298,8 +71307,8 @@ utas.ng.		3600	IN	NS	ns3.digitalocean.com.
 utengr.ng.		3600	IN	NS	ns1.101domain.com.
 utengr.ng.		3600	IN	NS	ns2.101domain.com.
 utengr.ng.		3600	IN	NS	ns5.101domain.com.
-uthub.ng.		3600	IN	NS	nsa.whogohost.com.
-uthub.ng.		3600	IN	NS	nsb.whogohost.com.
+uthub.ng.		3600	IN	NS	ns1.vercel-dns.com.
+uthub.ng.		3600	IN	NS	ns2.vercel-dns.com.
 uti.ng.			3600	IN	NS	ns-40-c.gandi.net.
 uti.ng.			3600	IN	NS	ns-188-a.gandi.net.
 uti.ng.			3600	IN	NS	ns-203-b.gandi.net.
@@ -76571,4 +76580,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032934 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022032940 10800 3600 604800 3600
