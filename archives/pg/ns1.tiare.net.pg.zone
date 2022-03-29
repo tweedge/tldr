@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022032800 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022032900 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -268,6 +268,8 @@ abr.COM.pg.		172800	IN	NS	ns1.datec.net.pg.
 abr.COM.pg.		172800	IN	NS	ns2.datec.net.pg.
 abr.COM.pg.		172800	IN	NS	ns3.datec.net.pg.
 abspross.COM.pg.	172800	IN	NS	ns1.dns-parking.com.
+abusnakumu.COM.pg.	172800	IN	NS	ns1.bluehost.com.
+abusnakumu.COM.pg.	172800	IN	NS	ns2.bluehost.com.
 accommodationpng.COM.pg. 172800	IN	NS	ns1.global.net.pg.
 accommodationpng.COM.pg. 172800	IN	NS	ns2.global.net.pg.
 aceagency.COM.pg.	172800	IN	NS	ns1.datec.net.pg.
@@ -1050,6 +1052,7 @@ dfk.COM.pg.		172800	IN	NS	ns-1069.awsdns-05.org.
 dfk.COM.pg.		172800	IN	NS	ns-1878.awsdns-42.co.uk.
 dg.COM.pg.		172800	IN	NS	ns1.online.net.pg.
 dg.COM.pg.		172800	IN	NS	ns2.online.net.pg.
+dhl.COM.pg.		172800	IN	NS	ns2.dhl.com.
 dhl.COM.pg.		172800	IN	NS	ns4.dhl.com.
 dhl.COM.pg.		172800	IN	NS	ns6.dhl.com.
 diamondridge.COM.pg.	172800	IN	NS	pns21.cloudns.net.
@@ -2311,8 +2314,9 @@ madanglodge.COM.pg.	172800	IN	NS	ns2.global.net.pg.
 madangstar.COM.pg.	172800	IN	NS	pns21.cloudns.net.
 madangstar.COM.pg.	172800	IN	NS	pns22.cloudns.net.
 madangstar.COM.pg.	172800	IN	NS	pns23.cloudns.net.
-mainland.COM.pg.	172800	IN	NS	ns1.online.net.pg.
-mainland.COM.pg.	172800	IN	NS	ns2.online.net.pg.
+mainland.COM.pg.	172800	IN	NS	ns1.datec.net.pg.
+mainland.COM.pg.	172800	IN	NS	ns2.datec.net.pg.
+mainland.COM.pg.	172800	IN	NS	ns3.datec.net.pg.
 makaplawyers.COM.pg.	172800	IN	NS	ns1.telinet.com.pg.
 makaplawyers.COM.pg.	172800	IN	NS	ns2.telinet.com.pg.
 makeitwan.COM.pg.	172800	IN	NS	ns1.qnetau.com.
@@ -2513,8 +2517,8 @@ miraikaihatsu.COM.pg.	172800	IN	NS	ns2.datec.net.pg.
 miraikaihatsu.COM.pg.	172800	IN	NS	ns3.datec.net.pg.
 mirupasi.COM.pg.	172800	IN	NS	ns1.telinet.com.pg.
 mirupasi.COM.pg.	172800	IN	NS	ns2.telinet.com.pg.
-misoft.COM.pg.		172800	IN	NS	ns1.telinet.com.pg.
-misoft.COM.pg.		172800	IN	NS	ns2.telinet.com.pg.
+misoft.COM.pg.		172800	IN	NS	ns1.hosterella.com.
+misoft.COM.pg.		172800	IN	NS	ns2.hosterella.com.
 mist.COM.pg.		172800	IN	NS	ns1.qnetau.com.
 mist.COM.pg.		172800	IN	NS	ns2.qnetau.com.
 mist.COM.pg.		172800	IN	NS	ns3.qnetau.com.
@@ -2943,9 +2947,8 @@ officelink.COM.pg.	172800	IN	NS	ns2.datec.net.pg.
 officelink.COM.pg.	172800	IN	NS	ns3.datec.net.pg.
 officetech.COM.pg.	172800	IN	NS	ns1.daltron.com.pg.
 officetech.COM.pg.	172800	IN	NS	ns2.daltron.com.pg.
-officetrail.COM.pg.	172800	IN	NS	ns1.datec.net.pg.
-officetrail.COM.pg.	172800	IN	NS	ns2.datec.net.pg.
-officetrail.COM.pg.	172800	IN	NS	ns3.datec.net.pg.
+officetrail.COM.pg.	172800	IN	NS	ns1.techswitchon.com.
+officetrail.COM.pg.	172800	IN	NS	ns2.techswitchon.com.
 ohsl.COM.pg.		172800	IN	NS	ns1.telinet.com.pg.
 ohsl.COM.pg.		172800	IN	NS	ns2.telinet.com.pg.
 oilau.COM.pg.		172800	IN	NS	ns1.telinet.com.pg.
@@ -3207,9 +3210,8 @@ pgl.COM.pg.		172800	IN	NS	ns2.datec.net.pg.
 pgl.COM.pg.		172800	IN	NS	ns3.datec.net.pg.
 pgsniugini.COM.pg.	172800	IN	NS	ns1.telinet.com.pg.
 pgsniugini.COM.pg.	172800	IN	NS	ns2.telinet.com.pg.
-pgsniuginilae.COM.pg.	172800	IN	NS	ns1.datec.net.pg.
-pgsniuginilae.COM.pg.	172800	IN	NS	ns2.datec.net.pg.
-pgsniuginilae.COM.pg.	172800	IN	NS	ns3.datec.net.pg.
+pgsniuginilae.COM.pg.	172800	IN	NS	ns1.bluehost.com.
+pgsniuginilae.COM.pg.	172800	IN	NS	ns2.bluehost.com.
 pha.COM.pg.		172800	IN	NS	ns1.datec.net.pg.
 pha.COM.pg.		172800	IN	NS	ns2.datec.net.pg.
 pha.COM.pg.		172800	IN	NS	ns3.datec.net.pg.
@@ -4894,8 +4896,9 @@ nawaeb.GOV.pg.		172800	IN	NS	ns2.sgp4.siteground.asia.
 ncc.GOV.pg.		172800	IN	NS	ams-ns1.greengeeks.com.
 ncc.GOV.pg.		172800	IN	NS	chi-ns1.greengeeks.com.
 ncc.GOV.pg.		172800	IN	NS	chi-ns2.greengeeks.com.
-ncdc.GOV.pg.		172800	IN	NS	ns1.digiteccloud.com.
-ncdc.GOV.pg.		172800	IN	NS	ns2.digiteccloud.com.
+ncdc.GOV.pg.		172800	IN	NS	ns1.datec.net.pg.
+ncdc.GOV.pg.		172800	IN	NS	ns2.datec.net.pg.
+ncdc.GOV.pg.		172800	IN	NS	ns3.datec.net.pg.
 ncdhs.GOV.pg.		172800	IN	NS	ns1.online.net.pg.
 ncdhs.GOV.pg.		172800	IN	NS	ns2.online.net.pg.
 ncoba.GOV.pg.		172800	IN	NS	ns1.datec.net.pg.
@@ -5890,4 +5893,4 @@ ywamships.ORG.pg.	172800	IN	NS	ns3.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns1.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns2.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns3.qnetau.com.
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022032800 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022032900 14400 7200 1728000 14400
