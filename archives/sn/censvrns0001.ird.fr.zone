@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434177 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434198 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220524070750 20220325063817 17389 sn. ajpggAkcMhkQdg+lnA5hmpc2ZmqSS8oJW8N8XzzoriFJpjEPmosBjgEy rmfSstsvJVr4WsdeZeXedyNALV3stg==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220426213838 20220225204243 37490 sn. JliS85aiOUlRME+jPtusw+uRQ174vcUGFH1wbySyXsupCCF0sJTjN4+h vo0z7PVFi27aGFx5mQmXJbgDidKAHg==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220519065527 20220328211002 17389 sn. Ni0WdDRQIqWNG4v4B3Z5FereKMO4abDlxZwvulYejc3xzIpJ68G9taVR +pgfcqHWV+K8X/LVz/5hdmkqHaDmlA==
-sn.			172800	IN	TXT	"No RRs processed [29/03/2022 00H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220418052234 20220329001002 17389 sn. nyGDUdABhjLM9xS6r0Rq+meWcRnCyWT7f+Eg4KTRzS4m2EFAFvIvrfIH NBcqXXTNjFz9hD+1yJj+2M7KBbAJ3A==
+sn.			172800	IN	TXT	"No RRs processed [29/03/2022 03H10:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220419164952 20220218161340 17389 sn. q8sBXz1kK3A8utCNq/093Wy+DIeQLi+VXcWN0EaR+akmivCdQK3WJJ2d tTMlrTNn6Up1htEv1a7LcKOnuffyww==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220527221002 20220328211002 17389 sn. 9WWzlJPStBW/JVj0a5qkGfpshnfflysrrpvI4NY6l+lXLRr7SJ0Lz+dX IWb81rzErWjiiAi4m9WQlA7miA55PA==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220528011002 20220329001002 17389 sn. KkXqRkAIu1ZARReESfh0EiI1eh575URMnCRIaHU1qXJJea7rtIQ30EwE uFegNqeQRUNhGRG1EcqcEa8cV1mYqw==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -2168,7 +2168,7 @@ azcolor.sn.		43200	IN	NS	ns200.anycast.me.
 azcolor.sn.		43200	IN	NS	dns200.anycast.me.
 azimutservices.sn.	172800	IN	NS	ns200.anycast.me.
 azimutservices.sn.	172800	IN	NS	dns200.anycast.me.
-azkhar.sn.		172800	IN	RRSIG	DS 13 2 172800 20220411222110 20220210221120 17389 sn. +ZVVZEDls+Lus9wx1BORGHX1536LQC5RUKhxhjtl2U93/itQJ3IIssJ3 jg1WQTAoOpjlyoUM6X0dHsDt3fjdog==
+azkhar.sn.		172800	IN	RRSIG	DS 13 2 172800 20220527220550 20220328212110 17389 sn. 0YIzMakGBkw0PeUXdPKczlrOlyTFaHNLcvpOL7FJ00fNV488UySnE8iE 8TyIL5mlfToD/SoD57cq2PUg+fjwsw==
 azkhar.sn.		172800	IN	DS	16732 8 2 8A0FDB790D42F8F74D6942760A225FD61285F44BE6B536DB678B1FDC 64647562
 azkhar.sn.		172800	IN	NS	ns20.ovh.net.
 azkhar.sn.		172800	IN	NS	dns20.ovh.net.
@@ -8375,7 +8375,7 @@ futurestore.sn.		172800	IN	NS	ns200.anycast.me.
 futurestore.sn.		172800	IN	NS	dns200.anycast.me.
 futuris.sn.		43200	IN	NS	ns1.panelboxmanager.com.
 futuris.sn.		43200	IN	NS	ns2.panelboxmanager.com.
-futursmedias.sn.	43200	IN	RRSIG	DS 13 2 43200 20220412002525 20220210234840 17389 sn. n9/PiL/pMYqIK24pa5tsQTjFrR4TkNzUjNWq116aQHnWl+TryFQKF9i+ w8hNsg7u2jgF6koDg+erAr6kloDoCg==
+futursmedias.sn.	43200	IN	RRSIG	DS 13 2 43200 20220527234727 20220328232525 17389 sn. sMJsxsaCPoMIl6R6SNVcB2AdkGt59F5D1GgLPFOtpLfVbSRcg8O8PJi+ 2D/M+spQDYBk4mZLWu7rj0PwKhg9eA==
 futursmedias.sn.	43200	IN	DS	49219 8 2 E25108F54A001FF4F2249F66A3C20F530F8E35AE24258AF05007DCE5 C2316570
 futursmedias.sn.	43200	IN	NS	ns18.ovh.net.
 futursmedias.sn.	43200	IN	NS	dns18.ovh.net.
@@ -15471,8 +15471,8 @@ pdcej.sn.		43200	IN	NS	ns3.kheweul.net.
 pdcej.sn.		43200	IN	NS	ns4.kheweul.net.
 pdeps.sn.		172800	IN	NS	ns5.jokko-hosting.com.
 pdeps.sn.		172800	IN	NS	ns8.jokko-hosting.com.
-pdg.sn.			43200	IN	NS	ns31.infomaniak.com.
-pdg.sn.			43200	IN	NS	ns32.infomaniak.com.
+pdg.sn.			172800	IN	NS	ns200.anycast.me.
+pdg.sn.			172800	IN	NS	dns200.anycast.me.
 pdi.sn.			43200	IN	NS	ns.sonatel.sn.
 pdi.sn.			43200	IN	NS	ns1.validname.com.
 pdi.sn.			43200	IN	NS	ns2.sonatel.sn.
@@ -18120,7 +18120,7 @@ sensdemarrakech.sn.	43200	IN	NS	dns1.alwaysdata.com.
 sensdemarrakech.sn.	43200	IN	NS	dns2.alwaysdata.com.
 sensecuritech.sn.	43200	IN	NS	eisdns1.expertis.sn.
 sensecuritech.sn.	43200	IN	NS	eisdns2.expertis.sn.
-sensedata.sn.		172800	IN	RRSIG	DS 13 2 172800 20220411233901 20220210224700 17389 sn. Aqm4/w4fQPtsv5YL4vfe/WNjaL2mUk8NSb2q5l2R8nYOjN+OUgHVWIMW d1T4pIMmIa0EXOTTaETh2TYppq49Yw==
+sensedata.sn.		172800	IN	RRSIG	DS 13 2 172800 20220527225222 20220328223901 17389 sn. 2onk1l58isdapbyhCRTziQvHNHKD/Ox37pCCLcBZa1+0MedY+YbduMqi lE8c2EC6rV8bzUE9kVgIh3A3ZK5r6g==
 sensedata.sn.		172800	IN	DS	31006 8 2 C7DB23EA02156339D981DB628384AF4270E77C440E414683C386E12F 66ECBCF0
 sensedata.sn.		43200	IN	NS	ns112.ovh.net.
 sensedata.sn.		43200	IN	NS	dns112.ovh.net.
@@ -21351,9 +21351,8 @@ villedesaintlouis.sn.	172800	IN	RRSIG	DS 13 2 172800 20220412124259 202202111242
 villedesaintlouis.sn.	172800	IN	DS	24187 8 2 0C57BCB73CE0035622226DDA1156D2F99BF6DE926FA1E2E4B0123527 A7EEF30D
 villedesaintlouis.sn.	43200	IN	NS	ns14.ovh.net.
 villedesaintlouis.sn.	43200	IN	NS	dns14.ovh.net.
-villedeziguinchor.sn.	43200	IN	NS	ns.gouv.sn.
-villedeziguinchor.sn.	43200	IN	NS	ns2.gouv.sn.
-villedeziguinchor.sn.	43200	IN	NS	ns3.gouv.sn.
+villedeziguinchor.sn.	172800	IN	NS	ns200.anycast.me.
+villedeziguinchor.sn.	172800	IN	NS	dns200.anycast.me.
 villeverte.sn.		43200	IN	NS	ns101.ovh.net.
 villeverte.sn.		43200	IN	NS	dns101.ovh.net.
 vintage.sn.		172800	IN	NS	ns14.ovh.net.
@@ -24366,4 +24365,4 @@ VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022051510574
 VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 VV3IDF84ISCK271NU3M3JSCE5G2L69FE NS DS RRSIG
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220514132310 20220315131811 17389 sn. Qcq1/N1Vw1RhVdjiUER0le6bYXOqdUZPANsJmTMXev9KeGQOZzexTsnd 3GUQ7OOQ7bYdNbacFFpTQYhdG3EXlQ==
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 02LIE766VG7G8G4SE6UGGCHJ9DD79PD9 NS DS RRSIG
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434177 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434198 3600 1800 3600000 5400
