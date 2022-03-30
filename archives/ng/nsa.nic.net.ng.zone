@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022033010 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1648612895"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022033016 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1648623688"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -2055,8 +2055,8 @@ afms.ng.		3600	IN	NS	ns1.dknoc.com.
 afms.ng.		3600	IN	NS	ns2.dknoc.com.
 afnanfurniture.ng.	3600	IN	NS	ns25.qservers.net.
 afnanfurniture.ng.	3600	IN	NS	ns26.qservers.net.
-afnews.ng.		3600	IN	NS	karl.ns.cloudflare.com.
-afnews.ng.		3600	IN	NS	tegan.ns.cloudflare.com.
+afnews.ng.		3600	IN	NS	dns1.doveserver.com.
+afnews.ng.		3600	IN	NS	dns2.doveserver.com.
 afo.ng.			3600	IN	NS	ns1.upperserver29.com.
 afo.ng.			3600	IN	NS	ns2.upperserver29.com.
 afodel.ng.		3600	IN	NS	ns1.mdsnig.com.
@@ -13783,8 +13783,8 @@ clasicoshub.ng.		3600	IN	NS	biz1.intechcloudserver.com.
 clasicoshub.ng.		3600	IN	NS	biz2.intechcloudserver.com.
 class.ng.		3600	IN	NS	ns1.dknoc.com.
 class.ng.		3600	IN	NS	ns2.dknoc.com.
-classbasic.ng.		3600	IN	NS	dns1.doveserver.com.
-classbasic.ng.		3600	IN	NS	dns2.doveserver.com.
+classbasic.ng.		3600	IN	NS	ram.ns.cloudflare.com.
+classbasic.ng.		3600	IN	NS	kate.ns.cloudflare.com.
 classbook.ng.		3600	IN	NS	ns1.dknoc.com.
 classbook.ng.		3600	IN	NS	ns2.dknoc.com.
 classe.ng.		3600	IN	NS	alan.ns.cloudflare.com.
@@ -46391,8 +46391,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -66549,6 +66549,8 @@ techviews.ng.		3600	IN	NS	isla.ns.cloudflare.com.
 techviews.ng.		3600	IN	NS	oswald.ns.cloudflare.com.
 techvilla.ng.		3600	IN	NS	ns1.depro7.fcomet.com.
 techvilla.ng.		3600	IN	NS	ns2.depro7.fcomet.com.
+techvillage.ng.		3600	IN	NS	nsa.whogohost.com.
+techvillage.ng.		3600	IN	NS	nsb.whogohost.com.
 techvolve.ng.		3600	IN	NS	ns1.techvolve.online.
 techvolve.ng.		3600	IN	NS	ns2.techvolve.online.
 techware.ng.		3600	IN	NS	ns1021.kvchosting.com.
@@ -67327,6 +67329,9 @@ theconvergence.ng.	3600	IN	NS	dns1.supremedns.com.
 theconvergence.ng.	3600	IN	NS	dns2.supremedns.com.
 theconvergence.ng.	3600	IN	NS	dns3.supremedns.com.
 theconvergence.ng.	3600	IN	NS	dns4.supremedns.com.
+thecoppertrinity.ng.	3600	IN	NS	ns01.trademarkarea.com.
+thecoppertrinity.ng.	3600	IN	NS	ns02.trademarkarea.com.
+thecoppertrinity.ng.	3600	IN	NS	ns03.trademarkarea.com.
 thecorner.ng.		3600	IN	NS	nsa.whogohost.com.
 thecorner.ng.		3600	IN	NS	nsb.whogohost.com.
 thecorrespondent.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -75306,6 +75311,8 @@ y-money.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 y-money.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 ya-lo.ng.		3600	IN	NS	nsa.whogohost.com.
 ya-lo.ng.		3600	IN	NS	nsb.whogohost.com.
+yabacampus.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+yabacampus.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 yabacon.ng.		3600	IN	NS	ns1.digitalocean.com.
 yabacon.ng.		3600	IN	NS	ns2.digitalocean.com.
 yabacon.ng.		3600	IN	NS	ns3.digitalocean.com.
@@ -76533,4 +76540,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022033010 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022033016 10800 3600 604800 3600
