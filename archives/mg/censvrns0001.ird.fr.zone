@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022033104 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022033107 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1648699530"
+mg.			7200	IN	TXT	"Generation Time: 1648710324"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1029,8 +1029,9 @@ arijery.mg.		7200	IN	NS	ns1.servermada.com.
 arijery.mg.		7200	IN	NS	ns2.servermada.com.
 arima.mg.		7200	IN	NS	ns1.cloudns.io.
 arima.mg.		7200	IN	NS	ns2.cloudns.io.
-aris.mg.		7200	IN	NS	ns3071356.ip-217-182-137.eu.
-aris.mg.		7200	IN	NS	sdns2.ovh.net.
+aris.mg.		7200	IN	NS	vps-5b834ccd.vps.ovh.net.
+aris.mg.		7200	IN	NS	ns16.ovh.net.
+aris.mg.		7200	IN	NS	dns16.ovh.net.
 arisiva.mg.		7200	IN	NS	ns1.hostpapa.com.
 arisiva.mg.		7200	IN	NS	ns2.hostpapa.com.
 arista.mg.		7200	IN	NS	ns1.101domain.com.
@@ -8126,9 +8127,6 @@ petronas.mg.		86400	IN	NS	ns2.petronas.com.my.
 peugeot.mg.		86400	IN	NS	ns-232-a.gandi.net.
 peugeot.mg.		86400	IN	NS	ns-128-b.gandi.net.
 peugeot.mg.		86400	IN	NS	ns-215-c.gandi.net.
-peyron.mg.		86400	IN	NS	ns1.indritech.mg.
-peyron.mg.		86400	IN	NS	ns2.indritech.mg.
-peyron.mg.		86400	IN	NS	ns3.indritech.mg.
 pfoi.mg.		86400	IN	NS	nsmpro1.nordnet.com.
 pfoi.mg.		86400	IN	NS	nsmpro2.nordnet.com.
 pfphmad.mg.		86400	IN	NS	ns1.da.cloudns.io.
@@ -11401,4 +11399,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022033104 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022033107 600 3600 604800 86400
