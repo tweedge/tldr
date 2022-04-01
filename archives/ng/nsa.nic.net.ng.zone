@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022033188 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1648761304"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040108 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1648774839"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -8688,6 +8688,8 @@ blackbelt.ng.		3600	IN	NS	ns3.hostinger.com.
 blackbelt.ng.		3600	IN	NS	ns4.hostinger.com.
 blackbet.ng.		3600	IN	NS	tara.ns.cloudflare.com.
 blackbet.ng.		3600	IN	NS	theo.ns.cloudflare.com.
+blackbirdtech.ng.	3600	IN	NS	nsa.whogohost.com.
+blackbirdtech.ng.	3600	IN	NS	nsb.whogohost.com.
 blackbullmarkets.ng.	3600	IN	NS	ns1.markmonitor.com.
 blackbullmarkets.ng.	3600	IN	NS	ns2.markmonitor.com.
 blackbullmarkets.ng.	3600	IN	NS	ns3.markmonitor.com.
@@ -25439,8 +25441,8 @@ foodgoo.ng.		3600	IN	NS	nsa.whogohost.com.
 foodgoo.ng.		3600	IN	NS	nsb.whogohost.com.
 foodgrubber.ng.		3600	IN	NS	ns1.arabahost.com.
 foodgrubber.ng.		3600	IN	NS	ns2.arabahost.com.
-foodhalt.ng.		3600	IN	NS	dns1.namecheaphosting.com.
-foodhalt.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+foodhalt.ng.		3600	IN	NS	west.ns.cloudflare.com.
+foodhalt.ng.		3600	IN	NS	amber.ns.cloudflare.com.
 foodhouse.ng.		3600	IN	NS	ns1.thelinksolution.com.
 foodhouse.ng.		3600	IN	NS	ns2.thelinksolution.com.
 foodhub.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -40748,6 +40750,8 @@ malezi.ng.		3600	IN	NS	ns2.digitalocean.com.
 malezi.ng.		3600	IN	NS	ns3.digitalocean.com.
 mali.ng.		3600	IN	NS	cp.nira.org.ng.
 mali.ng.		3600	IN	NS	ns1.nira.org.ng.
+malikadoibrahim.ng.	3600	IN	NS	nsa.whogohost.com.
+malikadoibrahim.ng.	3600	IN	NS	nsb.whogohost.com.
 maliya.ng.		3600	IN	NS	n8.iclassserver.com.
 maliya.ng.		3600	IN	NS	n9.iclassserver.com.
 mall.ng.		3600	IN	NS	n3.hihostnow.com.ng.
@@ -46500,8 +46504,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -52336,8 +52340,8 @@ peramare.ng.		3600	IN	NS	ns1.web4africa.com.
 peramare.ng.		3600	IN	NS	ns2.web4africa.com.
 peramare.ng.		3600	IN	NS	ns3.web4africa.com.
 peramare.ng.		3600	IN	NS	ns4.web4africa.com.
-perchas.ng.		3600	IN	NS	nsa.whogohost.com.
-perchas.ng.		3600	IN	NS	nsb.whogohost.com.
+perchas.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+perchas.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 perfectelection.ng.	3600	IN	NS	nsa.whogohost.com.
 perfectelection.ng.	3600	IN	NS	nsb.whogohost.com.
 perfectinks.ng.		3600	IN	NS	ns1.perfectinks.ng.
@@ -59980,8 +59984,8 @@ secureme.ng.		3600	IN	NS	nsa.whogohost.com.
 secureme.ng.		3600	IN	NS	nsb.whogohost.com.
 securemygame.ng.	3600	IN	NS	nsa.whogohost.com.
 securemygame.ng.	3600	IN	NS	nsb.whogohost.com.
-securenet.ng.		3600	IN	NS	dns1.doveserver.com.
-securenet.ng.		3600	IN	NS	dns2.doveserver.com.
+securenet.ng.		3600	IN	NS	kim.ns.cloudflare.com.
+securenet.ng.		3600	IN	NS	glen.ns.cloudflare.com.
 securenorth.ng.		3600	IN	NS	nsa.whogohost.com.
 securenorth.ng.		3600	IN	NS	nsb.whogohost.com.
 secureops.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -76751,4 +76755,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022033188 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040108 10800 3600 604800 3600
