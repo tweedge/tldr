@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022040104 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022040107 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1648785642"
+mg.			7200	IN	TXT	"Generation Time: 1648796430"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -6359,8 +6359,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -9966,8 +9966,6 @@ symrisemadagascar.mg.	86400	IN	NS	ns29.dot.mg.
 symrisemadagascar.mg.	86400	IN	NS	ns29.illi.co.mg.
 synapse.mg.		86400	IN	NS	ns1.serveurgasy.com.
 synapse.mg.		86400	IN	NS	ns2.serveurgasy.com.
-systec.mg.		86400	IN	NS	ns1.hostin.cloud.
-systec.mg.		86400	IN	NS	ns2.hostin.cloud.
 t-neg.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 t-neg.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 t-neg.mg.		86400	IN	NS	ns1.fr.malagasy.com.
@@ -11182,9 +11180,6 @@ xpj.mg.			86400	IN	NS	phoenix.ns.cloudflare.com.
 xpj.mg.			86400	IN	NS	woz.ns.cloudflare.com.
 xpjw.mg.		86400	IN	NS	hunts.ns.cloudflare.com.
 xpjw.mg.		86400	IN	NS	jill.ns.cloudflare.com.
-xplus.mg.		86400	IN	NS	nsa.planethoster.net.
-xplus.mg.		86400	IN	NS	nsb.planethoster.net.
-xplus.mg.		86400	IN	NS	nsc.planethoster.net.
 xseller.mg.		86400	IN	NS	ns1.cloudns.io.
 xseller.mg.		86400	IN	NS	ns2.cloudns.io.
 xtandi.mg.		86400	IN	NS	ns1.markmonitor.com.
@@ -11409,4 +11404,4 @@ zoomfilms.mg.		86400	IN	NS	ns1.cloudns.io.
 zoomfilms.mg.		86400	IN	NS	ns2.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022040104 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022040107 600 3600 604800 86400
