@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040244 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1648893626"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040256 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1648904434"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -7488,8 +7488,8 @@ betacare.ng.		3600	IN	NS	nsa.whogohost.com.
 betacare.ng.		3600	IN	NS	nsb.whogohost.com.
 betadeals.ng.		3600	IN	NS	ns1.dns-parking.com.
 betadeals.ng.		3600	IN	NS	ns2.dns-parking.com.
-betadrive.ng.		3600	IN	NS	ns1.glemad.com.
-betadrive.ng.		3600	IN	NS	ns2.glemad.com.
+betadrive.ng.		3600	IN	NS	ns1.glemadcloud.com.
+betadrive.ng.		3600	IN	NS	ns2.glemadcloud.com.
 betaforex.ng.		3600	IN	NS	ns1.vercel-dns.com.
 betaforex.ng.		3600	IN	NS	ns2.vercel-dns.com.
 betagamers.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -28074,11 +28074,8 @@ gogreen.ng.		3600	IN	NS	nsa.whogohost.com.
 gogreen.ng.		3600	IN	NS	nsb.whogohost.com.
 gohangout.ng.		3600	IN	NS	ns1.dknoc.com.
 gohangout.ng.		3600	IN	NS	ns2.dknoc.com.
-gohealthy.ng.		3600	IN	NS	ns1.linode.com.
-gohealthy.ng.		3600	IN	NS	ns2.linode.com.
-gohealthy.ng.		3600	IN	NS	ns3.linode.com.
-gohealthy.ng.		3600	IN	NS	ns4.linode.com.
-gohealthy.ng.		3600	IN	NS	ns5.linode.com.
+gohealthy.ng.		3600	IN	NS	ns1.siteground.net.
+gohealthy.ng.		3600	IN	NS	ns2.siteground.net.
 gohub.ng.		3600	IN	NS	ns1.web4africa.com.
 gohub.ng.		3600	IN	NS	ns2.web4africa.com.
 gohub.ng.		3600	IN	NS	ns3.web4africa.com.
@@ -33883,6 +33880,8 @@ irisresidence.ng.	3600	IN	NS	ns25.qservers.net.
 irisresidence.ng.	3600	IN	NS	ns26.qservers.net.
 irissmart.ng.		3600	IN	NS	nsa.whogohost.com.
 irissmart.ng.		3600	IN	NS	nsb.whogohost.com.
+irms.ng.		3600	IN	NS	ns1.dns-parking.com.
+irms.ng.		3600	IN	NS	ns2.dns-parking.com.
 irn.ng.			3600	IN	NS	nsa.whogohost.com.
 irn.ng.			3600	IN	NS	nsb.whogohost.com.
 irobot.ng.		3600	IN	NS	udns1.cscdns.net.
@@ -39072,6 +39071,8 @@ lineardoors.ng.		3600	IN	NS	ns1.ashflexhosting.com.
 lineardoors.ng.		3600	IN	NS	ns2.ashflexhosting.com.
 linensandfur.ng.	3600	IN	NS	ns1.dns-parking.com.
 linensandfur.ng.	3600	IN	NS	ns2.dns-parking.com.
+lineperfect.ng.		3600	IN	NS	ns1.qservers.net.
+lineperfect.ng.		3600	IN	NS	ns2.qservers.net.
 lines.ng.		3600	IN	NS	earl.ns.cloudflare.com.
 lines.ng.		3600	IN	NS	lauryn.ns.cloudflare.com.
 lineup.ng.		3600	IN	NS	ns63.whogohost.com.
@@ -39662,6 +39663,8 @@ lofthouse.ng.		3600	IN	NS	nsa.whogohost.com.
 lofthouse.ng.		3600	IN	NS	nsb.whogohost.com.
 loftsandcondos.ng.	3600	IN	NS	ns1.qservers.net.
 loftsandcondos.ng.	3600	IN	NS	ns2.qservers.net.
+loftyvisionschool.ng.	3600	IN	NS	dns1.doveserver.com.
+loftyvisionschool.ng.	3600	IN	NS	dns2.doveserver.com.
 log.ng.			3600	IN	NS	joan.ns.cloudflare.com.
 log.ng.			3600	IN	NS	aragorn.ns.cloudflare.com.
 logagg.ng.		3600	IN	NS	ns3.syskay.com.
@@ -46500,8 +46503,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -52149,6 +52152,8 @@ pebble.ng.		3600	IN	NS	nsa.whogohost.com.
 pebble.ng.		3600	IN	NS	nsb.whogohost.com.
 pecdigital.ng.		3600	IN	NS	ns1.dns-parking.com.
 pecdigital.ng.		3600	IN	NS	ns2.dns-parking.com.
+peculiartreasures.ng.	3600	IN	NS	nsa.whogohost.com.
+peculiartreasures.ng.	3600	IN	NS	nsb.whogohost.com.
 pedabo.ng.		3600	IN	NS	ns1.site4now.net.
 pedabo.ng.		3600	IN	NS	ns2.site4now.net.
 pedabo.ng.		3600	IN	NS	ns3.site4now.net.
@@ -56247,6 +56252,9 @@ rati.ng.		3600	IN	NS	dns1.dk-ng.com.
 rati.ng.		3600	IN	NS	dns2.dk-ng.com.
 rati.ng.		3600	IN	NS	dns3.dk-ng.com.
 rati.ng.		3600	IN	NS	dns4.dk-ng.com.
+rating.ng.		3600	IN	NS	ns1.cloudoon.com.
+rating.ng.		3600	IN	NS	ns2.cloudoon.com.
+rating.ng.		3600	IN	NS	ns3.cloudoon.com.
 ratingbet.ng.		3600	IN	NS	ns1.reg.ru.
 ratingbet.ng.		3600	IN	NS	ns2.reg.ru.
 rationalproperties.ng.	3600	IN	NS	ns1078.ifastnet.com.
@@ -76755,4 +76763,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040244 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040256 10800 3600 604800 3600
