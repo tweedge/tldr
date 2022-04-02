@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040220 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1648872033"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040232 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1648882838"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -45058,6 +45058,8 @@ myretailar.ng.		3600	IN	NS	nsa.whogohost.com.
 myretailar.ng.		3600	IN	NS	nsb.whogohost.com.
 myrexpay.ng.		3600	IN	NS	nsa.whogohost.com.
 myrexpay.ng.		3600	IN	NS	nsb.whogohost.com.
+myri.ng.		3600	IN	NS	ns1.101domain.com.
+myri.ng.		3600	IN	NS	ns2.101domain.com.
 myride.ng.		3600	IN	NS	ns1.dan.com.
 myride.ng.		3600	IN	NS	ns2.dan.com.
 myrights.ng.		3600	IN	NS	ns3016.mochahost.com.
@@ -46493,8 +46495,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -54208,6 +54210,8 @@ primegrocers.ng.	3600	IN	NS	ns1.giow1053.siteground.us.
 primegrocers.ng.	3600	IN	NS	ns2.giow1053.siteground.us.
 primeguage.ng.		3600	IN	NS	ns9.trivaluehost.com.
 primeguage.ng.		3600	IN	NS	ns10.trivaluehost.com.
+primehealth.ng.		3600	IN	NS	dns1.doveserver.com.
+primehealth.ng.		3600	IN	NS	dns2.doveserver.com.
 primehub.ng.		3600	IN	NS	ns29.qservers.net.
 primehub.ng.		3600	IN	NS	ns30.qservers.net.
 primejob.ng.		3600	IN	NS	dns1.doveserver.com.
@@ -76742,4 +76746,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040220 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040232 10800 3600 604800 3600
