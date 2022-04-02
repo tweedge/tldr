@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022040219 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1648882935"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022040225 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1648893743"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -458,8 +458,8 @@ al-brghli.sy.		86400	IN	NS	suspend1.tld.sy.
 al-brghli.sy.		86400	IN	NS	suspend2.tld.sy.
 al-deyar.sy.		86400	IN	NS	suspend1.tld.sy.
 al-deyar.sy.		86400	IN	NS	suspend2.tld.sy.
-al-farwanandal-saadi.sy. 86400	IN	NS	ns16.samamax.com.
-al-farwanandal-saadi.sy. 86400	IN	NS	ns17.samamax.com.
+al-farwanandal-saadi.sy. 86400	IN	NS	suspend1.tld.sy.
+al-farwanandal-saadi.sy. 86400	IN	NS	suspend2.tld.sy.
 al-fatal.sy.		86400	IN	NS	suspend1.tld.sy.
 al-fatal.sy.		86400	IN	NS	suspend2.tld.sy.
 al-fattal.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -4414,8 +4414,8 @@ magicshoe.sy.		86400	IN	NS	dns1.supremepanel.com.
 magicshoe.sy.		86400	IN	NS	dns2.supremepanel.com.
 magilla.sy.		86400	IN	NS	dns1.supremepanel.com.
 magilla.sy.		86400	IN	NS	dns2.supremepanel.com.
-mahmaudandkhaledbakrcompany.sy.	86400 IN NS	ns16.samamax.com.
-mahmaudandkhaledbakrcompany.sy.	86400 IN NS	ns17.samamax.com.
+mahmaudandkhaledbakrcompany.sy.	86400 IN NS	suspend1.tld.sy.
+mahmaudandkhaledbakrcompany.sy.	86400 IN NS	suspend2.tld.sy.
 mahmoud-shahin.sy.	86400	IN	NS	suspend1.tld.sy.
 mahmoud-shahin.sy.	86400	IN	NS	suspend2.tld.sy.
 mahmoud-shik.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -7643,4 +7643,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022040219 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022040225 3600 3600 2592000 3600

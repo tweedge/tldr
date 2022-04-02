@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040232 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1648882838"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040244 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1648893626"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -8167,6 +8167,9 @@ billboards.ng.		3600	IN	NS	ns3.web4africa.com.
 billboards.ng.		3600	IN	NS	ns4.web4africa.com.
 billeasy.ng.		3600	IN	NS	ns21.garanntor.net.
 billeasy.ng.		3600	IN	NS	ns22.garanntor.net.
+biller.ng.		3600	IN	NS	ns1.digitalocean.com.
+biller.ng.		3600	IN	NS	ns2.digitalocean.com.
+biller.ng.		3600	IN	NS	ns3.digitalocean.com.
 biller.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 biller.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 billerdev.ng.		3600	IN	NS	ns33.qservers.net.
@@ -30426,6 +30429,8 @@ highfliershub.ng.	3600	IN	NS	dns3.webguru.ng.
 highgarden.ng.		3600	IN	NS	ns0.registeram.com.
 highgarden.ng.		3600	IN	NS	ns1.registeram.com.
 highgarden.ng.		3600	IN	NS	ns2.registeram.com.
+highland.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+highland.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 highlandtea.ng.		3600	IN	NS	ns1.hostandbuild.xyz.
 highlandtea.ng.		3600	IN	NS	ns2.hostandbuild.xyz.
 highlife.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -40545,8 +40550,8 @@ magnawealth.ng.		3600	IN	NS	ns8465.hostgator.com.
 magnawealth.ng.		3600	IN	NS	ns8466.hostgator.com.
 magnet.ng.		3600	IN	NS	peter.ns.cloudflare.com.
 magnet.ng.		3600	IN	NS	adelaide.ns.cloudflare.com.
-magnetlighting.ng.	3600	IN	NS	ns1.host-ww.net.
-magnetlighting.ng.	3600	IN	NS	ns2.host-ww.net.
+magnetlighting.ng.	3600	IN	NS	grace.ns.cloudflare.com.
+magnetlighting.ng.	3600	IN	NS	venkat.ns.cloudflare.com.
 magnificosalon.ng.	3600	IN	NS	ns1.qservers.net.
 magnificosalon.ng.	3600	IN	NS	ns2.qservers.net.
 magnifyschool.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -46495,8 +46500,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -54758,6 +54763,8 @@ properties.ng.		3600	IN	NS	ns2.3w.uk.
 propertiesdirectory.ng.	3600	IN	NS	ns1.cloudoon.com.
 propertiesdirectory.ng.	3600	IN	NS	ns2.cloudoon.com.
 propertiesdirectory.ng.	3600	IN	NS	ns3.cloudoon.com.
+propertiesonline.ng.	3600	IN	NS	dns1.cloudinos.com.
+propertiesonline.ng.	3600	IN	NS	dns2.cloudinos.com.
 propertify.ng.		3600	IN	NS	ns-250.awsdns-31.com.
 propertify.ng.		3600	IN	NS	ns-696.awsdns-23.net.
 propertify.ng.		3600	IN	NS	ns-1516.awsdns-61.org.
@@ -55562,6 +55569,8 @@ quantumzenithasset.ng.	3600	IN	NS	ns1.anyservers.com.
 quantumzenithasset.ng.	3600	IN	NS	ns2.anyservers.com.
 quantumzenithcapital.ng. 3600	IN	NS	ns1.anyservers.com.
 quantumzenithcapital.ng. 3600	IN	NS	ns2.anyservers.com.
+quarry.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+quarry.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 quarter.ng.		3600	IN	NS	ns1.cloudoon.com.
 quarter.ng.		3600	IN	NS	ns2.cloudoon.com.
 quarter.ng.		3600	IN	NS	ns3.cloudoon.com.
@@ -76746,4 +76755,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040232 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040244 10800 3600 604800 3600
