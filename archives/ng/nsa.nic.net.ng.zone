@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040420 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1649044883"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040432 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1649055691"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -5160,8 +5160,8 @@ askmeanythi.ng.		3600	IN	NS	ns3.web4africa.com.
 askmeanythi.ng.		3600	IN	NS	ns4.web4africa.com.
 askmeanything.ng.	3600	IN	NS	ns1.bluehost.com.
 askmeanything.ng.	3600	IN	NS	ns2.bluehost.com.
-asknaija.ng.		3600	IN	NS	nsa.whogohost.com.
-asknaija.ng.		3600	IN	NS	nsb.whogohost.com.
+asknaija.ng.		3600	IN	NS	gail.ns.cloudflare.com.
+asknaija.ng.		3600	IN	NS	john.ns.cloudflare.com.
 asknigeria.ng.		3600	IN	NS	ns1.101domain.com.
 asknigeria.ng.		3600	IN	NS	ns2.101domain.com.
 asknivi.ng.		3600	IN	NS	chloe.ns.cloudflare.com.
@@ -6334,6 +6334,9 @@ bagavill.ng.		3600	IN	NS	uk1.vastgig.com.
 bagavill.ng.		3600	IN	NS	uk2.vastgig.com.
 bagavill.ng.		3600	IN	NS	uk3.vastgig.com.
 bagavill.ng.		3600	IN	NS	uk4.vastgig.com.
+bagdeals.ng.		3600	IN	NS	ns1.cloudoon.com.
+bagdeals.ng.		3600	IN	NS	ns2.cloudoon.com.
+bagdeals.ng.		3600	IN	NS	ns3.cloudoon.com.
 bagnodesign.ng.		3600	IN	NS	ns01.trademarkarea.com.
 bagnodesign.ng.		3600	IN	NS	ns02.trademarkarea.com.
 bagsify.ng.		3600	IN	NS	ns271.hostsserver.com.
@@ -13845,6 +13848,9 @@ classycars.ng.		3600	IN	NS	ns1.extrahostpro.net.
 classycars.ng.		3600	IN	NS	ns2.extrahostpro.net.
 classylifestyle.ng.	3600	IN	NS	yisroel.ns.cloudflare.com.
 classylifestyle.ng.	3600	IN	NS	serenity.ns.cloudflare.com.
+classywatches.ng.	3600	IN	NS	ns1.cloudoon.com.
+classywatches.ng.	3600	IN	NS	ns2.cloudoon.com.
+classywatches.ng.	3600	IN	NS	ns3.cloudoon.com.
 clay.ng.		3600	IN	NS	nsa.whogohost.com.
 clay.ng.		3600	IN	NS	nsb.whogohost.com.
 clayewi.ng.		3600	IN	NS	ns1.openprovider.nl.
@@ -25085,8 +25091,8 @@ floralfactory.ng.	3600	IN	NS	carol.ns.cloudflare.com.
 floralfactory.ng.	3600	IN	NS	everton.ns.cloudflare.com.
 florasuites.ng.		3600	IN	NS	ns33.whogohost.com.
 florasuites.ng.		3600	IN	NS	ns34.whogohost.com.
-floreathouseinitiative.ng. 3600	IN	NS	ns1.dkshared1.com.
-floreathouseinitiative.ng. 3600	IN	NS	ns2.dkshared1.com.
+floreathouseinitiative.ng. 3600	IN	NS	ns31.smartwebng.com.
+floreathouseinitiative.ng. 3600	IN	NS	ns32.smartwebng.com.
 flourish.ng.		3600	IN	NS	nsa.whogohost.com.
 flourish.ng.		3600	IN	NS	nsb.whogohost.com.
 flourishcitybypwanhomes.ng. 3600 IN	NS	nsa.whogohost.com.
@@ -37325,7 +37331,7 @@ kwikfood.ng.		3600	IN	NS	ns1045.ui-dns.com.
 kwikfood.ng.		3600	IN	NS	ns1045.ui-dns.org.
 kwikkwik.ng.		3600	IN	NS	ns73.domaincontrol.com.
 kwikkwik.ng.		3600	IN	NS	ns74.domaincontrol.com.
-kwiklab.ng.		3600	IN	NS	polished-celmentine-hvxmvii21mkc43w037qg00fj.herokudns.com.
+kwiklab.ng.		3600	IN	NS	asymmetrical-cardinal-x0pfd6qwsgj8ycyjrphxh4f3.herokudns.com.
 kwikly.ng.		3600	IN	NS	ns1.name-servers.cloud.
 kwikly.ng.		3600	IN	NS	ns2.name-servers.cloud.
 kwikparts.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -44830,6 +44836,8 @@ myjuicepower.ng.	3600	IN	NS	nsa.whogohost.com.
 myjuicepower.ng.	3600	IN	NS	nsb.whogohost.com.
 mykab.ng.		3600	IN	NS	dns1.registrar-servers.com.
 mykab.ng.		3600	IN	NS	dns2.registrar-servers.com.
+mykasuwa.ng.		3600	IN	NS	ns3.doveserver.com.
+mykasuwa.ng.		3600	IN	NS	ns4.doveserver.com.
 mykindom.ng.		3600	IN	NS	alexia.ns.cloudflare.com.
 mykindom.ng.		3600	IN	NS	rodney.ns.cloudflare.com.
 mykitchenmycooking.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -48764,9 +48772,9 @@ oddjobber.ng.		3600	IN	NS	ns21.doveserver.com.
 oddjobber.ng.		3600	IN	NS	ns22.doveserver.com.
 oddoneout.ng.		3600	IN	NS	ns541.domainhosting.com.ng.
 oddoneout.ng.		3600	IN	NS	ns542.domainhosting.com.ng.
-odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds.ng.		3600	IN	NS	ns3.epik.com.
 odds.ng.		3600	IN	NS	ns4.epik.com.
+odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds10.ng.		3600	IN	NS	dns1.doveserver.com.
 odds10.ng.		3600	IN	NS	dns2.doveserver.com.
 odds96.ng.		3600	IN	NS	ns1.reg.ru.
@@ -63767,8 +63775,10 @@ spr.ng.			3600	IN	NS	joyce.ns.cloudflare.com.
 spr.ng.			3600	IN	NS	anirban.ns.cloudflare.com.
 spraccahub.ng.		3600	IN	NS	nsa.whogohost.com.
 spraccahub.ng.		3600	IN	NS	nsb.whogohost.com.
-spraditech.ng.		3600	IN	NS	nsa.whogohost.com.
-spraditech.ng.		3600	IN	NS	nsb.whogohost.com.
+spraditech.ng.		3600	IN	NS	ns1.a2hosting.com.
+spraditech.ng.		3600	IN	NS	ns2.a2hosting.com.
+spraditech.ng.		3600	IN	NS	ns3.a2hosting.com.
+spraditech.ng.		3600	IN	NS	ns4.a2hosting.com.
 spray.ng.		3600	IN	NS	nsa.whogohost.com.
 spray.ng.		3600	IN	NS	nsb.whogohost.com.
 sprayingsystems.ng.	3600	IN	NS	dns1.cscdns.net.
@@ -76780,4 +76790,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040420 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040432 10800 3600 604800 3600
