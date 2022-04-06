@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435623 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220605071003 20220406061003 17389 sn. oO83kfN/FJ+3gc4LXOWrjHNOCz4C23l/MeIy1v3WA96Oi/nNUO/hHWi+ LPrR+XWx9W2llBuVT384vMOp3dD4kA==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435648 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220605101003 20220406091003 17389 sn. T2PySSFBfFLGk2NWdS6nn8LIIKclHDlUTLD4X5PqogT1YKLChkBvMpuj 6WOHB+5AqkaKJj8WX2f+INqMDvU0fQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220604160127 20220405154952 17389 sn. Gsk9tI8fuKB8nm/EsoyAGcjvlmtaARlj8/u03A0dCEYu3hFZwlKZByFh bWSy8k7Bae6SsubjzOeG2EHenjXw4g==
-sn.			172800	IN	TXT	"No RRs processed [06/04/2022 09H10:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220505143129 20220406061003 17389 sn. h7TxIJpl6ThgGahg0+xmZINL0ylwOm7bQLZCZhChlSzSZV+B67VSyv5D JsQpoRsYT/6HOb0YnhDz1APQdKqaww==
+sn.			172800	IN	TXT	"No RRs processed [06/04/2022 12H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220508171518 20220406091003 17389 sn. 18d5GtwXb4y8RrcQUWWHBUnJg6CahlxB3P8tekqQTSfmlQn2xHQ47b3q xxQYisSjj0jFdpYIVq/EC5ZiLbZGSg==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220426213838 20220225204243 37490 sn. JliS85aiOUlRME+jPtusw+uRQ174vcUGFH1wbySyXsupCCF0sJTjN4+h vo0z7PVFi27aGFx5mQmXJbgDidKAHg==
@@ -560,8 +560,6 @@ addax.sn.		43200	IN	NS	ns1.kheweul.net.
 addax.sn.		43200	IN	NS	ns2.kheweul.net.
 addax.sn.		43200	IN	NS	ns3.kheweul.net.
 addax.sn.		43200	IN	NS	ns4.kheweul.net.
-addu.sn.		43200	IN	NS	eisdns1.expertis.sn.
-addu.sn.		43200	IN	NS	eisdns2.expertis.sn.
 adensa.sn.		43200	IN	NS	ns1.kheweul.net.
 adensa.sn.		43200	IN	NS	ns2.kheweul.net.
 adensa.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -881,8 +879,6 @@ agora-center.sn.	172800	IN	NS	pdns01.domaincontrol.com.
 agora-center.sn.	172800	IN	NS	pdns02.domaincontrol.com.
 agpbe.sn.		43200	IN	NS	ns.sonatel.sn.
 agpbe.sn.		43200	IN	NS	ns2.sonatel.sn.
-agprod.sn.		43200	IN	NS	eisdns1.expertis.sn.
-agprod.sn.		43200	IN	NS	eisdns2.expertis.sn.
 agricash.sn.		43200	IN	NS	ns20.ovh.net.
 agricash.sn.		43200	IN	NS	dns20.ovh.net.
 agriculture.sn.		43200	IN	NS	ns107.ovh.net.
@@ -900,8 +896,6 @@ agrisenergy.sn.		43200	IN	NS	gw1.tomware.it.
 agrisenergy.sn.		43200	IN	NS	ns2.tomware.it.
 agroalimentaire.sn.	43200	IN	NS	ns110.ovh.net.
 agroalimentaire.sn.	43200	IN	NS	dns110.ovh.net.
-agrocampus.sn.		43200	IN	NS	eisdns1.expertis.sn.
-agrocampus.sn.		43200	IN	NS	eisdns2.expertis.sn.
 agrocean.sn.		172800	IN	NS	ns5.wanekoohost.com.
 agrocean.sn.		172800	IN	NS	ns6.wanekoohost.com.
 agrocean.sn.		172800	IN	NS	ns3.wanekoohost.com.
@@ -1345,8 +1339,6 @@ amkparts.sn.		172800	IN	NS	ns2.francedns.com.
 amkparts.sn.		172800	IN	NS	ns3.francedns.com.
 amna.sn.		43200	IN	NS	ns20.kelihost.com.
 amna.sn.		43200	IN	NS	ns22.kelihost.com.
-amnafiz.sn.		43200	IN	NS	eisdns1.expertis.sn.
-amnafiz.sn.		43200	IN	NS	eisdns2.expertis.sn.
 amnako.sn.		172800	IN	NS	nsa.planethoster.net.
 amnako.sn.		172800	IN	NS	nsb.planethoster.net.
 amnako.sn.		172800	IN	NS	nsc.planethoster.net.
@@ -1522,8 +1514,6 @@ aol.sn.			43200	IN	NS	ns2.yahoo.com.
 aol.sn.			43200	IN	NS	ns3.yahoo.com.
 aol.sn.			43200	IN	NS	ns4.yahoo.com.
 aol.sn.			43200	IN	NS	ns5.yahoo.com.
-aos.sn.			43200	IN	NS	eisdns1.expertis.sn.
-aos.sn.			43200	IN	NS	eisdns2.expertis.sn.
 apa.sn.			172800	IN	NS	ns3.netim.net.
 apa.sn.			172800	IN	NS	ns1.netim.net.
 apa.sn.			172800	IN	NS	ns2.netim.net.
@@ -1719,8 +1709,6 @@ armee.sn.		43200	IN	NS	ns.sonatel.sn.
 ns.armee.sn.		43200	IN	A	213.154.81.187
 armp.sn.		43200	IN	NS	ns1.host7x24.com.
 armp.sn.		43200	IN	NS	ns2.host7x24.com.
-aronaead.sn.		43200	IN	NS	eisdns1.expertis.sn.
-aronaead.sn.		43200	IN	NS	eisdns2.expertis.sn.
 arpenaz.sn.		43200	IN	NS	a.dns.gandi.net.
 arpenaz.sn.		43200	IN	NS	b.dns.gandi.net.
 arpenaz.sn.		43200	IN	NS	c.dns.gandi.net.
@@ -2201,18 +2189,8 @@ b2ei.sn.		172800	IN	NS	ns108.ovh.net.
 b2ei.sn.		172800	IN	NS	dns108.ovh.net.
 baamtu.sn.		43200	IN	NS	ns10.ovh.net.
 baamtu.sn.		43200	IN	NS	dns10.ovh.net.
-baamtu-datamation.sn.	43200	IN	NS	eisdns1.expertis.sn.
-baamtu-datamation.sn.	43200	IN	NS	eisdns2.expertis.sn.
-baamtu-system.sn.	43200	IN	NS	eisdns1.expertis.sn.
-baamtu-system.sn.	43200	IN	NS	eisdns2.expertis.sn.
-baamtu-technologies.sn.	43200	IN	NS	eisdns1.expertis.sn.
-baamtu-technologies.sn.	43200	IN	NS	eisdns2.expertis.sn.
 baamtusystem.sn.	43200	IN	NS	eisdns1.expertis.sn.
 baamtusystem.sn.	43200	IN	NS	eisdns2.expertis.sn.
-baamtutech.sn.		43200	IN	NS	eisdns1.expertis.sn.
-baamtutech.sn.		43200	IN	NS	eisdns2.expertis.sn.
-baamtutechnologies.sn.	43200	IN	NS	eisdns1.expertis.sn.
-baamtutechnologies.sn.	43200	IN	NS	eisdns2.expertis.sn.
 bab.sn.			43200	IN	NS	ns0.dnsmadeeasy.com.
 bab.sn.			43200	IN	NS	ns1.dnsmadeeasy.com.
 bab.sn.			43200	IN	NS	ns2.dnsmadeeasy.com.
@@ -2341,7 +2319,7 @@ bao.sn.			172800	IN	NS	ns10.ovh.ca.
 bao.sn.			172800	IN	NS	dns10.ovh.ca.
 bao.sn.			172800	IN	NS	ns200.anycast.me.
 bao.sn.			172800	IN	NS	dns200.anycast.me.
-baobabglobalbusiness.sn. 172800	IN	RRSIG	DS 13 2 172800 20220420085736 20220323095002 17389 sn. Wha1OIz8lILdJcX44IeVb9tbLtR2E9P+wXuGAYo1odh8IKdpjbXw6nV6 4/HpEX2GLuo896y6LNBf9dvnCx8IlA==
+baobabglobalbusiness.sn. 172800	IN	RRSIG	DS 13 2 172800 20220605083242 20220406075736 17389 sn. IZQWej8d2A/yUfntZ57Xrk52Gd+6sybUE2Ea8KzbIIkno6296cTxiW5R Eafgxo0ldqQgLSTzyHW2mEpONRyf2w==
 baobabglobalbusiness.sn. 172800	IN	DS	33214 8 2 41D2410482746F8819FC81BB333E20C94C42C716CE1BAA205947CB26 0D4ECABC
 baobabglobalbusiness.sn. 172800	IN	NS	ns110.ovh.net.
 baobabglobalbusiness.sn. 172800	IN	NS	dns110.ovh.net.
@@ -2595,8 +2573,6 @@ bestevents.sn.		43200	IN	NS	ns1.afrowebmaster.com.
 bestevents.sn.		43200	IN	NS	ns2.afrowebmaster.com.
 bestevents.sn.		43200	IN	NS	ns3.afrowebmaster.com.
 bestevents.sn.		43200	IN	NS	ns4.afrowebmaster.com.
-bestinfos.sn.		43200	IN	NS	eisdns1.expertis.sn.
-bestinfos.sn.		43200	IN	NS	eisdns2.expertis.sn.
 bet22.sn.		172800	IN	NS	bart.ns.cloudflare.com.
 bet22.sn.		172800	IN	NS	zelda.ns.cloudflare.com.
 bet221.sn.		43200	IN	NS	ns1.francedns.com.
@@ -2732,8 +2708,6 @@ bijoux-stars.sn.	172800	IN	NS	ns5.wanekoohost.com.
 bijoux-stars.sn.	172800	IN	NS	ns6.wanekoohost.com.
 bijoux-stars.sn.	172800	IN	NS	ns3.wanekoohost.com.
 bijoux-stars.sn.	172800	IN	NS	ns4.wanekoohost.com.
-bilqis.sn.		43200	IN	NS	eisdns1.expertis.sn.
-bilqis.sn.		43200	IN	NS	eisdns2.expertis.sn.
 bimao.sn.		43200	IN	NS	ns1.bimao.sn.
 bimao.sn.		43200	IN	NS	ns2.bimao.sn.
 ns1.bimao.sn.		43200	IN	A	41.208.152.138
@@ -3089,7 +3063,7 @@ boroomdakar.sn.		43200	IN	RRSIG	DS 13 2 43200 20220505172751 20220306165921 1738
 boroomimmo.sn.		172800	IN	NS	ns100.ovh.net.
 boroomimmo.sn.		172800	IN	NS	dns100.ovh.net.
 boroomimmo.sn.		172800	IN	DS	40609 8 2 9066AD35F7FAF7322135062F282DFD7FCA9370254783BBA929B26562 2080994E
-boroomimmo.sn.		172800	IN	RRSIG	DS 13 2 172800 20220420074902 20220219074709 17389 sn. OrE7v3rvqb9gEG+xHyRlndKxUV4tDUA/aQpcnt5Tg/+lZbjaCUdb12DE 4drEioTC5ksBpCfOq+i19QXR6SAqTQ==
+boroomimmo.sn.		172800	IN	RRSIG	DS 13 2 172800 20220605074455 20220406064902 17389 sn. pAVbcDFuxjVdf0iGcr6/vEEBk6z0Ji5bc18uWpn34TS7r/69wQLkMV+K NlXb9IKExCK8ZJ6CT6VZSE1KYUH94A==
 boroominternational.sn.	172800	IN	NS	ns100.ovh.net.
 boroominternational.sn.	172800	IN	NS	dns100.ovh.net.
 boroominternational.sn.	172800	IN	DS	2080 8 2 3458F8E55412D71AFA2614A4E0CC339B7C3F8337955CE79AE49D46CB D642E602
@@ -4716,8 +4690,6 @@ compustore.sn.		43200	IN	NS	ns200.anycast.me.
 compustore.sn.		43200	IN	NS	dns200.anycast.me.
 compustore.sn.		43200	IN	DS	29641 8 2 2FCE402B25EE2E734A7D40667013C9DD8DBBF652648C7EEF3A939794 4C4DE42F
 compustore.sn.		43200	IN	RRSIG	DS 13 2 43200 20220505073844 20220306073806 17389 sn. TG7r6HW/tqvFXIl2NlkloHSjEpRBP6u/Pj60raBYAp5UZdXccbaXUeyg L0dDucfRFsWGRcjOEn4XhIkzdfcwEQ==
-computer-service-equipment.sn. 43200 IN	NS	eisdns1.expertis.sn.
-computer-service-equipment.sn. 43200 IN	NS	eisdns2.expertis.sn.
 computercenter.sn.	172800	IN	NS	ns1.netim.net.
 computercenter.sn.	172800	IN	NS	ns2.netim.net.
 computercenter.sn.	172800	IN	NS	ns3.netim.net.
@@ -5379,8 +5351,6 @@ dakarwebstore.sn.	43200	IN	NS	ns200.anycast.me.
 dakarwebstore.sn.	43200	IN	NS	dns200.anycast.me.
 dakarwebstore.sn.	43200	IN	DS	34462 8 2 18E37E8A3FE2E34C521828B8093AAC49B48BCADD24983198E745B724 7657A884
 dakarwebstore.sn.	43200	IN	RRSIG	DS 13 2 43200 20220602203219 20220403194407 17389 sn. ALeQD7uVkTFpkzcWBGtnQrL9LzxP6gv9OuvCszk9BPo7o440/3YXmu6p pKQSRvL8enPPnSpw3l0TmknIOdyvag==
-dakcom.sn.		43200	IN	NS	eisdns1.expertis.sn.
-dakcom.sn.		43200	IN	NS	eisdns2.expertis.sn.
 dakcor.sn.		43200	IN	NS	ns.kimsufi.com.
 dakcor.sn.		43200	IN	NS	ks381076.kimsufi.com.
 dakoccas.sn.		172800	IN	NS	ns11.ovh.net.
@@ -6392,8 +6362,6 @@ duoevents.sn.		172800	IN	NS	ns1.o2switch.net.
 duoevents.sn.		172800	IN	NS	ns2.o2switch.net.
 duopharm.sn.		43200	IN	NS	ns.sonatel.sn.
 duopharm.sn.		43200	IN	NS	ns2.sonatel.sn.
-dursuarl.sn.		43200	IN	NS	eisdns1.expertis.sn.
-dursuarl.sn.		43200	IN	NS	eisdns2.expertis.sn.
 duukaan.sn.		43200	IN	NS	ns110.ovh.net.
 duukaan.sn.		43200	IN	NS	dns110.ovh.net.
 dvoice.sn.		172800	IN	NS	ns1.kheweul.net.
@@ -7228,8 +7196,6 @@ erp.sn.			172800	IN	NS	meg.ns.cloudflare.com.
 erp.sn.			172800	IN	NS	igor.ns.cloudflare.com.
 ert.sn.			43200	IN	NS	ns.arc.sn.
 ert.sn.			43200	IN	NS	ns3.arc.sn.
-erte.sn.		43200	IN	NS	eisdns1.expertis.sn.
-erte.sn.		43200	IN	NS	eisdns2.expertis.sn.
 erudits.sn.		43200	IN	NS	ns1.kheweul.net.
 erudits.sn.		43200	IN	NS	ns2.kheweul.net.
 erudits.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -9098,8 +9064,6 @@ group-tempo.sn.		43200	IN	NS	ns.sonatel.sn.
 group-tempo.sn.		43200	IN	NS	ns2.sonatel.sn.
 groupalpha.sn.		172800	IN	NS	ns1.caurys.net.
 groupalpha.sn.		172800	IN	NS	ns2.caurys.net.
-groupe-abg.sn.		43200	IN	NS	eisdns1.expertis.sn.
-groupe-abg.sn.		43200	IN	NS	eisdns2.expertis.sn.
 groupe-air-senegal.sn.	43200	IN	NS	ns.sonatel.sn.
 groupe-air-senegal.sn.	43200	IN	NS	ns2.sonatel.sn.
 groupe-evolv.sn.	43200	IN	NS	ns111.ovh.net.
@@ -9815,8 +9779,6 @@ ideact.sn.		43200	IN	NS	ns108.ovh.net.
 ideact.sn.		43200	IN	NS	dns108.ovh.net.
 ideact.sn.		43200	IN	DS	7774 8 2 7C7809B3A0F4A477E1371F36E13DAE15F586312ABBF0A4D60EDAD44A D0060424
 ideact.sn.		43200	IN	RRSIG	DS 13 2 43200 20220425094754 20220224091118 17389 sn. KlNeA6kB0GTURQ7PXyMUT5TMWv6HeBn16k+mln6an29eQ99Ou9D2Bve8 lo/sNAZVeOzbCZGZwirtiJrU9hspaA==
-idealagency.sn.		43200	IN	NS	eisdns1.expertis.sn.
-idealagency.sn.		43200	IN	NS	eisdns2.expertis.sn.
 idealdeco.sn.		43200	IN	NS	ns1.kheweul.net.
 idealdeco.sn.		43200	IN	NS	ns2.kheweul.net.
 idealdeco.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -9842,7 +9804,7 @@ idl.sn.			43200	IN	NS	dns113.ovh.net.
 idlabs.sn.		43200	IN	NS	ns107.ovh.net.
 idlabs.sn.		43200	IN	NS	dns107.ovh.net.
 idlabs.sn.		43200	IN	DS	61420 8 2 4089347D2B0004BE1E7769ECCBC540475E8C2DD25EA3B983D8033213 B399EE95
-idlabs.sn.		43200	IN	RRSIG	DS 13 2 43200 20220420073905 20220219064553 17389 sn. QASGvAHYjJ6w1sbysaBZ1N8cYFCUSWMnatD3mvM8+AwQp/ZC6yhLe6WX OXYuH/aQLM4P0vjQwnvb6l88CV6hWA==
+idlabs.sn.		43200	IN	RRSIG	DS 13 2 43200 20220605070343 20220406063905 17389 sn. k12W3eC8ncV76/N9Rr/G8SIH759e4pCDUKvIjxSu/+LAENkGsF5gJ6Il ZhI/Oz3spmnpDdjwkFBmgiR/iOWfWA==
 idmedical.sn.		172800	IN	NS	ns1.kheweul.net.
 idmedical.sn.		172800	IN	NS	ns2.kheweul.net.
 idmedical.sn.		172800	IN	NS	ns3.kheweul.net.
@@ -10561,8 +10523,6 @@ isif-groupe.sn.		43200	IN	NS	ns3.kheweul.net.
 isif-groupe.sn.		43200	IN	NS	ns4.kheweul.net.
 isim.sn.		43200	IN	NS	ns200.anycast.me.
 isim.sn.		43200	IN	NS	dns200.anycast.me.
-isipa.sn.		43200	IN	NS	eisdns1.expertis.sn.
-isipa.sn.		43200	IN	NS	eisdns2.expertis.sn.
 isjapostbac.sn.		43200	IN	NS	ns.arc.sn.
 isjapostbac.sn.		43200	IN	NS	ns3.arc.sn.
 ism.sn.			43200	IN	NS	ns.sonatel.sn.
@@ -11890,8 +11850,6 @@ lamarca.sn.		172800	IN	NS	ns-cloud-d3.googledomains.com.
 lamarca.sn.		172800	IN	NS	ns-cloud-d4.googledomains.com.
 lamb.sn.		172800	IN	NS	ns2.lamb.sn.
 ns2.lamb.sn.		172800	IN	A	41.208.148.36
-lambinassdesign.sn.	43200	IN	NS	eisdns1.expertis.sn.
-lambinassdesign.sn.	43200	IN	NS	eisdns2.expertis.sn.
 lame.sn.		43200	IN	NS	ns1.kheweul.net.
 lame.sn.		43200	IN	NS	ns2.kheweul.net.
 lame.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -12391,8 +12349,6 @@ lincolnelectric.sn.	43200	IN	NS	udns1.cscdns.net.
 lincolnelectric.sn.	43200	IN	NS	udns2.cscdns.uk.
 linebet.sn.		172800	IN	NS	ns1.firstvds.ru.
 linebet.sn.		172800	IN	NS	ns2.firstvds.ru.
-linfluent.sn.		43200	IN	NS	eisdns1.expertis.sn.
-linfluent.sn.		43200	IN	NS	eisdns2.expertis.sn.
 linguerefarmer.sn.	172800	IN	NS	eisdns1.expertis.sn.
 linguerefarmer.sn.	172800	IN	NS	eisdns2.expertis.sn.
 link-pay.sn.		43200	IN	NS	ns19.ovh.net.
@@ -12519,8 +12475,6 @@ loffice.sn.		43200	IN	NS	ns1.softlayer.com.
 loffice.sn.		43200	IN	NS	ns2.softlayer.com.
 logement.sn.		172800	IN	NS	ns4.wanekoohost.com.
 logement.sn.		172800	IN	NS	ns5.wanekoohost.com.
-logement221.sn.		43200	IN	NS	eisdns1.expertis.sn.
-logement221.sn.		43200	IN	NS	eisdns2.expertis.sn.
 logiport.sn.		43200	IN	NS	dns1.cscdns.net.
 logiport.sn.		43200	IN	NS	dns2.cscdns.net.
 logis.sn.		43200	IN	NS	ns1.kheweul.net.
@@ -12733,8 +12687,6 @@ maclasse.sn.		43200	IN	NS	ns1.snterra.com.
 maclasse.sn.		43200	IN	NS	ns2.snterra.com.
 macommune.sn.		43200	IN	NS	ns1.sh004.webhostbox.net.
 macommune.sn.		43200	IN	NS	ns2.sh004.webhostbox.net.
-maddsudo.sn.		43200	IN	NS	eisdns1.expertis.sn.
-maddsudo.sn.		43200	IN	NS	eisdns2.expertis.sn.
 made-in-senegal.sn.	172800	IN	NS	ns1.ascio.com.
 made-in-senegal.sn.	172800	IN	NS	ns2.ascio.com.
 made-in-senegal.sn.	172800	IN	NS	ns3.ascio.com.
@@ -12750,8 +12702,6 @@ madgid.sn.		43200	IN	NS	dns200.anycast.me.
 madi.sn.		43200	IN	NS	ns1.101domain.com.
 madi.sn.		43200	IN	NS	ns2.101domain.com.
 madi.sn.		43200	IN	NS	ns5.101domain.com.
-madinabaye.sn.		43200	IN	NS	eisdns1.expertis.sn.
-madinabaye.sn.		43200	IN	NS	eisdns2.expertis.sn.
 madinatoulhouda.sn.	43200	IN	NS	ns10.ovh.net.
 madinatoulhouda.sn.	43200	IN	NS	dns10.ovh.net.
 madisoninvest.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -12941,8 +12891,6 @@ mansourmotors.sn.	172800	IN	NS	ns103.ovh.net.
 mansourmotors.sn.	172800	IN	NS	dns103.ovh.net.
 mansourmotors.sn.	172800	IN	DS	202 8 2 302D0C562C3C08555A3D4C3933FBD9B741DF3327844A0C1865EB71BD A3BF6E55
 mansourmotors.sn.	172800	IN	RRSIG	DS 13 2 172800 20220520123253 20220321115352 17389 sn. hH98gBuQ4jU6UVi1NGVwQYo02vyBVTJXosQmbgmrlUeBeCV3qH4obzr2 s2vnM7Nha4UQr5g7A8JWIY1wfLApnw==
-manusquall.sn.		43200	IN	NS	eisdns1.expertis.sn.
-manusquall.sn.		43200	IN	NS	eisdns2.expertis.sn.
 maor-technologies.sn.	172800	IN	NS	ns1.o2switch.net.
 maor-technologies.sn.	172800	IN	NS	ns2.o2switch.net.
 mapauto.sn.		172800	IN	NS	kobe.ns.cloudflare.com.
@@ -12969,8 +12917,6 @@ marche.sn.		43200	IN	NS	ns1.snterra.com.
 marche.sn.		43200	IN	NS	ns2.snterra.com.
 marchebi.sn.		43200	IN	NS	ns1.servconfig.com.
 marchebi.sn.		43200	IN	NS	ns2.servconfig.com.
-marcheocas.sn.		43200	IN	NS	eisdns1.expertis.sn.
-marcheocas.sn.		43200	IN	NS	eisdns2.expertis.sn.
 marchespublics.sn.	43200	IN	NS	ns.minfinances.sn.
 mariadelices.sn.	172800	IN	NS	ns200.anycast.me.
 mariadelices.sn.	172800	IN	NS	dns200.anycast.me.
@@ -13453,8 +13399,6 @@ metroeats.sn.		172800	IN	NS	ns200.anycast.me.
 metroeats.sn.		172800	IN	NS	dns200.anycast.me.
 metroeats.sn.		172800	IN	DS	55852 8 2 519A2954198ABC032FA9F1E50DA1A0C441293E8B9587BE20761B18A8 2602D168
 metroeats.sn.		172800	IN	RRSIG	DS 13 2 172800 20220526092727 20220327083148 17389 sn. Mj2GiFKXgpWVW1zsA9PYUDTzysfpNBR3LPIVH0QuyY857M0ss34KGL0i vEM/DbAKLQ154Vw8XaGsx/JxZsk2+w==
-metup221.sn.		43200	IN	NS	eisdns1.expertis.sn.
-metup221.sn.		43200	IN	NS	eisdns2.expertis.sn.
 mevaconstruction.sn.	172800	IN	NS	nsa.n0c.com.
 mevaconstruction.sn.	172800	IN	NS	nsb.n0c.com.
 mevaconstruction.sn.	172800	IN	NS	nsc.n0c.com.
@@ -13733,8 +13677,6 @@ moncallcenter.sn.	43200	IN	NS	ns104.ovh.net.
 moncallcenter.sn.	43200	IN	NS	dns104.ovh.net.
 monchezmoi.sn.		43200	IN	NS	ns5.jajeuf.com.
 monchezmoi.sn.		43200	IN	NS	ns6.jajeuf.com.
-mondedesmamans.sn.	43200	IN	NS	eisdns1.expertis.sn.
-mondedesmamans.sn.	43200	IN	NS	eisdns2.expertis.sn.
 mondialbusiness.sn.	43200	IN	NS	ns.sonatel.sn.
 mondialbusiness.sn.	43200	IN	NS	ns2.sonatel.sn.
 mondialpaper.sn.	43200	IN	NS	ns110.ovh.net.
@@ -13906,8 +13848,6 @@ msante.sn.		172800	IN	NS	ns112.ovh.net.
 msante.sn.		172800	IN	NS	dns112.ovh.net.
 msc.sn.			43200	IN	NS	ns.sonatel.sn.
 msc.sn.			43200	IN	NS	ns2.sonatel.sn.
-msconscient.sn.		43200	IN	NS	eisdns1.expertis.sn.
-msconscient.sn.		43200	IN	NS	eisdns2.expertis.sn.
 msd-a.sn.		43200	IN	NS	ns1.caurys.net.
 msd-a.sn.		43200	IN	NS	ns2.caurys.net.
 msd-remote.sn.		43200	IN	NS	ns1.markmonitor.com.
@@ -14193,8 +14133,6 @@ ndougi.sn.		43200	IN	NS	ns5.jokko-hosting.com.
 ndougi.sn.		43200	IN	NS	ns6.jokko-hosting.com.
 ndugu.sn.		43200	IN	NS	cp3.dnshostservices.com.
 ndugu.sn.		43200	IN	NS	cp4.dnshostservices.com.
-ndugubi.sn.		43200	IN	NS	eisdns1.expertis.sn.
-ndugubi.sn.		43200	IN	NS	eisdns2.expertis.sn.
 neas.sn.		43200	IN	NS	ns8445.hostgator.com.
 neas.sn.		43200	IN	NS	ns8446.hostgator.com.
 neksi.sn.		172800	IN	NS	ns2.jajeuf.com.
@@ -15730,8 +15668,6 @@ piccmi.sn.		172800	IN	NS	dns1.wmaker.net.
 piccmi.sn.		172800	IN	NS	dns2.wmaker.net.
 pickngo.sn.		43200	IN	NS	dom.ns.cloudflare.com.
 pickngo.sn.		43200	IN	NS	nina.ns.cloudflare.com.
-picojazz.sn.		43200	IN	NS	eisdns1.expertis.sn.
-picojazz.sn.		43200	IN	NS	eisdns2.expertis.sn.
 piecesauto.sn.		43200	IN	NS	ns200.anycast.me.
 piecesauto.sn.		43200	IN	NS	dns200.anycast.me.
 pierrefabre-oralcare.sn. 43200	IN	NS	a.ns.mailclub.fr.
@@ -15906,8 +15842,6 @@ pointech.sn.		172800	IN	NS	ns106.ovh.net.
 pointech.sn.		172800	IN	NS	dns106.ovh.net.
 pointech.sn.		172800	IN	DS	12826 8 2 65834250480A6CF4ABA07CCB7195E2C9705AE21815BCD095ED58E12D 1864CAB1
 pointech.sn.		172800	IN	RRSIG	DS 13 2 172800 20220503123213 20220304114318 17389 sn. pFUxPl98yFz9LS7gZxwuF72j/bNatMBmniAue7yCei4rjt1FmrlFgNK6 kpwMi59TA9KQmogMvTFagu7TIMxccA==
-pointel.sn.		43200	IN	NS	eisdns1.expertis.sn.
-pointel.sn.		43200	IN	NS	eisdns2.expertis.sn.
 points.sn.		172800	IN	NS	naya.ns.cloudflare.com.
 points.sn.		172800	IN	NS	noel.ns.cloudflare.com.
 pok.sn.			43200	IN	NS	ns1.bdm.microsoftonline.com.
@@ -16524,8 +16458,6 @@ rebeuss.sn.		172800	IN	NS	ns1045.ui-dns.de.
 rebeuss.sn.		172800	IN	NS	ns1045.ui-dns.biz.
 rebeuss.sn.		172800	IN	NS	ns1045.ui-dns.com.
 rebeuss.sn.		172800	IN	NS	ns1045.ui-dns.org.
-rebobinage-industriels.sn. 43200 IN	NS	eisdns1.expertis.sn.
-rebobinage-industriels.sn. 43200 IN	NS	eisdns2.expertis.sn.
 recapconsulting.sn.	172800	IN	NS	ns1.kheweul.net.
 recapconsulting.sn.	172800	IN	NS	ns2.kheweul.net.
 recapconsulting.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -17100,8 +17032,6 @@ samaculture.sn.		43200	IN	NS	ns1.kheweul.net.
 samaculture.sn.		43200	IN	NS	ns2.kheweul.net.
 samaculture.sn.		43200	IN	NS	ns3.kheweul.net.
 samaculture.sn.		43200	IN	NS	ns4.kheweul.net.
-samacursus.sn.		43200	IN	NS	eisdns1.expertis.sn.
-samacursus.sn.		43200	IN	NS	eisdns2.expertis.sn.
 samadesign.sn.		172800	IN	NS	ns1.kheweul.net.
 samadesign.sn.		172800	IN	NS	ns2.kheweul.net.
 samadesign.sn.		172800	IN	NS	ns3.kheweul.net.
@@ -17681,8 +17611,6 @@ senauto.sn.		43200	IN	NS	ns1.kheweul.net.
 senauto.sn.		43200	IN	NS	ns2.kheweul.net.
 senauto.sn.		43200	IN	NS	ns3.kheweul.net.
 senauto.sn.		43200	IN	NS	ns4.kheweul.net.
-senautorprix.sn.	43200	IN	NS	eisdns1.expertis.sn.
-senautorprix.sn.	43200	IN	NS	eisdns2.expertis.sn.
 senavia.sn.		172800	IN	NS	ns106.ovh.net.
 senavia.sn.		172800	IN	NS	dns106.ovh.net.
 senavia.sn.		172800	IN	DS	13171 8 2 5CCB2D005DD8AFE7DF059C9D051E4F81CC0982C4AFFDC5CA1A5E0EAB EA4B1546
@@ -17699,8 +17627,6 @@ senbosspeinture.sn.	43200	IN	NS	ns1.kheweul.net.
 senbosspeinture.sn.	43200	IN	NS	ns2.kheweul.net.
 senbosspeinture.sn.	43200	IN	NS	ns3.kheweul.net.
 senbosspeinture.sn.	43200	IN	NS	ns4.kheweul.net.
-senbricomat.sn.		43200	IN	NS	eisdns1.expertis.sn.
-senbricomat.sn.		43200	IN	NS	eisdns2.expertis.sn.
 senbusiness.sn.		43200	IN	NS	dns1.wmaker.net.
 senbusiness.sn.		43200	IN	NS	dns2.wmaker.net.
 senca.sn.		43200	IN	NS	ns14.ovh.net.
@@ -18052,8 +17978,6 @@ senfitness.sn.		172800	IN	NS	ns6.wanekoohost.com.
 senfitness.sn.		172800	IN	NS	ns4.wanekoohost.com.
 senfood.sn.		43200	IN	NS	ns1.dns-parking.com.
 senfood.sn.		43200	IN	NS	ns2.dns-parking.com.
-senfortunisolutions.sn.	43200	IN	NS	eisdns1.expertis.sn.
-senfortunisolutions.sn.	43200	IN	NS	eisdns2.expertis.sn.
 sengalerie.sn.		43200	IN	NS	ns.sonatel.sn.
 sengalerie.sn.		43200	IN	NS	ns2.sonatel.sn.
 sengames.sn.		43200	IN	NS	ns2.francedns.com.
@@ -18930,8 +18854,6 @@ snweb.sn.		172800	IN	NS	ns6.wanekoohost.com.
 snweb.sn.		172800	IN	NS	ns4.wanekoohost.com.
 so-trade.sn.		172800	IN	NS	ns2.francedns.com.
 so-trade.sn.		172800	IN	NS	cloudf03.francedns.com.
-soaco-farytec.sn.	43200	IN	NS	eisdns1.expertis.sn.
-soaco-farytec.sn.	43200	IN	NS	eisdns2.expertis.sn.
 soam.sn.		43200	IN	NS	ns1.kheweul.net.
 soam.sn.		43200	IN	NS	ns2.kheweul.net.
 soam.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -19742,8 +19664,6 @@ sunutechnology.sn.	43200	IN	NS	ns4.francedns.com.
 sunutechnology.sn.	43200	IN	NS	ns5.francedns.com.
 sunuteranga.sn.		172800	IN	NS	ns1.dns-parking.com.
 sunuteranga.sn.		172800	IN	NS	ns2.dns-parking.com.
-sunuthiossane.sn.	43200	IN	NS	eisdns1.expertis.sn.
-sunuthiossane.sn.	43200	IN	NS	eisdns2.expertis.sn.
 sunutool.sn.		172800	IN	NS	cpanel17.lws-hosting.com.
 sunutool.sn.		172800	IN	NS	cpanel18.lws-hosting.com.
 sunuvoyage.sn.		172800	IN	NS	ns4.wanekoohost.com.
@@ -19873,8 +19793,6 @@ syra.sn.		172800	IN	NS	ns110.ovh.net.
 syra.sn.		172800	IN	NS	dns110.ovh.net.
 syra.sn.		172800	IN	DS	62515 8 2 FA7C80F01BC224370A38D69A78C27B05F80BD481C37585CE8F875BFE ACE561E0
 syra.sn.		172800	IN	RRSIG	DS 13 2 172800 20220430111732 20220317003003 17389 sn. r1Eze7xH/oTVWpG8ILjXfdhuQKXO47GcBbLAYdFofIoEWKlR5MOUdtoA MmPNvb4Be1IHyAKPPPHLTP4aZH1jqA==
-syrjay1004.sn.		43200	IN	NS	eisdns1.expertis.sn.
-syrjay1004.sn.		43200	IN	NS	eisdns2.expertis.sn.
 sysactions.sn.		43200	IN	NS	ns.ansd.sn.
 sysinfo.sn.		43200	IN	NS	ns11.ovh.net.
 sysinfo.sn.		43200	IN	NS	dns11.ovh.net.
@@ -20731,7 +20649,7 @@ tract.sn.		172800	IN	NS	ns9.jokko-hosting.com.
 trafic221.sn.		172800	IN	NS	ns103.ovh.net.
 trafic221.sn.		172800	IN	NS	dns103.ovh.net.
 trafic221.sn.		172800	IN	DS	51982 8 2 7E6BA92AF45CE0035D1BA8A0A8FF90225B8A13286EF4A1F4023CCB34 6DDF69AC
-trafic221.sn.		172800	IN	RRSIG	DS 13 2 172800 20220420071338 20220219063424 17389 sn. VBxKTGXpQ1nWnHuAoxT5zxeICz31Lm4k6UsgYUh+eJKzCCD55wygJpuj VyNss6MhQE8Su/pBFV9+/jwT+dc0Fw==
+trafic221.sn.		172800	IN	RRSIG	DS 13 2 172800 20220605063451 20220406061338 17389 sn. qUoosAjm6ShnW3wAfSuxg+ZmVyjngb72zc0utBeoOH62tsTVimxCO1qO 6TungyWsIZ1r+YUkUwv+4ZSExREQew==
 trainingsphere.sn.	172800	IN	NS	ns1.wordpress.com.
 trainingsphere.sn.	172800	IN	NS	ns2.wordpress.com.
 trainingsphere.sn.	172800	IN	NS	ns3.wordpress.com.
@@ -21095,8 +21013,6 @@ unas-senegal.sn.	172800	IN	NS	nsb.n0c.com.
 unas-senegal.sn.	172800	IN	NS	nsc.n0c.com.
 unccias.sn.		43200	IN	NS	ns31.infomaniak.com.
 unccias.sn.		43200	IN	NS	ns32.infomaniak.com.
-uncs.sn.		43200	IN	NS	eisdns1.expertis.sn.
-uncs.sn.		43200	IN	NS	eisdns2.expertis.sn.
 underberg.sn.		43200	IN	NS	dns.voerde.globvill.de.
 underberg.sn.		43200	IN	NS	dns.globvill.de.
 uneatlantico.sn.	43200	IN	NS	ns3.acens.net.
@@ -22482,7 +22398,7 @@ zou0784.sn.		172800	IN	NS	ns6.wanekoohost.com.
 0RGSUR7E2KFSKPEHBFD04N6376K8ONIP.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 0SADO6QL99RLJT03BSSNRE95R62VU8QI NS DS RRSIG
 0RGSUR7E2KFSKPEHBFD04N6376K8ONIP.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220525030738 20220326025039 17389 sn. ZhI31n3y8Tn06LvCLup7HQrPVZ3zBxSG4JmBNL5vkDaKxHe0Jr0awMQ/ jyJ8Cp5NDjQOuh5GtGYlN0PpNj9dag==
 0SADO6QL99RLJT03BSSNRE95R62VU8QI.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 0T8S5MBFHU41VHL534IUUH1C0HH2JP3I NS DS RRSIG
-0SADO6QL99RLJT03BSSNRE95R62VU8QI.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220420094604 20220219085814 17389 sn. krwZpSg8kLDnQtF95WRl+mvsOIh0qOIU/4RkDeGXY+f96+BuRqWomuJy 8g141CxHrUZSU6qUsgHGcGVhKb5nww==
+0SADO6QL99RLJT03BSSNRE95R62VU8QI.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220605085537 20220406084604 17389 sn. ED+/s5Ng3NW+nWyUbQ0gRr9UTwTs34ClcQJ/qGPgCR1tpy6nDTyhFwYy PghbP4d+5p+rbpRdBZbetgwr3Ixrng==
 0T8S5MBFHU41VHL534IUUH1C0HH2JP3I.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 0VEIFA5FECA40OODB68CO9G5NSVFFA5O NS DS RRSIG
 0T8S5MBFHU41VHL534IUUH1C0HH2JP3I.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220512212230 20220313204211 17389 sn. t52p3qEUH6tTAWKqkri1UeZa/kktTBBEscArApVFuSk60QHXiNe4FO62 0xKk+9WMwS8hczdlmF2h/kSpLJApAA==
 0VEIFA5FECA40OODB68CO9G5NSVFFA5O.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 1176DOLV5D2FKV78RQGKA52JLHBMQGEK NS DS RRSIG
@@ -22892,9 +22808,9 @@ zou0784.sn.		172800	IN	NS	ns6.wanekoohost.com.
 6PCT9JBGPIG8JG2LHBGQJ285FN4H4UUR.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 6PF6GDTN4EDIVDQNEB10EQJS3042EHQK NS DS RRSIG
 6PCT9JBGPIG8JG2LHBGQJ285FN4H4UUR.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220509164652 20220310155209 17389 sn. WrAV0PEej/pau9TvM2J8DKbrVi70Rz0XBeoCupI+6TSBTXzLu7dQz0aL 6XjyyxlijRRBVXo0xNob1L7qYq30bw==
 6PF6GDTN4EDIVDQNEB10EQJS3042EHQK.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 6R9CVHHAHOL7D32SRCFP3RGBOCSJNMU0 NS DS RRSIG
-6PF6GDTN4EDIVDQNEB10EQJS3042EHQK.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220420085736 20220323095002 17389 sn. MycoaprAQJJALtL/An7S5ZKezHFAIp5wl4icjDkZxdWfOMrZ2inRp1fw 8wc3+mSaJk5u9VjuyofpArUogvNE6A==
+6PF6GDTN4EDIVDQNEB10EQJS3042EHQK.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220605083242 20220406075736 17389 sn. pz4smNeAffpidmBPjF2/sifVBSCXUkPpRbmECoCCnxDHgqv166MWzuAz TjA9hOog4acr4wCnNLMrRcj6xe7f5w==
 6R9CVHHAHOL7D32SRCFP3RGBOCSJNMU0.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 6S0132I0PCCHSI59FT64U0Q9HKG2TDQQ NS DS RRSIG
-6R9CVHHAHOL7D32SRCFP3RGBOCSJNMU0.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220420085736 20220323095002 17389 sn. FDpoi0jdNogOjiSo23YT90Ruq4p28iVZ3PSLYx49Bz/LdQge49l3jZ05 YS4CN3Cr6EfwG28wZm8v6tRwxMZgpw==
+6R9CVHHAHOL7D32SRCFP3RGBOCSJNMU0.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220605083242 20220406075736 17389 sn. ejlw8dhrHrFEfStFy4ETgUFZE28itQjtV4k0x9oKOSJIATfFPCDqe35X YmRivnZsQvl0JiGlyaR+fpJd+16FiQ==
 6S0132I0PCCHSI59FT64U0Q9HKG2TDQQ.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 6UND143GQDT74U1DG92QP6ILJ053GQ7G NS DS RRSIG
 6S0132I0PCCHSI59FT64U0Q9HKG2TDQQ.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220512121133 20220313114837 17389 sn. evnHYVVowlXNb8b0Yk/t79DNqFHCmJIJbxA66/iLMbIjNHtM57hc9w6p a+ca294aJ7A330+i2zYnEE2q1G+2GQ==
 6UND143GQDT74U1DG92QP6ILJ053GQ7G.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 6V2V0G3KMDQMLTPKATK56V4GODJBLHRM NS DS RRSIG
@@ -23716,7 +23632,7 @@ K227UUVBH54I58PFIISEKIL3LRI7PGVO.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022042011320
 K31D528G4MNNJUNMTTIAOTLE32K3R9B2.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 K32579PGRQ3KFAL68AAADSS6FLUP0JG9 NS DS RRSIG
 K31D528G4MNNJUNMTTIAOTLE32K3R9B2.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220429182027 20220228174929 17389 sn. Va7DocQYV/+PAaSRE7AcOGRwpNoZUUts2vTtgRfjaHx/rCoIJfZgyEup X1UQw/LZNUg08j2ZVhgiu1vi5br+vw==
 K32579PGRQ3KFAL68AAADSS6FLUP0JG9.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 K3FBGV4R1D459HR3DRCFDRK49SGOQJJN NS DS RRSIG
-K32579PGRQ3KFAL68AAADSS6FLUP0JG9.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220420081300 20220219073622 17389 sn. YfurNL95bPP4GvJCzEusnPUgOik+rV9aTPv3xhJzks/erIekOtUpI0Ih kCtFC+gbu+ZWIWXMXtSdlfYjWyVcEQ==
+K32579PGRQ3KFAL68AAADSS6FLUP0JG9.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220605074119 20220406071300 17389 sn. wrZ7gayEm8g5VXzsEA9towt2IbzdLbljUcG+Jw6tlTnaSAfMQAp9U7D/ GPYvhl4Tp8lnzDRvY9A0g56fHr0/Lg==
 K3FBGV4R1D459HR3DRCFDRK49SGOQJJN.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 K3VKJER4V547QL2O0SGRGVT7HDGGMD3F NS DS RRSIG
 K3FBGV4R1D459HR3DRCFDRK49SGOQJJN.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220504080347 20220311091003 17389 sn. w3JUqfjoGelK1btYGW70UDsM89N2+ZDuKIcl3iUtvCWbKS/rTXNloxgI 1sdm6UlY+zMlTAXPTS/ruI1iYrA7sg==
 K3VKJER4V547QL2O0SGRGVT7HDGGMD3F.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 K498MPBN0D812F9461118COLCMCG3KB7 NS DS RRSIG
@@ -24456,7 +24372,7 @@ V3CKU9BUJ3L9SFQLFFEMG0G70UN00BAA.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022051819280
 V3TEP32TQUIHS39K67IJ9VJ153LBJA5L.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 V55IHRVQD9OBL2OQHGK6MKFR2F9TIKDB NS DS RRSIG
 V3TEP32TQUIHS39K67IJ9VJ153LBJA5L.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220524022615 20220325020702 17389 sn. RAbBAV8+raGLQaI44NmSsV7s+T2oniWJkiSyKckRDq1If5Y6ODNIWRaS H7M8ovyfCGZCUZt/DTx0aWS6daUE2A==
 V55IHRVQD9OBL2OQHGK6MKFR2F9TIKDB.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 V5VV8OSSHCN4NJU6T5333HCAUVHUEPAV NS DS RRSIG
-V55IHRVQD9OBL2OQHGK6MKFR2F9TIKDB.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220420090408 20220219085213 17389 sn. wbcTm+aeOqy9Ai50jSQO+uD6MFlUfPWLmff6QH8BCyq7JuF8mMZNexQr gXD89ZdnWNzpGapC5VioWrpntDOXQg==
+V55IHRVQD9OBL2OQHGK6MKFR2F9TIKDB.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220605090329 20220406080408 17389 sn. csRWWJpsQ00ojCUBhEu0306czUvayQA+ybhBLvVgoNdDMAaTpPRFim0M zkFE0+pGQRcx7xXNJbGgzUDzBfxzDg==
 V5VV8OSSHCN4NJU6T5333HCAUVHUEPAV.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 V7668N7UL50V0N4NHEEPD4IKSRUQ2JN7 NS DS RRSIG
 V5VV8OSSHCN4NJU6T5333HCAUVHUEPAV.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220429223432 20220228214159 17389 sn. SjIgX7GldvrL4Y9JbmZuJOL3ufnpJMnKhDLdxx81ffo+PPGMyGQAHdvy KikFh1zlpvWBOcFXRnFvfc8x9bjcGg==
 V7668N7UL50V0N4NHEEPD4IKSRUQ2JN7.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 V7G62QVKBQJ96M2B3780AFH7SR1FPMHF NS DS RRSIG
@@ -24499,4 +24415,4 @@ VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 VV3IDF84ISCK27
 VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220515105741 20220316104406 17389 sn. +sodxyDzzQt8RVh5YE/l5WY1m4saAFrzEJgdni4Pdp3BdD9L5Lee+Atj 09Q15NCIQ+HXcWzG1tvSPuVK9DZRnQ==
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 02LIE766VG7G8G4SE6UGGCHJ9DD79PD9 NS DS RRSIG
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220514132310 20220315131811 17389 sn. Qcq1/N1Vw1RhVdjiUER0le6bYXOqdUZPANsJmTMXev9KeGQOZzexTsnd 3GUQ7OOQ7bYdNbacFFpTQYhdG3EXlQ==
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435623 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435648 3600 1800 3600000 5400
