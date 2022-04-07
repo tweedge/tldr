@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022040707 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022040710 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1649314880"
+mg.			7200	IN	TXT	"Generation Time: 1649325697"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -306,6 +306,8 @@ a2sci.mg.		7200	IN	NS	dns1.supremepanel.com.
 a2sci.mg.		7200	IN	NS	dns2.supremepanel.com.
 aa-montagne-des-francais.mg. 7200 IN	NS	ns1.gasyweb.com.
 aa-montagne-des-francais.mg. 7200 IN	NS	ns2.gasyweb.com.
+aaajm.mg.		7200	IN	NS	ns1.serveurgasy.com.
+aaajm.mg.		7200	IN	NS	ns2.serveurgasy.com.
 aacga.mg.		7200	IN	NS	ns1.cloudns.io.
 aacga.mg.		7200	IN	NS	ns2.cloudns.io.
 aaena.mg.		7200	IN	NS	igor.ns.cloudflare.com.
@@ -3462,9 +3464,9 @@ enterprise.mg.		7200	IN	NS	ns4.markmonitor.com.
 enterprise.mg.		7200	IN	NS	ns5.markmonitor.com.
 enterprise.mg.		7200	IN	NS	ns2.markmonitor.com.
 enterprise.mg.		7200	IN	NS	ns7.markmonitor.com.
-entrepreneuriat.mg.	86400	IN	DS	2371 13 2 9E61DBD2644CE02AC9FA419FF63EB620A7D6B622232BE8BCE4ACC4FF 43A72947
 entrepreneuriat.mg.	7200	IN	NS	lina.ns.cloudflare.com.
 entrepreneuriat.mg.	7200	IN	NS	phil.ns.cloudflare.com.
+entrepreneuriat.mg.	86400	IN	DS	2371 13 2 9E61DBD2644CE02AC9FA419FF63EB620A7D6B622232BE8BCE4ACC4FF 43A72947
 entreprisejj-mada.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 entreprisejj-mada.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 entreprisejj-mada.mg.	86400	IN	NS	ns1.fr.malagasy.com.
@@ -6376,8 +6378,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -11097,6 +11099,8 @@ webservice.mg.		86400	IN	NS	ns.orchid.mg.
 webservice.mg.		86400	IN	NS	ns4.orchid.mg.
 website.mg.		86400	IN	NS	ns1.gasyweb.com.
 website.mg.		86400	IN	NS	ns2.gasyweb.com.
+webtech.mg.		86400	IN	NS	ns1.compureweb.com.
+webtech.mg.		86400	IN	NS	ns2.compureweb.com.
 wedze.mg.		86400	IN	NS	ns-173-a.gandi.net.
 wedze.mg.		86400	IN	NS	ns-135-b.gandi.net.
 wedze.mg.		86400	IN	NS	ns-192-c.gandi.net.
@@ -11459,4 +11463,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022040707 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022040710 600 3600 604800 86400
