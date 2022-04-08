@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040807 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1649379692"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040819 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1649390499"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -12598,8 +12598,8 @@ celebshape.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 celebshape.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 celer.ng.		3600	IN	NS	ns1.cloudnetvox.com.
 celer.ng.		3600	IN	NS	ns2.cloudnetvox.com.
-celerfreight.ng.	3600	IN	NS	dns1.namecheaphosting.com.
-celerfreight.ng.	3600	IN	NS	dns2.namecheaphosting.com.
+celerfreight.ng.	3600	IN	NS	ns12.wixdns.net.
+celerfreight.ng.	3600	IN	NS	ns13.wixdns.net.
 celeste.ng.		3600	IN	NS	ns3.epik.com.
 celeste.ng.		3600	IN	NS	ns4.epik.com.
 celestecommercial.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -44128,6 +44128,8 @@ mshood.ng.		3600	IN	NS	lola.ns.cloudflare.com.
 mshood.ng.		3600	IN	NS	clyde.ns.cloudflare.com.
 mshub.ng.		3600	IN	NS	nsa.whogohost.com.
 mshub.ng.		3600	IN	NS	nsb.whogohost.com.
+msii.ng.		3600	IN	NS	ns1.registeram.com.
+msii.ng.		3600	IN	NS	ns2.registeram.com.
 msika.ng.		3600	IN	NS	ns71.domaincontrol.com.
 msika.ng.		3600	IN	NS	ns72.domaincontrol.com.
 msm.ng.			3600	IN	NS	ns1.techvolve.online.
@@ -46647,8 +46649,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -75308,6 +75310,8 @@ workwise.ng.		3600	IN	NS	ns-227.awsdns-28.com.
 workwise.ng.		3600	IN	NS	ns-799.awsdns-35.net.
 workwise.ng.		3600	IN	NS	ns-1328.awsdns-38.org.
 workwise.ng.		3600	IN	NS	ns-1801.awsdns-33.co.uk.
+workwitheyo.ng.		3600	IN	NS	ns6629.hostgator.com.
+workwitheyo.ng.		3600	IN	NS	ns6630.hostgator.com.
 worky.ng.		3600	IN	NS	ns1.dknoc.com.
 worky.ng.		3600	IN	NS	ns2.dknoc.com.
 worldcoin.ng.		3600	IN	NS	ns1.dan.com.
@@ -77035,4 +77039,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040807 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022040819 10800 3600 604800 3600
