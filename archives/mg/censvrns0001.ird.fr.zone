@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022040807 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022040810 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1649401234"
+mg.			7200	IN	TXT	"Generation Time: 1649412030"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3904,6 +3904,9 @@ fitaratra.mg.		86400	IN	NS	ns1.servermada.com.
 fitaratra.mg.		86400	IN	NS	ns2.servermada.com.
 fitefa.mg.		86400	IN	NS	ns1.da.cloudns.io.
 fitefa.mg.		86400	IN	NS	ns2.da.cloudns.io.
+fitsinjo.mg.		86400	IN	NS	ns-127-a.gandi.net.
+fitsinjo.mg.		86400	IN	NS	ns-206-c.gandi.net.
+fitsinjo.mg.		86400	IN	NS	ns-138-b.gandi.net.
 fivmpama.mg.		86400	IN	NS	ns1.gasyweb.com.
 fivmpama.mg.		86400	IN	NS	ns2.gasyweb.com.
 fixer.mg.		86400	IN	NS	ns1.cloudns.io.
@@ -5909,6 +5912,8 @@ laredouteinterieurs.mg.	86400	IN	NS	ns-219-b.gandi.net.
 laredouteinterieurs.mg.	86400	IN	NS	ns-120-c.gandi.net.
 lareference.mg.		86400	IN	NS	dns1.indritech.biz.
 lareference.mg.		86400	IN	NS	dns2.indritech.biz.
+larticlab.mg.		86400	IN	NS	ns1.madanetinfo.mg.
+larticlab.mg.		86400	IN	NS	ns2.madanetinfo.mg.
 laruche.mg.		86400	IN	NS	ns1.da.cloudns.io.
 laruche.mg.		86400	IN	NS	ns2.da.cloudns.io.
 lasalleinfocentre.mg.	86400	IN	NS	ns29.dot.mg.
@@ -6374,8 +6379,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -10533,8 +10538,6 @@ trx.mg.			86400	IN	NS	beth.ns.cloudflare.com.
 trx.mg.			86400	IN	NS	yisroel.ns.cloudflare.com.
 ts.mg.			86400	IN	NS	ns.dts.mg.
 ts.mg.			86400	IN	NS	ns1.dts.mg.
-tsara.mg.		86400	IN	NS	ns1.101domain.com.
-tsara.mg.		86400	IN	NS	ns2.101domain.com.
 tsarabazary.mg.		86400	IN	NS	ns1.da.cloudns.io.
 tsarabazary.mg.		86400	IN	NS	ns2.da.cloudns.io.
 tsarabe.mg.		86400	IN	NS	ns-896.awsdns-48.net.
@@ -11455,4 +11458,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022040807 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022040810 600 3600 604800 86400
