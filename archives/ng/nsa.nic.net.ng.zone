@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041091 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1649628696"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041108 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1649638829"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -46751,8 +46751,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -76984,6 +76984,11 @@ zit.ng.			3600	IN	NS	ns1.giow1003.siteground.us.
 zit.ng.			3600	IN	NS	ns2.giow1003.siteground.us.
 zitacomnigerialtd.ng.	3600	IN	NS	nsa.whogohost.com.
 zitacomnigerialtd.ng.	3600	IN	NS	nsb.whogohost.com.
+zitti.ng.		3600	IN	NS	ns41.cloudns.net.
+zitti.ng.		3600	IN	NS	pns41.cloudns.net.
+zitti.ng.		3600	IN	NS	pns42.cloudns.net.
+zitti.ng.		3600	IN	NS	pns43.cloudns.net.
+zitti.ng.		3600	IN	NS	pns44.cloudns.net.
 ziva.ng.		3600	IN	NS	ns1.icecoolcontracts.com.
 ziva.ng.		3600	IN	NS	ns2.icecoolcontracts.com.
 zixuanzho.ng.		3600	IN	NS	ns1.digitalocean.com.
@@ -77188,4 +77193,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041091 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041108 10800 3600 604800 3600
