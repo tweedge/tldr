@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041120 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1649649635"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041132 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1649660425"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -23699,6 +23699,8 @@ farmspec.ng.		3600	IN	NS	ns2.vercel-dns.com.
 farmsquare.ng.		3600	IN	NS	ns1.contabo.net.
 farmsquare.ng.		3600	IN	NS	ns2.contabo.net.
 farmsquare.ng.		3600	IN	NS	ns3.contabo.net.
+farmstore.ng.		3600	IN	NS	ns1.wehostafrica.com.
+farmstore.ng.		3600	IN	NS	ns2.wehostafrica.com.
 farmsupport.ng.		3600	IN	NS	ns1.dkshared2.com.
 farmsupport.ng.		3600	IN	NS	ns2.dkshared2.com.
 farmtohomes.ng.		3600	IN	NS	ns1.kreativhost.com.
@@ -26989,6 +26991,8 @@ gazettes.ng.		3600	IN	NS	ns-394.awsdns-49.com.
 gazettes.ng.		3600	IN	NS	ns-953.awsdns-55.net.
 gazettes.ng.		3600	IN	NS	ns-1074.awsdns-06.org.
 gazettes.ng.		3600	IN	NS	ns-1868.awsdns-41.co.uk.
+gazminenergy.ng.	3600	IN	NS	nsa.whogohost.com.
+gazminenergy.ng.	3600	IN	NS	nsb.whogohost.com.
 gazprombank.ng.		3600	IN	NS	ns3-fwl2.nic.ru.
 gazprombank.ng.		3600	IN	NS	ns4-fwl2.nic.ru.
 gazprombank.ng.		3600	IN	NS	ns8-fwl2.nic.ru.
@@ -29635,6 +29639,8 @@ hansgrohe.ng.		3600	IN	NS	ns.domainnetwork.se.
 hansgrohe.ng.		3600	IN	NS	ns2.domainnetwork.se.
 hansolgeonetworks.ng.	3600	IN	NS	ns1.upperserver4.com.
 hansolgeonetworks.ng.	3600	IN	NS	ns2.upperserver4.com.
+hansplacehotel.ng.	3600	IN	NS	ns1.gukm1003.siteground.biz.
+hansplacehotel.ng.	3600	IN	NS	ns2.gukm1003.siteground.biz.
 hanstu.ng.		3600	IN	NS	ns1.101domain.com.
 hanstu.ng.		3600	IN	NS	ns2.101domain.com.
 hanstu.ng.		3600	IN	NS	ns5.101domain.com.
@@ -46682,8 +46688,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -77097,4 +77103,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041120 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041132 10800 3600 604800 3600
