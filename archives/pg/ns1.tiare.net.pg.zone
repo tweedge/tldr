@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022041102 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022041200 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -2152,6 +2152,9 @@ kutubutransport.COM.pg.	172800	IN	NS	ns1.global.net.pg.
 kutubutransport.COM.pg.	172800	IN	NS	ns2.global.net.pg.
 kwikmit.COM.pg.		172800	IN	NS	ns1.global.net.pg.
 kwikmit.COM.pg.		172800	IN	NS	ns2.global.net.pg.
+kwikmoni.COM.pg.	172800	IN	NS	ns1.global.net.pg.
+kwikmoni.COM.pg.	172800	IN	NS	ns2.global.net.pg.
+kwikmoni.COM.pg.	172800	IN	NS	ns3.global.net.pg.
 kwila.COM.pg.		172800	IN	NS	ns1.qnetau.com.
 kwila.COM.pg.		172800	IN	NS	ns2.qnetau.com.
 kwila.COM.pg.		172800	IN	NS	ns3.qnetau.com.
@@ -3604,8 +3607,8 @@ redearth.COM.pg.	172800	IN	NS	ns2.telinet.com.pg.
 redhill.COM.pg.		172800	IN	NS	pns21.cloudns.net.
 redhill.COM.pg.		172800	IN	NS	pns22.cloudns.net.
 redhill.COM.pg.		172800	IN	NS	pns23.cloudns.net.
-redwolfss.COM.pg.	172800	IN	NS	ns1.crazydomains.com.
-redwolfss.COM.pg.	172800	IN	NS	ns2.crazydomains.com.
+redwolfss.COM.pg.	172800	IN	NS	ns1.syrahost.com.
+redwolfss.COM.pg.	172800	IN	NS	ns2.syrahost.com.
 regengcon.COM.pg.	172800	IN	NS	ns1.datec.net.pg.
 regengcon.COM.pg.	172800	IN	NS	ns2.datec.net.pg.
 regengcon.COM.pg.	172800	IN	NS	ns3.datec.net.pg.
@@ -5916,4 +5919,4 @@ ywamships.ORG.pg.	172800	IN	NS	ns3.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns1.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns2.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns3.qnetau.com.
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022041102 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022041200 14400 7200 1728000 14400
