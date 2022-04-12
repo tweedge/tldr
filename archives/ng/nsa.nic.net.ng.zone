@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041208 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1649725286"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041220 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1649736097"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -12214,8 +12214,8 @@ cashtoken.ng.		3600	IN	NS	ns2.digitalocean.com.
 cashtoken.ng.		3600	IN	NS	ns3.digitalocean.com.
 cashtokenlagos.ng.	3600	IN	NS	nsa.whogohost.com.
 cashtokenlagos.ng.	3600	IN	NS	nsb.whogohost.com.
-cashub.ng.		3600	IN	NS	nsa.whogohost.com.
-cashub.ng.		3600	IN	NS	nsb.whogohost.com.
+cashub.ng.		3600	IN	NS	ns1.alidns.com.
+cashub.ng.		3600	IN	NS	ns2.alidns.com.
 cashup.ng.		3600	IN	NS	ns1.dknoc.com.
 cashup.ng.		3600	IN	NS	ns2.dknoc.com.
 cashvance.ng.		3600	IN	NS	ns1.bluehost.com.
@@ -36372,6 +36372,8 @@ kgshia.ng.		3600	IN	NS	ns2.digitalocean.com.
 kgshia.ng.		3600	IN	NS	ns3.digitalocean.com.
 kgshop.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 kgshop.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+khaal.ng.		3600	IN	NS	nsa.whogohost.com.
+khaal.ng.		3600	IN	NS	nsb.whogohost.com.
 khalzy.ng.		3600	IN	NS	ns1.gigalayer.com.
 khalzy.ng.		3600	IN	NS	ns2.gigalayer.com.
 kharodia.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -76937,4 +76939,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041208 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041220 10800 3600 604800 3600
