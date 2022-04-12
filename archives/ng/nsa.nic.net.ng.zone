@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041220 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1649736097"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041232 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1649746885"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -2034,6 +2034,9 @@ afiki.ng.		3600	IN	NS	nsa.whogohost.com.
 afiki.ng.		3600	IN	NS	nsb.whogohost.com.
 afil.ng.		3600	IN	NS	nsa.whogohost.com.
 afil.ng.		3600	IN	NS	nsb.whogohost.com.
+afil.ng.		3600	IN	NS	dns6.whogohost.com.
+afil.ng.		3600	IN	NS	dns7.whogohost.com.
+afil.ng.		3600	IN	NS	dns8.whogohost.com.
 afis.ng.		3600	IN	NS	ns1.web4africa.com.
 afis.ng.		3600	IN	NS	ns2.web4africa.com.
 afis.ng.		3600	IN	NS	ns3.web4africa.com.
@@ -5631,6 +5634,8 @@ autobidmaster.ng.	3600	IN	NS	ns-1256.awsdns-29.org.
 autobidmaster.ng.	3600	IN	NS	ns-1995.awsdns-57.co.uk.
 autoboss.ng.		3600	IN	NS	ns1.mileagehost.com.
 autoboss.ng.		3600	IN	NS	ns2.mileagehost.com.
+autobox.ng.		3600	IN	NS	ns1.upperserver29.com.
+autobox.ng.		3600	IN	NS	ns2.upperserver29.com.
 autobuddie.ng.		3600	IN	NS	nsa.whogohost.com.
 autobuddie.ng.		3600	IN	NS	nsb.whogohost.com.
 autobuddy.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -13278,6 +13283,8 @@ choiceassistant.ng.	3600	IN	NS	ns3.mysecurecloudhost.com.
 choiceassistant.ng.	3600	IN	NS	ns4.mysecurecloudhost.com.
 choicethrift.ng.	3600	IN	NS	ns1.upperserver29.com.
 choicethrift.ng.	3600	IN	NS	ns2.upperserver29.com.
+choichingpo.ng.		3600	IN	NS	nsa.whogohost.com.
+choichingpo.ng.		3600	IN	NS	nsb.whogohost.com.
 chomar.ng.		3600	IN	NS	ns5.garanntor.net.
 chomar.ng.		3600	IN	NS	ns6.garanntor.net.
 chongqi.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -21614,6 +21621,10 @@ empyrean.ng.		3600	IN	NS	ns44.qservers.net.
 emraid.ng.		3600	IN	NS	ns1.gigalayer.com.
 emraid.ng.		3600	IN	NS	ns2.gigalayer.com.
 emraid.ng.		3600	IN	NS	ns3.gigalayer.com.
+emrinternational.ng.	3600	IN	NS	ns1.web4africa.com.
+emrinternational.ng.	3600	IN	NS	ns2.web4africa.com.
+emrinternational.ng.	3600	IN	NS	ns3.web4africa.com.
+emrinternational.ng.	3600	IN	NS	ns4.web4africa.com.
 ems.ng.			3600	IN	NS	ns1.dknoc.com.
 ems.ng.			3600	IN	NS	ns2.dknoc.com.
 emsf.ng.		3600	IN	NS	ns1.veracle.info.
@@ -27617,6 +27628,8 @@ gileadhospital.ng.	3600	IN	NS	dns8.whogohost.com.
 gileadhospital.ng.	3600	IN	NS	dns9.whogohost.com.
 gilgal.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 gilgal.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+gilgalschool.ng.	3600	IN	NS	nsa.whogohost.com.
+gilgalschool.ng.	3600	IN	NS	nsb.whogohost.com.
 gin.ng.			3600	IN	NS	ns1.dan.com.
 gin.ng.			3600	IN	NS	ns2.dan.com.
 ginetex.ng.		3600	IN	NS	ns1.brandshelter.com.
@@ -34698,6 +34711,8 @@ jcss.ng.		3600	IN	NS	ns1.upperserver6.com.
 jcss.ng.		3600	IN	NS	ns2.upperserver6.com.
 jd7couture.ng.		3600	IN	NS	ns1.dtlwebserver.com.
 jd7couture.ng.		3600	IN	NS	ns2.dtlwebserver.com.
+jdglobal.ng.		3600	IN	NS	ns1.brandcloudns.com.
+jdglobal.ng.		3600	IN	NS	ns2.brandcloudns.com.
 jdl.ng.			3600	IN	NS	ns1.brandcloudns.com.
 jdl.ng.			3600	IN	NS	ns2.brandcloudns.com.
 jdlab.ng.		3600	IN	NS	ns1.ipisolutionsng.com.
@@ -34905,6 +34920,8 @@ jinga.ng.		3600	IN	NS	ns1.web4africa.com.
 jinga.ng.		3600	IN	NS	ns2.web4africa.com.
 jinga.ng.		3600	IN	NS	ns3.web4africa.com.
 jinga.ng.		3600	IN	NS	ns4.web4africa.com.
+jingdong.ng.		3600	IN	NS	ns1.brandcloudns.com.
+jingdong.ng.		3600	IN	NS	ns2.brandcloudns.com.
 jinglebells.ng.		3600	IN	NS	ns51.qservers.net.
 jinglebells.ng.		3600	IN	NS	ns52.qservers.net.
 jinko.ng.		3600	IN	NS	ns1.gxkjdns.com.
@@ -46593,8 +46610,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -76939,4 +76956,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041220 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041232 10800 3600 604800 3600
