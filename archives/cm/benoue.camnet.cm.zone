@@ -1,4 +1,4 @@
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022041123 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022041209 28800 3600 604800 86400
 cm.			86400	IN	NS	ns.itu.ch.
 cm.			86400	IN	NS	kim.camnet.cm.
 cm.			86400	IN	NS	lom.camnet.cm.
@@ -11,7 +11,7 @@ cm.			86400	IN	NS	auth02.ns.uu.net.
 cm.			86400	IN	NS	benoue.camnet.cm.
 cm.			86400	IN	NS	phloem.uoregon.edu.
 cm.			86400	IN	A	195.24.205.60
-cm.			86400	IN	TXT	"Generation Time: 1649714422"
+cm.			86400	IN	TXT	"Generation Time: 1649750413"
 0.cm.			86400	IN	NS	dns1.p01.nsone.net.
 0.cm.			86400	IN	NS	dns2.p01.nsone.net.
 0.cm.			86400	IN	NS	dns3.p01.nsone.net.
@@ -6790,8 +6790,6 @@ ns02.3ub.cm.		86400	IN	A	219.94.232.205
 566.cm.			86400	IN	NS	c.dnspod.com.
 5662.cm.		86400	IN	NS	ns1.dns.com.
 5662.cm.		86400	IN	NS	ns2.dns.com.
-56655.cm.		86400	IN	NS	david.ns.cloudflare.com.
-56655.cm.		86400	IN	NS	heather.ns.cloudflare.com.
 56668.cm.		86400	IN	NS	irma.ns.cloudflare.com.
 56668.cm.		86400	IN	NS	james.ns.cloudflare.com.
 567.cm.			86400	IN	NS	ns1.4.cn.
@@ -43053,9 +43051,6 @@ horizonhobby.cm.	86400	IN	NS	ns1.bodis.com.
 horizonhobby.cm.	86400	IN	NS	ns2.bodis.com.
 horizonnjhealth.cm.	86400	IN	NS	ns1.smartname.com.
 horizonnjhealth.cm.	86400	IN	NS	ns2.smartname.com.
-horizontechnics.cm.	86400	IN	NS	ns-8-a.gandi.net.
-horizontechnics.cm.	86400	IN	NS	ns-37-c.gandi.net.
-horizontechnics.cm.	86400	IN	NS	ns-244-b.gandi.net.
 hormail.cm.		86400	IN	NS	ns17.above.com.
 hormail.cm.		86400	IN	NS	ns18.above.com.
 hornby.cm.		86400	IN	NS	ns1.bodis.com.
@@ -58502,8 +58497,8 @@ nameserver.cm.		86400	IN	NS	ns17.above.com.
 nameserver.cm.		86400	IN	NS	ns18.above.com.
 nameserver4you.cm.	86400	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	86400	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	86400	IN	A	38.145.210.188
+ns1.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	86400	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	86400	IN	A	38.145.210.187
 namesilo.cm.		86400	IN	NS	ns1.bodis.com.
@@ -60420,6 +60415,10 @@ nutribiosis.cm.		86400	IN	NS	dns1.cscdns.net.
 nutribiosis.cm.		86400	IN	NS	dns2.cscdns.net.
 nutribullet.cm.		86400	IN	NS	ns1.mytrafficmanagement.com.
 nutribullet.cm.		86400	IN	NS	ns2.mytrafficmanagement.com.
+nutrifish.cm.		86400	IN	NS	ns9.lwsdns.com.
+nutrifish.cm.		86400	IN	NS	ns10.lwsdns.com.
+nutrifish.cm.		86400	IN	NS	ns11.lwsdns.com.
+nutrifish.cm.		86400	IN	NS	ns12.lwsdns.com.
 nutrimetics.cm.		86400	IN	NS	ns1.tupperware.net.
 nutrimetics.cm.		86400	IN	NS	ns2.tupperware.net.
 nutrimetics.cm.		86400	IN	NS	ns3.tupperware.net.
@@ -86357,8 +86356,6 @@ yiwu.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
 yiwu.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
 yiyuan.cm.		86400	IN	NS	f1g1ns1.dnspod.net.
 yiyuan.cm.		86400	IN	NS	f1g1ns2.dnspod.net.
-yizhibo.cm.		86400	IN	NS	ns1.ecpage.com.
-yizhibo.cm.		86400	IN	NS	ns2.ecpage.com.
 yj.cm.			86400	IN	NS	f1g1ns1.dnspod.net.
 yj.cm.			86400	IN	NS	f1g1ns2.dnspod.net.
 yjqp.cm.		86400	IN	NS	ns1.dnsdun.com.
@@ -87682,4 +87679,4 @@ zzzttt.cm.		86400	IN	NS	ns1.ecpage.com.
 zzzttt.cm.		86400	IN	NS	ns2.ecpage.com.
 zzzz.cm.		86400	IN	NS	swift.dnspod.net.
 zzzz.cm.		86400	IN	NS	crater.dnspod.net.
-cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022041123 28800 3600 604800 86400
+cm.			86400	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2022041209 28800 3600 604800 86400
