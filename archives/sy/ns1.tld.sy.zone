@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022041326 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1649854939"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022041332 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1649865733"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -5107,6 +5107,8 @@ ngs-tech.sy.		86400	IN	NS	ns1.monster.sy.
 ngs-tech.sy.		86400	IN	NS	ns2.monster.sy.
 ngstrading.sy.		86400	IN	NS	suspend1.tld.sy.
 ngstrading.sy.		86400	IN	NS	suspend2.tld.sy.
+nhdawood.sy.		86400	IN	NS	ns1.waveshost.sy.
+nhdawood.sy.		86400	IN	NS	ns2.waveshost.sy.
 ni.sy.			86400	IN	NS	ns1.huaweicloud-dns.cn.
 ni.sy.			86400	IN	NS	ns1.huaweicloud-dns.com.
 ni.sy.			86400	IN	NS	ns1.huaweicloud-dns.net.
@@ -7674,4 +7676,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022041326 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022041332 3600 3600 2592000 3600
