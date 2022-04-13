@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041319 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1649822437"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041331 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1649833228"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -8817,6 +8817,8 @@ blazemedia.ng.		3600	IN	NS	ns53.qservers.net.
 blazemedia.ng.		3600	IN	NS	ns54.qservers.net.
 blazi.ng.		3600	IN	NS	ns1.domains.ng.
 blazi.ng.		3600	IN	NS	ns2.domains.ng.
+blazon.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+blazon.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 blcdi.ng.		3600	IN	NS	ns1.netim.net.
 blcdi.ng.		3600	IN	NS	ns2.netim.net.
 blcdi.ng.		3600	IN	NS	ns3.netim.net.
@@ -24585,6 +24587,8 @@ firebrands.ng.		3600	IN	NS	ns1.whogohost.com.
 firebrands.ng.		3600	IN	NS	ns2.whogohost.com.
 fireeye.ng.		3600	IN	NS	dns1.cscdns.net.
 fireeye.ng.		3600	IN	NS	dns2.cscdns.net.
+firefly.ng.		3600	IN	NS	ns6411.hostgator.com.
+firefly.ng.		3600	IN	NS	ns6412.hostgator.com.
 fireflyexpress.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 fireflyexpress.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 firehousegrill.ng.	3600	IN	NS	ns1.eco-dns.co.uk.
@@ -37045,6 +37049,8 @@ kona.ng.		3600	IN	NS	ns3.supercp.com.
 kona.ng.		3600	IN	NS	ns4.supercp.com.
 konacindustries.ng.	3600	IN	NS	ns1.globalhosting247.com.
 konacindustries.ng.	3600	IN	NS	ns2.globalhosting247.com.
+konamiprops.ng.		3600	IN	NS	ns79.qservers.net.
+konamiprops.ng.		3600	IN	NS	ns80.qservers.net.
 konar.ng.		3600	IN	NS	ns1.servconfig.com.
 konar.ng.		3600	IN	NS	ns2.servconfig.com.
 kondobitters.ng.	3600	IN	NS	ns1.upperserver29.com.
@@ -45069,6 +45075,8 @@ mypanda.ng.		3600	IN	NS	dns2.harmonweb.net.
 mypanda.ng.		3600	IN	NS	dns3.harmonweb.net.
 myparts.ng.		3600	IN	NS	nsa.whogohost.com.
 myparts.ng.		3600	IN	NS	nsb.whogohost.com.
+mypastor.ng.		3600	IN	NS	nsa.whogohost.com.
+mypastor.ng.		3600	IN	NS	nsb.whogohost.com.
 mypaycube.ng.		3600	IN	NS	nsa.whogohost.com.
 mypaycube.ng.		3600	IN	NS	nsb.whogohost.com.
 mypayearly.ng.		3600	IN	NS	ns1.web4africa.com.
@@ -45115,6 +45123,8 @@ mypolice.ng.		3600	IN	NS	nsa.whogohost.com.
 mypolice.ng.		3600	IN	NS	nsb.whogohost.com.
 mypoliticalhub.ng.	3600	IN	NS	ns1.101domain.com.
 mypoliticalhub.ng.	3600	IN	NS	ns2.101domain.com.
+mypolitician.ng.	3600	IN	NS	nsa.whogohost.com.
+mypolitician.ng.	3600	IN	NS	nsb.whogohost.com.
 mypos.ng.		3600	IN	NS	ns1.upperserver29.com.
 mypos.ng.		3600	IN	NS	ns2.upperserver29.com.
 myposbusiness.ng.	3600	IN	NS	ns1.upperserver29.com.
@@ -46633,8 +46643,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -53711,6 +53721,8 @@ politichecks.ng.	3600	IN	NS	ns1.dknoc.com.
 politichecks.ng.	3600	IN	NS	ns2.dknoc.com.
 politician.ng.		3600	IN	NS	ns6411.hostgator.com.
 politician.ng.		3600	IN	NS	ns6412.hostgator.com.
+politicians.ng.		3600	IN	NS	nsa.whogohost.com.
+politicians.ng.		3600	IN	NS	nsb.whogohost.com.
 politick.ng.		3600	IN	NS	nsa.whogohost.com.
 politick.ng.		3600	IN	NS	nsb.whogohost.com.
 politico.ng.		3600	IN	NS	ns25.qservers.net.
@@ -65061,6 +65073,10 @@ studentshop.ng.		3600	IN	NS	nsa.whogohost.com.
 studentshop.ng.		3600	IN	NS	nsb.whogohost.com.
 studentshub.ng.		3600	IN	NS	ns1.upperserver29.com.
 studentshub.ng.		3600	IN	NS	ns2.upperserver29.com.
+studentsloan.ng.	3600	IN	NS	nsa.whogohost.com.
+studentsloan.ng.	3600	IN	NS	nsb.whogohost.com.
+studentsloans.ng.	3600	IN	NS	nsa.whogohost.com.
+studentsloans.ng.	3600	IN	NS	nsb.whogohost.com.
 studentstreet.ng.	3600	IN	NS	ns1.vercel-dns.com.
 studentstreet.ng.	3600	IN	NS	ns2.vercel-dns.com.
 studentstreet.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -65580,6 +65596,8 @@ superweb.ng.		3600	IN	NS	ns2.servercpl.com.
 superweb.ng.		3600	IN	NS	ns3.servercpl.com.
 superxesell.ng.		3600	IN	NS	ns1.qservers.net.
 superxesell.ng.		3600	IN	NS	ns2.qservers.net.
+supplier.ng.		3600	IN	NS	ns6411.hostgator.com.
+supplier.ng.		3600	IN	NS	ns6412.hostgator.com.
 suppliers.ng.		3600	IN	NS	nsa.whogohost.com.
 suppliers.ng.		3600	IN	NS	nsb.whogohost.com.
 supplies.ng.		3600	IN	NS	ns1.ipage.com.
@@ -68481,6 +68499,8 @@ thethings.ng.		3600	IN	NS	ns5.garanntor.net.
 thethings.ng.		3600	IN	NS	ns6.garanntor.net.
 thethreshers.ng.	3600	IN	NS	ns51.qservers.net.
 thethreshers.ng.	3600	IN	NS	ns52.qservers.net.
+thetimesweekly.ng.	3600	IN	NS	nsa.whogohost.com.
+thetimesweekly.ng.	3600	IN	NS	nsb.whogohost.com.
 thetopfarmer.ng.	3600	IN	NS	ns1.upperserver29.com.
 thetopfarmer.ng.	3600	IN	NS	ns2.upperserver29.com.
 thetorch.ng.		3600	IN	NS	ns6057.hostgator.com.
@@ -71076,6 +71096,8 @@ ukc.ng.			3600	IN	NS	ns1.inspeedhosting.com.
 ukc.ng.			3600	IN	NS	ns2.inspeedhosting.com.
 ukejefoundation.ng.	3600	IN	NS	nsa.whogohost.com.
 ukejefoundation.ng.	3600	IN	NS	nsb.whogohost.com.
+ukhealthcarejobs.ng.	3600	IN	NS	nsa.whogohost.com.
+ukhealthcarejobs.ng.	3600	IN	NS	nsb.whogohost.com.
 ukniaf.ng.		3600	IN	NS	pdns03.domaincontrol.com.
 ukniaf.ng.		3600	IN	NS	pdns04.domaincontrol.com.
 ukraine.ng.		3600	IN	NS	cp.nira.org.ng.
@@ -77056,4 +77078,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041319 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041331 10800 3600 604800 3600
