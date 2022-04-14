@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041404 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041407 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1649908840"
+mg.			7200	IN	TXT	"Generation Time: 1649919622"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -459,8 +459,8 @@ aerovillage.mg.		7200	IN	NS	dns14.ovh.net.
 aerovillage.mg.		7200	IN	NS	ns14.ovh.net.
 aes.mg.			7200	IN	NS	ns1.da.cloudns.io.
 aes.mg.			7200	IN	NS	ns2.da.cloudns.io.
-afafi-mutuelle.mg.	7200	IN	NS	ns1.cloudns.io.
-afafi-mutuelle.mg.	7200	IN	NS	ns2.cloudns.io.
+afafi-mutuelle.mg.	7200	IN	NS	ns1.da.cloudns.io.
+afafi-mutuelle.mg.	7200	IN	NS	ns2.da.cloudns.io.
 afflelouparis.mg.	7200	IN	NS	ns3.nameshield.net.
 afflelouparis.mg.	7200	IN	NS	obs.ns1.fr.
 afflelouparis.mg.	7200	IN	NS	ns2.observatoiredesmarques.fr.
@@ -1234,8 +1234,8 @@ astrum.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 astrum.mg.		7200	IN	NS	ns1.fr.malagasy.com.
 atec.mg.		7200	IN	NS	ns1.da.cloudns.io.
 atec.mg.		7200	IN	NS	ns2.da.cloudns.io.
-atelierdessens.mg.	7200	IN	NS	ns1.cloudns.io.
-atelierdessens.mg.	7200	IN	NS	ns2.cloudns.io.
+atelierdessens.mg.	7200	IN	NS	ns1.da.cloudns.io.
+atelierdessens.mg.	7200	IN	NS	ns2.da.cloudns.io.
 ateliermecaniquemiary.mg. 7200	IN	NS	ns1.cloudns.io.
 ateliermecaniquemiary.mg. 7200	IN	NS	ns2.cloudns.io.
 atelierponos.mg.	7200	IN	NS	ns1.da.cloudns.io.
@@ -1564,8 +1564,6 @@ beead.mg.		7200	IN	NS	ns2.nameserver.com.
 beelsson.mg.		7200	IN	NS	dns01.one2net.net.
 beelsson.mg.		7200	IN	NS	dns02.one2net.net.
 beelsson.mg.		7200	IN	NS	dns03.one2net.net.
-beeshop.mg.		7200	IN	NS	ns1.svsmanager.com.
-beeshop.mg.		7200	IN	NS	ns2.svsmanager.com.
 bemaco.mg.		7200	IN	NS	dns100.ovh.net.
 bemaco.mg.		7200	IN	NS	ns100.ovh.net.
 bemozik.mg.		7200	IN	NS	cpanel9.lws-hosting.com.
@@ -3202,9 +3200,6 @@ e-supplier.mg.		86400	IN	NS	ns3.digitalocean.com.
 e-tady.mg.		86400	IN	NS	ns1.ex2.com.
 e-tady.mg.		86400	IN	NS	ns2.ex2.com.
 e-tady.mg.		86400	IN	NS	ns3.ex2.com.
-e-talk-mada.mg.		86400	IN	NS	ns1.indritech.mg.
-e-talk-mada.mg.		86400	IN	NS	ns2.indritech.mg.
-e-talk-mada.mg.		86400	IN	NS	ns3.indritech.mg.
 e-trade.mg.		86400	IN	NS	ns1.da.cloudns.io.
 e-trade.mg.		86400	IN	NS	ns2.da.cloudns.io.
 e-tsongolika.mg.	86400	IN	NS	ns1.serveurgasy.com.
@@ -3718,8 +3713,8 @@ facebook.mg.		86400	IN	NS	ns1.lovellsnames.org.
 facebook.mg.		86400	IN	NS	ns2.lovellsnames.org.
 facebook.mg.		86400	IN	NS	ns3.lovellsnames.org.
 facebook.mg.		86400	IN	NS	ns4.lovellsnames.org.
-facmedfianar.mg.	86400	IN	NS	ns1.cloudns.io.
-facmedfianar.mg.	86400	IN	NS	ns2.cloudns.io.
+facmedfianar.mg.	86400	IN	NS	ns1.da.cloudns.io.
+facmedfianar.mg.	86400	IN	NS	ns2.da.cloudns.io.
 facto-saatchi.mg.	86400	IN	NS	eva.ns.cloudflare.com.
 facto-saatchi.mg.	86400	IN	NS	seth.ns.cloudflare.com.
 fafy.mg.		86400	IN	NS	ns1.onyx.cloudns.io.
@@ -8233,8 +8228,8 @@ photomap.mg.		86400	IN	NS	ns1.cloudns.io.
 photomap.mg.		86400	IN	NS	ns2.cloudns.io.
 photovoltaique-donbosco-majunga.mg. 86400 IN NS	ns1.servermada.com.
 photovoltaique-donbosco-majunga.mg. 86400 IN NS	ns2.servermada.com.
-phyto.mg.		86400	IN	NS	ns1.cloudns.io.
-phyto.mg.		86400	IN	NS	ns2.cloudns.io.
+phyto.mg.		86400	IN	NS	ns1.da.cloudns.io.
+phyto.mg.		86400	IN	NS	ns2.da.cloudns.io.
 pi.mg.			86400	IN	NS	ns-55-a.gandi.net.
 pi.mg.			86400	IN	NS	ns-204-b.gandi.net.
 pi.mg.			86400	IN	NS	ns-66-c.gandi.net.
@@ -8896,8 +8891,6 @@ rexroth.mg.		86400	IN	NS	gwa.fe.bosch.de.
 rexroth.mg.		86400	IN	NS	gwa2.fe.bosch.de.
 rezal.mg.		86400	IN	NS	greg.ns.cloudflare.com.
 rezal.mg.		86400	IN	NS	michelle.ns.cloudflare.com.
-rf.mg.			86400	IN	NS	dns1.namecheaphosting.com.
-rf.mg.			86400	IN	NS	dns2.namecheaphosting.com.
 rfm.mg.			86400	IN	NS	ns.dts.mg.
 rfm.mg.			86400	IN	NS	ns1.dts.mg.
 rgm.mg.			86400	IN	NS	dns106.ovh.net.
@@ -9516,8 +9509,6 @@ smail.mg.		86400	IN	NS	ns2.lemursystems.com.
 smart.mg.		86400	IN	NS	ns1.corpinter.net.
 smart.mg.		86400	IN	NS	ns2.corpinter.de.
 smart.mg.		86400	IN	NS	ns3.corpinter.net.
-smart-group.mg.		86400	IN	NS	ns1.da.cloudns.io.
-smart-group.mg.		86400	IN	NS	ns2.da.cloudns.io.
 smart-tanjombato.mg.	86400	IN	NS	ns.dts.mg.
 smart-tanjombato.mg.	86400	IN	NS	ns1.dts.mg.
 smart-tech.mg.		86400	IN	NS	dns1.indritech.biz.
@@ -9684,8 +9675,8 @@ soherina.mg.		86400	IN	NS	ns1.cloudns.io.
 soherina.mg.		86400	IN	NS	ns2.cloudns.io.
 sohot.mg.		86400	IN	NS	ns29.dot.mg.
 sohot.mg.		86400	IN	NS	ns29.illi.co.mg.
-sokafis.mg.		86400	IN	NS	ns1.cloudns.io.
-sokafis.mg.		86400	IN	NS	ns2.cloudns.io.
+sokafis.mg.		86400	IN	NS	ns1.da.cloudns.io.
+sokafis.mg.		86400	IN	NS	ns2.da.cloudns.io.
 sol.mg.			86400	IN	NS	ns1.101domain.com.
 sol.mg.			86400	IN	NS	ns2.101domain.com.
 solana.mg.		86400	IN	NS	ns1.101domain.com.
@@ -11494,4 +11485,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041404 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041407 600 3600 604800 86400

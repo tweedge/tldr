@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041419 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1649907664"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041431 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1649918822"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -6723,8 +6723,10 @@ basseyndem.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 basseyndem.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 basswood.ng.		3600	IN	NS	ns1.siteground.net.
 basswood.ng.		3600	IN	NS	ns2.siteground.net.
-bat.ng.			3600	IN	NS	ns37.domaincontrol.com.
-bat.ng.			3600	IN	NS	ns38.domaincontrol.com.
+bat.ng.			3600	IN	NS	ns-175.awsdns-21.com.
+bat.ng.			3600	IN	NS	ns-760.awsdns-31.net.
+bat.ng.			3600	IN	NS	ns-1073.awsdns-06.org.
+bat.ng.			3600	IN	NS	ns-1963.awsdns-53.co.uk.
 bat2023.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 bat2023.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 bata.ng.		3600	IN	NS	ns1.giow27.siteground.us.
@@ -14739,8 +14741,8 @@ comeet.ng.		3600	IN	NS	ns545.domainhosting.com.ng.
 comeet.ng.		3600	IN	NS	ns546.domainhosting.com.ng.
 comeinsure.ng.		3600	IN	NS	nsa.whogohost.com.
 comeinsure.ng.		3600	IN	NS	nsb.whogohost.com.
-comemarket.ng.		3600	IN	NS	nsa.whogohost.com.
-comemarket.ng.		3600	IN	NS	nsb.whogohost.com.
+comemarket.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+comemarket.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 comenergy.ng.		3600	IN	NS	ns3.syskay.com.
 comenergy.ng.		3600	IN	NS	ns4.syskay.com.
 comforthomes.ng.	3600	IN	NS	ns73.qservers.net.
@@ -24849,8 +24851,8 @@ fixerwithin.ng.		3600	IN	NS	ns3.web4africa.com.
 fixerwithin.ng.		3600	IN	NS	ns4.web4africa.com.
 fixi.ng.		3600	IN	NS	ns1.parkingcrew.net.
 fixi.ng.		3600	IN	NS	ns2.parkingcrew.net.
-fixit.ng.		3600	IN	NS	ada.ns.cloudflare.com.
-fixit.ng.		3600	IN	NS	marty.ns.cloudflare.com.
+fixit.ng.		3600	IN	NS	ns1.md-58.webhostbox.net.
+fixit.ng.		3600	IN	NS	ns2.md-58.webhostbox.net.
 fixit45.ng.		3600	IN	NS	ns1.digitalocean.com.
 fixit45.ng.		3600	IN	NS	ns2.digitalocean.com.
 fixit45.ng.		3600	IN	NS	ns3.digitalocean.com.
@@ -34491,6 +34493,9 @@ jackdaniels.ng.		3600	IN	NS	ns-cloud-c1.googledomains.com.
 jackdaniels.ng.		3600	IN	NS	ns-cloud-c2.googledomains.com.
 jackdaniels.ng.		3600	IN	NS	ns-cloud-c3.googledomains.com.
 jackdaniels.ng.		3600	IN	NS	ns-cloud-c4.googledomains.com.
+jackery.ng.		3600	IN	NS	ns5.gomydns.com.
+jackery.ng.		3600	IN	NS	ns6.gomydns.com.
+jackery.ng.		3600	IN	NS	ns7.gomydns.com.
 jackofalltrades.ng.	3600	IN	NS	nsa.whogohost.com.
 jackofalltrades.ng.	3600	IN	NS	nsb.whogohost.com.
 jackone.ng.		3600	IN	NS	ns1.masterpiece-gaming.com.
@@ -50189,9 +50194,9 @@ onpointclothing.ng.	3600	IN	NS	uk1.vastgig.com.
 onpointclothing.ng.	3600	IN	NS	uk2.vastgig.com.
 onpos.ng.		3600	IN	NS	ns1.gigalayer.com.
 onpos.ng.		3600	IN	NS	ns2.gigalayer.com.
+onspri.ng.		86400	IN	DS	2371 13 2 057660598D3FEE23BE39259D6B32FF0CDB536CAA529871E2E0393EC4 13CA14EB
 onspri.ng.		3600	IN	NS	ken.ns.cloudflare.com.
 onspri.ng.		3600	IN	NS	rita.ns.cloudflare.com.
-onspri.ng.		86400	IN	DS	2371 13 2 057660598D3FEE23BE39259D6B32FF0CDB536CAA529871E2E0393EC4 13CA14EB
 onthego.ng.		3600	IN	NS	ns11.meiranet.com.
 onthego.ng.		3600	IN	NS	ns12.meiranet.com.
 onthemarket.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -56789,8 +56794,8 @@ reatent.ng.		3600	IN	NS	ns-cloud-b3.googledomains.com.
 reatent.ng.		3600	IN	NS	ns-cloud-b4.googledomains.com.
 rebarperfecta.ng.	3600	IN	NS	nsa.whogohost.com.
 rebarperfecta.ng.	3600	IN	NS	nsb.whogohost.com.
-rebel.ng.		3600	IN	NS	nsa.whogohost.com.
-rebel.ng.		3600	IN	NS	nsb.whogohost.com.
+rebel.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+rebel.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 rebet.ng.		3600	IN	NS	nsa.whogohost.com.
 rebet.ng.		3600	IN	NS	nsb.whogohost.com.
 rebirthent.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -69982,6 +69987,8 @@ transform.ng.		3600	IN	NS	ns2.openhostingservice.com.
 transform.ng.		3600	IN	NS	ns3.openhostingservice.com.
 transform.ng.		3600	IN	NS	ns4.openhostingservice.com.
 transform.ng.		3600	IN	NS	ns5.openhostingservice.com.
+transformedmind.ng.	3600	IN	NS	ns21.hostnownow.com.
+transformedmind.ng.	3600	IN	NS	ns22.hostnownow.com.
 transformi.ng.		3600	IN	NS	ns1.sedoparking.com.
 transformi.ng.		3600	IN	NS	ns2.sedoparking.com.
 transformingtobacco.ng.	3600	IN	NS	nsgbr.comlaude.co.uk.
@@ -77157,4 +77164,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041419 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041431 10800 3600 604800 3600
