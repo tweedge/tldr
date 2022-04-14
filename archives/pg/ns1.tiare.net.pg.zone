@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022041200 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022041301 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -1977,9 +1977,8 @@ kc2limited.COM.pg.	172800	IN	NS	ns2.telinet.com.pg.
 kcg.COM.pg.		172800	IN	NS	ns1.qnetau.com.
 kcg.COM.pg.		172800	IN	NS	ns2.qnetau.com.
 kcg.COM.pg.		172800	IN	NS	ns3.qnetau.com.
-kch.COM.pg.		172800	IN	NS	ns1.qnetau.com.
-kch.COM.pg.		172800	IN	NS	ns2.qnetau.com.
-kch.COM.pg.		172800	IN	NS	ns3.qnetau.com.
+kch.COM.pg.		172800	IN	NS	ns1.online.net.pg.
+kch.COM.pg.		172800	IN	NS	ns2.online.net.pg.
 kcl.COM.pg.		172800	IN	NS	ns21.cloudns.net.
 kcl.COM.pg.		172800	IN	NS	ns22.cloudns.net.
 kcs.COM.pg.		172800	IN	NS	ns1.datec.net.pg.
@@ -2395,8 +2394,8 @@ matrix.COM.pg.		172800	IN	NS	dns4.doteasy.com.
 matrixpng.COM.pg.	172800	IN	NS	ns1.qnetau.com.
 matrixpng.COM.pg.	172800	IN	NS	ns2.qnetau.com.
 matrixpng.COM.pg.	172800	IN	NS	ns3.qnetau.com.
-mauinvestment.COM.pg.	172800	IN	NS	ns1.pngconnect.com.
-mauinvestment.COM.pg.	172800	IN	NS	ns2.pngconnect.com.
+mauinvestmentlimited.COM.pg. 172800 IN	NS	ns1.pngconnect.com.
+mauinvestmentlimited.COM.pg. 172800 IN	NS	ns2.pngconnect.com.
 mauriranu.COM.pg.	172800	IN	NS	ns1.qnetau.com.
 mauriranu.COM.pg.	172800	IN	NS	ns2.qnetau.com.
 mauriranu.COM.pg.	172800	IN	NS	ns3.qnetau.com.
@@ -4776,8 +4775,10 @@ iccc.GOV.pg.		172800	IN	NS	ns2.datec.net.pg.
 iccc.GOV.pg.		172800	IN	NS	ns3.datec.net.pg.
 icdc.GOV.pg.		172800	IN	NS	ns1.telinet.com.pg.
 icdc.GOV.pg.		172800	IN	NS	ns2.telinet.com.pg.
-ict.GOV.pg.		172800	IN	NS	ns1.telinet.com.pg.
-ict.GOV.pg.		172800	IN	NS	ns2.telinet.com.pg.
+ict.GOV.pg.		172800	IN	NS	ns-74.awsdns-09.com.
+ict.GOV.pg.		172800	IN	NS	ns-754.awsdns-30.net.
+ict.GOV.pg.		172800	IN	NS	ns-1245.awsdns-27.org.
+ict.GOV.pg.		172800	IN	NS	ns-2028.awsdns-61.co.uk.
 ida.GOV.pg.		172800	IN	NS	ns1.qnetau.com.
 ida.GOV.pg.		172800	IN	NS	ns2.qnetau.com.
 ida.GOV.pg.		172800	IN	NS	ns3.qnetau.com.
@@ -5919,4 +5920,4 @@ ywamships.ORG.pg.	172800	IN	NS	ns3.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns1.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns2.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns3.qnetau.com.
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022041200 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022041301 14400 7200 1728000 14400
