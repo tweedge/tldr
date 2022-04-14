@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1649880301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1649894701 1800 600 604800 1800
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
 mw.			18000	IN	NS	d.ext.nic.cz.
@@ -3168,8 +3168,10 @@ paypal.mw.		18000	IN	NS	ns1.markmonitor.com.
 paypal.mw.		18000	IN	NS	ns3.markmonitor.com.
 payroll.mw.		18000	IN	NS	ns1.node1427.myfcloud.com.
 payroll.mw.		18000	IN	NS	ns2.node1427.myfcloud.com.
-payu.mw.		18000	IN	NS	dns01.naspers.com.
-payu.mw.		18000	IN	NS	dns02.naspers.com.
+payu.mw.		18000	IN	NS	ns-1055.awsdns-03.org.
+payu.mw.		18000	IN	NS	ns-1622.awsdns-10.co.uk.
+payu.mw.		18000	IN	NS	ns-437.awsdns-54.com.
+payu.mw.		18000	IN	NS	ns-685.awsdns-21.net.
 pcb.mw.			18000	IN	NS	domwe.sdn.mw.
 pcb.mw.			18000	IN	NS	nyala.sdnp.org.mw.
 peterstuyvesant.mw.	18000	IN	NS	nsgbr.comlaude.co.uk.
@@ -4412,4 +4414,4 @@ zurich.mw.		18000	IN	NS	dns1.cscdns.net.
 zurich.mw.		18000	IN	NS	dns2.cscdns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1649880301 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1649894701 1800 600 604800 1800
