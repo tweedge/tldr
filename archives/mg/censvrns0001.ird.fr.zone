@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041504 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041507 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1649995291"
+mg.			7200	IN	TXT	"Generation Time: 1650006081"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1105,8 +1105,6 @@ arovy.mg.		7200	IN	NS	ns2.1984hosting.com.
 arovy.mg.		7200	IN	NS	ns2.1984.is.
 aroweb.mg.		7200	IN	NS	ns1.da.cloudns.io.
 aroweb.mg.		7200	IN	NS	ns2.da.cloudns.io.
-arozaza.mg.		7200	IN	NS	ns1.mada-webhosting.com.
-arozaza.mg.		7200	IN	NS	ns2.mada-webhosting.com.
 arpenaz.mg.		7200	IN	NS	ns-252-a.gandi.net.
 arpenaz.mg.		7200	IN	NS	ns-41-b.gandi.net.
 arpenaz.mg.		7200	IN	NS	ns-83-c.gandi.net.
@@ -2035,8 +2033,6 @@ cabinet-fenitra.mg.	7200	IN	NS	ns2.contabo.net.
 cabinet-fenitra.mg.	7200	IN	NS	ns3.contabo.net.
 cabinetcdr.mg.		7200	IN	NS	ns1.servermada.com.
 cabinetcdr.mg.		7200	IN	NS	ns2.servermada.com.
-cacya.mg.		7200	IN	NS	greg.ns.cloudflare.com.
-cacya.mg.		7200	IN	NS	michelle.ns.cloudflare.com.
 cadence.mg.		7200	IN	NS	ns.dts.mg.
 cadence.mg.		7200	IN	NS	ns1.dts.mg.
 caduceo.mg.		7200	IN	NS	ns1-05.azure-dns.com.
@@ -2394,8 +2390,6 @@ cinepax.mg.		7200	IN	NS	ns1.servermada.com.
 cinepax.mg.		7200	IN	NS	ns2.servermada.com.
 cinety.mg.		7200	IN	NS	ns1.da.cloudns.io.
 cinety.mg.		7200	IN	NS	ns2.da.cloudns.io.
-cir.mg.			7200	IN	NS	ns29.illi.co.mg.
-cir.mg.			7200	IN	NS	ns29.dot.mg.
 cirad.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
 cirad.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 cirad.mg.		7200	IN	NS	ns1.fr.malagasy.com.
@@ -2430,8 +2424,6 @@ climatepledge.mg.	7200	IN	NS	nssui.comlaude.ch.
 climatepledge.mg.	7200	IN	NS	nsusa.comlaude.net.
 clinic-info.mg.		7200	IN	NS	ns.dts.mg.
 clinic-info.mg.		7200	IN	NS	ns1.dts.mg.
-clinicsthomas.mg.	7200	IN	NS	ns1.gasyweb.com.
-clinicsthomas.mg.	7200	IN	NS	ns2.gasyweb.com.
 cliniquereinemarie.mg.	7200	IN	NS	ns1.mg.tambazotra.net.
 cliniquereinemarie.mg.	7200	IN	NS	ns2.mg.tambazotra.net.
 cliniquereinemarie.mg.	7200	IN	NS	ns1.fr.malagasy.com.
@@ -5499,8 +5491,8 @@ jjhouse.mg.		86400	IN	NS	ns2.cloudns.io.
 jm-contacts.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 jm-contacts.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 jm-contacts.mg.		86400	IN	NS	ns1.fr.malagasy.com.
-jmct.mg.		86400	IN	NS	ns1.cloudns.io.
-jmct.mg.		86400	IN	NS	ns2.cloudns.io.
+jmct.mg.		86400	IN	NS	ns1.da.cloudns.io.
+jmct.mg.		86400	IN	NS	ns2.da.cloudns.io.
 jmgo.mg.		86400	IN	NS	ns1.cloudns.io.
 jmgo.mg.		86400	IN	NS	ns2.cloudns.io.
 joanneradao.mg.		86400	IN	NS	ns1.servermada.com.
@@ -5994,8 +5986,6 @@ legrand.mg.		86400	IN	NS	var.bticino.it.
 leguichet.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 leguichet.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 leguichet.mg.		86400	IN	NS	ns1.fr.malagasy.com.
-legumo.mg.		86400	IN	NS	ns1.da.cloudns.io.
-legumo.mg.		86400	IN	NS	ns2.da.cloudns.io.
 lemall.mg.		86400	IN	NS	ns1.servermada.com.
 lemall.mg.		86400	IN	NS	ns2.servermada.com.
 lemallnosybe.mg.	86400	IN	NS	ns1.servermada.com.
@@ -6385,8 +6375,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -7089,9 +7079,6 @@ mirrormedia.mg.		86400	IN	NS	ns-cloud-c3.googledomains.com.
 mirrormedia.mg.		86400	IN	NS	ns-cloud-c4.googledomains.com.
 mis.mg.			86400	IN	NS	ns.dts.mg.
 mis.mg.			86400	IN	NS	ns1.dts.mg.
-misfid.mg.		86400	IN	NS	ns1.indritech.mg.
-misfid.mg.		86400	IN	NS	ns2.indritech.mg.
-misfid.mg.		86400	IN	NS	ns3.indritech.mg.
 mission-madagascar.mg.	86400	IN	NS	ns1.da.cloudns.io.
 mission-madagascar.mg.	86400	IN	NS	ns2.da.cloudns.io.
 misterclean.mg.		86400	IN	NS	ns1.da.cloudns.io.
@@ -7638,8 +7625,8 @@ nytanana-hotel-ranomafana.mg. 86400 IN	NS	ns29.illi.co.mg.
 nytanana-hotel-ranomafana.mg. 86400 IN	NS	ns29.dot.mg.
 nytantsaha.mg.		86400	IN	NS	ns1.compureweb.com.
 nytantsaha.mg.		86400	IN	NS	ns2.compureweb.com.
-nytranoko.mg.		86400	IN	NS	ns1.cloudns.io.
-nytranoko.mg.		86400	IN	NS	ns2.cloudns.io.
+nytranoko.mg.		86400	IN	NS	ns1.da.cloudns.io.
+nytranoko.mg.		86400	IN	NS	ns2.da.cloudns.io.
 nyvolako.mg.		86400	IN	NS	ns31.infomaniak.com.
 nyvolako.mg.		86400	IN	NS	ns32.infomaniak.com.
 o-kaly.mg.		86400	IN	NS	ns1.cloudns.io.
@@ -8691,9 +8678,9 @@ rallygasy.mg.		86400	IN	NS	ns111.ovh.net.
 rallygasy.mg.		86400	IN	NS	dns111.ovh.net.
 ram.mg.			86400	IN	NS	ns1.extra.chrysler.com.
 ram.mg.			86400	IN	NS	ns2.extra.chrysler.com.
+ramanitra.mg.		86400	IN	DS	2371 13 2 2B8B5EFCF92A6EA78A912F33D0369BDE0293369AE040EC62AB842109 786FEFD3
 ramanitra.mg.		86400	IN	NS	brett.ns.cloudflare.com.
 ramanitra.mg.		86400	IN	NS	margot.ns.cloudflare.com.
-ramanitra.mg.		86400	IN	DS	2371 13 2 2B8B5EFCF92A6EA78A912F33D0369BDE0293369AE040EC62AB842109 786FEFD3
 ramatoa.mg.		86400	IN	NS	ns1.cloudns.io.
 ramatoa.mg.		86400	IN	NS	ns2.cloudns.io.
 ramboloson.mg.		86400	IN	NS	dns14.ovh.net.
@@ -10522,8 +10509,8 @@ trice.mg.		86400	IN	NS	ns1.da.cloudns.io.
 trice.mg.		86400	IN	NS	ns2.da.cloudns.io.
 trimeta.mg.		86400	IN	NS	ns.dts.mg.
 trimeta.mg.		86400	IN	NS	ns1.dts.mg.
-trimeta-agrofood.mg.	86400	IN	NS	ns1.cloudns.io.
-trimeta-agrofood.mg.	86400	IN	NS	ns2.cloudns.io.
+trimeta-agrofood.mg.	86400	IN	NS	ns1.da.cloudns.io.
+trimeta-agrofood.mg.	86400	IN	NS	ns2.da.cloudns.io.
 trimetagroup.mg.	86400	IN	NS	ns1.da.cloudns.io.
 trimetagroup.mg.	86400	IN	NS	ns2.da.cloudns.io.
 trimobe.mg.		86400	IN	NS	dns107.ovh.net.
@@ -10647,8 +10634,6 @@ turkcell.mg.		86400	IN	NS	ns5.101domain.com.
 turkcell.mg.		86400	IN	NS	ns2.101domain.com.
 tuto.mg.		86400	IN	NS	bayan.ns.cloudflare.com.
 tuto.mg.		86400	IN	NS	cheryl.ns.cloudflare.com.
-tuto-info.mg.		86400	IN	NS	ns1.da.cloudns.io.
-tuto-info.mg.		86400	IN	NS	ns2.da.cloudns.io.
 tvpresse.mg.		86400	IN	NS	ns1.cloudns.io.
 tvpresse.mg.		86400	IN	NS	ns2.cloudns.io.
 twf.mg.			86400	IN	NS	ns1.evm1295.sgvps.net.
@@ -11495,4 +11480,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041504 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041507 600 3600 604800 86400
