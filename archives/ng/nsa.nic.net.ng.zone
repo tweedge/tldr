@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041682 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1650135873"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041697 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1650144878"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -37775,6 +37775,8 @@ lakeollan.ng.		3600	IN	NS	ns1.siteground.net.
 lakeollan.ng.		3600	IN	NS	ns2.siteground.net.
 lakesamfoods.ng.	3600	IN	NS	ns29.qservers.net.
 lakesamfoods.ng.	3600	IN	NS	ns30.qservers.net.
+lakesidestore.ng.	3600	IN	NS	ns1.bluehost.com.
+lakesidestore.ng.	3600	IN	NS	ns2.bluehost.com.
 lakeviewterrace.ng.	3600	IN	NS	nsa.whogohost.com.
 lakeviewterrace.ng.	3600	IN	NS	nsb.whogohost.com.
 lakewoodschools.ng.	3600	IN	NS	ns1.us23.tmd.cloud.
@@ -42248,8 +42250,10 @@ meliz.ng.		3600	IN	NS	nsa.whogohost.com.
 meliz.ng.		3600	IN	NS	nsb.whogohost.com.
 melodia.ng.		3600	IN	NS	ns1.bluehost.com.
 melodia.ng.		3600	IN	NS	ns2.bluehost.com.
-melon.ng.		3600	IN	NS	armando.ns.cloudflare.com.
-melon.ng.		3600	IN	NS	tiffany.ns.cloudflare.com.
+melon.ng.		3600	IN	NS	ns1.web4africa.com.
+melon.ng.		3600	IN	NS	ns2.web4africa.com.
+melon.ng.		3600	IN	NS	ns3.web4africa.com.
+melon.ng.		3600	IN	NS	ns4.web4africa.com.
 melsa.ng.		3600	IN	NS	ns1.dknoc.com.
 melsa.ng.		3600	IN	NS	ns2.dknoc.com.
 melti.ng.		3600	IN	NS	ns.inwx.de.
@@ -42511,8 +42515,8 @@ metabetti.ng.		3600	IN	NS	ns1.sedoparking.com.
 metabetti.ng.		3600	IN	NS	ns2.sedoparking.com.
 metabiz.ng.		3600	IN	NS	ns3.epik.com.
 metabiz.ng.		3600	IN	NS	ns4.epik.com.
-metablog.ng.		3600	IN	NS	dns1.doveserver.com.
-metablog.ng.		3600	IN	NS	dns2.doveserver.com.
+metablog.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+metablog.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 metachron.ng.		3600	IN	NS	ns1207.websitewelcome.com.
 metachron.ng.		3600	IN	NS	ns1208.websitewelcome.com.
 metaclass.ng.		3600	IN	NS	ns1.dknoc.com.
@@ -46748,8 +46752,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -48551,6 +48555,8 @@ nuobjects.ng.		3600	IN	NS	adi.ns.cloudflare.com.
 nuobjects.ng.		3600	IN	NS	vern.ns.cloudflare.com.
 nupemco.ng.		3600	IN	NS	nsa.whogohost.com.
 nupemco.ng.		3600	IN	NS	nsb.whogohost.com.
+nura.ng.		3600	IN	NS	ns545.domainhosting.com.ng.
+nura.ng.		3600	IN	NS	ns546.domainhosting.com.ng.
 nurburgri.ng.		3600	IN	NS	ns1.netim.net.
 nurburgri.ng.		3600	IN	NS	ns2.netim.net.
 nurburgri.ng.		3600	IN	NS	ns3.netim.net.
@@ -53956,8 +53962,8 @@ portal.ng.		3600	IN	NS	kia.ns.cloudflare.com.
 portal.ng.		3600	IN	NS	chuck.ns.cloudflare.com.
 portalbosch.ng.		3600	IN	NS	gwa.fe.bosch.de.
 portalbosch.ng.		3600	IN	NS	gwa2.fe.bosch.de.
-portalhost.ng.		3600	IN	NS	ns55.qservers.net.
-portalhost.ng.		3600	IN	NS	ns56.qservers.net.
+portalhost.ng.		3600	IN	NS	aspen.ns.cloudflare.com.
+portalhost.ng.		3600	IN	NS	dylan.ns.cloudflare.com.
 portals.ng.		3600	IN	NS	nsa.whogohost.com.
 portals.ng.		3600	IN	NS	nsb.whogohost.com.
 portalsoft.ng.		3600	IN	NS	ns1.web4africa.com.
@@ -56194,8 +56200,8 @@ qurnex.ng.		3600	IN	NS	ns1.dknoc.com.
 qurnex.ng.		3600	IN	NS	ns2.dknoc.com.
 quru.ng.		3600	IN	NS	nsa.whogohost.com.
 quru.ng.		3600	IN	NS	nsb.whogohost.com.
-qwick.ng.		3600	IN	NS	nsa.whogohost.com.
-qwick.ng.		3600	IN	NS	nsb.whogohost.com.
+qwick.ng.		3600	IN	NS	ns1.websitepanel.xyz.
+qwick.ng.		3600	IN	NS	ns2.websitepanel.xyz.
 qwik.ng.		3600	IN	NS	ns1.qservers.net.
 qwik.ng.		3600	IN	NS	ns2.qservers.net.
 qwikclean.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -71215,6 +71221,8 @@ ufitpay.ng.		3600	IN	NS	ns1.ynetinteractive.mobi.
 ufitpay.ng.		3600	IN	NS	ns2.ynetinteractive.mobi.
 ufixconceptltd.ng.	3600	IN	NS	nsa.whogohost.com.
 ufixconceptltd.ng.	3600	IN	NS	nsb.whogohost.com.
+ufukdialogue.ng.	3600	IN	NS	cpns1.turhost.com.
+ufukdialogue.ng.	3600	IN	NS	cpns2.turhost.com.
 ugain.ng.		3600	IN	NS	nsa.whogohost.com.
 ugain.ng.		3600	IN	NS	nsb.whogohost.com.
 uganda.ng.		3600	IN	NS	cp.nira.org.ng.
@@ -77266,4 +77274,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041682 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041697 10800 3600 604800 3600
