@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041732 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1650178826"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041744 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1650189629"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -3862,6 +3862,8 @@ amrod.ng.		3600	IN	NS	zara.ns.cloudflare.com.
 amrod.ng.		3600	IN	NS	dilbert.ns.cloudflare.com.
 amsa.ng.		3600	IN	NS	ns1.qservers.net.
 amsa.ng.		3600	IN	NS	ns2.qservers.net.
+amsadam.ng.		3600	IN	NS	ns1.dknoc.com.
+amsadam.ng.		3600	IN	NS	ns2.dknoc.com.
 amsl.ng.		3600	IN	NS	ns15.syskay.com.
 amsl.ng.		3600	IN	NS	ns16.syskay.com.
 amsons.ng.		3600	IN	NS	ns15.qservers.net.
@@ -27382,8 +27384,8 @@ getjobs.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 getjobs.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 getlicenced.ng.		3600	IN	NS	ns1.siteground.net.
 getlicenced.ng.		3600	IN	NS	ns2.siteground.net.
-getlicensed.ng.		3600	IN	NS	nsa.whogohost.com.
-getlicensed.ng.		3600	IN	NS	nsb.whogohost.com.
+getlicensed.ng.		3600	IN	NS	ns1.siteground.net.
+getlicensed.ng.		3600	IN	NS	ns2.siteground.net.
 getlinked.ng.		3600	IN	NS	ns73.qservers.net.
 getlinked.ng.		3600	IN	NS	ns74.qservers.net.
 getlumi.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -46719,8 +46721,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -59663,8 +59665,8 @@ saypeace.ng.		3600	IN	NS	ns19.doveserver.com.
 saypeace.ng.		3600	IN	NS	ns20.doveserver.com.
 sbanaija.ng.		3600	IN	NS	ns.liquidweb.com.
 sbanaija.ng.		3600	IN	NS	ns1.liquidweb.com.
-sbbc.ng.		3600	IN	NS	ns1.upperserver29.com.
-sbbc.ng.		3600	IN	NS	ns2.upperserver29.com.
+sbbc.ng.		3600	IN	NS	rns17.webhostbox.net.
+sbbc.ng.		3600	IN	NS	rns18.webhostbox.net.
 sbc.ng.			3600	IN	NS	ns1.skannet.com.ng.
 sbc.ng.			3600	IN	NS	ns2.skannet.com.ng.
 sbcng.ng.		3600	IN	NS	ns1.skannet.com.ng.
@@ -64628,7 +64630,7 @@ statesman.ng.		3600	IN	NS	nsa.whogohost.com.
 statesman.ng.		3600	IN	NS	nsb.whogohost.com.
 static-storage.ng.	3600	IN	NS	ns1.bb-online.net.
 static-storage.ng.	3600	IN	NS	ns2.bb-online.org.
-static-storage.ng.	3600	IN	NS	ns3.bb-online.uk.
+static-storage.ng.	3600	IN	NS	ns3.bb-online.info.
 static-storage.ng.	3600	IN	NS	ns4.bb-online.biz.
 station360africa.ng.	3600	IN	NS	ns1.qservers.net.
 station360africa.ng.	3600	IN	NS	ns2.qservers.net.
@@ -69211,6 +69213,9 @@ tls.ng.			3600	IN	NS	ns1.dknoc.com.
 tls.ng.			3600	IN	NS	ns2.dknoc.com.
 tlsa.ng.		3600	IN	NS	nsa.whogohost.com.
 tlsa.ng.		3600	IN	NS	nsb.whogohost.com.
+tlt.ng.			3600	IN	NS	ns1.netim.net.
+tlt.ng.			3600	IN	NS	ns2.netim.net.
+tlt.ng.			3600	IN	NS	ns3.netim.net.
 tmagroup.ng.		3600	IN	NS	ns1229.websitewelcome.com.
 tmagroup.ng.		3600	IN	NS	ns1230.websitewelcome.com.
 tmail.ng.		3600	IN	NS	ns1.ultahost.com.
@@ -77188,4 +77193,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041732 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041744 10800 3600 604800 3600
