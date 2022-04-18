@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041877 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1650307218"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041881 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1650310924"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -5069,8 +5069,9 @@ aseabrownboveri.ng.	3600	IN	NS	nse1.abb.com.
 aseabrownboveri.ng.	3600	IN	NS	nse2.abb.com.
 asef.ng.		3600	IN	NS	nsa.whogohost.com.
 asef.ng.		3600	IN	NS	nsb.whogohost.com.
-asejere.ng.		3600	IN	NS	ns1.dhelchost.com.
-asejere.ng.		3600	IN	NS	ns2.dhelchost.com.
+asejere.ng.		3600	IN	NS	ns1.digitalocean.com.
+asejere.ng.		3600	IN	NS	ns2.digitalocean.com.
+asejere.ng.		3600	IN	NS	ns3.digitalocean.com.
 asepay.ng.		3600	IN	NS	nsa.whogohost.com.
 asepay.ng.		3600	IN	NS	nsb.whogohost.com.
 asfa-irrigation.ng.	3600	IN	NS	ns1.instradns.com.
@@ -25699,8 +25700,8 @@ footwears.ng.		3600	IN	NS	nsa.whogohost.com.
 footwears.ng.		3600	IN	NS	nsb.whogohost.com.
 footyamigo.ng.		3600	IN	NS	dns1.doveserver.com.
 footyamigo.ng.		3600	IN	NS	dns2.doveserver.com.
-forbes.ng.		3600	IN	NS	ns1.parkingcrew.net.
-forbes.ng.		3600	IN	NS	ns2.parkingcrew.net.
+forbes.ng.		3600	IN	NS	pns21.cloudns.net.
+forbes.ng.		3600	IN	NS	pns22.cloudns.net.
 forbeshomes.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 forbeshomes.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 forbo-flooring.ng.	3600	IN	NS	dns1.cscdns.net.
@@ -46748,8 +46749,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -53581,8 +53582,10 @@ playsportsclub.ng.	3600	IN	NS	dns6.whogohost.com.
 playsportsclub.ng.	3600	IN	NS	dns7.whogohost.com.
 playsportsclub.ng.	3600	IN	NS	dns8.whogohost.com.
 playsportsclub.ng.	3600	IN	NS	dns9.whogohost.com.
-playwbricks.ng.		3600	IN	NS	ns1.siteground.net.
-playwbricks.ng.		3600	IN	NS	ns2.siteground.net.
+playwbricks.ng.		3600	IN	NS	ns1.bdm.microsoftonline.com.
+playwbricks.ng.		3600	IN	NS	ns2.bdm.microsoftonline.com.
+playwbricks.ng.		3600	IN	NS	ns3.bdm.microsoftonline.com.
+playwbricks.ng.		3600	IN	NS	ns4.bdm.microsoftonline.com.
 playwin.ng.		3600	IN	NS	pns31.cloudns.net.
 playwin.ng.		3600	IN	NS	pns32.cloudns.net.
 playwin.ng.		3600	IN	NS	pns33.cloudns.net.
@@ -77254,4 +77257,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041877 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041881 10800 3600 604800 3600
