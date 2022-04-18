@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041806 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041810 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1650261683"
+mg.			7200	IN	TXT	"Generation Time: 1650276090"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1688,8 +1688,8 @@ bike-in-mada.mg.	7200	IN	NS	ns1.da.cloudns.io.
 bike-in-mada.mg.	7200	IN	NS	ns2.da.cloudns.io.
 bikini.mg.		7200	IN	NS	ns1.o2switch.net.
 bikini.mg.		7200	IN	NS	ns2.o2switch.net.
-binance.mg.		7200	IN	NS	ns3.afternic.com.
-binance.mg.		7200	IN	NS	ns4.afternic.com.
+binance.mg.		7200	IN	NS	ns1.236921.com.
+binance.mg.		7200	IN	NS	ns2.236921.com.
 binastore.mg.		7200	IN	NS	dns1.cscdns.net.
 binastore.mg.		7200	IN	NS	dns2.cscdns.net.
 bing.mg.		7200	IN	NS	eva.ns.cloudflare.com.
@@ -3345,8 +3345,6 @@ einstein.mg.		7200	IN	NS	ns-110.awsdns-13.com.
 einstein.mg.		7200	IN	NS	ns-1097.awsdns-09.org.
 eispetro.mg.		7200	IN	NS	ns1.cloudns.io.
 eispetro.mg.		7200	IN	NS	ns2.cloudns.io.
-eitch-group.mg.		7200	IN	NS	ns1.cloudns.io.
-eitch-group.mg.		7200	IN	NS	ns2.cloudns.io.
 ekaleka.mg.		7200	IN	NS	ns-2018.awsdns-60.co.uk.
 ekaleka.mg.		7200	IN	NS	ns-953.awsdns-55.net.
 ekaleka.mg.		7200	IN	NS	ns-1295.awsdns-33.org.
@@ -4408,8 +4406,6 @@ ns2.gov.mg.		86400	IN	A	176.34.213.26
 gpb.mg.			86400	IN	NS	ns3-fwl2.nic.ru.
 gpb.mg.			86400	IN	NS	ns4-fwl2.nic.ru.
 gpb.mg.			86400	IN	NS	ns8-fwl2.nic.ru.
-gps.mg.			86400	IN	NS	ns1.da.cloudns.io.
-gps.mg.			86400	IN	NS	ns2.da.cloudns.io.
 gptmada.mg.		86400	IN	NS	ns1.da.cloudns.io.
 gptmada.mg.		86400	IN	NS	ns2.da.cloudns.io.
 gracestore.mg.		86400	IN	NS	ns1.servermada.com.
@@ -6375,8 +6371,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -8678,9 +8674,9 @@ rallygasy.mg.		86400	IN	NS	ns111.ovh.net.
 rallygasy.mg.		86400	IN	NS	dns111.ovh.net.
 ram.mg.			86400	IN	NS	ns1.extra.chrysler.com.
 ram.mg.			86400	IN	NS	ns2.extra.chrysler.com.
-ramanitra.mg.		86400	IN	DS	2371 13 2 2B8B5EFCF92A6EA78A912F33D0369BDE0293369AE040EC62AB842109 786FEFD3
 ramanitra.mg.		86400	IN	NS	brett.ns.cloudflare.com.
 ramanitra.mg.		86400	IN	NS	margot.ns.cloudflare.com.
+ramanitra.mg.		86400	IN	DS	2371 13 2 2B8B5EFCF92A6EA78A912F33D0369BDE0293369AE040EC62AB842109 786FEFD3
 ramatoa.mg.		86400	IN	NS	ns1.cloudns.io.
 ramatoa.mg.		86400	IN	NS	ns2.cloudns.io.
 ramboloson.mg.		86400	IN	NS	dns14.ovh.net.
@@ -9314,9 +9310,6 @@ seo.mg.			86400	IN	NS	ns1.cloudns.io.
 seo.mg.			86400	IN	NS	ns2.cloudns.io.
 sep-entretienpiscine.mg. 86400	IN	NS	ns1.cloudns.io.
 sep-entretienpiscine.mg. 86400	IN	NS	ns2.cloudns.io.
-sepm.mg.		86400	IN	NS	nsa.planethoster.net.
-sepm.mg.		86400	IN	NS	nsb.planethoster.net.
-sepm.mg.		86400	IN	NS	nsc.planethoster.net.
 septodont.mg.		86400	IN	NS	ns-64-a.gandi.net.
 septodont.mg.		86400	IN	NS	ns-49-b.gandi.net.
 septodont.mg.		86400	IN	NS	ns-249-c.gandi.net.
@@ -11308,10 +11301,10 @@ yes.mg.			86400	IN	NS	ns1.da.cloudns.io.
 yes.mg.			86400	IN	NS	ns2.da.cloudns.io.
 yl.mg.			86400	IN	NS	ns1.dns.com.
 yl.mg.			86400	IN	NS	ns2.dns.com.
+ylionmarket.mg.		86400	IN	DS	49385 13 1 E879AF78EEC25C5BF3F8F778E678F039D6A49D81
 ylionmarket.mg.		86400	IN	NS	nsa.n0c.com.
 ylionmarket.mg.		86400	IN	NS	nsb.n0c.com.
 ylionmarket.mg.		86400	IN	NS	nsc.n0c.com.
-ylionmarket.mg.		86400	IN	DS	49385 13 1 E879AF78EEC25C5BF3F8F778E678F039D6A49D81
 yltp.mg.		86400	IN	NS	ns-848.awsdns-42.net.
 yltp.mg.		86400	IN	NS	ns-194.awsdns-24.com.
 yltp.mg.		86400	IN	NS	ns-1039.awsdns-01.org.
@@ -11445,9 +11438,6 @@ zezoita.mg.		86400	IN	NS	dns1.supremepanel.com.
 zezoita.mg.		86400	IN	NS	dns2.supremepanel.com.
 zhx.mg.			86400	IN	NS	ns1-boxer.vivawebhost.com.
 zhx.mg.			86400	IN	NS	ns2-boxer.vivawebhost.com.
-zilli.mg.		86400	IN	NS	a.ns.mailclub.fr.
-zilli.mg.		86400	IN	NS	b.ns.mailclub.eu.
-zilli.mg.		86400	IN	NS	c.ns.mailclub.com.
 zinzino.mg.		86400	IN	NS	dns01.dipcon.com.
 zinzino.mg.		86400	IN	NS	dns02.ports.se.
 zinzino.mg.		86400	IN	NS	dns03.ports.se.
@@ -11484,4 +11474,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041806 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041810 600 3600 604800 86400
