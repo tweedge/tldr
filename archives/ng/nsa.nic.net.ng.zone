@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041819 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1650254436"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041831 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1650265228"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -17996,6 +17996,9 @@ dhoney.ng.		3600	IN	NS	ns1.bluehost.com.
 dhoney.ng.		3600	IN	NS	ns2.bluehost.com.
 dhran.ng.		3600	IN	NS	nsa.whogohost.com.
 dhran.ng.		3600	IN	NS	nsb.whogohost.com.
+dhs.ng.			3600	IN	NS	ns1.cloudoon.com.
+dhs.ng.			3600	IN	NS	ns2.cloudoon.com.
+dhs.ng.			3600	IN	NS	ns3.cloudoon.com.
 dhub.ng.		3600	IN	NS	nsa.whogohost.com.
 dhub.ng.		3600	IN	NS	nsb.whogohost.com.
 diabetes.ng.		3600	IN	NS	ns1.qservers.net.
@@ -42429,8 +42432,8 @@ mesauda.ng.		3600	IN	NS	ns1.register.it.
 mesauda.ng.		3600	IN	NS	ns2.register.it.
 mesaudamilano.ng.	3600	IN	NS	ns1.register.it.
 mesaudamilano.ng.	3600	IN	NS	ns2.register.it.
-mesh.ng.		3600	IN	NS	jean.ns.cloudflare.com.
-mesh.ng.		3600	IN	NS	jakub.ns.cloudflare.com.
+mesh.ng.		3600	IN	NS	ns1.bluehost.com.
+mesh.ng.		3600	IN	NS	ns2.bluehost.com.
 meshmegastore.ng.	3600	IN	NS	nsa.whogohost.com.
 meshmegastore.ng.	3600	IN	NS	nsb.whogohost.com.
 mesic.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -48970,9 +48973,9 @@ oddjobber.ng.		3600	IN	NS	ns21.doveserver.com.
 oddjobber.ng.		3600	IN	NS	ns22.doveserver.com.
 oddoneout.ng.		3600	IN	NS	ns541.domainhosting.com.ng.
 oddoneout.ng.		3600	IN	NS	ns542.domainhosting.com.ng.
-odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds.ng.		3600	IN	NS	ns3.epik.com.
 odds.ng.		3600	IN	NS	ns4.epik.com.
+odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds10.ng.		3600	IN	NS	dns1.doveserver.com.
 odds10.ng.		3600	IN	NS	dns2.doveserver.com.
 odds96.ng.		3600	IN	NS	ns1.reg.ru.
@@ -77173,4 +77176,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041819 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022041831 10800 3600 604800 3600
