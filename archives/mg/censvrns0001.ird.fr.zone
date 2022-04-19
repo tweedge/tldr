@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041903 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041907 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1650337225"
+mg.			7200	IN	TXT	"Generation Time: 1650351635"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -4329,9 +4329,6 @@ gita.mg.		86400	IN	NS	ns.dts.mg.
 gita.mg.		86400	IN	NS	ns1.dts.mg.
 gitforge.mg.		86400	IN	NS	ns1.lemursystems.com.
 gitforge.mg.		86400	IN	NS	ns2.lemursystems.com.
-gitm.mg.		86400	IN	NS	ns1.malagasy.com.
-gitm.mg.		86400	IN	NS	ns2.malagasy.com.
-gitm.mg.		86400	IN	NS	ns1.fr.malagasy.com.
 glc.mg.			86400	IN	NS	ns1.onyx.cloudns.io.
 glc.mg.			86400	IN	NS	ns2.onyx.cloudns.io.
 globalact.mg.		86400	IN	NS	dns1.supremepanel.com.
@@ -5987,8 +5984,6 @@ lemallnosybe.mg.	86400	IN	NS	ns1.servermada.com.
 lemallnosybe.mg.	86400	IN	NS	ns2.servermada.com.
 lemojo.mg.		86400	IN	NS	ns1.servermada.com.
 lemojo.mg.		86400	IN	NS	ns2.servermada.com.
-lempreintemalagasy.mg.	86400	IN	NS	dns101.ovh.net.
-lempreintemalagasy.mg.	86400	IN	NS	ns101.ovh.net.
 lemuriatours.mg.	86400	IN	NS	ns1.servermada.com.
 lemuriatours.mg.	86400	IN	NS	ns2.servermada.com.
 lemurmarket.mg.		86400	IN	NS	ns1.gasyweb.com.
@@ -11300,10 +11295,10 @@ yes.mg.			86400	IN	NS	ns1.da.cloudns.io.
 yes.mg.			86400	IN	NS	ns2.da.cloudns.io.
 yl.mg.			86400	IN	NS	ns1.dns.com.
 yl.mg.			86400	IN	NS	ns2.dns.com.
-ylionmarket.mg.		86400	IN	DS	49385 13 1 E879AF78EEC25C5BF3F8F778E678F039D6A49D81
 ylionmarket.mg.		86400	IN	NS	nsa.n0c.com.
 ylionmarket.mg.		86400	IN	NS	nsb.n0c.com.
 ylionmarket.mg.		86400	IN	NS	nsc.n0c.com.
+ylionmarket.mg.		86400	IN	DS	49385 13 1 E879AF78EEC25C5BF3F8F778E678F039D6A49D81
 yltp.mg.		86400	IN	NS	ns-848.awsdns-42.net.
 yltp.mg.		86400	IN	NS	ns-194.awsdns-24.com.
 yltp.mg.		86400	IN	NS	ns-1039.awsdns-01.org.
@@ -11473,4 +11468,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041903 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022041907 600 3600 604800 86400
