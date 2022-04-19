@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022041922 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1650362540"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022041928 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1650373334"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2702,8 +2702,8 @@ ein-azaitoon.sy.	86400	IN	NS	suspend1.tld.sy.
 ein-azaitoon.sy.	86400	IN	NS	suspend2.tld.sy.
 ejah-laham.sy.		86400	IN	NS	suspend1.tld.sy.
 ejah-laham.sy.		86400	IN	NS	suspend2.tld.sy.
-ekhtar.sy.		86400	IN	NS	ns1.ibaaco.sy.
-ekhtar.sy.		86400	IN	NS	ns2.ibaaco.sy.
+ekhtar.sy.		86400	IN	NS	ns2.tarassul.sy.
+ekhtar.sy.		86400	IN	NS	ns3.tarassul.sy.
 ekrayem.sy.		86400	IN	NS	ns16.samamax.com.
 ekrayem.sy.		86400	IN	NS	ns17.samamax.com.
 ekssab.sy.		86400	IN	NS	ns1.monster.sy.
@@ -3693,8 +3693,8 @@ im.sy.			86400	IN	NS	bruce.ns.cloudflare.com.
 im.sy.			86400	IN	NS	kehlani.ns.cloudflare.com.
 imancargo.sy.		86400	IN	NS	suspend1.tld.sy.
 imancargo.sy.		86400	IN	NS	suspend2.tld.sy.
-imei.sy.		86400	IN	NS	ns1.ibaaco.sy.
-imei.sy.		86400	IN	NS	ns2.ibaaco.sy.
+imei.sy.		86400	IN	NS	ns2.tarassul.sy.
+imei.sy.		86400	IN	NS	ns3.tarassul.sy.
 imhere-co.sy.		86400	IN	NS	alan.ns.cloudflare.com.
 imhere-co.sy.		86400	IN	NS	cruz.ns.cloudflare.com.
 imtoken.sy.		86400	IN	NS	amber.ns.cloudflare.com.
@@ -3782,6 +3782,8 @@ iqar.sy.		86400	IN	NS	damiete.ns.cloudflare.com.
 iqar.sy.		86400	IN	NS	kristin.ns.cloudflare.com.
 iqarata.sy.		86400	IN	NS	ns1.topservers.biz.
 iqarata.sy.		86400	IN	NS	ns2.topservers.biz.
+iqs.sy.			86400	IN	NS	ns1.syrian-center.com.
+iqs.sy.			86400	IN	NS	ns2.syrian-center.com.
 irsy.sy.		86400	IN	NS	suspend1.tld.sy.
 irsy.sy.		86400	IN	NS	suspend2.tld.sy.
 is.sy.			86400	IN	NS	zara.ns.cloudflare.com.
@@ -3805,6 +3807,8 @@ ise-int.sy.		86400	IN	NS	suspend2.tld.sy.
 ishow.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 isi.sy.			86400	IN	NS	suspend1.tld.sy.
 isi.sy.			86400	IN	NS	suspend2.tld.sy.
+iso.sy.			86400	IN	NS	ns1.syrian-center.com.
+iso.sy.			86400	IN	NS	ns2.syrian-center.com.
 issawi.sy.		86400	IN	NS	suspend1.tld.sy.
 issawi.sy.		86400	IN	NS	suspend2.tld.sy.
 it.sy.			86400	IN	NS	clay.ns.cloudflare.com.
@@ -6524,6 +6528,8 @@ steri-tech.sy.		86400	IN	NS	ns1.sawa-host.net.
 steri-tech.sy.		86400	IN	NS	ns2.sawa-host.net.
 sterico.sy.		86400	IN	NS	suspend1.tld.sy.
 sterico.sy.		86400	IN	NS	suspend2.tld.sy.
+steritech.sy.		86400	IN	NS	ns1.syrian-center.com.
+steritech.sy.		86400	IN	NS	ns2.syrian-center.com.
 store.sy.		86400	IN	NS	suspend1.tld.sy.
 store.sy.		86400	IN	NS	suspend2.tld.sy.
 stradivarius.sy.	86400	IN	NS	nsgbr.comlaude.co.uk.
@@ -7668,4 +7674,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022041922 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022041928 3600 3600 2592000 3600
