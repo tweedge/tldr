@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022042004 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022042007 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1650427284"
+mg.			7200	IN	TXT	"Generation Time: 1650438086"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -363,8 +363,8 @@ acimmo.mg.		7200	IN	NS	cp3.dnshostservices.com.
 acimmo.mg.		7200	IN	NS	cp4.dnshostservices.com.
 acipenser.mg.		7200	IN	NS	dns108.ovh.net.
 acipenser.mg.		7200	IN	NS	ns108.ovh.net.
-acj.mg.			7200	IN	NS	ns1.cloudns.io.
-acj.mg.			7200	IN	NS	ns2.cloudns.io.
+acj.mg.			7200	IN	NS	ns1.da.cloudns.io.
+acj.mg.			7200	IN	NS	ns2.da.cloudns.io.
 acl.mg.			7200	IN	NS	ns.dts.mg.
 acl.mg.			7200	IN	NS	ns1.dts.mg.
 acm.mg.			7200	IN	NS	ns.dts.mg.
@@ -8610,12 +8610,6 @@ rabo.mg.		86400	IN	NS	a12-64.akam.net.
 rabo.mg.		86400	IN	NS	a3-67.akam.net.
 rabo.mg.		86400	IN	NS	a20-66.akam.net.
 rabo.mg.		86400	IN	NS	a7-64.akam.net.
-rabobank.mg.		86400	IN	NS	a1-191.akam.net.
-rabobank.mg.		86400	IN	NS	a18-65.akam.net.
-rabobank.mg.		86400	IN	NS	a12-64.akam.net.
-rabobank.mg.		86400	IN	NS	a3-67.akam.net.
-rabobank.mg.		86400	IN	NS	a20-66.akam.net.
-rabobank.mg.		86400	IN	NS	a7-64.akam.net.
 radbug.mg.		86400	IN	NS	ns-127-a.gandi.net.
 radbug.mg.		86400	IN	NS	ns-226-b.gandi.net.
 radbug.mg.		86400	IN	NS	ns-73-c.gandi.net.
@@ -10752,8 +10746,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11308,10 +11302,10 @@ yes.mg.			86400	IN	NS	ns1.da.cloudns.io.
 yes.mg.			86400	IN	NS	ns2.da.cloudns.io.
 yl.mg.			86400	IN	NS	ns1.dns.com.
 yl.mg.			86400	IN	NS	ns2.dns.com.
+ylionmarket.mg.		86400	IN	DS	49385 13 1 E879AF78EEC25C5BF3F8F778E678F039D6A49D81
 ylionmarket.mg.		86400	IN	NS	nsa.n0c.com.
 ylionmarket.mg.		86400	IN	NS	nsb.n0c.com.
 ylionmarket.mg.		86400	IN	NS	nsc.n0c.com.
-ylionmarket.mg.		86400	IN	DS	49385 13 1 E879AF78EEC25C5BF3F8F778E678F039D6A49D81
 yltp.mg.		86400	IN	NS	ns-848.awsdns-42.net.
 yltp.mg.		86400	IN	NS	ns-194.awsdns-24.com.
 yltp.mg.		86400	IN	NS	ns-1039.awsdns-01.org.
@@ -11481,4 +11475,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022042004 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022042007 600 3600 604800 86400
