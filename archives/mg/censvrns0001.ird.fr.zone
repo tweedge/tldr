@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022042010 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022042013 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1650448881"
+mg.			7200	IN	TXT	"Generation Time: 1650459687"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -6363,6 +6363,7 @@ madahull.mg.		86400	IN	NS	ns1.serveurgasy.com.
 madahull.mg.		86400	IN	NS	ns2.serveurgasy.com.
 madajob.mg.		86400	IN	NS	ns1.servermada.com.
 madajob.mg.		86400	IN	NS	ns2.servermada.com.
+madajob.mg.		86400	IN	NS	ns3.servermada.com.
 madakaru.mg.		86400	IN	NS	ns-157-c.gandi.net.
 madakaru.mg.		86400	IN	NS	ns-89-a.gandi.net.
 madakaru.mg.		86400	IN	NS	ns-60-b.gandi.net.
@@ -6374,8 +6375,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -10746,8 +10747,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11302,10 +11303,10 @@ yes.mg.			86400	IN	NS	ns1.da.cloudns.io.
 yes.mg.			86400	IN	NS	ns2.da.cloudns.io.
 yl.mg.			86400	IN	NS	ns1.dns.com.
 yl.mg.			86400	IN	NS	ns2.dns.com.
-ylionmarket.mg.		86400	IN	DS	49385 13 1 E879AF78EEC25C5BF3F8F778E678F039D6A49D81
 ylionmarket.mg.		86400	IN	NS	nsa.n0c.com.
 ylionmarket.mg.		86400	IN	NS	nsb.n0c.com.
 ylionmarket.mg.		86400	IN	NS	nsc.n0c.com.
+ylionmarket.mg.		86400	IN	DS	49385 13 1 E879AF78EEC25C5BF3F8F778E678F039D6A49D81
 yltp.mg.		86400	IN	NS	ns-848.awsdns-42.net.
 yltp.mg.		86400	IN	NS	ns-194.awsdns-24.com.
 yltp.mg.		86400	IN	NS	ns-1039.awsdns-01.org.
@@ -11475,4 +11476,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022042010 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022042013 600 3600 604800 86400
