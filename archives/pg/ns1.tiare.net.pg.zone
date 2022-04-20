@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022041901 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022042002 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -962,8 +962,6 @@ cssl.COM.pg.		172800	IN	NS	ns-1487.awsdns-57.org.
 cto.COM.pg.		172800	IN	NS	ns1.qnetau.com.
 cto.COM.pg.		172800	IN	NS	ns2.qnetau.com.
 cto.COM.pg.		172800	IN	NS	ns3.qnetau.com.
-ctsl.COM.pg.		172800	IN	NS	ns1.global.net.pg.
-ctsl.COM.pg.		172800	IN	NS	ns2.global.net.pg.
 cultureshock.COM.pg.	172800	IN	NS	ns1.agentpoint.com.au.
 cultureshock.COM.pg.	172800	IN	NS	ns2.agentpoint.com.au.
 cummins.COM.pg.		172800	IN	NS	ns1.qnetau.com.
@@ -1237,6 +1235,9 @@ establishlihir.COM.pg.	172800	IN	NS	ns2.qnetau.com.
 establishlihir.COM.pg.	172800	IN	NS	ns3.qnetau.com.
 etech.COM.pg.		172800	IN	NS	ns1.digiteccloud.com.
 etech.COM.pg.		172800	IN	NS	ns2.digiteccloud.com.
+etmarinesurveyors.COM.pg. 172800 IN	NS	ns10.dnsmadeeasy.com.
+etmarinesurveyors.COM.pg. 172800 IN	NS	ns11.dnsmadeeasy.com.
+etmarinesurveyors.COM.pg. 172800 IN	NS	ns12.dnsmadeeasy.com.
 eurest.COM.pg.		172800	IN	NS	ns1.datec.net.pg.
 eurest.COM.pg.		172800	IN	NS	ns2.datec.net.pg.
 eurest.COM.pg.		172800	IN	NS	ns3.datec.net.pg.
@@ -4778,10 +4779,10 @@ iccc.GOV.pg.		172800	IN	NS	ns2.datec.net.pg.
 iccc.GOV.pg.		172800	IN	NS	ns3.datec.net.pg.
 icdc.GOV.pg.		172800	IN	NS	ns1.telinet.com.pg.
 icdc.GOV.pg.		172800	IN	NS	ns2.telinet.com.pg.
-ict.GOV.pg.		172800	IN	NS	ns-74.awsdns-09.com.
-ict.GOV.pg.		172800	IN	NS	ns-754.awsdns-30.net.
-ict.GOV.pg.		172800	IN	NS	ns-1245.awsdns-27.org.
-ict.GOV.pg.		172800	IN	NS	ns-2028.awsdns-61.co.uk.
+ict.GOV.pg.		172800	IN	NS	ns-115.awsdns-14.com.
+ict.GOV.pg.		172800	IN	NS	ns-878.awsdns-45.net.
+ict.GOV.pg.		172800	IN	NS	ns-1095.awsdns-08.org.
+ict.GOV.pg.		172800	IN	NS	ns-2043.awsdns-63.co.uk.
 ida.GOV.pg.		172800	IN	NS	ns1.qnetau.com.
 ida.GOV.pg.		172800	IN	NS	ns2.qnetau.com.
 ida.GOV.pg.		172800	IN	NS	ns3.qnetau.com.
@@ -5145,8 +5146,8 @@ sinivitllg.GOV.pg.	172800	IN	NS	ns1.domain.com.
 sinivitllg.GOV.pg.	172800	IN	NS	ns2.domain.com.
 sipha.GOV.pg.		172800	IN	NS	ns1.agentpoint.com.au.
 sipha.GOV.pg.		172800	IN	NS	ns2.agentpoint.com.au.
-smecorp.GOV.pg.		172800	IN	NS	ns1.telinet.com.pg.
-smecorp.GOV.pg.		172800	IN	NS	ns2.telinet.com.pg.
+smecorp.GOV.pg.		172800	IN	NS	ns6421.hostgator.com.
+smecorp.GOV.pg.		172800	IN	NS	ns6422.hostgator.com.
 spcpsr.GOV.pg.		172800	IN	NS	ns101.cloudns.net.
 spcpsr.GOV.pg.		172800	IN	NS	ns102.cloudns.net.
 spcpsr.GOV.pg.		172800	IN	NS	ns103.cloudns.net.
@@ -5923,4 +5924,4 @@ ywamships.ORG.pg.	172800	IN	NS	ns3.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns1.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns2.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns3.qnetau.com.
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022041901 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022042002 14400 7200 1728000 14400
