@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042025 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1650480934"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042030 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1650490537"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -12855,6 +12855,8 @@ changename.ng.		3600	IN	NS	ns3.stackdns.com.
 changename.ng.		3600	IN	NS	ns4.stackdns.com.
 changenigeria.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 changenigeria.ng.	3600	IN	NS	dns2.namecheaphosting.com.
+changeofname.ng.	3600	IN	NS	ns23.hostnownow.com.
+changeofname.ng.	3600	IN	NS	ns24.hostnownow.com.
 changeroom.ng.		3600	IN	NS	ns727.websitewelcome.com.
 changeroom.ng.		3600	IN	NS	ns728.websitewelcome.com.
 changeyourworld.ng.	3600	IN	NS	ns1.digitalocean.com.
@@ -21439,6 +21441,8 @@ elottery.ng.		3600	IN	NS	ns1.dknoc.com.
 elottery.ng.		3600	IN	NS	ns2.dknoc.com.
 elotto.ng.		3600	IN	NS	nsa.whogohost.com.
 elotto.ng.		3600	IN	NS	nsb.whogohost.com.
+elp.ng.			3600	IN	NS	dns1.namecheaphosting.com.
+elp.ng.			3600	IN	NS	dns2.namecheaphosting.com.
 elpadrino.ng.		3600	IN	NS	ns1.digitalocean.com.
 elpadrino.ng.		3600	IN	NS	ns2.digitalocean.com.
 elpadrino.ng.		3600	IN	NS	ns3.digitalocean.com.
@@ -21446,6 +21450,8 @@ elpesa.ng.		3600	IN	NS	ns1.web4africa.com.
 elpesa.ng.		3600	IN	NS	ns2.web4africa.com.
 elpesa.ng.		3600	IN	NS	ns3.web4africa.com.
 elpesa.ng.		3600	IN	NS	ns4.web4africa.com.
+elpfinance.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+elpfinance.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 elpower.ng.		3600	IN	NS	dns1.doveserver.com.
 elpower.ng.		3600	IN	NS	dns2.doveserver.com.
 elrufaiattorneys.ng.	3600	IN	NS	dns1.namecheaphosting.com.
@@ -25023,6 +25029,10 @@ flend.ng.		3600	IN	NS	nsa.whogohost.com.
 flend.ng.		3600	IN	NS	nsb.whogohost.com.
 flender.ng.		3600	IN	NS	ns.namespace4you.de.
 flender.ng.		3600	IN	NS	ns2.namespace4you.de.
+flenjor.ng.		3600	IN	NS	dns1.p06.nsone.net.
+flenjor.ng.		3600	IN	NS	dns2.p06.nsone.net.
+flenjor.ng.		3600	IN	NS	dns3.p06.nsone.net.
+flenjor.ng.		3600	IN	NS	dns4.p06.nsone.net.
 fleurop.ng.		3600	IN	NS	ns1-04.azure-dns.com.
 fleurop.ng.		3600	IN	NS	ns2-04.azure-dns.net.
 fleurop.ng.		3600	IN	NS	ns3-04.azure-dns.org.
@@ -27542,6 +27552,8 @@ ghi.ng.			3600	IN	NS	ns1.upperserver29.com.
 ghi.ng.			3600	IN	NS	ns2.upperserver29.com.
 ghl.ng.			3600	IN	NS	nsa.whogohost.com.
 ghl.ng.			3600	IN	NS	nsb.whogohost.com.
+ghlagos.ng.		3600	IN	NS	nsa.whogohost.com.
+ghlagos.ng.		3600	IN	NS	nsb.whogohost.com.
 ghost.ng.		3600	IN	NS	ns1.sedoparking.com.
 ghost.ng.		3600	IN	NS	ns2.sedoparking.com.
 ghostkitchen.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -53947,6 +53959,8 @@ ponderi.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 ponea.ng.		3600	IN	NS	ns1.cloudoon.com.
 ponea.ng.		3600	IN	NS	ns2.cloudoon.com.
 ponea.ng.		3600	IN	NS	ns3.cloudoon.com.
+pontevedra.ng.		3600	IN	NS	ns1.upperserver29.com.
+pontevedra.ng.		3600	IN	NS	ns2.upperserver29.com.
 poolcentre.ng.		3600	IN	NS	nsa.whogohost.com.
 poolcentre.ng.		3600	IN	NS	nsb.whogohost.com.
 poolee.ng.		3600	IN	NS	ns1.onecrib.com.
@@ -56592,8 +56606,8 @@ rapport.ng.		3600	IN	NS	ns1.supercp.com.
 rapport.ng.		3600	IN	NS	ns2.supercp.com.
 rapport.ng.		3600	IN	NS	ns3.supercp.com.
 rapport.ng.		3600	IN	NS	ns4.supercp.com.
-rapwide.ng.		3600	IN	NS	dns1.namecheaphosting.com.
-rapwide.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+rapwide.ng.		3600	IN	NS	john.ns.cloudflare.com.
+rapwide.ng.		3600	IN	NS	ulla.ns.cloudflare.com.
 rare.ng.		3600	IN	NS	ns19.doveserver.com.
 rare.ng.		3600	IN	NS	ns20.doveserver.com.
 raregems.ng.		3600	IN	NS	pedro.ns.cloudflare.com.
@@ -67501,6 +67515,8 @@ tentenlogistics.ng.	3600	IN	NS	nsa.whogohost.com.
 tentenlogistics.ng.	3600	IN	NS	nsb.whogohost.com.
 tentgroup.ng.		3600	IN	NS	dns2026a.trouble-free.net.
 tentgroup.ng.		3600	IN	NS	dns2026b.trouble-free.net.
+tenthousandthings.ng.	3600	IN	NS	ns1.qservers.net.
+tenthousandthings.ng.	3600	IN	NS	ns2.qservers.net.
 teo.ng.			3600	IN	NS	ns3013.mochahost.com.
 teo.ng.			3600	IN	NS	ns4013.mochahost.com.
 tep.ng.			3600	IN	NS	nsa.whogohost.com.
@@ -70459,8 +70475,8 @@ trickle.ng.		3600	IN	NS	nsa.whogohost.com.
 trickle.ng.		3600	IN	NS	nsb.whogohost.com.
 tricklo.ng.		3600	IN	NS	ns1.upperserver29.com.
 tricklo.ng.		3600	IN	NS	ns2.upperserver29.com.
-tride.ng.		3600	IN	NS	ns1.bytheword.space.
-tride.ng.		3600	IN	NS	ns2.bytheword.space.
+tride.ng.		3600	IN	NS	hal.ns.cloudflare.com.
+tride.ng.		3600	IN	NS	brenda.ns.cloudflare.com.
 trifta.ng.		3600	IN	NS	ns1.digitalocean.com.
 trifta.ng.		3600	IN	NS	ns2.digitalocean.com.
 trifta.ng.		3600	IN	NS	ns3.digitalocean.com.
@@ -72968,6 +72984,8 @@ vine.ng.		3600	IN	NS	ns3.markmonitor.com.
 vine.ng.		3600	IN	NS	ns4.markmonitor.com.
 vineadvisory.ng.	3600	IN	NS	nsa.whogohost.com.
 vineadvisory.ng.	3600	IN	NS	nsb.whogohost.com.
+vinland.ng.		3600	IN	NS	nsa.whogohost.com.
+vinland.ng.		3600	IN	NS	nsb.whogohost.com.
 vino.ng.		3600	IN	NS	nsa.whogohost.com.
 vino.ng.		3600	IN	NS	nsb.whogohost.com.
 vintage.ng.		3600	IN	NS	ns1.tinitop.net.
@@ -77331,4 +77349,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042025 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042030 10800 3600 604800 3600
