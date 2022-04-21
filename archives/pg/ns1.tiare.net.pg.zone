@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022042002 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022042101 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -962,6 +962,9 @@ cssl.COM.pg.		172800	IN	NS	ns-1487.awsdns-57.org.
 cto.COM.pg.		172800	IN	NS	ns1.qnetau.com.
 cto.COM.pg.		172800	IN	NS	ns2.qnetau.com.
 cto.COM.pg.		172800	IN	NS	ns3.qnetau.com.
+ctsl.COM.pg.		172800	IN	NS	ns1.global.net.pg.
+ctsl.COM.pg.		172800	IN	NS	ns2.global.net.pg.
+ctsl.COM.pg.		172800	IN	NS	ns3.global.net.pg.
 cultureshock.COM.pg.	172800	IN	NS	ns1.agentpoint.com.au.
 cultureshock.COM.pg.	172800	IN	NS	ns2.agentpoint.com.au.
 cummins.COM.pg.		172800	IN	NS	ns1.qnetau.com.
@@ -1524,9 +1527,6 @@ greenhill.COM.pg.	172800	IN	NS	ns3.qnetau.com.
 greeninfra.COM.pg.	172800	IN	NS	ns1.he.net.
 greeninfra.COM.pg.	172800	IN	NS	ns1.geoscaling.com.
 greeninfra.COM.pg.	172800	IN	NS	freedns1.registrar-servers.com.
-greensuper.COM.pg.	172800	IN	NS	ns1.global.net.pg.
-greensuper.COM.pg.	172800	IN	NS	ns2.global.net.pg.
-greensuper.COM.pg.	172800	IN	NS	ns3.global.net.pg.
 greentelemed.COM.pg.	172800	IN	NS	ns1.he.net.
 greentelemed.COM.pg.	172800	IN	NS	ns1.geoscaling.com.
 greentelemed.COM.pg.	172800	IN	NS	freedns1.registrar-servers.com.
@@ -4099,9 +4099,6 @@ theweighinn.COM.pg.	172800	IN	NS	ns1.global.net.pg.
 theweighinn.COM.pg.	172800	IN	NS	ns2.global.net.pg.
 thfc.COM.pg.		172800	IN	NS	ns1.bluehost.com.
 thfc.COM.pg.		172800	IN	NS	ns2.bluehost.com.
-thl.COM.pg.		172800	IN	NS	ns1.global.net.pg.
-thl.COM.pg.		172800	IN	NS	ns2.global.net.pg.
-thl.COM.pg.		172800	IN	NS	ns3.global.net.pg.
 thynetsolutions.COM.pg.	172800	IN	NS	ns1.boxsecured.com.
 thynetsolutions.COM.pg.	172800	IN	NS	ns2.boxsecured.com.
 tiareconstruction.COM.pg. 172800 IN	NS	ns1.kumulhost.com.
@@ -5924,4 +5921,4 @@ ywamships.ORG.pg.	172800	IN	NS	ns3.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns1.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns2.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns3.qnetau.com.
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022042002 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022042101 14400 7200 1728000 14400
