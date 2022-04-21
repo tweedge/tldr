@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042120 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1650524544"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042123 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1650535331"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -6396,6 +6396,8 @@ soc.sy.			86400	IN	NS	ns1.voilahost.com.
 soc.sy.			86400	IN	NS	ns2.voilahost.com.
 soea.sy.		86400	IN	NS	suspend1.tld.sy.
 soea.sy.		86400	IN	NS	suspend2.tld.sy.
+softcare.sy.		86400	IN	NS	ns16.samamax.com.
+softcare.sy.		86400	IN	NS	ns17.samamax.com.
 sogemaa.sy.		86400	IN	NS	suspend1.tld.sy.
 sogemaa.sy.		86400	IN	NS	suspend2.tld.sy.
 sohaj-cosmetic.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -7674,4 +7676,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042120 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042123 3600 3600 2592000 3600
