@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042108 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1650512847"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042114 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1650524373"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -3484,6 +3484,8 @@ alphaprime.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 alphaprime.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 alphart.ng.		3600	IN	NS	ns23.hostnownow.com.
 alphart.ng.		3600	IN	NS	ns24.hostnownow.com.
+alphex.ng.		3600	IN	NS	ns23.hostnownow.com.
+alphex.ng.		3600	IN	NS	ns24.hostnownow.com.
 alphimall.ng.		3600	IN	NS	ishaan.ns.cloudflare.com.
 alphimall.ng.		3600	IN	NS	ursula.ns.cloudflare.com.
 alphishop.ng.		3600	IN	NS	ishaan.ns.cloudflare.com.
@@ -18236,6 +18238,8 @@ digitalclan.ng.		3600	IN	NS	nsa.whogohost.com.
 digitalclan.ng.		3600	IN	NS	nsb.whogohost.com.
 digitalclouds.ng.	3600	IN	NS	dns1.doveserver.com.
 digitalclouds.ng.	3600	IN	NS	dns2.doveserver.com.
+digitaldirect.ng.	3600	IN	NS	dns1.namecheaphosting.com.
+digitaldirect.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 digitaleconomy.ng.	3600	IN	NS	nsa.whogohost.com.
 digitaleconomy.ng.	3600	IN	NS	nsb.whogohost.com.
 digitalentrepreneur.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -20757,6 +20761,8 @@ edudata.ng.		3600	IN	NS	ns-1242.awsdns-27.org.
 edudata.ng.		3600	IN	NS	ns-1595.awsdns-07.co.uk.
 edudesk.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 edudesk.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+edudocs.ng.		3600	IN	NS	ns0she.stackpathdns.net.
+edudocs.ng.		3600	IN	NS	ns8d8c.stackpathdns.net.
 edufirst.ng.		3600	IN	NS	stan.ns.cloudflare.com.
 edufirst.ng.		3600	IN	NS	alice.ns.cloudflare.com.
 eduflix.ng.		3600	IN	NS	ns25.qservers.net.
@@ -46789,8 +46795,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -68233,6 +68239,8 @@ theideal.ng.		3600	IN	NS	connie.ns.cloudflare.com.
 theimpactchurch.ng.	3600	IN	NS	ns1.gracewebhosting.net.
 theimpactchurch.ng.	3600	IN	NS	ns2.gracewebhosting.net.
 theimpactchurch.ng.	3600	IN	NS	ns3.gracewebhosting.net.
+theimpactcollective.ng.	3600	IN	NS	ns43.doveserver.com.
+theimpactcollective.ng.	3600	IN	NS	ns44.doveserver.com.
 theimperial.ng.		3600	IN	NS	ns1.leanstackhost.com.
 theimperial.ng.		3600	IN	NS	ns2.leanstackhost.com.
 theindomitables.ng.	3600	IN	NS	ns1.upperserver29.com.
@@ -73426,10 +73434,10 @@ votefor.ng.		3600	IN	NS	ns35.doveserver.com.
 votefor.ng.		3600	IN	NS	ns36.doveserver.com.
 voteit.ng.		3600	IN	NS	nsa.whogohost.com.
 voteit.ng.		3600	IN	NS	nsb.whogohost.com.
-voteme.ng.		3600	IN	NS	ns1.prescriptdigital.com.
-voteme.ng.		3600	IN	NS	ns2.prescriptdigital.com.
-voteme.ng.		3600	IN	NS	ns3.prescriptdigital.com.
-voteme.ng.		3600	IN	NS	ns4.prescriptdigital.com.
+voteme.ng.		3600	IN	NS	ns1.3-9-80-212.cprapid.com.
+voteme.ng.		3600	IN	NS	ns2.3-9-80-212.cprapid.com.
+voteme.ng.		3600	IN	NS	ns3.3-9-80-212.cprapid.com.
+voteme.ng.		3600	IN	NS	ns4.3-9-80-212.cprapid.com.
 votepeterobi.ng.	3600	IN	NS	ns21.hostnownow.com.
 votepeterobi.ng.	3600	IN	NS	ns22.hostnownow.com.
 voterbanks.ng.		3600	IN	NS	ns33.qservers.net.
@@ -77314,4 +77322,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042108 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042114 10800 3600 604800 3600
