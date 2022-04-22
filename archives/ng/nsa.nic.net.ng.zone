@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042236 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1650653076"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042242 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1650664589"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -34290,8 +34290,8 @@ it-xpress.ng.		3600	IN	NS	nsa.whogohost.com.
 it-xpress.ng.		3600	IN	NS	nsb.whogohost.com.
 ita.ng.			3600	IN	NS	nsa.whogohost.com.
 ita.ng.			3600	IN	NS	nsb.whogohost.com.
-italiancoffee.ng.	3600	IN	NS	ns31.hostnownow.com.
-italiancoffee.ng.	3600	IN	NS	ns32.hostnownow.com.
+italiancoffee.ng.	3600	IN	NS	dns1.namecheaphosting.com.
+italiancoffee.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 italy.ng.		3600	IN	NS	cp.nira.org.ng.
 italy.ng.		3600	IN	NS	ns1.nira.org.ng.
 italynigeriachamber.ng.	3600	IN	NS	ns1.dominiok.it.
@@ -46836,8 +46836,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -47623,8 +47623,8 @@ nigeriaevents.ng.	3600	IN	NS	ns3.web4africa.com.
 nigeriaevents.ng.	3600	IN	NS	ns4.web4africa.com.
 nigeriafashionawards.ng. 3600	IN	NS	nsa.whogohost.com.
 nigeriafashionawards.ng. 3600	IN	NS	nsb.whogohost.com.
-nigeriafashionweek.ng.	3600	IN	NS	ns1.cloudns.io.
-nigeriafashionweek.ng.	3600	IN	NS	ns2.cloudns.io.
+nigeriafashionweek.ng.	3600	IN	NS	ns1.cloudoon.com.
+nigeriafashionweek.ng.	3600	IN	NS	ns2.cloudoon.com.
 nigeriafootball.ng.	3600	IN	NS	ns1.hostonfox.com.
 nigeriafootball.ng.	3600	IN	NS	ns2.hostonfox.com.
 nigeriafortunubu.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -58144,6 +58144,8 @@ rider.ng.		3600	IN	NS	plesk1.securemydot.com.
 rider.ng.		3600	IN	NS	plesk2.securemydot.com.
 rider.ng.		3600	IN	NS	cpanel1.securemydot.com.
 rider.ng.		3600	IN	NS	cpanel2.securemydot.com.
+riderman.ng.		3600	IN	NS	ns1.qservers.net.
+riderman.ng.		3600	IN	NS	ns2.qservers.net.
 riders.ng.		3600	IN	NS	ns23.doveserver.com.
 riders.ng.		3600	IN	NS	ns24.doveserver.com.
 rides.ng.		3600	IN	NS	ns1.sedoparking.com.
@@ -70113,8 +70115,8 @@ tradingplace.ng.	3600	IN	NS	ns55.qservers.net.
 tradingplace.ng.	3600	IN	NS	ns56.qservers.net.
 tradingview.ng.		3600	IN	NS	dns1.domeny.tv.
 tradingview.ng.		3600	IN	NS	dns2.domeny.tv.
-tradit.ng.		3600	IN	NS	ns1.intechcloudserver.com.
-tradit.ng.		3600	IN	NS	ns2.intechcloudserver.com.
+tradit.ng.		3600	IN	NS	biz1.intechcloudserver.com.
+tradit.ng.		3600	IN	NS	biz2.intechcloudserver.com.
 tradr.ng.		3600	IN	NS	corporate.vip41.noc40.com.
 tradr.ng.		3600	IN	NS	corporate.vip42.noc40.com.
 trads.ng.		3600	IN	NS	ns1.digitalocean.com.
@@ -75943,6 +75945,8 @@ xclusiveloaded.ng.	3600	IN	NS	cdns1.main-hosting.eu.
 xclusiveloaded.ng.	3600	IN	NS	cdns2.main-hosting.eu.
 xclusiveplay.ng.	3600	IN	NS	walt.ns.cloudflare.com.
 xclusiveplay.ng.	3600	IN	NS	bristol.ns.cloudflare.com.
+xclusivestore.ng.	3600	IN	NS	ns43.doveserver.com.
+xclusivestore.ng.	3600	IN	NS	ns44.doveserver.com.
 xclusivevibes.ng.	3600	IN	NS	dee.ns.cloudflare.com.
 xclusivevibes.ng.	3600	IN	NS	cleo.ns.cloudflare.com.
 xcursions.ng.		3600	IN	NS	ns1.digitalocean.com.
@@ -77405,4 +77409,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042236 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042242 10800 3600 604800 3600
