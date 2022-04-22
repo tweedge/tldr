@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042218 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1650610932"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042223 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1650621740"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2540,8 +2540,8 @@ domo.sy.		86400	IN	NS	suspend2.tld.sy.
 dora-love.sy.		86400	IN	NS	suspend1.tld.sy.
 dora-love.sy.		86400	IN	NS	suspend2.tld.sy.
 doremi.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
-dot.sy.			86400	IN	NS	ns252.ucg.ltd.
-dot.sy.			86400	IN	NS	ns2252.ucg.ltd.
+dot.sy.			86400	IN	NS	ns237.ucg.ltd.
+dot.sy.			86400	IN	NS	ns2237.ucg.ltd.
 dotsy.sy.		86400	IN	NS	ns252.ucg.ltd.
 dotsy.sy.		86400	IN	NS	ns2252.ucg.ltd.
 douwaji.sy.		86400	IN	NS	ns3.tld.sy.
@@ -2596,8 +2596,8 @@ dunia.sy.		86400	IN	NS	ns1.dunia.sy.
 dunia.sy.		86400	IN	NS	ns2.dunia.sy.
 ns1.dunia.sy.		86400	IN	A	185.164.132.2
 ns2.dunia.sy.		86400	IN	A	185.164.132.3
-dux.sy.			86400	IN	NS	ns252.ucg.ltd.
-dux.sy.			86400	IN	NS	ns2252.ucg.ltd.
+dux.sy.			86400	IN	NS	ns237.ucg.ltd.
+dux.sy.			86400	IN	NS	ns2237.ucg.ltd.
 dvwa.sy.		86400	IN	NS	suspend1.tld.sy.
 dvwa.sy.		86400	IN	NS	suspend2.tld.sy.
 e.sy.			86400	IN	NS	ns3.tld.sy.
@@ -3246,8 +3246,8 @@ grainapps.sy.		86400	IN	NS	suspend1.tld.sy.
 grainapps.sy.		86400	IN	NS	suspend2.tld.sy.
 grbc.sy.		86400	IN	NS	ns3.tld.sy.
 grbc.sy.		86400	IN	NS	ns4.tld.sy.
-gree.sy.		86400	IN	NS	ns252.ucg.ltd.
-gree.sy.		86400	IN	NS	ns2252.ucg.ltd.
+gree.sy.		86400	IN	NS	ns237.ucg.ltd.
+gree.sy.		86400	IN	NS	ns2237.ucg.ltd.
 green.sy.		86400	IN	NS	ns3.tld.sy.
 green.sy.		86400	IN	NS	ns4.tld.sy.
 green-ark.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -3715,8 +3715,8 @@ indomie.sy.		86400	IN	NS	ns1.hostdnsserver.com.
 indomie.sy.		86400	IN	NS	ns2.hostdnsserver.com.
 industry.sy.		86400	IN	NS	ns1.syrianhost.com.
 industry.sy.		86400	IN	NS	ns2.syrianhost.com.
-industrynews.sy.	86400	IN	NS	ns252.ucg.ltd.
-industrynews.sy.	86400	IN	NS	ns2252.ucg.ltd.
+industrynews.sy.	86400	IN	NS	ns237.ucg.ltd.
+industrynews.sy.	86400	IN	NS	ns2237.ucg.ltd.
 inet.sy.		86400	IN	NS	ns1.inet.sy.
 inet.sy.		86400	IN	NS	ns2.inet.sy.
 ns1.inet.sy.		86400	IN	A	212.11.196.110
@@ -3885,8 +3885,8 @@ jd.sy.			86400	IN	NS	f1g1ns1.dnspod.net.
 jd.sy.			86400	IN	NS	f1g1ns2.dnspod.net.
 jeesy-co.sy.		86400	IN	NS	suspend1.tld.sy.
 jeesy-co.sy.		86400	IN	NS	suspend2.tld.sy.
-jelaticone.sy.		86400	IN	NS	ns252.ucg.ltd.
-jelaticone.sy.		86400	IN	NS	ns2252.ucg.ltd.
+jelaticone.sy.		86400	IN	NS	ns237.ucg.ltd.
+jelaticone.sy.		86400	IN	NS	ns2237.ucg.ltd.
 jewelco.sy.		86400	IN	NS	suspend1.tld.sy.
 jewelco.sy.		86400	IN	NS	suspend2.tld.sy.
 jhanaharakataval.sy.	86400	IN	NS	ns3.tld.sy.
@@ -4846,8 +4846,8 @@ moeti.sy.		86400	IN	NS	suspend1.tld.sy.
 moeti.sy.		86400	IN	NS	suspend2.tld.sy.
 mof.sy.			86400	IN	NS	ns3.tld.sy.
 mof.sy.			86400	IN	NS	ns4.tld.sy.
-mohamad-amer2.sy.	86400	IN	NS	ns1.waveshost.sy.
-mohamad-amer2.sy.	86400	IN	NS	ns2.waveshost.sy.
+mohamad-amer2.sy.	86400	IN	NS	suspend1.tld.sy.
+mohamad-amer2.sy.	86400	IN	NS	suspend2.tld.sy.
 mohamad-ismail.sy.	86400	IN	NS	suspend1.tld.sy.
 mohamad-ismail.sy.	86400	IN	NS	suspend2.tld.sy.
 mohamed-zatari.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -5111,8 +5111,8 @@ nib.sy.			86400	IN	NS	ns1.scs-net.org.
 nib.sy.			86400	IN	NS	ns2.scs-net.sy.
 nib.sy.			86400	IN	NS	ns2.scs-net.org.
 nib.sy.			86400	IN	NS	ns6.scs-net.org.
-nic.sy.			86400	IN	NS	ns252.ucg.ltd.
-nic.sy.			86400	IN	NS	ns2252.ucg.ltd.
+nic.sy.			86400	IN	NS	ns237.ucg.ltd.
+nic.sy.			86400	IN	NS	ns2237.ucg.ltd.
 nift.sy.		86400	IN	NS	ns1.dan.com.
 nift.sy.		86400	IN	NS	ns2.dan.com.
 ninar.sy.		86400	IN	NS	ns1.ninarfm.com.
@@ -5995,8 +5995,8 @@ sbetex.sy.		86400	IN	NS	suspend1.tld.sy.
 sbetex.sy.		86400	IN	NS	suspend2.tld.sy.
 sbg.sy.			86400	IN	NS	mary.ns.cloudflare.com.
 sbg.sy.			86400	IN	NS	lloyd.ns.cloudflare.com.
-sbih.sy.		86400	IN	NS	ns252.ucg.ltd.
-sbih.sy.		86400	IN	NS	ns2252.ucg.ltd.
+sbih.sy.		86400	IN	NS	ns237.ucg.ltd.
+sbih.sy.		86400	IN	NS	ns2237.ucg.ltd.
 sbm.sy.			86400	IN	NS	suspend1.tld.sy.
 sbm.sy.			86400	IN	NS	suspend2.tld.sy.
 sc.sy.			86400	IN	NS	ns1.syrian-center.com.
@@ -7653,8 +7653,8 @@ zino-part.sy.		86400	IN	NS	suspend1.tld.sy.
 zino-part.sy.		86400	IN	NS	suspend2.tld.sy.
 zitouny-group.sy.	86400	IN	NS	suspend1.tld.sy.
 zitouny-group.sy.	86400	IN	NS	suspend2.tld.sy.
-zomo.sy.		86400	IN	NS	ns252.ucg.ltd.
-zomo.sy.		86400	IN	NS	ns2252.ucg.ltd.
+zomo.sy.		86400	IN	NS	ns237.ucg.ltd.
+zomo.sy.		86400	IN	NS	ns2237.ucg.ltd.
 zoni.sy.		86400	IN	NS	ns1.aya.sy.
 zoni.sy.		86400	IN	NS	ns2.aya.sy.
 zoom.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7676,4 +7676,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042218 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042223 3600 3600 2592000 3600
