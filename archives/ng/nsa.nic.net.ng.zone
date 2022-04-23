@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042315 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1650697285"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042320 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1650706834"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -6570,6 +6570,8 @@ bannertelecom.ng.	3600	IN	NS	dns1.doveserver.com.
 bannertelecom.ng.	3600	IN	NS	dns2.doveserver.com.
 banta.ng.		3600	IN	NS	nsa.whogohost.com.
 banta.ng.		3600	IN	NS	nsb.whogohost.com.
+bantoju.ng.		3600	IN	NS	nsa.whogohost.com.
+bantoju.ng.		3600	IN	NS	nsb.whogohost.com.
 bantubet.ng.		3600	IN	NS	ns1.101domain.com.
 bantubet.ng.		3600	IN	NS	ns2.101domain.com.
 banwo-ighodalo.ng.	3600	IN	NS	ns1.web4africa.com.
@@ -40168,6 +40170,8 @@ ns1.lov.ng.		3600	IN	A	47.88.0.246
 ns2.lov.ng.		3600	IN	A	47.88.0.246
 lova.ng.		3600	IN	NS	nsa.whogohost.com.
 lova.ng.		3600	IN	NS	nsb.whogohost.com.
+love2023.ng.		3600	IN	NS	nsa.whogohost.com.
+love2023.ng.		3600	IN	NS	nsb.whogohost.com.
 lovebook.ng.		3600	IN	NS	ns1.gigalayer.com.
 lovebook.ng.		3600	IN	NS	ns2.gigalayer.com.
 lovebook.ng.		3600	IN	NS	ns3.gigalayer.com.
@@ -44756,8 +44760,8 @@ mycare.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 mycare.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 mycareassistant.ng.	3600	IN	NS	ns53.qservers.net.
 mycareassistant.ng.	3600	IN	NS	ns54.qservers.net.
-mycareever.ng.		3600	IN	NS	ns75.domaincontrol.com.
-mycareever.ng.		3600	IN	NS	ns76.domaincontrol.com.
+mycareever.ng.		3600	IN	NS	ns43.domaincontrol.com.
+mycareever.ng.		3600	IN	NS	ns44.domaincontrol.com.
 mycareplus.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 mycareplus.ng.		3600	IN	NS	dns1.registrar-servers.com.
 mycareplus.ng.		3600	IN	NS	dns2.namecheaphosting.com.
@@ -46798,8 +46802,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -68164,6 +68168,8 @@ thegolfmewsbenincity.ng. 3600	IN	NS	nsb.whogohost.com.
 thegoodbeach.ng.	3600	IN	NS	ns1.gigalayer.com.
 thegoodbeach.ng.	3600	IN	NS	ns2.gigalayer.com.
 thegoodbeach.ng.	3600	IN	NS	ns3.gigalayer.com.
+thegospel.ng.		3600	IN	NS	danica.ns.cloudflare.com.
+thegospel.ng.		3600	IN	NS	venkat.ns.cloudflare.com.
 thegovernor.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 thegovernor.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 thegram.ng.		3600	IN	NS	ns1.urlhost.in.
@@ -74741,6 +74747,8 @@ wewash.ng.		3600	IN	NS	nsa.whogohost.com.
 wewash.ng.		3600	IN	NS	nsb.whogohost.com.
 wewatch.ng.		3600	IN	NS	rex.ns.cloudflare.com.
 wewatch.ng.		3600	IN	NS	ollie.ns.cloudflare.com.
+wewillwin.ng.		3600	IN	NS	nsa.whogohost.com.
+wewillwin.ng.		3600	IN	NS	nsb.whogohost.com.
 wey.ng.			3600	IN	NS	ns1.icp100.net.
 wey.ng.			3600	IN	NS	ns2.icp100.net.
 wfbn.ng.		3600	IN	NS	ns1.upperserver29.com.
@@ -77333,4 +77341,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042315 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042320 10800 3600 604800 3600
