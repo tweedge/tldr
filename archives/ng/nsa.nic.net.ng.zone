@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042508 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1650858507"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042514 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1650869979"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -10881,8 +10881,8 @@ buwaky.ng.		3600	IN	NS	nsa.whogohost.com.
 buwaky.ng.		3600	IN	NS	nsb.whogohost.com.
 buxstone.ng.		3600	IN	NS	nsa.whogohost.com.
 buxstone.ng.		3600	IN	NS	nsb.whogohost.com.
-buy10.ng.		3600	IN	NS	nsa.whogohost.com.
-buy10.ng.		3600	IN	NS	nsb.whogohost.com.
+buy10.ng.		3600	IN	NS	ns1.naymu.com.
+buy10.ng.		3600	IN	NS	ns2.naymu.com.
 buy27.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 buy27.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 buy2let.ng.		3600	IN	NS	ns1.a2hosting.com.
@@ -12681,8 +12681,8 @@ ceportal.ng.		3600	IN	NS	ns4008.hostgator.com.
 ceragem.ng.		3600	IN	NS	ns1.gigalayer.com.
 ceragem.ng.		3600	IN	NS	ns2.gigalayer.com.
 ceragem.ng.		3600	IN	NS	ns3.gigalayer.com.
-cerave.ng.		3600	IN	NS	ns1.gethostingpro.com.
-cerave.ng.		3600	IN	NS	ns2.gethostingpro.com.
+cerave.ng.		3600	IN	NS	ns1.google.com.
+cerave.ng.		3600	IN	NS	ns2.google.com.
 cerba-lancet-africa.ng.	3600	IN	NS	a.dns.gandi.net.
 cerba-lancet-africa.ng.	3600	IN	NS	b.dns.gandi.net.
 cerba-lancet-africa.ng.	3600	IN	NS	c.dns.gandi.net.
@@ -66789,6 +66789,8 @@ tcnpmu.ng.		3600	IN	NS	ns45.doveserver.com.
 tcnpmu.ng.		3600	IN	NS	ns46.doveserver.com.
 tcntally.ng.		3600	IN	NS	dns1.doveserver.com.
 tcntally.ng.		3600	IN	NS	dns2.doveserver.com.
+tcpf.ng.		3600	IN	NS	rs70a.registrar-servers.com.
+tcpf.ng.		3600	IN	NS	rs70b.registrar-servers.com.
 tcrf.ng.		3600	IN	NS	ns7.iclassserver.com.
 tcrf.ng.		3600	IN	NS	ns8.iclassserver.com.
 tcu.ng.			3600	IN	NS	nsa.whogohost.com.
@@ -72446,8 +72448,8 @@ venipak.ng.		3600	IN	NS	ns1.us.lt.
 venipak.ng.		3600	IN	NS	ns2.us.lt.
 venmo.ng.		3600	IN	NS	ns1.markmonitor.com.
 venmo.ng.		3600	IN	NS	ns2.markmonitor.com.
-venntech.ng.		3600	IN	NS	ns1.inmotionhosting.com.
-venntech.ng.		3600	IN	NS	ns2.inmotionhosting.com.
+venntech.ng.		3600	IN	NS	ns1.servconfig.com.
+venntech.ng.		3600	IN	NS	ns2.servconfig.com.
 venoa.ng.		3600	IN	NS	ns1.netim.net.
 venoa.ng.		3600	IN	NS	ns2.netim.net.
 venoa.ng.		3600	IN	NS	ns3.netim.net.
@@ -77310,4 +77312,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042508 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022042514 10800 3600 604800 3600
