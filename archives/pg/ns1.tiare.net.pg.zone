@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022042102 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022042600 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -4133,6 +4133,9 @@ tki.COM.pg.		172800	IN	NS	ns2.qnetau.com.
 tki.COM.pg.		172800	IN	NS	ns3.qnetau.com.
 tlamedia.COM.pg.	172800	IN	NS	ns1.telinet.com.pg.
 tlamedia.COM.pg.	172800	IN	NS	ns2.telinet.com.pg.
+tlcholdings.COM.pg.	172800	IN	NS	ns1.telinet.com.pg.
+tlcholdings.COM.pg.	172800	IN	NS	ns2.telinet.com.pg.
+tlcholdings.COM.pg.	172800	IN	NS	ns3.telinet.com.pg.
 tme.COM.pg.		172800	IN	NS	ns1.agentpoint.com.au.
 tme.COM.pg.		172800	IN	NS	ns2.agentpoint.com.au.
 tna.COM.pg.		172800	IN	NS	ns1.qnetau.com.
@@ -5588,6 +5591,9 @@ ncdcuyep.ORG.pg.	172800	IN	NS	ns2.datec.net.pg.
 ncdcuyep.ORG.pg.	172800	IN	NS	ns3.datec.net.pg.
 nda.ORG.pg.		172800	IN	NS	ns1.telinet.com.pg.
 nda.ORG.pg.		172800	IN	NS	ns2.telinet.com.pg.
+neph.ORG.pg.		172800	IN	NS	ns1.datec.net.pg.
+neph.ORG.pg.		172800	IN	NS	ns2.datec.net.pg.
+neph.ORG.pg.		172800	IN	NS	ns3.datec.net.pg.
 netaid.ORG.pg.		172800	IN	NS	ns1.datec.net.pg.
 netaid.ORG.pg.		172800	IN	NS	ns2.datec.net.pg.
 netaid.ORG.pg.		172800	IN	NS	ns3.datec.net.pg.
@@ -5922,4 +5928,4 @@ ywamships.ORG.pg.	172800	IN	NS	ns3.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns1.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns2.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns3.qnetau.com.
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022042102 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022042600 14400 7200 1728000 14400
