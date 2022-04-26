@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042620 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1650956545"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042626 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1650967342"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -677,8 +677,8 @@ aldowlia.sy.		86400	IN	NS	suspend1.tld.sy.
 aldowlia.sy.		86400	IN	NS	suspend2.tld.sy.
 aldrobi.sy.		86400	IN	NS	ns1.aldrtech.sy.
 aldrobi.sy.		86400	IN	NS	ns2.aldrtech.sy.
-aldroubigroup.sy.	86400	IN	NS	ns1.aldrtech.sy.
-aldroubigroup.sy.	86400	IN	NS	ns2.aldrtech.sy.
+aldroubigroup.sy.	86400	IN	NS	suspend1.tld.sy.
+aldroubigroup.sy.	86400	IN	NS	suspend2.tld.sy.
 aldrtech.sy.		86400	IN	NS	ns1.aldrtech.sy.
 aldrtech.sy.		86400	IN	NS	ns2.aldrtech.sy.
 ns1.aldrtech.sy.	86400	IN	A	185.216.132.153
@@ -3559,8 +3559,8 @@ hp-ind.sy.		86400	IN	NS	suspend1.tld.sy.
 hp-ind.sy.		86400	IN	NS	suspend2.tld.sy.
 hpu.sy.			86400	IN	NS	ns3.tld.sy.
 hpu.sy.			86400	IN	NS	ns4.tld.sy.
-hpuhos.sy.		86400	IN	NS	suspend1.tld.sy.
-hpuhos.sy.		86400	IN	NS	suspend2.tld.sy.
+hpuhos.sy.		86400	IN	NS	ns3.tld.sy.
+hpuhos.sy.		86400	IN	NS	ns4.tld.sy.
 hpuhospital.sy.		86400	IN	NS	ns3.tld.sy.
 hpuhospital.sy.		86400	IN	NS	ns4.tld.sy.
 hretani.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7684,4 +7684,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042620 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042626 3600 3600 2592000 3600
