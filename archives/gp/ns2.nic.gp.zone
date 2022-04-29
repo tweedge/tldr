@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022042817 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022042915 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -1661,6 +1661,8 @@ epson.gp.		86400	IN	NS	ns3.epson-europe.com.
 epson.gp.		86400	IN	NS	ns4.epson-europe.com.
 equinoxe.gp.		86400	IN	NS	ns13.ovh.net.
 equinoxe.gp.		86400	IN	NS	dns13.ovh.net.
+equippro.gp.		86400	IN	NS	ns31.cloudns.net.
+equippro.gp.		86400	IN	NS	ns32.cloudns.net.
 erally.gp.		86400	IN	NS	ns1045.ui-dns.de.
 erally.gp.		86400	IN	NS	ns1045.ui-dns.biz.
 erally.gp.		86400	IN	NS	ns1045.ui-dns.com.
@@ -5259,6 +5261,9 @@ wwenetwork.gp.		86400	IN	NS	ns1.wwe.com.
 wwenetwork.gp.		86400	IN	NS	ns2.wwe.com.
 x.gp.			86400	IN	NS	ns1.website.org.
 x.gp.			86400	IN	NS	ns2.website.org.
+xefi.gp.		86400	IN	NS	ns-25-b.gandi.net.
+xefi.gp.		86400	IN	NS	ns-53-a.gandi.net.
+xefi.gp.		86400	IN	NS	ns-139-c.gandi.net.
 xelstrym.gp.		86400	IN	NS	ns1.netnames.net.
 xelstrym.gp.		86400	IN	NS	ns2.netnames.net.
 xelstrym.gp.		86400	IN	NS	ns5.netnames.net.
@@ -5376,4 +5381,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022042817 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022042915 86400 7200 2592000 345600
