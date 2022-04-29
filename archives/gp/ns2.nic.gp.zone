@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022042915 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022042917 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -1661,8 +1661,10 @@ epson.gp.		86400	IN	NS	ns3.epson-europe.com.
 epson.gp.		86400	IN	NS	ns4.epson-europe.com.
 equinoxe.gp.		86400	IN	NS	ns13.ovh.net.
 equinoxe.gp.		86400	IN	NS	dns13.ovh.net.
-equippro.gp.		86400	IN	NS	ns31.cloudns.net.
-equippro.gp.		86400	IN	NS	ns32.cloudns.net.
+equippro.gp.		86400	IN	NS	ns1.bdm.microsoftonline.com.
+equippro.gp.		86400	IN	NS	ns2.bdm.microsoftonline.com.
+equippro.gp.		86400	IN	NS	ns3.bdm.microsoftonline.com.
+equippro.gp.		86400	IN	NS	ns4.bdm.microsoftonline.com.
 erally.gp.		86400	IN	NS	ns1045.ui-dns.de.
 erally.gp.		86400	IN	NS	ns1045.ui-dns.biz.
 erally.gp.		86400	IN	NS	ns1045.ui-dns.com.
@@ -3573,9 +3575,10 @@ nfts.gp.		86400	IN	NS	ns3.francedns.com.
 nhs.gp.			86400	IN	NS	ns1.8uk.com.
 nhs.gp.			86400	IN	NS	ns2.8uk.com.
 nic.gp.			86400	IN	NS	ns1.nic.gp.
+nic.gp.			86400	IN	NS	ns2.nic.gp.
+nic.gp.			86400	IN	NS	ns-gp.nic.fr.
 ns1.nic.gp.		86400	IN	A	193.218.114.2
 ns2.nic.gp.		86400	IN	A	193.218.114.34
-ns9.nic.gp.		86400	IN	A	193.218.114.34
 nic-gp.gp.		86400	IN	NS	dns1.cloudns.net.
 nic-gp.gp.		86400	IN	NS	dns2.cloudns.net.
 nic-guadeloupe.gp.	86400	IN	NS	dns1.cloudns.net.
@@ -5094,6 +5097,8 @@ villas.gp.		86400	IN	NS	ns2.bkngs.com.
 villas.gp.		86400	IN	NS	ns3.bkngs.com.
 villasatlasamanna.gp.	86400	IN	NS	dns1.cscdns.net.
 villasatlasamanna.gp.	86400	IN	NS	dns2.cscdns.net.
+vin.gp.			86400	IN	NS	ns1.servconfig.com.
+vin.gp.			86400	IN	NS	ns2.servconfig.com.
 virtual.gp.		86400	IN	NS	nsr1.domeny.com.
 virtual.gp.		86400	IN	NS	nsr2.domeny.com.
 virtual.gp.		86400	IN	NS	nsr3.domeny.com.
@@ -5381,4 +5386,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022042915 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022042917 86400 7200 2592000 345600
