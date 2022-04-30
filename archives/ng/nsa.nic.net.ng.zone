@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022043008 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1651290505"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022043014 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1651302034"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -13230,6 +13230,8 @@ chile.ng.		3600	IN	NS	cp.nira.org.ng.
 chile.ng.		3600	IN	NS	ns1.nira.org.ng.
 chilipot.ng.		3600	IN	NS	nsa.whogohost.com.
 chilipot.ng.		3600	IN	NS	nsb.whogohost.com.
+chillcity.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+chillcity.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 chilli.ng.		3600	IN	NS	ns1.regery.net.
 chilli.ng.		3600	IN	NS	ns2.regery.net.
 chilli.ng.		3600	IN	NS	ns3.regery.net.
@@ -14501,6 +14503,8 @@ codepad.ng.		3600	IN	NS	dns1.p02.nsone.net.
 codepad.ng.		3600	IN	NS	dns2.p02.nsone.net.
 codepad.ng.		3600	IN	NS	dns3.p02.nsone.net.
 codepad.ng.		3600	IN	NS	dns4.p02.nsone.net.
+codeplay.ng.		3600	IN	NS	ns1.dknoc.com.
+codeplay.ng.		3600	IN	NS	ns2.dknoc.com.
 codequery.ng.		3600	IN	NS	nsa.whogohost.com.
 codequery.ng.		3600	IN	NS	nsb.whogohost.com.
 coders.ng.		3600	IN	NS	ns1.sedoparking.com.
@@ -50854,8 +50858,8 @@ orumogegeiii.ng.	3600	IN	NS	ns3.web4africa.com.
 orumogegeiii.ng.	3600	IN	NS	ns4.web4africa.com.
 osaandco.ng.		3600	IN	NS	nsa.whogohost.com.
 osaandco.ng.		3600	IN	NS	nsb.whogohost.com.
-osadey.ng.		3600	IN	NS	ns1.host-ww.net.
-osadey.ng.		3600	IN	NS	ns2.host-ww.net.
+osadey.ng.		3600	IN	NS	ns1.dknoc.com.
+osadey.ng.		3600	IN	NS	ns2.dknoc.com.
 osago.ng.		3600	IN	NS	dns1.stabletransit.com.
 osago.ng.		3600	IN	NS	dns2.stabletransit.com.
 osale.ng.		3600	IN	NS	ns1.qservers.net.
@@ -76617,8 +76621,10 @@ yogurberry.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 yogurberry.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 yohaig.ng.		3600	IN	NS	ns36.wpxhosting.com.
 yohaig.ng.		3600	IN	NS	ns37.wpxhosting.com.
-yohost.ng.		3600	IN	NS	clyde.ns.cloudflare.com.
-yohost.ng.		3600	IN	NS	sloan.ns.cloudflare.com.
+yohost.ng.		3600	IN	NS	ns1.yohost.ng.
+yohost.ng.		3600	IN	NS	ns2.yohost.ng.
+ns1.yohost.ng.		3600	IN	A	129.151.182.147
+ns2.yohost.ng.		3600	IN	A	129.151.182.147
 yojafarms.ng.		3600	IN	NS	ns.mcreal.net.
 yojafarms.ng.		3600	IN	NS	ns2.mcreal.net.
 yolo.ng.		3600	IN	NS	ns1.web4africa.com.
@@ -77502,4 +77508,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022043008 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022043014 10800 3600 604800 3600
