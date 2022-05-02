@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050214 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1651474831"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050219 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1651484381"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -14797,8 +14797,8 @@ comfortspaces.ng.	3600	IN	NS	ns1.bh-49.webhostbox.net.
 comfortspaces.ng.	3600	IN	NS	ns2.bh-49.webhostbox.net.
 comfundme.ng.		3600	IN	NS	ns1.liquidweb.com.
 comfundme.ng.		3600	IN	NS	ns2.liquidweb.com.
-comfy.ng.		3600	IN	NS	ns2.namecheaphosting.com.
 comfy.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+comfy.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 comfyride.ng.		3600	IN	NS	ns1.md-90.webhostbox.net.
 comfyride.ng.		3600	IN	NS	ns2.md-90.webhostbox.net.
 comfyrides.ng.		3600	IN	NS	dns1.p08.nsone.net.
@@ -15542,6 +15542,8 @@ corvanta.ng.		3600	IN	NS	ns1.hostmonster.com.
 corvanta.ng.		3600	IN	NS	ns2.hostmonster.com.
 coship.ng.		3600	IN	NS	ns1.dknoc.com.
 coship.ng.		3600	IN	NS	ns2.dknoc.com.
+cosmasalugbuo.ng.	3600	IN	NS	ns1.qservers.net.
+cosmasalugbuo.ng.	3600	IN	NS	ns2.qservers.net.
 cosmo.ng.		3600	IN	NS	ns-956.awsdns-55.net.
 cosmo.ng.		3600	IN	NS	ns-1740.awsdns-25.co.uk.
 cosmobarn.ng.		3600	IN	NS	ns1.namecheaphosting.com.
@@ -37504,8 +37506,10 @@ kubona.ng.		3600	IN	NS	kirk.ns.cloudflare.com.
 kubona.ng.		3600	IN	NS	chloe.ns.cloudflare.com.
 kubota.ng.		3600	IN	NS	ajay.ns.cloudflare.com.
 kubota.ng.		3600	IN	NS	lola.ns.cloudflare.com.
-kubuni.ng.		3600	IN	NS	dns1.doveserver.com.
-kubuni.ng.		3600	IN	NS	dns2.doveserver.com.
+kubuni.ng.		3600	IN	NS	ns1.site.pro.
+kubuni.ng.		3600	IN	NS	ns2.site.pro.
+kubuni.ng.		3600	IN	NS	ns3.site.pro.
+kubuni.ng.		3600	IN	NS	ns4.site.pro.
 kubwageneralhosp.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 kubwageneralhosp.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 kucoin.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -42688,6 +42692,8 @@ metafacebook.ng.	3600	IN	NS	ns1.101domain.com.
 metafacebook.ng.	3600	IN	NS	ns2.101domain.com.
 metafb.ng.		3600	IN	NS	ns1.101domain.com.
 metafb.ng.		3600	IN	NS	ns2.101domain.com.
+metafi.ng.		3600	IN	NS	ns1.dan.com.
+metafi.ng.		3600	IN	NS	ns2.dan.com.
 metaga.ng.		3600	IN	NS	ns11.dihost.net.
 metaga.ng.		3600	IN	NS	ns12.dihost.net.
 metaga.ng.		3600	IN	NS	ns13.dihost.net.
@@ -46907,8 +46913,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -48974,8 +48980,8 @@ oaridservice.ng.	3600	IN	NS	ns25.doveserver.com.
 oaridservice.ng.	3600	IN	NS	ns26.doveserver.com.
 oasis.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 oasis.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-oasisacademy.ng.	3600	IN	NS	nsa.whogohost.com.
-oasisacademy.ng.	3600	IN	NS	nsb.whogohost.com.
+oasisacademy.ng.	3600	IN	NS	dns1.namecheaphosting.com.
+oasisacademy.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 oat.ng.			3600	IN	NS	ns1.cloudoon.com.
 oat.ng.			3600	IN	NS	ns2.cloudoon.com.
 oat.ng.			3600	IN	NS	ns3.cloudoon.com.
@@ -66454,6 +66460,8 @@ tabriz.ng.		3600	IN	NS	ns8297.hostgator.com.
 tabriz.ng.		3600	IN	NS	ns8298.hostgator.com.
 tacademy.ng.		3600	IN	NS	nsa.whogohost.com.
 tacademy.ng.		3600	IN	NS	nsb.whogohost.com.
+tacboost.ng.		3600	IN	NS	dns1.harmonweb.net.
+tacboost.ng.		3600	IN	NS	dns2.harmonweb.net.
 tachere.ng.		3600	IN	NS	ns-428.awsdns-53.com.
 tachere.ng.		3600	IN	NS	ns-800.awsdns-36.net.
 tachere.ng.		3600	IN	NS	ns-1462.awsdns-54.org.
@@ -69592,10 +69600,8 @@ tobaniyi.ng.		3600	IN	NS	nsa.whogohost.com.
 tobaniyi.ng.		3600	IN	NS	nsb.whogohost.com.
 tobatmarineservices.ng.	3600	IN	NS	nsa.whogohost.com.
 tobatmarineservices.ng.	3600	IN	NS	nsb.whogohost.com.
-tobey.ng.		3600	IN	NS	ns-135.awsdns-16.com.
-tobey.ng.		3600	IN	NS	ns-866.awsdns-44.net.
-tobey.ng.		3600	IN	NS	ns-1076.awsdns-06.org.
-tobey.ng.		3600	IN	NS	ns-2032.awsdns-62.co.uk.
+tobey.ng.		3600	IN	NS	ns19.syskay.com.
+tobey.ng.		3600	IN	NS	ns20.syskay.com.
 tobi.ng.		3600	IN	NS	nsa.whogohost.com.
 tobi.ng.		3600	IN	NS	nsb.whogohost.com.
 tobivibes.ng.		3600	IN	NS	anuj.ns.cloudflare.com.
@@ -77563,4 +77569,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050214 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050219 10800 3600 604800 3600
