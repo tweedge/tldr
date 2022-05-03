@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050314 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1651561176"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050319 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1651570711"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -2514,8 +2514,9 @@ agrocheck.ng.		3600	IN	NS	ns1.bluehost.com.
 agrocheck.ng.		3600	IN	NS	ns2.bluehost.com.
 agrocity.ng.		3600	IN	NS	ns27.websitewelcome.com.
 agrocity.ng.		3600	IN	NS	ns28.websitewelcome.com.
-agrodata.ng.		3600	IN	NS	ns1.dicowebsolution.com.
-agrodata.ng.		3600	IN	NS	ns2.dicowebsolution.com.
+agrodata.ng.		3600	IN	NS	dns1.serverquality.com.
+agrodata.ng.		3600	IN	NS	dns2.serverquality.com.
+agrodata.ng.		3600	IN	NS	dns3.serverquality.com.
 agrofresh.ng.		3600	IN	NS	ns1-09.azure-dns.com.
 agrofresh.ng.		3600	IN	NS	ns2-09.azure-dns.net.
 agrofresh.ng.		3600	IN	NS	ns3-09.azure-dns.org.
@@ -8982,6 +8983,8 @@ bloke.ng.		3600	IN	NS	ns3.web4africa.com.
 bloke.ng.		3600	IN	NS	ns4.web4africa.com.
 bloks.ng.		3600	IN	NS	ns1.whogohost.com.
 bloks.ng.		3600	IN	NS	ns2.whogohost.com.
+blooddonation.ng.	3600	IN	NS	nsa.whogohost.com.
+blooddonation.ng.	3600	IN	NS	nsb.whogohost.com.
 bloodlines.ng.		3600	IN	NS	ns1.ipage.com.
 bloodlines.ng.		3600	IN	NS	ns2.ipage.com.
 bloodlinks.ng.		3600	IN	NS	khloe.ns.cloudflare.com.
@@ -31153,8 +31156,8 @@ honeyafricatv.ng.	3600	IN	NS	dns01.naspers.com.
 honeyafricatv.ng.	3600	IN	NS	dns02.naspers.com.
 honeybeauty.ng.		3600	IN	NS	ns1.bluehost.com.
 honeybeauty.ng.		3600	IN	NS	ns2.bluehost.com.
-honeybiz.ng.		3600	IN	NS	nsa.whogohost.com.
-honeybiz.ng.		3600	IN	NS	nsb.whogohost.com.
+honeybiz.ng.		3600	IN	NS	ns1.gocheapweb.com.
+honeybiz.ng.		3600	IN	NS	ns2.gocheapweb.com.
 honeydrop.ng.		3600	IN	NS	nsa.whogohost.com.
 honeydrop.ng.		3600	IN	NS	nsb.whogohost.com.
 honeyherbals.ng.	3600	IN	NS	dns1.namecheaphosting.com.
@@ -46885,8 +46888,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -50388,9 +50391,9 @@ onpointclothing.ng.	3600	IN	NS	uk1.vastgig.com.
 onpointclothing.ng.	3600	IN	NS	uk2.vastgig.com.
 onpos.ng.		3600	IN	NS	ns1.gigalayer.com.
 onpos.ng.		3600	IN	NS	ns2.gigalayer.com.
-onspri.ng.		86400	IN	DS	2371 13 2 057660598D3FEE23BE39259D6B32FF0CDB536CAA529871E2E0393EC4 13CA14EB
 onspri.ng.		3600	IN	NS	ken.ns.cloudflare.com.
 onspri.ng.		3600	IN	NS	rita.ns.cloudflare.com.
+onspri.ng.		86400	IN	DS	2371 13 2 057660598D3FEE23BE39259D6B32FF0CDB536CAA529871E2E0393EC4 13CA14EB
 onthego.ng.		3600	IN	NS	ns11.meiranet.com.
 onthego.ng.		3600	IN	NS	ns12.meiranet.com.
 onthemarket.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -50520,7 +50523,6 @@ openinvesting.ng.	3600	IN	NS	ns1.qservers.net.
 openinvesting.ng.	3600	IN	NS	ns2.qservers.net.
 openlaw.ng.		3600	IN	NS	nsa.whogohost.com.
 openlaw.ng.		3600	IN	NS	nsb.whogohost.com.
-openlife.ng.		3600	IN	NS	dns1.web-hosting.com.
 openlife.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 openlife.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 openmarket.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -52287,6 +52289,8 @@ paynownow.ng.		3600	IN	NS	ns3.dktlds.com.
 paynownow.ng.		3600	IN	NS	ns4.dktlds.com.
 paynpark.ng.		3600	IN	NS	ns17.doveserver.com.
 paynpark.ng.		3600	IN	NS	ns18.doveserver.com.
+payondelivery.ng.	3600	IN	NS	ns1.dknoc.com.
+payondelivery.ng.	3600	IN	NS	ns2.dknoc.com.
 payone.ng.		3600	IN	NS	sam.ns.cloudflare.com.
 payone.ng.		3600	IN	NS	vera.ns.cloudflare.com.
 payonline.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -60209,6 +60213,8 @@ schott.ng.		3600	IN	NS	ns02.brandshelter.net.
 schrammek.ng.		3600	IN	NS	ns1.domaindiscount24.net.
 schrammek.ng.		3600	IN	NS	ns2.domaindiscount24.net.
 schrammek.ng.		3600	IN	NS	ns3.domaindiscount24.net.
+schulup.ng.		3600	IN	NS	nsa.whogohost.com.
+schulup.ng.		3600	IN	NS	nsb.whogohost.com.
 schweppes.ng.		3600	IN	NS	ns1-09.azure-dns.com.
 schweppes.ng.		3600	IN	NS	ns2-09.azure-dns.net.
 schweppes.ng.		3600	IN	NS	ns3-09.azure-dns.org.
@@ -60237,8 +60243,8 @@ scoop.ng.		3600	IN	NS	ns1.parkingcrew.net.
 scoop.ng.		3600	IN	NS	ns2.parkingcrew.net.
 scoopd.ng.		3600	IN	NS	dina.ns.cloudflare.com.
 scoopd.ng.		3600	IN	NS	skip.ns.cloudflare.com.
-scopehub.ng.		3600	IN	NS	ns1.upperserver29.com.
-scopehub.ng.		3600	IN	NS	ns2.upperserver29.com.
+scopehub.ng.		3600	IN	NS	kate.ns.cloudflare.com.
+scopehub.ng.		3600	IN	NS	anirban.ns.cloudflare.com.
 scorama.ng.		3600	IN	NS	nsa.whogohost.com.
 scorama.ng.		3600	IN	NS	nsb.whogohost.com.
 score.ng.		3600	IN	NS	ns1.ibstack.com.
@@ -67848,10 +67854,8 @@ thanki.ng.		3600	IN	NS	ns1.sedoparking.com.
 thanki.ng.		3600	IN	NS	ns2.sedoparking.com.
 thanksgivi.ng.		3600	IN	NS	ns1.domains.ng.
 thanksgivi.ng.		3600	IN	NS	ns2.domains.ng.
-thao.ng.		3600	IN	NS	ns1.web4africa.com.
-thao.ng.		3600	IN	NS	ns2.web4africa.com.
-thao.ng.		3600	IN	NS	ns3.web4africa.com.
-thao.ng.		3600	IN	NS	ns4.web4africa.com.
+thao.ng.		3600	IN	NS	duke.ns.cloudflare.com.
+thao.ng.		3600	IN	NS	ashley.ns.cloudflare.com.
 thc.ng.			3600	IN	NS	ns.zxcs.be.
 thc.ng.			3600	IN	NS	ns.zxcs.eu.
 thc.ng.			3600	IN	NS	ns.zxcs.nl.
@@ -67973,9 +67977,9 @@ thebest.ng.		3600	IN	NS	nsa.whogohost.com.
 thebest.ng.		3600	IN	NS	nsb.whogohost.com.
 thebestfirst.ng.	3600	IN	NS	dns1.cscdns.net.
 thebestfirst.ng.	3600	IN	NS	dns2.cscdns.net.
-thebigbo.ng.		86400	IN	DS	21109 13 2 3709A850D7BA9484CE0A27B4D4688E7EEB02A938965996931D1F0BA8 BA9B15A8
 thebigbo.ng.		3600	IN	NS	ns3.epik.com.
 thebigbo.ng.		3600	IN	NS	ns4.epik.com.
+thebigbo.ng.		86400	IN	DS	21109 13 2 3709A850D7BA9484CE0A27B4D4688E7EEB02A938965996931D1F0BA8 BA9B15A8
 thebigdeal.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 thebigdeal.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 thebignews.ng.		3600	IN	NS	dns1.supremedns.com.
@@ -77511,4 +77515,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050314 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050319 10800 3600 604800 3600
