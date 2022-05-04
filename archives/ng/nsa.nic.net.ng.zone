@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050408 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1651636119"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050414 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1651647630"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -15556,6 +15556,10 @@ cosmopolitan.ng.	3600	IN	NS	pdns73.ultradns.com.
 cosmos.ng.		3600	IN	NS	ns301.my-hosting-panel.com.
 cosmos.ng.		3600	IN	NS	ns302.my-hosting-panel.com.
 cosmos.ng.		3600	IN	NS	ns303.my-hosting-panel.com.
+cosnia.ng.		3600	IN	NS	ns1.cosnia.ng.
+cosnia.ng.		3600	IN	NS	ns2.cosnia.ng.
+ns1.cosnia.ng.		3600	IN	A	116.203.114.88
+ns2.cosnia.ng.		3600	IN	A	116.203.114.88
 cosofo.ng.		3600	IN	NS	ns1.cosofo.com.
 cosofo.ng.		3600	IN	NS	ns2.cosofo.com.
 costa.ng.		3600	IN	NS	dns1.idp365.net.
@@ -46916,8 +46920,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -67536,8 +67540,8 @@ telfordenergyservices.ng. 3600	IN	NS	ns3.gandi.net.
 telfordoffshore.ng.	3600	IN	NS	a.dns.gandi.net.
 telfordoffshore.ng.	3600	IN	NS	b.dns.gandi.net.
 telfordoffshore.ng.	3600	IN	NS	c.dns.gandi.net.
-tell.ng.		3600	IN	NS	ns1.premium.cloudns.io.
-tell.ng.		3600	IN	NS	ns2.premium.cloudns.io.
+tell.ng.		3600	IN	NS	ns1.mysecurecloudhost.com.
+tell.ng.		3600	IN	NS	ns2.mysecurecloudhost.com.
 tellco-europe.ng.	3600	IN	NS	ns1.bluehost.com.
 tellco-europe.ng.	3600	IN	NS	ns2.bluehost.com.
 teller.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -76413,9 +76417,8 @@ yankee.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 yankee.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 yanot.ng.		3600	IN	NS	ns13.doveserver.com.
 yanot.ng.		3600	IN	NS	ns14.doveserver.com.
-yans.ng.		3600	IN	NS	ns1.dreamhost.com.
-yans.ng.		3600	IN	NS	ns2.dreamhost.com.
-yans.ng.		3600	IN	NS	ns3.dreamhost.com.
+yans.ng.		3600	IN	NS	ns6379.hostgator.com.
+yans.ng.		3600	IN	NS	ns6380.hostgator.com.
 yanxi.ng.		3600	IN	NS	pdns05.domaincontrol.com.
 yanxi.ng.		3600	IN	NS	pdns06.domaincontrol.com.
 yaowa.ng.		3600	IN	NS	ns-180.awsdns-22.com.
@@ -77548,4 +77551,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050408 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050414 10800 3600 604800 3600

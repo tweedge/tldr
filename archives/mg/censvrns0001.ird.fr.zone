@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050404 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050407 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1651636851"
+mg.			7200	IN	TXT	"Generation Time: 1651647623"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -7253,6 +7253,8 @@ morabe.mg.		86400	IN	NS	dns102.ovh.net.
 morabe.mg.		86400	IN	NS	ns102.ovh.net.
 morahita.mg.		86400	IN	NS	dns13.ovh.net.
 morahita.mg.		86400	IN	NS	ns13.ovh.net.
+moramarket.mg.		86400	IN	NS	ns1.da.cloudns.io.
+moramarket.mg.		86400	IN	NS	ns2.da.cloudns.io.
 moramora.mg.		86400	IN	NS	ns1.da.cloudns.io.
 moramora.mg.		86400	IN	NS	ns2.da.cloudns.io.
 morecast.mg.		86400	IN	NS	ns1.markmonitor.com.
@@ -8568,8 +8570,6 @@ prulab.mg.		86400	IN	NS	ns1.goldvision.com.
 prulab.mg.		86400	IN	NS	ns2.goldvision.com.
 psi.mg.			86400	IN	NS	ns.dts.mg.
 psi.mg.			86400	IN	NS	ns1.dts.mg.
-pte.mg.			86400	IN	NS	ns1-boxer.vivawebhost.com.
-pte.mg.			86400	IN	NS	ns2-boxer.vivawebhost.com.
 pubg.mg.		86400	IN	NS	ns1.servermada.com.
 pubg.mg.		86400	IN	NS	ns2.servermada.com.
 publika.mg.		86400	IN	NS	dns1.hosteur.com.
@@ -11527,4 +11527,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050404 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050407 600 3600 604800 86400
