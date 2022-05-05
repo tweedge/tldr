@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022050301 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022050400 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -173,6 +173,8 @@ pngdfacademy.AC.pg.	172800	IN	NS	ns8302.hostgator.com.
 pngei.AC.pg.		172800	IN	NS	ns1.pngconnect.com.
 pngei.AC.pg.		172800	IN	NS	ns2.pngconnect.com.
 pngei.AC.pg.		172800	IN	NS	ns3.pngconnect.com.
+pngjfa.AC.pg.		172800	IN	NS	ns4213.hostgator.com.
+pngjfa.AC.pg.		172800	IN	NS	ns4214.hostgator.com.
 pnglti.AC.pg.		172800	IN	NS	ns1.digiteccloud.com.
 pnglti.AC.pg.		172800	IN	NS	ns2.digiteccloud.com.
 pngmc.AC.pg.		172800	IN	NS	cpns1.cybercon.com.
@@ -3032,6 +3034,9 @@ pacificbreweries.COM.pg. 172800	IN	NS	ns2.pngconnect.com.
 pacificbreweries.COM.pg. 172800	IN	NS	ns3.pngconnect.com.
 pacificcapital.COM.pg.	172800	IN	NS	ns1.global.net.pg.
 pacificcapital.COM.pg.	172800	IN	NS	ns2.global.net.pg.
+pacificcarmart.COM.pg.	172800	IN	NS	ns1.telinet.com.pg.
+pacificcarmart.COM.pg.	172800	IN	NS	ns2.telinet.com.pg.
+pacificcarmart.COM.pg.	172800	IN	NS	ns3.telinet.com.pg.
 pacificcl.COM.pg.	172800	IN	NS	ns1.telinet.com.pg.
 pacificcl.COM.pg.	172800	IN	NS	ns2.telinet.com.pg.
 pacificcranes.COM.pg.	172800	IN	NS	ns1.qnetau.com.
@@ -5936,4 +5941,4 @@ ywamships.ORG.pg.	172800	IN	NS	ns3.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns1.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns2.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns3.qnetau.com.
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022050301 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022050400 14400 7200 1728000 14400
