@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050607 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050610 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1651820425"
+mg.			7200	IN	TXT	"Generation Time: 1651831242"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2183,6 +2183,8 @@ carglass.mg.		7200	IN	NS	dns1.cscdns.net.
 carglass.mg.		7200	IN	NS	dns2.cscdns.net.
 carisy.mg.		7200	IN	NS	dns113.ovh.net.
 carisy.mg.		7200	IN	NS	ns113.ovh.net.
+caritasantsirabe.mg.	7200	IN	NS	ns1.ntmada-webhosting.com.
+caritasantsirabe.mg.	7200	IN	NS	ns2.ntmada-webhosting.com.
 carlton.mg.		7200	IN	NS	ns.dts.mg.
 carlton.mg.		7200	IN	NS	ns1.dts.mg.
 carrefour.mg.		7200	IN	NS	antor.carrefour.com.
@@ -2210,6 +2212,8 @@ casec.mg.		7200	IN	NS	ns1.da.cloudns.io.
 casec.mg.		7200	IN	NS	ns2.da.cloudns.io.
 casef.mg.		7200	IN	NS	ns.dts.mg.
 casef.mg.		7200	IN	NS	ns1.dts.mg.
+cashconverters.mg.	7200	IN	NS	ns01.trademarkarea.com.
+cashconverters.mg.	7200	IN	NS	ns02.trademarkarea.com.
 casino.mg.		7200	IN	NS	adam.ns.cloudflare.com.
 casino.mg.		7200	IN	NS	candy.ns.cloudflare.com.
 casino-poker.mg.	7200	IN	NS	b.dns.gandi.net.
@@ -6432,8 +6436,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -8653,8 +8657,8 @@ quicklane.mg.		86400	IN	NS	ns1.gasyweb.com.
 quicklane.mg.		86400	IN	NS	ns2.gasyweb.com.
 quickmail.mg.		86400	IN	NS	ns1.quickmail.mg.
 quickmail.mg.		86400	IN	NS	ns2.quickmail.mg.
-ns1.quickmail.mg.	86400	IN	A	65.108.136.194
-ns2.quickmail.mg.	86400	IN	A	65.108.136.194
+ns1.quickmail.mg.	86400	IN	A	23.88.0.187
+ns2.quickmail.mg.	86400	IN	A	23.88.0.187
 quietude.mg.		86400	IN	NS	ns1.hostadom.net.
 quietude.mg.		86400	IN	NS	ns2.hostadom.net.
 quora.mg.		86400	IN	NS	dns1.cscdns.net.
@@ -10803,8 +10807,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11527,4 +11531,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050607 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050610 600 3600 604800 86400
