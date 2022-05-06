@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050604 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050607 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1651809647"
+mg.			7200	IN	TXT	"Generation Time: 1651820425"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -615,8 +615,6 @@ ajax.mg.		7200	IN	NS	ns1.servermada.com.
 ajax.mg.		7200	IN	NS	ns2.servermada.com.
 akademia-politika.mg.	7200	IN	NS	ns1.da.cloudns.io.
 akademia-politika.mg.	7200	IN	NS	ns2.da.cloudns.io.
-akademiapolitika.mg.	7200	IN	NS	ns1.da.cloudns.io.
-akademiapolitika.mg.	7200	IN	NS	ns2.da.cloudns.io.
 akamamadagascar.mg.	7200	IN	NS	ns1.servermada.com.
 akamamadagascar.mg.	7200	IN	NS	ns2.servermada.com.
 akaniko.mg.		7200	IN	NS	dns1.namecheaphosting.com.
@@ -5921,8 +5919,6 @@ lamba.mg.		86400	IN	NS	ns1.cloudns.io.
 lamba.mg.		86400	IN	NS	ns2.cloudns.io.
 lamba1.mg.		86400	IN	NS	ns29.dot.mg.
 lamba1.mg.		86400	IN	NS	ns29.illi.co.mg.
-lambda.mg.		86400	IN	NS	raina.ns.cloudflare.com.
-lambda.mg.		86400	IN	NS	reese.ns.cloudflare.com.
 lamutuellegenerale.mg.	86400	IN	NS	ns1.eurodns.com.
 lamutuellegenerale.mg.	86400	IN	NS	ns2.eurodns.com.
 lamutuellegenerale.mg.	86400	IN	NS	ns3.eurodns.com.
@@ -8254,10 +8250,6 @@ pfsce.mg.		86400	IN	NS	ns.dts.mg.
 pfsce.mg.		86400	IN	NS	ns1.dts.mg.
 pgi.mg.			86400	IN	NS	ns1.da.cloudns.io.
 pgi.mg.			86400	IN	NS	ns2.da.cloudns.io.
-pharma-tech.mg.		86400	IN	NS	ns1.pharma-tech.mg.
-pharma-tech.mg.		86400	IN	NS	ns2.pharma-tech.mg.
-ns1.pharma-tech.mg.	86400	IN	A	78.46.252.81
-ns2.pharma-tech.mg.	86400	IN	A	78.46.252.81
 pharmabot.mg.		86400	IN	NS	pearl.ns.cloudflare.com.
 pharmabot.mg.		86400	IN	NS	yisroel.ns.cloudflare.com.
 pharmacie.mg.		86400	IN	NS	ns1.o2switch.net.
@@ -9993,8 +9985,6 @@ storm.mg.		86400	IN	NS	ns-1938.awsdns-50.co.uk.
 storm.mg.		86400	IN	NS	ns-1108.awsdns-10.org.
 storm.mg.		86400	IN	NS	ns-189.awsdns-23.com.
 storm.mg.		86400	IN	NS	ns-852.awsdns-42.net.
-strategie-madagascar.mg. 86400	IN	NS	ns1.da.cloudns.io.
-strategie-madagascar.mg. 86400	IN	NS	ns2.da.cloudns.io.
 stratermic.mg.		86400	IN	NS	ns-48-a.gandi.net.
 stratermic.mg.		86400	IN	NS	ns-122-b.gandi.net.
 stratermic.mg.		86400	IN	NS	ns-43-c.gandi.net.
@@ -10813,8 +10803,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -10863,8 +10853,6 @@ ux.mg.			86400	IN	NS	ns-0-c.gandi.net.
 ux.mg.			86400	IN	NS	ns-89-a.gandi.net.
 vahatra.mg.		86400	IN	NS	ns.dts.mg.
 vahatra.mg.		86400	IN	NS	ns1.dts.mg.
-vahatra-tsididy.mg.	86400	IN	NS	ns1.servermada.com.
-vahatra-tsididy.mg.	86400	IN	NS	ns2.servermada.com.
 valalafarm.mg.		86400	IN	NS	ns.dts.mg.
 valalafarm.mg.		86400	IN	NS	ns1.dts.mg.
 valiprocess.mg.		86400	IN	NS	ns1.da.cloudns.io.
@@ -11539,4 +11527,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050604 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050607 600 3600 604800 86400
