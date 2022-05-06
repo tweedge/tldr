@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022050301 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022050601 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	cv01.dns.pt.
@@ -1841,6 +1841,7 @@ atlantico.com.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
 atlantico.com.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
 atleta2022.com.cv.	28800	IN	NS	ns4.web4u.pt.
 atleta2022.com.cv.	28800	IN	NS	ns5.web4u.pt.
+baidu.com.cv.		28800	IN	A	94.23.156.156
 baidu.com.cv.		28800	IN	AAAA	2001:41d0:c:388:178:33:33:199
 baidu.com.cv.		28800	IN	AAAA	2001:41d0:d:7ea:188:165:164:191
 baidu.com.cv.		28800	IN	AAAA	2607:5300:60:5e1c:192:95:19:131
@@ -1850,7 +1851,6 @@ baidu.com.cv.		28800	IN	NS	ns2.brandshelter.de.
 baidu.com.cv.		28800	IN	NS	ns3.brandshelter.info.
 baidu.com.cv.		28800	IN	NS	ns4.brandshelter.net.
 baidu.com.cv.		28800	IN	NS	ns5.brandshelter.us.
-baidu.com.cv.		28800	IN	A	94.23.156.156
 bet365.com.cv.		28800	IN	NS	ns1.markmonitor.com.
 bet365.com.cv.		28800	IN	NS	ns2.markmonitor.com.
 bet365.com.cv.		28800	IN	NS	ns3.markmonitor.com.
@@ -3027,9 +3027,8 @@ daniel.cv.		28800	IN	NS	ns2.he.net.
 daniel.cv.		28800	IN	NS	ns3.he.net.
 daniel.cv.		28800	IN	NS	ns4.he.net.
 daniel.cv.		28800	IN	NS	ns5.he.net.
-darius.cv.		28800	IN	NS	ns01.trademarkarea.com.
-darius.cv.		28800	IN	NS	ns02.trademarkarea.com.
-darius.cv.		28800	IN	NS	ns03.trademarkarea.com.
+darius.cv.		28800	IN	NS	gordon.ns.cloudflare.com.
+darius.cv.		28800	IN	NS	kristina.ns.cloudflare.com.
 darq.cv.		28800	IN	NS	ns1.aguianet.com.
 darq.cv.		28800	IN	NS	ns2.aguianet.com.
 darq.cv.		28800	IN	NS	ns293.websitewelcome.com.
@@ -5657,10 +5656,10 @@ mmitsolutions.cv.	28800	IN	NS	b.host-services.com.
 mmitsolutions.cv.	28800	IN	NS	c.host-services.com.
 moa.cv.			28800	IN	NS	ns1000.mochahost.com.
 moa.cv.			28800	IN	NS	ns2000.mochahost.com.
-moave.cv.		28800	IN	NS	ns1.dns-parking.com.
-moave.cv.		28800	IN	NS	ns2.dns-parking.com.
 moave.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
 moave.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
+moave.cv.		28800	IN	NS	ns1.dns-parking.com.
+moave.cv.		28800	IN	NS	ns2.dns-parking.com.
 mobile.cv.		28800	IN	NS	ns1.justhost.com.
 mobile.cv.		28800	IN	NS	ns2.justhost.com.
 mail.mobile.cv.		28800	IN	A	173.254.28.82
@@ -7075,10 +7074,10 @@ robinson-club-kap-verden.cv. 28800 IN	AAAA	2600:2000:1000::7
 robinson-club-kap-verden.cv. 28800 IN	AAAA	2600:2000:1001::7
 robinson-club-kap-verden.cv. 28800 IN	NS	ns01.brandshelter.com.
 robinson-club-kap-verden.cv. 28800 IN	NS	ns02.brandshelter.net.
-robinson-club-kapverden.cv. 28800 IN	AAAA	2600:2000:1000::7
-robinson-club-kapverden.cv. 28800 IN	AAAA	2600:2000:1001::7
 robinson-club-kapverden.cv. 28800 IN	NS	ns01.brandshelter.com.
 robinson-club-kapverden.cv. 28800 IN	NS	ns02.brandshelter.net.
+robinson-club-kapverden.cv. 28800 IN	AAAA	2600:2000:1000::7
+robinson-club-kapverden.cv. 28800 IN	AAAA	2600:2000:1001::7
 robinson-kap-verden.cv.	28800	IN	AAAA	2600:2000:1000::7
 robinson-kap-verden.cv.	28800	IN	AAAA	2600:2000:1001::7
 robinson-kap-verden.cv.	28800	IN	NS	ns01.brandshelter.com.
@@ -7730,11 +7729,11 @@ squad.cv.		28800	IN	NS	ns2.digitalocean.com.
 squad.cv.		28800	IN	NS	ns3.digitalocean.com.
 square.cv.		28800	IN	NS	ns1.siteground263.com.
 square.cv.		28800	IN	NS	ns2.siteground263.com.
+src.cv.			28800	IN	NS	ns1.webs24h.com.
+src.cv.			28800	IN	NS	ns2.webs24h.com.
 src.cv.			28800	IN	AAAA	2001:4cc0:3:a::6dfe
 src.cv.			28800	IN	AAAA	2001:4cc0:4:10::5
 src.cv.			28800	IN	A	91.198.47.1
-src.cv.			86400	IN	NS	ns1.webs24h.com.
-src.cv.			86400	IN	NS	ns2.webs24h.com.
 ssaadvogados.cv.	28800	IN	NS	dns1.host-redirect.com.
 ssaadvogados.cv.	28800	IN	NS	dns2.host-redirect.com.
 ssaadvogados.cv.	28800	IN	NS	dns3.host-redirect.com.
@@ -7788,12 +7787,12 @@ stif.cv.		28800	IN	NS	ns1000.mochahost.com.
 stif.cv.		28800	IN	NS	ns2000.mochahost.com.
 stj.cv.			28800	IN	NS	ns1.gov.cv.
 stj.cv.			28800	IN	NS	ns2.gov.cv.
-storebenfica.cv.	28800	IN	NS	ns1.webhs.org.
-storebenfica.cv.	28800	IN	NS	ns2.webhs.org.
-storebenfica.cv.	28800	IN	NS	ns3.webhs.org.
 storebenfica.cv.	28800	IN	A	91.184.1.10
 storebenfica.cv.	28800	IN	A	91.184.8.20
 storebenfica.cv.	28800	IN	A	95.211.179.15
+storebenfica.cv.	28800	IN	NS	ns1.webhs.org.
+storebenfica.cv.	28800	IN	NS	ns2.webhs.org.
+storebenfica.cv.	28800	IN	NS	ns3.webhs.org.
 storm.cv.		28800	IN	AAAA	2a02:c205:0:891::1
 storm.cv.		28800	IN	A	5.189.191.29
 storm.cv.		28800	IN	A	79.143.182.242
@@ -8617,4 +8616,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022050301 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022050601 86400 7200 2592000 300
