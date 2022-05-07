@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050736 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1651949009"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050742 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1651960535"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -12388,6 +12388,8 @@ cassidy.ng.		3600	IN	NS	ns811.sgcloudhosting.com.
 cassidy.ng.		3600	IN	NS	ns812.sgcloudhosting.com.
 cassidyenergy.ng.	3600	IN	NS	nsa.whogohost.com.
 cassidyenergy.ng.	3600	IN	NS	nsb.whogohost.com.
+cassie.ng.		3600	IN	NS	mark.ns.cloudflare.com.
+cassie.ng.		3600	IN	NS	nadia.ns.cloudflare.com.
 cast.ng.		3600	IN	NS	ns1.dan.com.
 cast.ng.		3600	IN	NS	ns2.dan.com.
 castel.ng.		3600	IN	NS	ns1.infomaniak.ch.
@@ -20703,6 +20705,8 @@ eddi.ng.		3600	IN	NS	ns.udag.net.
 eddi.ng.		3600	IN	NS	ns.udag.org.
 eddie.ng.		3600	IN	NS	nsa.whogohost.com.
 eddie.ng.		3600	IN	NS	nsb.whogohost.com.
+eddify.ng.		3600	IN	NS	ns1.dknoc.com.
+eddify.ng.		3600	IN	NS	ns2.dknoc.com.
 eddytech.ng.		3600	IN	NS	ns17.doveserver.com.
 eddytech.ng.		3600	IN	NS	ns18.doveserver.com.
 eddytravels.ng.		3600	IN	NS	ns1.serveriai.lt.
@@ -47123,8 +47127,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -47879,8 +47883,8 @@ nigeriaalert.ng.	3600	IN	NS	nsa.whogohost.com.
 nigeriaalert.ng.	3600	IN	NS	nsb.whogohost.com.
 nigeriabids.ng.		3600	IN	NS	ns1.kebecweb.com.
 nigeriabids.ng.		3600	IN	NS	ns2.kebecweb.com.
-nigeriacargo.ng.	3600	IN	NS	ns77.domaincontrol.com.
-nigeriacargo.ng.	3600	IN	NS	ns78.domaincontrol.com.
+nigeriacargo.ng.	3600	IN	NS	ns8205.hostgator.com.
+nigeriacargo.ng.	3600	IN	NS	ns8206.hostgator.com.
 nigeriaceo.ng.		3600	IN	NS	ns9.asurahosting.com.
 nigeriaceo.ng.		3600	IN	NS	ns10.asurahosting.com.
 nigeriaclassified.ng.	3600	IN	NS	ns1.tmvhost.com.
@@ -51150,6 +51154,8 @@ osec.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 osec.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 osedayeba.ng.		3600	IN	NS	nsa.whogohost.com.
 osedayeba.ng.		3600	IN	NS	nsb.whogohost.com.
+osell.ng.		3600	IN	NS	ns1.dknoc.com.
+osell.ng.		3600	IN	NS	ns2.dknoc.com.
 osfi.ng.		3600	IN	NS	ns49.whogohost.com.
 osfi.ng.		3600	IN	NS	ns50.whogohost.com.
 oshia.ng.		3600	IN	NS	ns1.digitalocean.com.
@@ -52310,6 +52316,9 @@ payall.ng.		3600	IN	NS	ns3.a2hosting.com.
 payall.ng.		3600	IN	NS	ns4.a2hosting.com.
 payalt.ng.		3600	IN	NS	nsa.whogohost.com.
 payalt.ng.		3600	IN	NS	nsb.whogohost.com.
+payam.ng.		3600	IN	NS	ns1.gigalayer.com.
+payam.ng.		3600	IN	NS	ns2.gigalayer.com.
+payam.ng.		3600	IN	NS	ns3.gigalayer.com.
 payandrelax.ng.		3600	IN	NS	nsa.whogohost.com.
 payandrelax.ng.		3600	IN	NS	nsb.whogohost.com.
 payandspread.ng.	3600	IN	NS	ns1.classicwebhost.net.
@@ -66917,6 +66926,8 @@ talk2luke.ng.		3600	IN	NS	ns1.web4africa.com.
 talk2luke.ng.		3600	IN	NS	ns2.web4africa.com.
 talk2luke.ng.		3600	IN	NS	ns3.web4africa.com.
 talk2luke.ng.		3600	IN	NS	ns4.web4africa.com.
+talkbiz.ng.		3600	IN	NS	ns1.qservers.net.
+talkbiz.ng.		3600	IN	NS	ns2.qservers.net.
 talkdeals.ng.		3600	IN	NS	ns1.qservers.net.
 talkdeals.ng.		3600	IN	NS	ns2.qservers.net.
 talkdigest.ng.		3600	IN	NS	ns1.bluehost.com.
@@ -77889,4 +77900,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050736 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050742 10800 3600 604800 3600
