@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050714 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1651906841"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050719 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1651916426"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -21030,6 +21030,8 @@ efabricators.ng.	3600	IN	NS	ns1.usm100.siteground.biz.
 efabricators.ng.	3600	IN	NS	ns2.usm100.siteground.biz.
 efabshop.ng.		3600	IN	NS	ns1.rokswood.com.
 efabshop.ng.		3600	IN	NS	ns2.rokswood.com.
+efactory.ng.		3600	IN	NS	nsa.whogohost.com.
+efactory.ng.		3600	IN	NS	nsb.whogohost.com.
 efarm.ng.		3600	IN	NS	ns1.unoeuro.com.
 efarm.ng.		3600	IN	NS	ns4.unoeuro.com.
 efarmers.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -23837,8 +23839,9 @@ farmspec.ng.		3600	IN	NS	ns1.vercel-dns.com.
 farmspec.ng.		3600	IN	NS	ns2.vercel-dns.com.
 farmspot.ng.		3600	IN	NS	nsa.whogohost.com.
 farmspot.ng.		3600	IN	NS	nsb.whogohost.com.
-farmsquare.ng.		3600	IN	NS	ns1.padohost.com.
-farmsquare.ng.		3600	IN	NS	ns2.padohost.com.
+farmsquare.ng.		3600	IN	NS	ns1.contabo.net.
+farmsquare.ng.		3600	IN	NS	ns2.contabo.net.
+farmsquare.ng.		3600	IN	NS	ns3.contabo.net.
 farmstore.ng.		3600	IN	NS	ns1.wehostafrica.com.
 farmstore.ng.		3600	IN	NS	ns2.wehostafrica.com.
 farmsupport.ng.		3600	IN	NS	ns1.dkshared2.com.
@@ -33456,6 +33459,9 @@ ingenium.ng.		3600	IN	NS	ns3.whogohost.com.
 ingenium.ng.		3600	IN	NS	ns4.whogohost.com.
 ingoforum.ng.		3600	IN	NS	ns1.vultr.com.
 ingoforum.ng.		3600	IN	NS	ns2.vultr.com.
+ingracegroup.ng.	3600	IN	NS	cdns1.interserver.net.
+ingracegroup.ng.	3600	IN	NS	cdns2.interserver.net.
+ingracegroup.ng.	3600	IN	NS	cdns3.interserver.net.
 inguest.ng.		3600	IN	NS	ns.inmotionhosting.com.
 inguest.ng.		3600	IN	NS	ns2.inmotionhosting.com.
 inhouselawyer.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -38220,6 +38226,8 @@ landreg.ng.		3600	IN	NS	ns3.web4africa.com.
 landreg.ng.		3600	IN	NS	ns4.web4africa.com.
 landregistry.ng.	3600	IN	NS	nsa.whogohost.com.
 landregistry.ng.	3600	IN	NS	nsb.whogohost.com.
+landretail.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+landretail.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 landrover.ng.		3600	IN	NS	gydns04.jlrext.com.
 landrover.ng.		3600	IN	NS	whdns04.jlrext.com.
 lands.ng.		3600	IN	NS	bob.ns.cloudflare.com.
@@ -46566,6 +46574,8 @@ nastyblaq.ng.		3600	IN	NS	dns1.doveserver.com.
 nastyblaq.ng.		3600	IN	NS	dns2.doveserver.com.
 nastyblaqshop.ng.	3600	IN	NS	dns1.doveserver.com.
 nastyblaqshop.ng.	3600	IN	NS	dns2.doveserver.com.
+naswden.ng.		3600	IN	NS	ns59.qservers.net.
+naswden.ng.		3600	IN	NS	ns60.qservers.net.
 nata.ng.		3600	IN	NS	ns1.host-ww.net.
 nata.ng.		3600	IN	NS	ns2.host-ww.net.
 natadvertising.ng.	3600	IN	NS	ns73.qservers.net.
@@ -47084,8 +47094,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -49377,9 +49387,9 @@ oddjobber.ng.		3600	IN	NS	ns21.doveserver.com.
 oddjobber.ng.		3600	IN	NS	ns22.doveserver.com.
 oddoneout.ng.		3600	IN	NS	ns541.domainhosting.com.ng.
 oddoneout.ng.		3600	IN	NS	ns542.domainhosting.com.ng.
+odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds.ng.		3600	IN	NS	ns3.epik.com.
 odds.ng.		3600	IN	NS	ns4.epik.com.
-odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds10.ng.		3600	IN	NS	dns1.doveserver.com.
 odds10.ng.		3600	IN	NS	dns2.doveserver.com.
 odds96.ng.		3600	IN	NS	ivy.ns.cloudflare.com.
@@ -51057,6 +51067,8 @@ orji.ng.		3600	IN	NS	ns11.dnsmadeeasy.com.
 orji.ng.		3600	IN	NS	ns12.dnsmadeeasy.com.
 orji.ng.		3600	IN	NS	ns13.dnsmadeeasy.com.
 orji.ng.		3600	IN	NS	ns14.dnsmadeeasy.com.
+orm.ng.			3600	IN	NS	ns1.siteground.net.
+orm.ng.			3600	IN	NS	ns2.siteground.net.
 orobet.ng.		3600	IN	NS	ns1.101domain.com.
 orobet.ng.		3600	IN	NS	ns2.101domain.com.
 oroborfarms.ng.		3600	IN	NS	ns67.qservers.net.
@@ -52381,6 +52393,8 @@ payforpower.ng.		3600	IN	NS	nsb.whogohost.com.
 payfort.ng.		3600	IN	NS	nsgbr.comlaude.co.uk.
 payfort.ng.		3600	IN	NS	nssui.comlaude.ch.
 payfort.ng.		3600	IN	NS	nsusa.comlaude.net.
+payfromhome.ng.		3600	IN	NS	nsa.whogohost.com.
+payfromhome.ng.		3600	IN	NS	nsb.whogohost.com.
 paygateplus.ng.		3600	IN	NS	nsa.whogohost.com.
 paygateplus.ng.		3600	IN	NS	nsb.whogohost.com.
 payghost.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -55305,6 +55319,8 @@ projectors.ng.		3600	IN	NS	ns53.qservers.net.
 projectors.ng.		3600	IN	NS	ns54.qservers.net.
 projectpal.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 projectpal.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+projectplanner.ng.	3600	IN	NS	nsa.whogohost.com.
+projectplanner.ng.	3600	IN	NS	nsb.whogohost.com.
 projectresearch.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 projectresearch.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 projects.ng.		3600	IN	NS	kyrie.ns.cloudflare.com.
@@ -63924,8 +63940,8 @@ souq.ng.		3600	IN	NS	nssui.comlaude.ch.
 souq.ng.		3600	IN	NS	nsusa.comlaude.net.
 source.ng.		3600	IN	NS	ns1.upperserver29.com.
 source.ng.		3600	IN	NS	ns2.upperserver29.com.
-sourcepoint.ng.		3600	IN	NS	nsa.whogohost.com.
-sourcepoint.ng.		3600	IN	NS	nsb.whogohost.com.
+sourcepoint.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+sourcepoint.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 sourci.ng.		3600	IN	NS	ns1.dan.com.
 sourci.ng.		3600	IN	NS	ns2.dan.com.
 sourci.ng.		3600	IN	NS	verification-emniqjjl.ns3.dan.hosting.
@@ -77817,4 +77833,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050714 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050719 10800 3600 604800 3600
