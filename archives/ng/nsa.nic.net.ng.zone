@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050814 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1651993165"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050819 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1652002718"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -3226,8 +3226,8 @@ alimongo.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 alimtelecom.ng.		3600	IN	NS	ns1.cloudoon.com.
 alimtelecom.ng.		3600	IN	NS	ns2.cloudoon.com.
 alimtelecom.ng.		3600	IN	NS	ns3.cloudoon.com.
-alinabeauty.ng.		3600	IN	NS	nsa.whogohost.com.
-alinabeauty.ng.		3600	IN	NS	nsb.whogohost.com.
+alinabeauty.ng.		3600	IN	NS	coco.ns.cloudflare.com.
+alinabeauty.ng.		3600	IN	NS	yevgen.ns.cloudflare.com.
 alinasrotisserie.ng.	3600	IN	NS	ns8023.hostgator.com.
 alinasrotisserie.ng.	3600	IN	NS	ns8024.hostgator.com.
 alinuhu.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -13555,8 +13555,8 @@ chronaxbuildings.ng.	3600	IN	NS	nsa.whogohost.com.
 chronaxbuildings.ng.	3600	IN	NS	nsb.whogohost.com.
 chronicle.ng.		3600	IN	NS	ns1.dns-parking.com.
 chronicle.ng.		3600	IN	NS	ns2.dns-parking.com.
-chroniclenews.ng.	3600	IN	NS	ns23.hostnownow.com.
-chroniclenews.ng.	3600	IN	NS	ns24.hostnownow.com.
+chroniclenews.ng.	3600	IN	NS	ns34.hostnownow.com.
+chroniclenews.ng.	3600	IN	NS	ns35.hostnownow.com.
 chronograph.ng.		3600	IN	NS	ams-ns1.greengeeks.com.
 chronograph.ng.		3600	IN	NS	chi-ns1.greengeeks.com.
 chronograph.ng.		3600	IN	NS	chi-ns2.greengeeks.com.
@@ -32234,9 +32234,8 @@ iamspecial.ng.		3600	IN	NS	ns2.beget.com.
 iamspecial.ng.		3600	IN	NS	ns2.beget.pro.
 ian.ng.			3600	IN	NS	ns1.sgp101.siteground.asia.
 ian.ng.			3600	IN	NS	ns2.sgp101.siteground.asia.
-ianalytics.ng.		3600	IN	NS	dns3.whogohost.com.
-ianalytics.ng.		3600	IN	NS	dns4.whogohost.com.
-ianalytics.ng.		3600	IN	NS	dns5.whogohost.com.
+ianalytics.ng.		3600	IN	NS	nsa.whogohost.com.
+ianalytics.ng.		3600	IN	NS	nsb.whogohost.com.
 ianmedia.ng.		3600	IN	NS	ns1.qservers.net.
 ianmedia.ng.		3600	IN	NS	ns2.qservers.net.
 iask.ng.		3600	IN	NS	ns1.cloudoon.com.
@@ -44521,6 +44520,8 @@ msdtraveltours.ng.	3600	IN	NS	ns1.qservers.net.
 msdtraveltours.ng.	3600	IN	NS	ns2.qservers.net.
 msffoundation.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 msffoundation.ng.	3600	IN	NS	dns2.namecheaphosting.com.
+msfood.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+msfood.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 msgrowth.ng.		3600	IN	NS	ns29.doveserver.com.
 msgrowth.ng.		3600	IN	NS	ns30.doveserver.com.
 mshades.ng.		3600	IN	NS	ns71.whogohost.com.
@@ -47092,8 +47093,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -56978,6 +56979,8 @@ rawessence.ng.		3600	IN	NS	chi-ns1.websitehostserver.net.
 rawessence.ng.		3600	IN	NS	chi-ns2.websitehostserver.net.
 rawfoods.ng.		3600	IN	NS	jay.ns.cloudflare.com.
 rawfoods.ng.		3600	IN	NS	gwen.ns.cloudflare.com.
+rawli.ng.		3600	IN	NS	ns1.upperserver29.om.
+rawli.ng.		3600	IN	NS	ns2.upperserver29.com.
 rawson.ng.		3600	IN	NS	ns1.upperserver29.com.
 rawson.ng.		3600	IN	NS	ns2.upperserver29.com.
 ray.ng.			3600	IN	NS	nsa.whogohost.com.
@@ -63735,6 +63738,8 @@ solution.ng.		3600	IN	NS	ns1.dns-parking.com.
 solution.ng.		3600	IN	NS	ns2.dns-parking.com.
 solutionchest.ng.	3600	IN	NS	ns17.qservers.net.
 solutionchest.ng.	3600	IN	NS	ns18.qservers.net.
+solutionishere.ng.	3600	IN	NS	ns1.cfamedia.net.
+solutionishere.ng.	3600	IN	NS	ns2.cfamedia.net.
 solutionproducts.ng.	3600	IN	NS	nsa.whogohost.com.
 solutionproducts.ng.	3600	IN	NS	nsb.whogohost.com.
 solutionsfm.ng.		3600	IN	NS	ns1.softingenious.com.
@@ -77829,4 +77834,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050814 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050819 10800 3600 604800 3600
