@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050836 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1652035297"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050842 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1652046807"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -5907,6 +5907,7 @@ autotrust.ng.		3600	IN	NS	ns21.qservers.net.
 autotrust.ng.		3600	IN	NS	ns22.qservers.net.
 autovestium.ng.		3600	IN	NS	nsa.whogohost.com.
 autovestium.ng.		3600	IN	NS	nsb.whogohost.com.
+autoware.ng.		3600	IN	NS	dns1.web-hosting.com.
 autoware.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 autoware.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 autowerks.ng.		3600	IN	NS	ns01.domaincontrol.com.
@@ -10411,8 +10412,8 @@ brora.ng.		3600	IN	NS	ns1.thcservers.com.
 brora.ng.		3600	IN	NS	ns2.thcservers.com.
 brora.ng.		3600	IN	NS	ns3.thcservers.com.
 brora.ng.		3600	IN	NS	ns4.thcservers.com.
-bros.ng.		3600	IN	NS	ns01.hkdns.host.
-bros.ng.		3600	IN	NS	ns02.hkdns.host.
+bros.ng.		3600	IN	NS	ns1.hstn.me.
+bros.ng.		3600	IN	NS	ns2.hstn.me.
 brosmi.ng.		3600	IN	NS	dns1.doveserver.com.
 brosmi.ng.		3600	IN	NS	dns2.doveserver.com.
 brother.ng.		3600	IN	NS	ns21.smartwebng.com.
@@ -10885,6 +10886,8 @@ businessline.ng.	3600	IN	NS	ns45.doveserver.com.
 businessline.ng.	3600	IN	NS	ns46.doveserver.com.
 businesslink.ng.	3600	IN	NS	ns1.appleconnectng.com.
 businesslink.ng.	3600	IN	NS	ns2.appleconnectng.com.
+businesslist.ng.	3600	IN	NS	ns8447.hostgator.com.
+businesslist.ng.	3600	IN	NS	ns8448.hostgator.com.
 businesslive.ng.	3600	IN	NS	ns1.dnugawebs.com.
 businesslive.ng.	3600	IN	NS	ns2.dnugawebs.com.
 businessloan.ng.	3600	IN	NS	ns1.upperserver29.com.
@@ -47119,8 +47122,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -49617,8 +49620,10 @@ ogbeide-ihama.ng.	3600	IN	NS	ns1.darrell-hill.com.
 ogbeide-ihama.ng.	3600	IN	NS	ns2.darrell-hill.com.
 ogbeni.ng.		3600	IN	NS	ns1.dknoc.com.
 ogbeni.ng.		3600	IN	NS	ns2.dknoc.com.
-ogbeta.ng.		3600	IN	NS	fred.ns.cloudflare.com.
-ogbeta.ng.		3600	IN	NS	tricia.ns.cloudflare.com.
+ogbeta.ng.		3600	IN	NS	ns1.a2hosting.com.
+ogbeta.ng.		3600	IN	NS	ns2.a2hosting.com.
+ogbeta.ng.		3600	IN	NS	ns3.a2hosting.com.
+ogbeta.ng.		3600	IN	NS	ns4.a2hosting.com.
 ogbete.ng.		3600	IN	NS	nsa.whogohost.com.
 ogbete.ng.		3600	IN	NS	nsb.whogohost.com.
 ogbomoso.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -51796,8 +51801,8 @@ pait.ng.		3600	IN	NS	ns19.qservers.net.
 pait.ng.		3600	IN	NS	ns20.qservers.net.
 pakam.ng.		3600	IN	NS	damien.ns.cloudflare.com.
 pakam.ng.		3600	IN	NS	anastasia.ns.cloudflare.com.
-pakeji.ng.		3600	IN	NS	dns1.namecheaphosting.com.
-pakeji.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+pakeji.ng.		3600	IN	NS	ns100.hostwhitelabel.com.
+pakeji.ng.		3600	IN	NS	ns200.hostwhitelabel.com.
 pakistan.ng.		3600	IN	NS	cp.nira.org.ng.
 pakistan.ng.		3600	IN	NS	ns1.nira.org.ng.
 pal.ng.			3600	IN	NS	ns3.epik.com.
@@ -54920,8 +54925,8 @@ primegrocers.ng.	3600	IN	NS	ns1.giow1053.siteground.us.
 primegrocers.ng.	3600	IN	NS	ns2.giow1053.siteground.us.
 primeguage.ng.		3600	IN	NS	ns9.trivaluehost.com.
 primeguage.ng.		3600	IN	NS	ns10.trivaluehost.com.
-primehealth.ng.		3600	IN	NS	dns1.doveserver.com.
-primehealth.ng.		3600	IN	NS	dns2.doveserver.com.
+primehealth.ng.		3600	IN	NS	nile.ns.cloudflare.com.
+primehealth.ng.		3600	IN	NS	betty.ns.cloudflare.com.
 primehub.ng.		3600	IN	NS	ns29.qservers.net.
 primehub.ng.		3600	IN	NS	ns30.qservers.net.
 primejob.ng.		3600	IN	NS	dns1.doveserver.com.
@@ -76952,9 +76957,9 @@ yinya.ng.		3600	IN	NS	nsa.whogohost.com.
 yinya.ng.		3600	IN	NS	nsb.whogohost.com.
 yip.ng.			3600	IN	NS	ns1.yiponline.com.
 yip.ng.			3600	IN	NS	ns2.yiponline.com.
-yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yipe.ng.		3600	IN	NS	clint.ns.cloudflare.com.
 yipe.ng.		3600	IN	NS	addyson.ns.cloudflare.com.
+yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yippee.ng.		3600	IN	NS	nsa.whogohost.com.
 yippee.ng.		3600	IN	NS	nsb.whogohost.com.
 yiqi.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -77876,4 +77881,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050836 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050842 10800 3600 604800 3600
