@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050808 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1651981654"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050814 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1651993165"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -19170,6 +19170,8 @@ donzy.ng.		3600	IN	NS	ns1045.ui-dns.com.
 donzy.ng.		3600	IN	NS	ns1045.ui-dns.org.
 dook.ng.		3600	IN	NS	nsa.whogohost.com.
 dook.ng.		3600	IN	NS	nsb.whogohost.com.
+doonething.ng.		3600	IN	NS	nsa.whogohost.com.
+doonething.ng.		3600	IN	NS	nsb.whogohost.com.
 doors.ng.		3600	IN	NS	jeff.ns.cloudflare.com.
 doors.ng.		3600	IN	NS	becky.ns.cloudflare.com.
 doorstep.ng.		3600	IN	NS	ns1.serverhostgroup.com.
@@ -24430,9 +24432,9 @@ fieldpro.ng.		3600	IN	NS	linda.ns.cloudflare.com.
 fieldpro.ng.		3600	IN	NS	terry.ns.cloudflare.com.
 fifa.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 fifa.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+fifi.ng.		86400	IN	DS	57991 13 2 06129C9BA20EF9901FF9482FE0AE82427FCADB901C5A108482E9D0BE 5D387CD9
 fifi.ng.		3600	IN	NS	ns3.epik.com.
 fifi.ng.		3600	IN	NS	ns4.epik.com.
-fifi.ng.		86400	IN	DS	57991 13 2 06129C9BA20EF9901FF9482FE0AE82427FCADB901C5A108482E9D0BE 5D387CD9
 fifiscakeallure.ng.	3600	IN	NS	nsa.whogohost.com.
 fifiscakeallure.ng.	3600	IN	NS	nsb.whogohost.com.
 fighti.ng.		3600	IN	NS	tim.ns.cloudflare.com.
@@ -32232,8 +32234,9 @@ iamspecial.ng.		3600	IN	NS	ns2.beget.com.
 iamspecial.ng.		3600	IN	NS	ns2.beget.pro.
 ian.ng.			3600	IN	NS	ns1.sgp101.siteground.asia.
 ian.ng.			3600	IN	NS	ns2.sgp101.siteground.asia.
-ianalytics.ng.		3600	IN	NS	nsa.whogohost.com.
-ianalytics.ng.		3600	IN	NS	nsb.whogohost.com.
+ianalytics.ng.		3600	IN	NS	dns3.whogohost.com.
+ianalytics.ng.		3600	IN	NS	dns4.whogohost.com.
+ianalytics.ng.		3600	IN	NS	dns5.whogohost.com.
 ianmedia.ng.		3600	IN	NS	ns1.qservers.net.
 ianmedia.ng.		3600	IN	NS	ns2.qservers.net.
 iask.ng.		3600	IN	NS	ns1.cloudoon.com.
@@ -32391,6 +32394,8 @@ icen.ng.		3600	IN	NS	ns2.bh-65.webhostbox.net.
 icfcoachi.ng.		3600	IN	NS	ns1.101domain.com.
 icfcoachi.ng.		3600	IN	NS	ns2.101domain.com.
 icfcoachi.ng.		3600	IN	NS	ns5.101domain.com.
+icg.ng.			3600	IN	NS	ns1.upperserver29.com.
+icg.ng.			3600	IN	NS	ns2.upperserver29.com.
 icheck.ng.		3600	IN	NS	ns10.wixdns.net.
 icheck.ng.		3600	IN	NS	ns11.wixdns.net.
 icheckers.ng.		3600	IN	NS	sns5.bigrock.com.
@@ -47087,8 +47092,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -49376,9 +49381,9 @@ oddjobber.ng.		3600	IN	NS	ns21.doveserver.com.
 oddjobber.ng.		3600	IN	NS	ns22.doveserver.com.
 oddoneout.ng.		3600	IN	NS	ns541.domainhosting.com.ng.
 oddoneout.ng.		3600	IN	NS	ns542.domainhosting.com.ng.
+odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds.ng.		3600	IN	NS	ns3.epik.com.
 odds.ng.		3600	IN	NS	ns4.epik.com.
-odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds10.ng.		3600	IN	NS	dns1.doveserver.com.
 odds10.ng.		3600	IN	NS	dns2.doveserver.com.
 odds96.ng.		3600	IN	NS	ivy.ns.cloudflare.com.
@@ -58399,8 +58404,8 @@ richandfamous.ng.	3600	IN	NS	ns3.qservers.net.
 richandfamous.ng.	3600	IN	NS	ns4.qservers.net.
 richard.ng.		3600	IN	NS	leah.ns.cloudflare.com.
 richard.ng.		3600	IN	NS	carlos.ns.cloudflare.com.
-richardlamai.ng.	3600	IN	NS	ns1.upperserver29.com.
-richardlamai.ng.	3600	IN	NS	ns2.upperserver29.com.
+richardlamai.ng.	3600	IN	NS	ns1.pmh.name.ng.
+richardlamai.ng.	3600	IN	NS	ns2.pmh.name.ng.
 richardodibofoundation.ng. 3600	IN	NS	ns41.qservers.net.
 richardodibofoundation.ng. 3600	IN	NS	ns42.qservers.net.
 richfield.ng.		3600	IN	NS	ns1.bluehost.com.
@@ -63318,9 +63323,9 @@ snowfinance.ng.		3600	IN	NS	nsa.whogohost.com.
 snowfinance.ng.		3600	IN	NS	nsb.whogohost.com.
 snuggle.ng.		3600	IN	NS	ns1.vercel-dns-2.com.
 snuggle.ng.		3600	IN	NS	ns2.vercel-dns-2.com.
+soa.ng.			86400	IN	DS	51749 13 2 2D2074AB5FC63B049336FE07FDF793C5AF5AA3C999CEDC4F1A2A93FF 6DC5B3CE
 soa.ng.			3600	IN	NS	ns3.epik.com.
 soa.ng.			3600	IN	NS	ns4.epik.com.
-soa.ng.			86400	IN	DS	51749 13 2 2D2074AB5FC63B049336FE07FDF793C5AF5AA3C999CEDC4F1A2A93FF 6DC5B3CE
 soap.ng.		3600	IN	NS	ns1.sedoparking.com.
 soap.ng.		3600	IN	NS	ns2.sedoparking.com.
 soapy.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -77824,4 +77829,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050808 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022050814 10800 3600 604800 3600
