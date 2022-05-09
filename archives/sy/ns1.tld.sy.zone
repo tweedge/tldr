@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022050923 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1652090543"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022050929 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1652099537"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2226,6 +2226,8 @@ cv.sy.			86400	IN	NS	suspend1.tld.sy.
 cv.sy.			86400	IN	NS	suspend2.tld.sy.
 d2d.sy.			86400	IN	NS	dns319.doteasy.com.
 d2d.sy.			86400	IN	NS	dns320.doteasy.com.
+d2m-co.sy.		86400	IN	NS	ns16.samamax.com.
+d2m-co.sy.		86400	IN	NS	ns17.samamax.com.
 daamcard.sy.		86400	IN	NS	ns3.tld.sy.
 daamcard.sy.		86400	IN	NS	ns4.tld.sy.
 dabayah-bro.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6090,8 +6092,10 @@ scripts.sy.		86400	IN	NS	sydns1.nobalaa.com.
 scripts.sy.		86400	IN	NS	sydns2.nobalaa.com.
 scs.sy.			86400	IN	NS	ns3.tld.sy.
 scs.sy.			86400	IN	NS	ns4.tld.sy.
-scs-net.sy.		86400	IN	NS	suspend1.tld.sy.
-scs-net.sy.		86400	IN	NS	suspend2.tld.sy.
+scs-net.sy.		86400	IN	NS	ns1.scs-net.sy.
+scs-net.sy.		86400	IN	NS	ns2.scs-net.sy.
+ns1.scs-net.sy.		86400	IN	A	213.178.225.10
+ns2.scs-net.sy.		86400	IN	A	213.178.225.11
 sct.sy.			86400	IN	NS	suspend1.tld.sy.
 sct.sy.			86400	IN	NS	suspend2.tld.sy.
 sd.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -7760,4 +7764,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022050923 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022050929 3600 3600 2592000 3600
