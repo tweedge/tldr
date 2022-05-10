@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051014 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1652165913"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051019 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1652175523"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -7687,6 +7687,8 @@ betconsultant.ng.	3600	IN	NS	ns354.websitewelcome.com.
 betcris.ng.		3600	IN	NS	ns01.trademarkarea.com.
 betcris.ng.		3600	IN	NS	ns02.trademarkarea.com.
 betcris.ng.		3600	IN	NS	ns03.trademarkarea.com.
+betcrown.ng.		3600	IN	NS	dns1.doveserver.com.
+betcrown.ng.		3600	IN	NS	dns2.doveserver.com.
 betdo.ng.		3600	IN	NS	ns545.domainhosting.com.ng.
 betdo.ng.		3600	IN	NS	ns546.domainhosting.com.ng.
 betdoin.ng.		3600	IN	NS	ns545.domainhosting.com.ng.
@@ -7877,8 +7879,8 @@ betterhalf.ng.		3600	IN	NS	nsa.whogohost.com.
 betterhalf.ng.		3600	IN	NS	nsb.whogohost.com.
 betterhealth.ng.	3600	IN	NS	ns15.doveserver.com.
 betterhealth.ng.	3600	IN	NS	ns16.doveserver.com.
-betterlending.ng.	3600	IN	NS	nsa.whogohost.com.
-betterlending.ng.	3600	IN	NS	nsb.whogohost.com.
+betterlending.ng.	3600	IN	NS	ns1.alidns.com.
+betterlending.ng.	3600	IN	NS	ns2.alidns.com.
 betterlifemfb.ng.	3600	IN	NS	ns37.qservers.net.
 betterlifemfb.ng.	3600	IN	NS	ns38.qservers.net.
 betteryou.ng.		3600	IN	NS	ns1.web4africa.com.
@@ -18346,8 +18348,6 @@ digitalacademy.ng.	3600	IN	NS	ns3.doveserver.com.
 digitalacademy.ng.	3600	IN	NS	ns4.doveserver.com.
 digitalads.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 digitalads.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-digitalassets.ng.	3600	IN	NS	nsa.whogohost.com.
-digitalassets.ng.	3600	IN	NS	nsb.whogohost.com.
 digitalassociates.ng.	3600	IN	NS	ns1.dkshared1.com.
 digitalassociates.ng.	3600	IN	NS	ns2.dkshared1.com.
 digitalbank.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -25639,6 +25639,8 @@ foodanddrinxvault.ng.	3600	IN	NS	ns3.web4africa.com.
 foodanddrinxvault.ng.	3600	IN	NS	ns4.web4africa.com.
 foodanthem.ng.		3600	IN	NS	nsa.whogohost.com.
 foodanthem.ng.		3600	IN	NS	nsb.whogohost.com.
+foodapp.ng.		3600	IN	NS	ns1.qservers.net.
+foodapp.ng.		3600	IN	NS	ns2.qservers.net.
 foodbakery.ng.		3600	IN	NS	ns1-35.azure-dns.com.
 foodbakery.ng.		3600	IN	NS	ns2-35.azure-dns.net.
 foodbakery.ng.		3600	IN	NS	ns3-35.azure-dns.org.
@@ -48532,6 +48534,8 @@ nordtravel.ng.		3600	IN	NS	nsa.whogohost.com.
 nordtravel.ng.		3600	IN	NS	nsb.whogohost.com.
 norfolkisland.ng.	3600	IN	NS	cp.nira.org.ng.
 norfolkisland.ng.	3600	IN	NS	ns1.nira.org.ng.
+norifarms.ng.		3600	IN	NS	ns7.domainhosting.com.ng.
+norifarms.ng.		3600	IN	NS	ns8.domainhosting.com.ng.
 norland.ng.		3600	IN	NS	ns8259.hostgator.com.
 norland.ng.		3600	IN	NS	ns8260.hostgator.com.
 norlandshopex.ng.	3600	IN	NS	ns23.qservers.net.
@@ -65155,6 +65159,8 @@ stayone.ng.		3600	IN	NS	ns3.a2hosting.com.
 stayone.ng.		3600	IN	NS	ns4.a2hosting.com.
 stays.ng.		3600	IN	NS	ns1.de12.fcomet.com.
 stays.ng.		3600	IN	NS	ns2.de12.fcomet.com.
+stayupaviation.ng.	3600	IN	NS	ns19.smartwebng.com.
+stayupaviation.ng.	3600	IN	NS	ns20.smartwebng.com.
 stc30.ng.		3600	IN	NS	ns1.dknoc.com.
 stc30.ng.		3600	IN	NS	ns2.dknoc.com.
 stcloud.ng.		3600	IN	NS	flying-dove1.21ctl.com.
@@ -71436,9 +71442,8 @@ tupperware.ng.		3600	IN	NS	ns1.tupperware.net.
 tupperware.ng.		3600	IN	NS	ns2.tupperware.net.
 turbo.ng.		3600	IN	NS	ns1.parkingcrew.net.
 turbo.ng.		3600	IN	NS	ns2.parkingcrew.net.
-turbocart.ng.		3600	IN	NS	ns1.contabo.net.
-turbocart.ng.		3600	IN	NS	ns2.contabo.net.
-turbocart.ng.		3600	IN	NS	ns3.contabo.net.
+turbocart.ng.		3600	IN	NS	poppy.ns.cloudflare.com.
+turbocart.ng.		3600	IN	NS	christian.ns.cloudflare.com.
 turbocash.ng.		3600	IN	NS	nsa.whogohost.com.
 turbocash.ng.		3600	IN	NS	nsb.whogohost.com.
 turboerrands.ng.	3600	IN	NS	ns43.qservers.net.
@@ -77858,4 +77863,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051014 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051019 10800 3600 604800 3600
