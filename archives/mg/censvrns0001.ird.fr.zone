@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051004 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051007 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1652155253"
+mg.			7200	IN	TXT	"Generation Time: 1652166035"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1899,8 +1899,6 @@ bonbon-anglais.mg.	7200	IN	NS	ns1.mg.tambazotra.net.
 bonbon-anglais.mg.	7200	IN	NS	ns2.mg.tambazotra.net.
 boncoin.mg.		7200	IN	NS	ns1.101domain.com.
 boncoin.mg.		7200	IN	NS	ns2.101domain.com.
-bongolavamaitso.mg.	7200	IN	NS	ns1.da.cloudns.io.
-bongolavamaitso.mg.	7200	IN	NS	ns2.da.cloudns.io.
 bongou.mg.		7200	IN	NS	ns1.da.cloudns.io.
 bongou.mg.		7200	IN	NS	ns2.da.cloudns.io.
 bonjour.mg.		7200	IN	NS	ns1.compureweb.net.
@@ -4209,8 +4207,8 @@ fytech-group.mg.	86400	IN	NS	ns1.cloudns.io.
 fytech-group.mg.	86400	IN	NS	ns2.cloudns.io.
 g0.mg.			86400	IN	NS	ns0.cabestan.com.
 g0.mg.			86400	IN	NS	ns1.cabestan.com.
-g3d-ue.mg.		86400	IN	NS	ns1.cloudns.io.
-g3d-ue.mg.		86400	IN	NS	ns2.cloudns.io.
+g3d-ue.mg.		86400	IN	NS	ns1.da.cloudns.io.
+g3d-ue.mg.		86400	IN	NS	ns2.da.cloudns.io.
 g4s.mg.			86400	IN	NS	dns1.idp365.net.
 g4s.mg.			86400	IN	NS	dns2.idp365.net.
 g4s.mg.			86400	IN	NS	dns3.idp365.net.
@@ -6375,9 +6373,9 @@ madagascar-edu.mg.	86400	IN	NS	ns2.servermada.com.
 madagascar-instn.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns1.fr.malagasy.com.
-madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-internet.mg.	86400	IN	NS	ns1.servermada.com.
 madagascar-internet.mg.	86400	IN	NS	ns2.servermada.com.
+madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns2.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.fr.malagasy.com.
@@ -7508,6 +7506,8 @@ netter.mg.		86400	IN	NS	ns20.ovh.net.
 network.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 network.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 network.mg.		86400	IN	NS	ns1.fr.malagasy.com.
+neurone.mg.		86400	IN	NS	ns1.da.cloudns.io.
+neurone.mg.		86400	IN	NS	ns2.da.cloudns.io.
 newbuy.mg.		86400	IN	NS	rafe.ns.cloudflare.com.
 newbuy.mg.		86400	IN	NS	walt.ns.cloudflare.com.
 newfeel.mg.		86400	IN	NS	ns-106-a.gandi.net.
@@ -7864,8 +7864,6 @@ oneway.mg.		86400	IN	NS	ns1.simplecloud.ru.
 oneway.mg.		86400	IN	NS	ns2.simplecloud.ru.
 ong-diakonia.mg.	86400	IN	NS	ns1.cloudns.io.
 ong-diakonia.mg.	86400	IN	NS	ns2.cloudns.io.
-ongmiarintsoa.mg.	86400	IN	NS	ns1.da.cloudns.io.
-ongmiarintsoa.mg.	86400	IN	NS	ns2.da.cloudns.io.
 ongtimothee.mg.		86400	IN	NS	ns1.da.cloudns.io.
 ongtimothee.mg.		86400	IN	NS	ns2.da.cloudns.io.
 onim.mg.		86400	IN	NS	ns1.indritech.mg.
@@ -11531,4 +11529,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051004 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051007 600 3600 604800 86400
