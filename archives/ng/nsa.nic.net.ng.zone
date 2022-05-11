@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051108 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1652240851"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051114 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1652252379"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -20665,7 +20665,10 @@ ecosoftnigeria.ng.	3600	IN	NS	ns21.doveserver.com.
 ecosoftnigeria.ng.	3600	IN	NS	ns22.doveserver.com.
 ecosystem.ng.		3600	IN	NS	ns1.dkshared1.com.
 ecosystem.ng.		3600	IN	NS	ns2.dkshared1.com.
-ecotfx.ng.		3600	IN	NS	ec2-3-71-225-27.eu-central-1.compute.amazonaws.com.
+ecotfx.ng.		3600	IN	NS	ns-253.awsdns-31.com.
+ecotfx.ng.		3600	IN	NS	ns-869.awsdns-44.net.
+ecotfx.ng.		3600	IN	NS	ns-1062.awsdns-04.org.
+ecotfx.ng.		3600	IN	NS	ns-1629.awsdns-11.co.uk.
 ecoupon.ng.		3600	IN	NS	ns1.ultahost.com.
 ecoupon.ng.		3600	IN	NS	ns2.ultahost.com.
 ecoupon.ng.		3600	IN	NS	ns3.ultahost.com.
@@ -31113,8 +31116,8 @@ holyfamilyhospital.ng.	3600	IN	NS	ns-1461.awsdns-54.org.
 holyfamilyhospital.ng.	3600	IN	NS	ns-2021.awsdns-60.co.uk.
 holysee.ng.		3600	IN	NS	cp.nira.org.ng.
 holysee.ng.		3600	IN	NS	ns1.nira.org.ng.
-homaj.ng.		3600	IN	NS	ns18.utiware.net.
-homaj.ng.		3600	IN	NS	ns19.utiware.net.
+homaj.ng.		3600	IN	NS	ns1.dns-parking.com.
+homaj.ng.		3600	IN	NS	ns2.dns-parking.com.
 homan.ng.		3600	IN	NS	nsa.whogohost.com.
 homan.ng.		3600	IN	NS	nsb.whogohost.com.
 home.ng.		3600	IN	NS	ns1.parkingcrew.net.
@@ -47127,8 +47130,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -48251,6 +48254,8 @@ nixdemo.ng.		3600	IN	NS	ns2.digitalocean.com.
 nixdemo.ng.		3600	IN	NS	ns3.digitalocean.com.
 njalo.ng.		3600	IN	NS	dell.ns.cloudflare.com.
 njalo.ng.		3600	IN	NS	darwin.ns.cloudflare.com.
+njayblog.ng.		3600	IN	NS	ns51.qservers.net.
+njayblog.ng.		3600	IN	NS	ns52.qservers.net.
 njcpensionenrol.ng.	3600	IN	NS	ns1.site4now.net.
 njcpensionenrol.ng.	3600	IN	NS	ns2.site4now.net.
 njcpensionenrol.ng.	3600	IN	NS	ns3.site4now.net.
@@ -54041,8 +54046,8 @@ plugonline.ng.		3600	IN	NS	ns2.upperserver29.com.
 plugr.ng.		3600	IN	NS	ns1.digitalocean.com.
 plugr.ng.		3600	IN	NS	ns2.digitalocean.com.
 plugr.ng.		3600	IN	NS	ns3.digitalocean.com.
-plugs.ng.		3600	IN	NS	veda.ns.cloudflare.com.
-plugs.ng.		3600	IN	NS	harvey.ns.cloudflare.com.
+plugs.ng.		3600	IN	NS	ns1.epizy.com.
+plugs.ng.		3600	IN	NS	ns2.epizy.com.
 plugz.ng.		3600	IN	NS	ns1.web4africa.com.
 plugz.ng.		3600	IN	NS	ns2.web4africa.com.
 plugz.ng.		3600	IN	NS	ns3.web4africa.com.
@@ -66506,8 +66511,8 @@ swiftkampus.ng.		3600	IN	NS	ns1.a2hosting.com.
 swiftkampus.ng.		3600	IN	NS	ns2.a2hosting.com.
 swiftkampus.ng.		3600	IN	NS	ns3.a2hosting.com.
 swiftkampus.ng.		3600	IN	NS	ns4.a2hosting.com.
-swiftlink.ng.		3600	IN	NS	ns1.myhostlab.com.
-swiftlink.ng.		3600	IN	NS	ns2.myhostlab.com.
+swiftlink.ng.		3600	IN	NS	ns1.upperserver29.com.
+swiftlink.ng.		3600	IN	NS	ns2.upperserver29.com.
 swiftlinklogistics.ng.	3600	IN	NS	ns1.cp-32.webhostbox.net.
 swiftlinklogistics.ng.	3600	IN	NS	ns2.cp-32.webhostbox.net.
 swiftlogisticsnetwork.ng. 3600	IN	NS	ns11.webshineglobal.xyz.
@@ -77900,4 +77905,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051108 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051114 10800 3600 604800 3600
