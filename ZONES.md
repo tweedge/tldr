@@ -20,7 +20,6 @@
 * `kg` via `NS2.kg.`: [Click here to view zone data.](archives/kg/NS2.kg.zone)
 * `mg` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/mg/censvrns0001.ird.fr.zone)
 * `mw` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/chambo.sdnp.org.mw.zone)
-* `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
 * `ng` via `nsa.nic.net.ng.`: [Click here to view zone data.](archives/ng/nsa.nic.net.ng.zone)
 * `sn` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/sn/censvrns0001.ird.fr.zone)
 * `sy` via `ns1.tld.sy.`: [Click here to view zone data.](archives/sy/ns1.tld.sy.zone)
