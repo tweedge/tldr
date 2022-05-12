@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051225 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1652359835"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051230 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1652371352"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -2532,6 +2532,8 @@ agrocity.ng.		3600	IN	NS	ns28.websitewelcome.com.
 agrodata.ng.		3600	IN	NS	dns1.serverquality.com.
 agrodata.ng.		3600	IN	NS	dns2.serverquality.com.
 agrodata.ng.		3600	IN	NS	dns3.serverquality.com.
+agrodrone.ng.		3600	IN	NS	dns1.doveserver.com.
+agrodrone.ng.		3600	IN	NS	dns2.doveserver.com.
 agrofresh.ng.		3600	IN	NS	ns1-09.azure-dns.com.
 agrofresh.ng.		3600	IN	NS	ns2-09.azure-dns.net.
 agrofresh.ng.		3600	IN	NS	ns3-09.azure-dns.org.
@@ -8112,6 +8114,8 @@ bibendum.ng.		3600	IN	NS	dns1.cscdns.net.
 bibendum.ng.		3600	IN	NS	dns2.cscdns.net.
 bibimoney.ng.		3600	IN	NS	ns1.upperserver29.com.
 bibimoney.ng.		3600	IN	NS	ns2.upperserver29.com.
+biblehouse.ng.		3600	IN	NS	ns1.bsnproject.org.
+biblehouse.ng.		3600	IN	NS	ns2.bsnproject.org.
 bibleway.ng.		3600	IN	NS	asa.ns.cloudflare.com.
 bibleway.ng.		3600	IN	NS	emerson.ns.cloudflare.com.
 biccon.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -13315,9 +13319,8 @@ chickenfishdaily.ng.	3600	IN	NS	nsa.whogohost.com.
 chickenfishdaily.ng.	3600	IN	NS	nsb.whogohost.com.
 chickenpalace.ng.	3600	IN	NS	ns1.vultr.com.
 chickenpalace.ng.	3600	IN	NS	ns2.vultr.com.
-chicking.ng.		3600	IN	NS	ns01.trademarkarea.com.
-chicking.ng.		3600	IN	NS	ns02.trademarkarea.com.
-chicking.ng.		3600	IN	NS	ns03.trademarkarea.com.
+chicking.ng.		3600	IN	NS	ns1.padyhost.com.
+chicking.ng.		3600	IN	NS	ns2.padyhost.com.
 chiefchips.ng.		3600	IN	NS	nsa.whogohost.com.
 chiefchips.ng.		3600	IN	NS	nsb.whogohost.com.
 chiefcook.ng.		3600	IN	NS	ns1.qservers.net.
@@ -17085,6 +17088,9 @@ dailyscoop.ng.		3600	IN	NS	alex.ns.cloudflare.com.
 dailyscoop.ng.		3600	IN	NS	chloe.ns.cloudflare.com.
 dailyshot.ng.		3600	IN	NS	nsa.whogohost.com.
 dailyshot.ng.		3600	IN	NS	nsb.whogohost.com.
+dailysketch.ng.		3600	IN	NS	ns1.serverhostgroup.com.
+dailysketch.ng.		3600	IN	NS	ns2.serverhostgroup.com.
+dailysketch.ng.		3600	IN	NS	ns3.serverhostgroup.com.
 dailystar.ng.		3600	IN	NS	arch.ns.cloudflare.com.
 dailystar.ng.		3600	IN	NS	lisa.ns.cloudflare.com.
 dailystream.ng.		3600	IN	NS	ns1.bluehost.com.
@@ -21338,8 +21344,10 @@ ekoconnect.ng.		3600	IN	NS	nsa.whogohost.com.
 ekoconnect.ng.		3600	IN	NS	nsb.whogohost.com.
 ekodigital.ng.		3600	IN	NS	nsa.whogohost.com.
 ekodigital.ng.		3600	IN	NS	nsb.whogohost.com.
-ekodrop.ng.		3600	IN	NS	nsa.whogohost.com.
-ekodrop.ng.		3600	IN	NS	nsb.whogohost.com.
+ekodrop.ng.		3600	IN	NS	dns1.p01.nsone.net.
+ekodrop.ng.		3600	IN	NS	dns2.p01.nsone.net.
+ekodrop.ng.		3600	IN	NS	dns3.p01.nsone.net.
+ekodrop.ng.		3600	IN	NS	dns4.p01.nsone.net.
 ekoecurriculum.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 ekoecurriculum.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 ekoexcel.ng.		3600	IN	NS	ns-423.awsdns-52.com.
@@ -26065,6 +26073,8 @@ fortrac.ng.		3600	IN	NS	ns23.doveserver.com.
 fortrac.ng.		3600	IN	NS	ns24.doveserver.com.
 fortress.ng.		3600	IN	NS	ns1.parkingcrew.net.
 fortress.ng.		3600	IN	NS	ns2.parkingcrew.net.
+fortresssafety.ng.	3600	IN	NS	ns7.iclassserver.com.
+fortresssafety.ng.	3600	IN	NS	ns8.iclassserver.com.
 fortune.ng.		3600	IN	NS	ns1.parkingcrew.net.
 fortune.ng.		3600	IN	NS	ns2.parkingcrew.net.
 fortuneclinic.ng.	3600	IN	NS	ns1.dkshared2.com.
@@ -32803,6 +32813,8 @@ igreels.ng.		3600	IN	NS	ns1.lovellsnames.org.
 igreels.ng.		3600	IN	NS	ns2.lovellsnames.org.
 igreels.ng.		3600	IN	NS	ns3.lovellsnames.org.
 igreels.ng.		3600	IN	NS	ns4.lovellsnames.org.
+igroceries.ng.		3600	IN	NS	nsa.whogohost.com.
+igroceries.ng.		3600	IN	NS	nsb.whogohost.com.
 igrs.ng.		3600	IN	NS	dns.site5.com.
 igrs.ng.		3600	IN	NS	dns2.site5.com.
 igs.ng.			3600	IN	NS	ns29.hostnownow.com.
@@ -36999,6 +37011,8 @@ kingdom.ng.		3600	IN	NS	ns1.dknoc.com.
 kingdom.ng.		3600	IN	NS	ns2.dknoc.com.
 kingdomcarefoundation.ng. 3600	IN	NS	ns1.possibond.com.
 kingdomcarefoundation.ng. 3600	IN	NS	ns2.possibond.com.
+kingdomchambers.ng.	3600	IN	NS	nsa.whogohost.com.
+kingdomchambers.ng.	3600	IN	NS	nsb.whogohost.com.
 kingdomenergy.ng.	3600	IN	NS	ns1.registeram.com.
 kingdomenergy.ng.	3600	IN	NS	ns2.registeram.com.
 kingdomin.ng.		3600	IN	NS	ns1.dknoc.com.
@@ -67355,6 +67369,8 @@ tdebt.ng.		3600	IN	NS	nsa.whogohost.com.
 tdebt.ng.		3600	IN	NS	nsb.whogohost.com.
 tdegree.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 tdegree.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+tdilife.ng.		3600	IN	NS	nsa.whogohost.com.
+tdilife.ng.		3600	IN	NS	nsb.whogohost.com.
 tdl.ng.			3600	IN	NS	ns1.comfortdevelopers.com.
 tdl.ng.			3600	IN	NS	ns2.comfortdevelopers.com.
 tdm.ng.			3600	IN	NS	ns41.qservers.net.
@@ -70742,6 +70758,8 @@ transfy.ng.		3600	IN	NS	ns1.krypthub.com.
 transfy.ng.		3600	IN	NS	ns2.krypthub.com.
 transise.ng.		3600	IN	NS	nsa.whogohost.com.
 transise.ng.		3600	IN	NS	nsb.whogohost.com.
+transitbnb.ng.		3600	IN	NS	nsa.whogohost.com.
+transitbnb.ng.		3600	IN	NS	nsb.whogohost.com.
 translati.ng.		3600	IN	NS	ns1.sedoparking.com.
 translati.ng.		3600	IN	NS	ns2.sedoparking.com.
 translationequipment.ng. 3600	IN	NS	ns1.oneconverse.com.
@@ -77995,4 +78013,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051225 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051230 10800 3600 604800 3600
