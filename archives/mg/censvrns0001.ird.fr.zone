@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051310 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051313 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1652436113"
+mg.			7200	IN	TXT	"Generation Time: 1652446883"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1891,6 +1891,8 @@ boi.mg.			7200	IN	NS	ns.dts.mg.
 boi.mg.			7200	IN	NS	ns1.dts.mg.
 boina-adp.mg.		7200	IN	NS	ns1.servermada.com.
 boina-adp.mg.		7200	IN	NS	ns2.servermada.com.
+boite2com.mg.		7200	IN	NS	ns1.serveurgasy.com.
+boite2com.mg.		7200	IN	NS	ns2.serveurgasy.com.
 bon-plan-tourisme.mg.	7200	IN	NS	ns1.ntmada-webhosting.com.
 bon-plan-tourisme.mg.	7200	IN	NS	ns2.ntmada-webhosting.com.
 bonbon-anglais.mg.	7200	IN	NS	ns1.mg.tambazotra.net.
@@ -5926,6 +5928,8 @@ lamba.mg.		86400	IN	NS	ns1.cloudns.io.
 lamba.mg.		86400	IN	NS	ns2.cloudns.io.
 lamba1.mg.		86400	IN	NS	ns29.dot.mg.
 lamba1.mg.		86400	IN	NS	ns29.illi.co.mg.
+lambda.mg.		86400	IN	NS	raina.ns.cloudflare.com.
+lambda.mg.		86400	IN	NS	reese.ns.cloudflare.com.
 lamutuellegenerale.mg.	86400	IN	NS	ns1.eurodns.com.
 lamutuellegenerale.mg.	86400	IN	NS	ns2.eurodns.com.
 lamutuellegenerale.mg.	86400	IN	NS	ns3.eurodns.com.
@@ -6443,8 +6447,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -7472,6 +7476,8 @@ nd.mg.			86400	IN	NS	jean.ns.cloudflare.com.
 nd.mg.			86400	IN	NS	nile.ns.cloudflare.com.
 ndamahitsy.mg.		86400	IN	NS	ns1.da.cloudns.io.
 ndamahitsy.mg.		86400	IN	NS	ns2.da.cloudns.io.
+ndao-edev.mg.		86400	IN	NS	ns1.madanetinfo.mg.
+ndao-edev.mg.		86400	IN	NS	ns2.madanetinfo.mg.
 ndaohifanosikafianara.mg. 86400	IN	NS	nsmpro1.nordnet.com.
 ndaohifanosikafianara.mg. 86400	IN	NS	nsmpro2.nordnet.com.
 nehadesign.mg.		86400	IN	NS	ns1.servermada.com.
@@ -10826,8 +10832,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11550,4 +11556,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051310 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051313 600 3600 604800 86400
