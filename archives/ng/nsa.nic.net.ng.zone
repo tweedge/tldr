@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051419 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1652521171"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051425 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1652532631"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -95,8 +95,10 @@ ng.			3600	IN	NS	nsa.nic.net.ng.
 123.ng.			3600	IN	NS	ns4.hostinger.com.
 123carrygo.ng.		3600	IN	NS	ns1.qservers.net.
 123carrygo.ng.		3600	IN	NS	ns2.qservers.net.
-123movies.ng.		3600	IN	NS	ns1.xmovies8.so.
-123movies.ng.		3600	IN	NS	ns2.xmovies8.so.
+123movies.ng.		3600	IN	NS	ns1.123movies.ng.
+123movies.ng.		3600	IN	NS	ns2.123movies.ng.
+ns1.123movies.ng.	3600	IN	A	69.30.238.84
+ns2.123movies.ng.	3600	IN	A	69.30.238.84
 12pearls.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 12pearls.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 12zone.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -2102,6 +2104,7 @@ afos.ng.		3600	IN	NS	ns1.linkservehost.com.
 afos.ng.		3600	IN	NS	ns2.linkservehost.com.
 afos.ng.		3600	IN	NS	nsfavor.linkservehost.com.
 afos.ng.		3600	IN	NS	nsgrace.linkservehost.com.
+afotechedu.ng.		3600	IN	NS	dns1.web-hosting.com.
 afotechedu.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 afotechedu.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 afp.ng.			3600	IN	NS	ns1.icecoolcontracts.com.
@@ -47221,8 +47224,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -52700,9 +52703,8 @@ payright.ng.		3600	IN	NS	ns1.quantican.com.
 payright.ng.		3600	IN	NS	ns2.quantican.com.
 payrite.ng.		3600	IN	NS	nsa.whogohost.com.
 payrite.ng.		3600	IN	NS	nsb.whogohost.com.
-payriteonline.ng.	3600	IN	NS	ns1.digitalocean.com.
-payriteonline.ng.	3600	IN	NS	ns2.digitalocean.com.
-payriteonline.ng.	3600	IN	NS	ns3.digitalocean.com.
+payriteonline.ng.	3600	IN	NS	rudy.ns.cloudflare.com.
+payriteonline.ng.	3600	IN	NS	tess.ns.cloudflare.com.
 payroll.ng.		3600	IN	NS	pdns09.domaincontrol.com.
 payroll.ng.		3600	IN	NS	pdns10.domaincontrol.com.
 payrolls.ng.		3600	IN	NS	ns1.gigalayer.com.
@@ -52977,10 +52979,10 @@ peeri.ng.		3600	IN	NS	a.ns14.net.
 peeri.ng.		3600	IN	NS	b.ns14.net.
 peeri.ng.		3600	IN	NS	c.ns14.net.
 peeri.ng.		3600	IN	NS	d.ns14.net.
-peerpay.ng.		3600	IN	NS	ns1.web4africa.com.
-peerpay.ng.		3600	IN	NS	ns2.web4africa.com.
-peerpay.ng.		3600	IN	NS	ns3.web4africa.com.
-peerpay.ng.		3600	IN	NS	ns4.web4africa.com.
+peerpay.ng.		3600	IN	NS	ns-418.awsdns-52.com.
+peerpay.ng.		3600	IN	NS	ns-651.awsdns-17.net.
+peerpay.ng.		3600	IN	NS	ns-1257.awsdns-29.org.
+peerpay.ng.		3600	IN	NS	ns-1771.awsdns-29.co.uk.
 peersales.ng.		3600	IN	NS	nsa.whogohost.com.
 peersales.ng.		3600	IN	NS	nsb.whogohost.com.
 peerscore.ng.		3600	IN	NS	zelda.ns.cloudflare.com.
@@ -59905,6 +59907,8 @@ samsu.ng.		3600	IN	NS	ns3.hostinger.com.
 samsu.ng.		3600	IN	NS	ns4.hostinger.com.
 samsung.ng.		3600	IN	NS	dnssm.samsung.com.
 samsung.ng.		3600	IN	NS	dnsst.samsung.com.
+samtech.ng.		3600	IN	NS	ns17.smartwebng.com.
+samtech.ng.		3600	IN	NS	ns18.smartwebng.com.
 samtouchmedia.ng.	3600	IN	NS	nsa.whogohost.com.
 samtouchmedia.ng.	3600	IN	NS	nsb.whogohost.com.
 samtrix.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -59931,9 +59935,8 @@ sandatireda.ng.		3600	IN	NS	ns1.yahmis.com.
 sandatireda.ng.		3600	IN	NS	ns2.yahmis.com.
 sandbox.ng.		3600	IN	NS	ns1.qservers.net.
 sandbox.ng.		3600	IN	NS	ns2.qservers.net.
-sandboxpayrite.ng.	3600	IN	NS	ns1.digitalocean.com.
-sandboxpayrite.ng.	3600	IN	NS	ns2.digitalocean.com.
-sandboxpayrite.ng.	3600	IN	NS	ns3.digitalocean.com.
+sandboxpayrite.ng.	3600	IN	NS	rudy.ns.cloudflare.com.
+sandboxpayrite.ng.	3600	IN	NS	tess.ns.cloudflare.com.
 sandbrooke.ng.		3600	IN	NS	dns1.avanthostings.com.
 sandbrooke.ng.		3600	IN	NS	dns2.avanthostings.com.
 sandbrooke.ng.		3600	IN	NS	dns3.avanthostings.com.
@@ -65038,6 +65041,8 @@ standardbankgroup.ng.	3600	IN	NS	ns2.lexsynergy.us.
 standardbankgroup.ng.	3600	IN	NS	ns3.lexsynergy.info.
 standardbearersschool.ng. 3600	IN	NS	ns1.cp-19.webhostbox.net.
 standardbearersschool.ng. 3600	IN	NS	ns2.cp-19.webhostbox.net.
+standardconnectionsltd.ng. 3600	IN	NS	ns1.webhostingng.org.
+standardconnectionsltd.ng. 3600	IN	NS	ns2.webhostingng.org.
 standardfoundation.ng.	3600	IN	NS	ns39.qservers.net.
 standardfoundation.ng.	3600	IN	NS	ns40.qservers.net.
 standardjobs.ng.	3600	IN	NS	ns37.doveserver.com.
@@ -78055,4 +78060,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051419 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051425 10800 3600 604800 3600
