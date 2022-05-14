@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442576 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220713130002 20220514120002 17389 sn. CSIGsw4y/voU51Z47R87D9iM+irdlsdQqPCI8Yc0woRyv7hNmp1MQ8hc qjIHdye1Ga0IjXX+D3pn030TQfLcHQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442597 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220713161002 20220514151002 17389 sn. 8eSiNpiPIbKJ7xPWx33j4BJi7Uysr7Rqbcnjda22oo5F6FYW8j835cJg CBqMh3+15h8AqcMjkOhxDxh6RUUyGg==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220604160127 20220405154952 17389 sn. Gsk9tI8fuKB8nm/EsoyAGcjvlmtaARlj8/u03A0dCEYu3hFZwlKZByFh bWSy8k7Bae6SsubjzOeG2EHenjXw4g==
-sn.			172800	IN	TXT	"3 RRs processed [14/05/2022 15H00:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220602052516 20220514120002 17389 sn. xK+/T2ASotAwxtxPfqX0TQETdg24HO50g7CtjEe/cHAix9B9JdCxupb9 uVlmDcDQ63DXGi5OGPbuiTsV5rbKyg==
+sn.			172800	IN	TXT	"No RRs processed [14/05/2022 18H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220621101050 20220514151002 17389 sn. eLvJY+Z5ZFHk1B4be1sczp2/ub2Rr6M4I98+XWvODTMj9lIObhgazoZ1 jm5xo89MYoR5efI1JUDR93VMJ1IaYA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220611210832 20220412203838 37490 sn. uxzi0vujPrGJ0LdnCAiVfXk5qV0tJ/GGYdWNfoVRWSvG7hqibdvvcgdw 1ameWh7osi66hOfUiGnjk/LlWMmpvA==
@@ -189,10 +189,26 @@ sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220709070003 20220510060750 17389 sn. hYSTK
 2xbet.sn.		172800	IN	NS	ns4.kheweul.net.
 313services.sn.		172800	IN	NS	ns1.o2switch.net.
 313services.sn.		172800	IN	NS	ns2.o2switch.net.
+330.sn.			172800	IN	NS	pns101.cloudns.net.
+330.sn.			172800	IN	NS	pns102.cloudns.net.
+330.sn.			172800	IN	NS	pns103.cloudns.net.
+330.sn.			172800	IN	NS	pns104.cloudns.net.
+332.sn.			172800	IN	NS	pns101.cloudns.net.
+332.sn.			172800	IN	NS	pns102.cloudns.net.
+332.sn.			172800	IN	NS	pns103.cloudns.net.
+332.sn.			172800	IN	NS	pns104.cloudns.net.
 333.sn.			172800	IN	NS	ns5.afriregister.co.ke.
 333.sn.			172800	IN	NS	ns6.afriregister.co.ke.
 3333.sn.		172800	IN	NS	ns1.dns.com.
 3333.sn.		172800	IN	NS	ns2.dns.com.
+338.sn.			172800	IN	NS	pns101.cloudns.net.
+338.sn.			172800	IN	NS	pns102.cloudns.net.
+338.sn.			172800	IN	NS	pns103.cloudns.net.
+338.sn.			172800	IN	NS	pns104.cloudns.net.
+339.sn.			172800	IN	NS	pns101.cloudns.net.
+339.sn.			172800	IN	NS	pns102.cloudns.net.
+339.sn.			172800	IN	NS	pns103.cloudns.net.
+339.sn.			172800	IN	NS	pns104.cloudns.net.
 360.sn.			43200	IN	NS	ns16.ovh.net.
 360.sn.			43200	IN	NS	dns16.ovh.net.
 360fitness.sn.		43200	IN	NS	ns1.kheweul.net.
@@ -254,6 +270,18 @@ sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220709070003 20220510060750 17389 sn. hYSTK
 5555.sn.		172800	IN	NS	pns102.cloudns.net.
 5555.sn.		172800	IN	NS	pns103.cloudns.net.
 5555.sn.		172800	IN	NS	pns104.cloudns.net.
+661.sn.			172800	IN	NS	pns101.cloudns.net.
+661.sn.			172800	IN	NS	pns102.cloudns.net.
+661.sn.			172800	IN	NS	pns103.cloudns.net.
+661.sn.			172800	IN	NS	pns104.cloudns.net.
+662.sn.			172800	IN	NS	pns101.cloudns.net.
+662.sn.			172800	IN	NS	pns102.cloudns.net.
+662.sn.			172800	IN	NS	pns103.cloudns.net.
+662.sn.			172800	IN	NS	pns104.cloudns.net.
+665.sn.			172800	IN	NS	pns101.cloudns.net.
+665.sn.			172800	IN	NS	pns102.cloudns.net.
+665.sn.			172800	IN	NS	pns103.cloudns.net.
+665.sn.			172800	IN	NS	pns104.cloudns.net.
 666.sn.			43200	IN	NS	aria.ns.cloudflare.com.
 666.sn.			43200	IN	NS	john.ns.cloudflare.com.
 6666.sn.		172800	IN	NS	ns1.dns.com.
@@ -283,6 +311,30 @@ sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220709070003 20220510060750 17389 sn. hYSTK
 7tv.sn.			43200	IN	NS	ns2.kheweul.net.
 7tv.sn.			43200	IN	NS	ns3.kheweul.net.
 7tv.sn.			43200	IN	NS	ns4.kheweul.net.
+880.sn.			172800	IN	NS	pns101.cloudns.net.
+880.sn.			172800	IN	NS	pns102.cloudns.net.
+880.sn.			172800	IN	NS	pns103.cloudns.net.
+880.sn.			172800	IN	NS	pns104.cloudns.net.
+882.sn.			172800	IN	NS	pns101.cloudns.net.
+882.sn.			172800	IN	NS	pns102.cloudns.net.
+882.sn.			172800	IN	NS	pns103.cloudns.net.
+882.sn.			172800	IN	NS	pns104.cloudns.net.
+883.sn.			172800	IN	NS	pns101.cloudns.net.
+883.sn.			172800	IN	NS	pns102.cloudns.net.
+883.sn.			172800	IN	NS	pns103.cloudns.net.
+883.sn.			172800	IN	NS	pns104.cloudns.net.
+885.sn.			172800	IN	NS	pns101.cloudns.net.
+885.sn.			172800	IN	NS	pns102.cloudns.net.
+885.sn.			172800	IN	NS	pns103.cloudns.net.
+885.sn.			172800	IN	NS	pns104.cloudns.net.
+886.sn.			172800	IN	NS	pns101.cloudns.net.
+886.sn.			172800	IN	NS	pns102.cloudns.net.
+886.sn.			172800	IN	NS	pns103.cloudns.net.
+886.sn.			172800	IN	NS	pns104.cloudns.net.
+887.sn.			172800	IN	NS	pns101.cloudns.net.
+887.sn.			172800	IN	NS	pns102.cloudns.net.
+887.sn.			172800	IN	NS	pns103.cloudns.net.
+887.sn.			172800	IN	NS	pns104.cloudns.net.
 888.sn.			43200	IN	NS	dns1.idp365.net.
 888.sn.			43200	IN	NS	dns2.idp365.net.
 888.sn.			43200	IN	NS	dns3.idp365.net.
@@ -300,9 +352,29 @@ sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220709070003 20220510060750 17389 sn. hYSTK
 888sport.sn.		172800	IN	NS	dns1.idp365.net.
 888sport.sn.		172800	IN	NS	dns2.idp365.net.
 888sport.sn.		172800	IN	NS	dns3.idp365.net.
+889.sn.			172800	IN	NS	pns101.cloudns.net.
+889.sn.			172800	IN	NS	pns102.cloudns.net.
+889.sn.			172800	IN	NS	pns103.cloudns.net.
+889.sn.			172800	IN	NS	pns104.cloudns.net.
 911.sn.			172800	IN	NS	ns1.netim.net.
 911.sn.			172800	IN	NS	ns2.netim.net.
 911.sn.			172800	IN	NS	ns3.netim.net.
+991.sn.			172800	IN	NS	pns101.cloudns.net.
+991.sn.			172800	IN	NS	pns102.cloudns.net.
+991.sn.			172800	IN	NS	pns103.cloudns.net.
+991.sn.			172800	IN	NS	pns104.cloudns.net.
+992.sn.			172800	IN	NS	pns101.cloudns.net.
+992.sn.			172800	IN	NS	pns102.cloudns.net.
+992.sn.			172800	IN	NS	pns103.cloudns.net.
+992.sn.			172800	IN	NS	pns104.cloudns.net.
+993.sn.			172800	IN	NS	pns101.cloudns.net.
+993.sn.			172800	IN	NS	pns102.cloudns.net.
+993.sn.			172800	IN	NS	pns103.cloudns.net.
+993.sn.			172800	IN	NS	pns104.cloudns.net.
+995.sn.			172800	IN	NS	pns101.cloudns.net.
+995.sn.			172800	IN	NS	pns102.cloudns.net.
+995.sn.			172800	IN	NS	pns103.cloudns.net.
+995.sn.			172800	IN	NS	pns104.cloudns.net.
 999.sn.			172800	IN	NS	ns1.dns.com.
 999.sn.			172800	IN	NS	ns2.dns.com.
 9999.sn.		172800	IN	NS	ns1.dns.com.
@@ -1768,7 +1840,7 @@ arg.sn.			172800	IN	NS	dns20.ovh.net.
 ariesglobal.sn.		172800	IN	NS	ns20.ovh.net.
 ariesglobal.sn.		172800	IN	NS	dns20.ovh.net.
 ariesglobal.sn.		172800	IN	DS	43549 8 2 2F2EB2DFB7DDE9B95322666A489E5D1147CEDDBDEC875321D2EC12DA F0F3FA1C
-ariesglobal.sn.		172800	IN	RRSIG	DS 13 2 172800 20220528135706 20220329135442 17389 sn. dch6es05BgmQreP53q3MAWk9vlqzmIya21DK6qR5sWef1C5UnfIoQbyH eVKm/q78fCqgFJoLJmktDAVigOQS7A==
+ariesglobal.sn.		172800	IN	RRSIG	DS 13 2 172800 20220713133416 20220514125706 17389 sn. zp+PHrK/vFJE2AWfiOkp/9gHYU69HkxCvSuInxEYZVfmrnOWsC+AJHpd Vm+5ReAI9JqeuQwV0zVazyxK4DSo4A==
 arimex.sn.		43200	IN	NS	ns.sonatel.sn.
 arimex.sn.		43200	IN	NS	ns2.sonatel.sn.
 arimmo.sn.		172800	IN	NS	hosting202.ittrefle.net.
@@ -20141,7 +20213,7 @@ sunusante.sn.		43200	IN	NS	ns4.ascio.com.
 sunusenegal.sn.		43200	IN	NS	ns13.ovh.net.
 sunusenegal.sn.		43200	IN	NS	dns13.ovh.net.
 sunusenegal.sn.		43200	IN	DS	14761 8 2 5FFBDE70B7DD51F06551B9F9433F12B2A58E523C425FE14D7B44FA43 9995A47B
-sunusenegal.sn.		43200	IN	RRSIG	DS 13 2 43200 20220528145557 20220329144605 17389 sn. J+j0KN8cWaqA8Fg16yOSwzx7PaUHI/y7STJ4yFMnxiFLONqhooR66UvQ uNjVmH7vCa8lzWKB6AYOC96TPq00lw==
+sunusenegal.sn.		43200	IN	RRSIG	DS 13 2 43200 20220713143722 20220514135557 17389 sn. glQGxazDxzESXu07uVtwsAvBAS88/ib4bLIH9bR8wVuAC2d7gPZHi43R PTq5ZZQINCH+73DGU2Gv6sqcIe7ZVQ==
 sunushop.sn.		172800	IN	NS	ns3.wanekoohost.com.
 sunushop.sn.		172800	IN	NS	ns4.wanekoohost.com.
 sunushop.sn.		172800	IN	NS	ns5.wanekoohost.com.
@@ -25037,4 +25109,4 @@ VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 VV3IDF84ISCK27
 VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220630100647 20220501095741 17389 sn. AsGLri09q5aNPJJhAlKPR4ROO9gW+VKvzXJiWXbOkI0FsVDi0e1vSroh WyYP1q6UHXwujeSQimxPjrUCRaTbPg==
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 03E795UMJJIEBB4O5SBJU6BL20OBLSJS NS DS RRSIG
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220616220335 20220417215832 17389 sn. NKA2E2R6iLZQIH6f4LWT7WJiK7WoUGzqBQOUFxgcTkHQClYNPCESeozw icqHiccrAio3z3IiRsdrYGBVUEHo4A==
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442576 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442597 3600 1800 3600000 5400
