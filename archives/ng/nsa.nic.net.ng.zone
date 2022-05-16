@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051608 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1652672908"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051614 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1652684436"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -1811,8 +1811,8 @@ adopti.ng.		3600	IN	NS	ns1.domains.ng.
 adopti.ng.		3600	IN	NS	ns2.domains.ng.
 adorableshapers.ng.	3600	IN	NS	ns3.onenetservers.com.
 adorableshapers.ng.	3600	IN	NS	ns4.onenetservers.com.
-adorelifestyle.ng.	3600	IN	NS	andy.ns.cloudflare.com.
-adorelifestyle.ng.	3600	IN	NS	elle.ns.cloudflare.com.
+adorelifestyle.ng.	3600	IN	NS	nsa.whogohost.com.
+adorelifestyle.ng.	3600	IN	NS	nsb.whogohost.com.
 adp.ng.			3600	IN	NS	brit.ns.cloudflare.com.
 adp.ng.			3600	IN	NS	zeus.ns.cloudflare.com.
 adplus.ng.		3600	IN	NS	ns1.rimuhosting.com.
@@ -10093,6 +10093,8 @@ brandi.ng.		3600	IN	NS	ns1.dan.com.
 brandi.ng.		3600	IN	NS	ns2.dan.com.
 brandimpact.ng.		3600	IN	NS	ns73.qservers.net.
 brandimpact.ng.		3600	IN	NS	ns74.qservers.net.
+brandindex.ng.		3600	IN	NS	nsa.whogohost.com.
+brandindex.ng.		3600	IN	NS	nsb.whogohost.com.
 brandinn.ng.		3600	IN	NS	ns1.cloudoon.com.
 brandinn.ng.		3600	IN	NS	ns2.cloudoon.com.
 brandinn.ng.		3600	IN	NS	ns3.cloudoon.com.
@@ -16969,8 +16971,8 @@ daajo.ng.		3600	IN	NS	ns2.gigalayer.com.
 daajo.ng.		3600	IN	NS	ns3.gigalayer.com.
 daap.ng.		3600	IN	NS	ns02.2eenheid.nl.
 daap.ng.		3600	IN	NS	ns04.2eenheid.nl.
-daarfy.ng.		3600	IN	NS	nsa.whogohost.com.
-daarfy.ng.		3600	IN	NS	nsb.whogohost.com.
+daarfy.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+daarfy.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 daas.ng.		3600	IN	NS	nsa.whogohost.com.
 daas.ng.		3600	IN	NS	nsb.whogohost.com.
 daat.ng.		3600	IN	NS	dns1.doveserver.com.
@@ -36443,6 +36445,9 @@ kashia.ng.		3600	IN	NS	dns3.p02.nsone.net.
 kashia.ng.		3600	IN	NS	dns4.p02.nsone.net.
 kashifuinuwaabdullahi.ng. 3600	IN	NS	ns1.rapidhost.com.ng.
 kashifuinuwaabdullahi.ng. 3600	IN	NS	ns2.rapidhost.com.ng.
+kashing.ng.		3600	IN	NS	ns-85-b.gandi.net.
+kashing.ng.		3600	IN	NS	ns-102-a.gandi.net.
+kashing.ng.		3600	IN	NS	ns-123-c.gandi.net.
 kashkash.ng.		3600	IN	NS	ns-115.awsdns-14.com.
 kashkash.ng.		3600	IN	NS	ns-920.awsdns-51.net.
 kashkash.ng.		3600	IN	NS	ns-1510.awsdns-60.org.
@@ -40332,6 +40337,8 @@ lona.ng.		3600	IN	NS	ns1.bh-4.webhostbox.net.
 lona.ng.		3600	IN	NS	ns2.bh-4.webhostbox.net.
 lonadek.ng.		3600	IN	NS	ns1.lonadek.com.
 lonadek.ng.		3600	IN	NS	ns2.lonadek.com.
+lonamedia.ng.		3600	IN	NS	nsa.whogohost.com.
+lonamedia.ng.		3600	IN	NS	nsb.whogohost.com.
 lonboycleaners.ng.	3600	IN	NS	nsa.whogohost.com.
 lonboycleaners.ng.	3600	IN	NS	nsb.whogohost.com.
 london.ng.		3600	IN	NS	ns1.domains.ng.
@@ -47191,8 +47198,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -53236,8 +53243,8 @@ petrichor.ng.		3600	IN	NS	nsa.whogohost.com.
 petrichor.ng.		3600	IN	NS	nsb.whogohost.com.
 petro-app.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 petro-app.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-petroama.ng.		3600	IN	NS	ns1.cayenehosts.com.
-petroama.ng.		3600	IN	NS	ns2.cayenehosts.com.
+petroama.ng.		3600	IN	NS	ns101.cayenehost.com.
+petroama.ng.		3600	IN	NS	ns102.cayenehost.com.
 petrochinaintl.ng.	3600	IN	NS	ns01.trademarkarea.com.
 petrochinaintl.ng.	3600	IN	NS	ns02.trademarkarea.com.
 petrochinaintl.ng.	3600	IN	NS	ns03.trademarkarea.com.
@@ -53636,6 +53643,8 @@ piiri.ng.		3600	IN	NS	ns21.doveserver.com.
 piiri.ng.		3600	IN	NS	ns22.doveserver.com.
 pikin.ng.		3600	IN	NS	nsa.whogohost.com.
 pikin.ng.		3600	IN	NS	nsb.whogohost.com.
+pikup.ng.		3600	IN	NS	nsa.whogohost.com.
+pikup.ng.		3600	IN	NS	nsb.whogohost.com.
 pil.ng.			3600	IN	NS	ns543.domainhosting.com.ng.
 pil.ng.			3600	IN	NS	ns544.domainhosting.com.ng.
 pill.ng.		3600	IN	NS	ns1.sedoparking.com.
@@ -59617,6 +59626,8 @@ safevoyage.ng.		3600	IN	NS	dns6.whogohost.com.
 safevoyage.ng.		3600	IN	NS	dns7.whogohost.com.
 safevoyage.ng.		3600	IN	NS	dns8.whogohost.com.
 safevoyage.ng.		3600	IN	NS	dns9.whogohost.com.
+safi.ng.		3600	IN	NS	ns1.upperserver29.com.
+safi.ng.		3600	IN	NS	ns2.upperserver29.com.
 safinstant.ng.		3600	IN	NS	ns2.observatoiredesmarques.fr.
 safinstant.ng.		3600	IN	NS	ns3.nameshield.net.
 safinstant.ng.		3600	IN	NS	obs.ns1.fr.
@@ -78034,4 +78045,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051608 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051614 10800 3600 604800 3600
