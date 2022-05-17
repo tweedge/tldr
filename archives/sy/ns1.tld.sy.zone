@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022051720 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1652770935"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022051726 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1652781741"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1369,6 +1369,8 @@ ar.sy.			86400	IN	NS	ns1.dan.com.
 ar.sy.			86400	IN	NS	ns2.dan.com.
 arab.sy.		86400	IN	NS	suspend1.tld.sy.
 arab.sy.		86400	IN	NS	suspend2.tld.sy.
+arab-ecomm.sy.		86400	IN	NS	ns1.waveshost.sy.
+arab-ecomm.sy.		86400	IN	NS	ns2.waveshost.sy.
 arabasm.sy.		86400	IN	NS	suspend1.tld.sy.
 arabasm.sy.		86400	IN	NS	suspend2.tld.sy.
 arabbank-syria.sy.	86400	IN	NS	ns1.shamcenter.com.
@@ -6443,8 +6445,9 @@ smnsllc.sy.		86400	IN	NS	suspend1.tld.sy.
 smnsllc.sy.		86400	IN	NS	suspend2.tld.sy.
 smody-part.sy.		86400	IN	NS	suspend1.tld.sy.
 smody-part.sy.		86400	IN	NS	suspend2.tld.sy.
-smp.sy.			86400	IN	NS	suspend1.tld.sy.
-smp.sy.			86400	IN	NS	suspend2.tld.sy.
+smp.sy.			86400	IN	NS	ns1.smallvillages.com.
+smp.sy.			86400	IN	NS	ns2.smallvillages.com.
+smp.sy.			86400	IN	NS	ns3.smallvillages.com.
 sms.sy.			86400	IN	NS	ns1.damashost.com.
 sms.sy.			86400	IN	NS	ns2.damashost.com.
 sms-co.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7411,8 +7414,8 @@ unlimited.sy.		86400	IN	NS	ns1.shamcenter.com.
 unlimited.sy.		86400	IN	NS	ns2.shamcenter.com.
 uok.sy.			86400	IN	NS	ns3.tld.sy.
 uok.sy.			86400	IN	NS	ns4.tld.sy.
-upay.sy.		86400	IN	NS	ns1.scltd.sy.
-upay.sy.		86400	IN	NS	ns2.scltd.sy.
+upay.sy.		86400	IN	NS	suspend1.tld.sy.
+upay.sy.		86400	IN	NS	suspend2.tld.sy.
 upco.sy.		86400	IN	NS	suspend1.tld.sy.
 upco.sy.		86400	IN	NS	suspend2.tld.sy.
 upwork.sy.		86400	IN	NS	sydns1.nobalaa.com.
@@ -7782,4 +7785,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022051720 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022051726 3600 3600 2592000 3600
