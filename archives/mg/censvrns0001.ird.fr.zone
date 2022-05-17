@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051721 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051727 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1652781684"
+mg.			7200	IN	TXT	"Generation Time: 1652792492"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3390,6 +3390,8 @@ eichholtz.mg.		7200	IN	NS	ns4.netim.net.
 eichholtz.mg.		7200	IN	NS	ns5.netim.net.
 eiffage.mg.		7200	IN	NS	ns1.servermada.com.
 eiffage.mg.		7200	IN	NS	ns2.servermada.com.
+eight8company.mg.	7200	IN	NS	ns29.dot.mg.
+eight8company.mg.	7200	IN	NS	ns29.illi.co.mg.
 einstein.mg.		7200	IN	NS	ns-1596.awsdns-07.co.uk.
 einstein.mg.		7200	IN	NS	ns-944.awsdns-54.net.
 einstein.mg.		7200	IN	NS	ns-110.awsdns-13.com.
@@ -3939,6 +3941,8 @@ fisema.mg.		86400	IN	NS	ns1.da.cloudns.io.
 fisema.mg.		86400	IN	NS	ns2.da.cloudns.io.
 fitahiana.mg.		86400	IN	NS	ns.dts.mg.
 fitahiana.mg.		86400	IN	NS	ns1.dts.mg.
+fitampoha-menabe.mg.	86400	IN	NS	ns1.servermada.com.
+fitampoha-menabe.mg.	86400	IN	NS	ns2.servermada.com.
 fitaratra.mg.		86400	IN	NS	ns1.servermada.com.
 fitaratra.mg.		86400	IN	NS	ns2.servermada.com.
 fitefa.mg.		86400	IN	NS	ns1.da.cloudns.io.
@@ -11551,4 +11555,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051721 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051727 600 3600 604800 86400
