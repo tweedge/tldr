@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051708 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1652759309"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051714 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1652770836"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -4951,8 +4951,11 @@ artfactory.ng.		3600	IN	NS	ns3.web4africa.com.
 artfactory.ng.		3600	IN	NS	ns4.web4africa.com.
 artgallery.ng.		3600	IN	NS	ns1.ipage.com.
 artgallery.ng.		3600	IN	NS	ns2.ipage.com.
-arthomes.ng.		3600	IN	NS	nsa.whogohost.com.
-arthomes.ng.		3600	IN	NS	nsb.whogohost.com.
+arthomes.ng.		3600	IN	NS	freedns1.registrar-servers.com.
+arthomes.ng.		3600	IN	NS	freedns2.registrar-servers.com.
+arthomes.ng.		3600	IN	NS	freedns3.registrar-servers.com.
+arthomes.ng.		3600	IN	NS	freedns4.registrar-servers.com.
+arthomes.ng.		3600	IN	NS	freedns5.registrar-servers.com.
 arthrimed.ng.		3600	IN	NS	ns1045.ui-dns.de.
 arthrimed.ng.		3600	IN	NS	ns1045.ui-dns.biz.
 arthrimed.ng.		3600	IN	NS	ns1045.ui-dns.com.
@@ -39560,6 +39563,8 @@ lifevantage.ng.		3600	IN	NS	ns1.dknoc.com.
 lifevantage.ng.		3600	IN	NS	ns2.dknoc.com.
 lifevantagenigeria.ng.	3600	IN	NS	ns1.dknoc.com.
 lifevantagenigeria.ng.	3600	IN	NS	ns2.dknoc.com.
+lifi.ng.		3600	IN	NS	ns1.qservers.net.
+lifi.ng.		3600	IN	NS	ns2.qservers.net.
 lifti.ng.		3600	IN	NS	ns1.squadhelp.com.
 lifti.ng.		3600	IN	NS	ns2.squadhelp.com.
 liftinglife.ng.		3600	IN	NS	ns21.qservers.net.
@@ -47213,8 +47218,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -71623,8 +71628,8 @@ tupperware.ng.		3600	IN	NS	ns1.tupperware.net.
 tupperware.ng.		3600	IN	NS	ns2.tupperware.net.
 turbo.ng.		3600	IN	NS	ns1.parkingcrew.net.
 turbo.ng.		3600	IN	NS	ns2.parkingcrew.net.
-turbocart.ng.		3600	IN	NS	ns1.siteground.net.
-turbocart.ng.		3600	IN	NS	ns2.siteground.net.
+turbocart.ng.		3600	IN	NS	poppy.ns.cloudflare.com.
+turbocart.ng.		3600	IN	NS	christian.ns.cloudflare.com.
 turbocash.ng.		3600	IN	NS	nsa.whogohost.com.
 turbocash.ng.		3600	IN	NS	nsb.whogohost.com.
 turboerrands.ng.	3600	IN	NS	ns43.qservers.net.
@@ -71902,8 +71907,8 @@ udeme.ng.		3600	IN	NS	ns8243.hostgator.com.
 udeme.ng.		3600	IN	NS	ns8244.hostgator.com.
 udoka.ng.		3600	IN	NS	ns47.doveserver.com.
 udoka.ng.		3600	IN	NS	ns48.doveserver.com.
-udomemmanuel.ng.	3600	IN	NS	ns1.upperserver29.com.
-udomemmanuel.ng.	3600	IN	NS	ns2.upperserver29.com.
+udomemmanuel.ng.	3600	IN	NS	ns1.sihbox.ng.
+udomemmanuel.ng.	3600	IN	NS	ns2.sihbox.ng.
 udominoyo.ng.		3600	IN	NS	dns1.p04.nsone.net.
 udominoyo.ng.		3600	IN	NS	dns2.p04.nsone.net.
 udominoyo.ng.		3600	IN	NS	dns3.p04.nsone.net.
@@ -78049,4 +78054,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051708 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051714 10800 3600 604800 3600
