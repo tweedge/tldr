@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051808 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1652845709"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051814 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1652857238"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -24738,6 +24738,10 @@ findfarmers.ng.		3600	IN	NS	nsa.whogohost.com.
 findfarmers.ng.		3600	IN	NS	nsb.whogohost.com.
 findfast.ng.		3600	IN	NS	dns1.supremepanel.com.
 findfast.ng.		3600	IN	NS	dns2.supremepanel.com.
+findfood.ng.		3600	IN	NS	ns-183.awsdns-22.com.
+findfood.ng.		3600	IN	NS	ns-642.awsdns-16.net.
+findfood.ng.		3600	IN	NS	ns-1516.awsdns-61.org.
+findfood.ng.		3600	IN	NS	ns-1786.awsdns-31.co.uk.
 findhelp.ng.		3600	IN	NS	ns1.web4africa.com.
 findhelp.ng.		3600	IN	NS	ns2.web4africa.com.
 findhelp.ng.		3600	IN	NS	ns3.web4africa.com.
@@ -47264,8 +47268,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -56630,8 +56634,8 @@ quicklet.ng.		3600	IN	NS	nsa.whogohost.com.
 quicklet.ng.		3600	IN	NS	nsb.whogohost.com.
 quicklist.ng.		3600	IN	NS	yew.ns.cloudflare.com.
 quicklist.ng.		3600	IN	NS	sydney.ns.cloudflare.com.
-quickloaded.ng.		3600	IN	NS	dns1.registrar-servers.com.
-quickloaded.ng.		3600	IN	NS	dns2.registrar-servers.com.
+quickloaded.ng.		3600	IN	NS	nsa.whogohost.com.
+quickloaded.ng.		3600	IN	NS	nsb.whogohost.com.
 quickloan.ng.		3600	IN	NS	ns1.upperserver29.com.
 quickloan.ng.		3600	IN	NS	ns2.upperserver29.com.
 quickmart.ng.		3600	IN	NS	ns1.gigalayer.com.
@@ -64348,6 +64352,8 @@ spcl.ng.		3600	IN	NS	ns-cloud-d1.googledomains.com.
 spcl.ng.		3600	IN	NS	ns-cloud-d2.googledomains.com.
 spcl.ng.		3600	IN	NS	ns-cloud-d3.googledomains.com.
 spcl.ng.		3600	IN	NS	ns-cloud-d4.googledomains.com.
+spclassic.ng.		3600	IN	NS	ns1.dknoc.com.
+spclassic.ng.		3600	IN	NS	ns2.dknoc.com.
 speaki.ng.		3600	IN	NS	ns1.sedoparking.com.
 speaki.ng.		3600	IN	NS	ns2.sedoparking.com.
 speari.ng.		3600	IN	NS	ns1.afraid.org.
@@ -67413,6 +67419,8 @@ taysfoods.ng.		3600	IN	NS	ns3.web4africa.com.
 taysfoods.ng.		3600	IN	NS	ns4.web4africa.com.
 tba.ng.			3600	IN	NS	ns1.vultr.com.
 tba.ng.			3600	IN	NS	ns2.vultr.com.
+tbadverts.ng.		3600	IN	NS	ns1.dknoc.com.
+tbadverts.ng.		3600	IN	NS	ns2.dknoc.com.
 tbba.ng.		3600	IN	NS	ns1.site4now.net.
 tbba.ng.		3600	IN	NS	ns2.site4now.net.
 tbba.ng.		3600	IN	NS	ns3.site4now.net.
@@ -72903,8 +72911,8 @@ valueminds.ng.		3600	IN	NS	ns1.qservers.net.
 valueminds.ng.		3600	IN	NS	ns2.qservers.net.
 valuepay.ng.		3600	IN	NS	ns1.skyfent.com.
 valuepay.ng.		3600	IN	NS	ns2.skyfent.com.
-valueplus.ng.		3600	IN	NS	lady.ns.cloudflare.com.
-valueplus.ng.		3600	IN	NS	justin.ns.cloudflare.com.
+valueplus.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+valueplus.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 valueplusagency.ng.	3600	IN	NS	nsa.whogohost.com.
 valueplusagency.ng.	3600	IN	NS	nsb.whogohost.com.
 valuesservicesltd.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -78122,4 +78130,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051808 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051814 10800 3600 604800 3600
