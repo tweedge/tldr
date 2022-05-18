@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051820 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051826 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1652868038"
+mg.			7200	IN	TXT	"Generation Time: 1652878824"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -9842,6 +9842,8 @@ soritra.mg.		86400	IN	NS	dns1.indritech.biz.
 soritra.mg.		86400	IN	NS	dns2.indritech.biz.
 sos.mg.			86400	IN	NS	ns16.ovh.net.
 sos.mg.			86400	IN	NS	dns16.ovh.net.
+sos-poidslourds.mg.	86400	IN	NS	ns29.dot.mg.
+sos-poidslourds.mg.	86400	IN	NS	ns29.illi.co.mg.
 sosam.mg.		86400	IN	NS	ns1.servermada.com.
 sosam.mg.		86400	IN	NS	ns2.servermada.com.
 sosdocteur.mg.		86400	IN	NS	dns16.ovh.net.
@@ -11479,6 +11481,8 @@ zapposvip.mg.		86400	IN	NS	ns3.markmonitor.com.
 zapzap.mg.		86400	IN	NS	ns1.instradns.com.
 zapzap.mg.		86400	IN	NS	ns2.instradns.com.
 zapzap.mg.		86400	IN	NS	ns3.instradns.com.
+zarah.mg.		86400	IN	NS	ns29.dot.mg.
+zarah.mg.		86400	IN	NS	ns29.illi.co.mg.
 zaramotors.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 zaramotors.mg.		86400	IN	NS	ns2.madanetinfo.mg.
 zaratours.mg.		86400	IN	NS	ns1.hostns.io.
@@ -11550,4 +11554,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051820 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022051826 600 3600 604800 86400
