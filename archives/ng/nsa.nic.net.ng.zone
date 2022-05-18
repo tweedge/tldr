@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051814 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1652857238"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051819 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1652866830"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -5632,6 +5632,8 @@ auctions.ng.		3600	IN	NS	ns7.alidns.com.
 auctions.ng.		3600	IN	NS	ns8.alidns.com.
 auctionvillage.ng.	3600	IN	NS	dns1.doveserver.com.
 auctionvillage.ng.	3600	IN	NS	dns2.doveserver.com.
+auctusforte.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+auctusforte.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 aud.ng.			3600	IN	NS	ns1.bluehost.com.
 aud.ng.			3600	IN	NS	ns2.bluehost.com.
 audacity.ng.		3600	IN	NS	bob.ns.cloudflare.com.
@@ -12994,10 +12996,11 @@ champ.ng.		3600	IN	NS	dns2.doveserver.com.
 championbet.ng.		3600	IN	NS	ns01.trademarkarea.com.
 championbet.ng.		3600	IN	NS	ns02.trademarkarea.com.
 championbet.ng.		3600	IN	NS	ns03.trademarkarea.com.
-championlubes.ng.	3600	IN	NS	dns1.novagraaf-dns.com.
-championlubes.ng.	3600	IN	NS	dns2.novagraaf-dns.net.
-championlubes.ng.	3600	IN	NS	dns3.novagraaf-dns.nl.
-championlubes.ng.	3600	IN	NS	dns4.novagraaf-dns.eu.
+championlubes.ng.	3600	IN	NS	ns1.brandshelter.com.
+championlubes.ng.	3600	IN	NS	ns2.brandshelter.de.
+championlubes.ng.	3600	IN	NS	ns3.brandshelter.info.
+championlubes.ng.	3600	IN	NS	ns4.brandshelter.net.
+championlubes.ng.	3600	IN	NS	ns5.brandshelter.us.
 champix.ng.		3600	IN	NS	ns1.pfizer.com.
 champix.ng.		3600	IN	NS	ns2.pfizer.com.
 champix.ng.		3600	IN	NS	ns3.pfizer.com.
@@ -16898,8 +16901,8 @@ cybercloud.ng.		3600	IN	NS	ns1.anyservers.com.
 cybercloud.ng.		3600	IN	NS	ns2.anyservers.com.
 cyberdata.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 cyberdata.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-cyberdome.ng.		3600	IN	NS	ns07.domaincontrol.com.
-cyberdome.ng.		3600	IN	NS	ns08.domaincontrol.com.
+cyberdome.ng.		3600	IN	NS	ns1.dknoc.com.
+cyberdome.ng.		3600	IN	NS	ns2.dknoc.com.
 cyberexchange.ng.	3600	IN	NS	nsa.whogohost.com.
 cyberexchange.ng.	3600	IN	NS	nsb.whogohost.com.
 cyberguardian.ng.	3600	IN	NS	ns1.a2hosting.com.
@@ -20369,6 +20372,10 @@ easyhack.ng.		3600	IN	NS	ns5.garanntor.net.
 easyhack.ng.		3600	IN	NS	ns6.garanntor.net.
 easyhost.ng.		3600	IN	NS	ns1.ecleaps.net.
 easyhost.ng.		3600	IN	NS	ns2.ecleas.net.
+easyinn.ng.		3600	IN	NS	ns1.web4africa.com.
+easyinn.ng.		3600	IN	NS	ns2.web4africa.com.
+easyinn.ng.		3600	IN	NS	ns3.web4africa.com.
+easyinn.ng.		3600	IN	NS	ns4.web4africa.com.
 easyinsurance.ng.	3600	IN	NS	ns3.netim.net.
 easyinsurance.ng.	3600	IN	NS	mrozia.mtds.com.
 easyinsurance.ng.	3600	IN	NS	rfissa.mtds.com.
@@ -37536,6 +37543,8 @@ kola.ng.		3600	IN	NS	ns1.web4africa.com.
 kola.ng.		3600	IN	NS	ns2.web4africa.com.
 kola.ng.		3600	IN	NS	ns3.web4africa.com.
 kola.ng.		3600	IN	NS	ns4.web4africa.com.
+kolaabiola.ng.		3600	IN	NS	nsa.whogohost.com.
+kolaabiola.ng.		3600	IN	NS	nsb.whogohost.com.
 kolaborate.ng.		3600	IN	NS	ns1.name-servers.cloud.
 kolaborate.ng.		3600	IN	NS	ns2.name-servers.cloud.
 kolakuddus.ng.		3600	IN	NS	ns1.supercp.com.
@@ -40055,6 +40064,8 @@ livescoresbet9ja.ng.	3600	IN	NS	dns1.cscdns.net.
 livescoresbet9ja.ng.	3600	IN	NS	dns2.cscdns.net.
 livescoresbets.ng.	3600	IN	NS	dns1.cscdns.net.
 livescoresbets.ng.	3600	IN	NS	dns2.cscdns.net.
+livescoretoday.ng.	3600	IN	NS	ns1.techbuddie.org.
+livescoretoday.ng.	3600	IN	NS	ns2.techbuddie.org.
 liveshoppi.ng.		3600	IN	NS	ns1.dknoc.com.
 liveshoppi.ng.		3600	IN	NS	ns2.dknoc.com.
 livesmagazine.ng.	3600	IN	NS	ns1.bluehost.com.
@@ -67734,6 +67745,8 @@ techpeople.ng.		3600	IN	NS	nsa.whogohost.com.
 techpeople.ng.		3600	IN	NS	nsb.whogohost.com.
 techph.ng.		3600	IN	NS	ned.ns.cloudflare.com.
 techph.ng.		3600	IN	NS	adel.ns.cloudflare.com.
+techpilot.ng.		3600	IN	NS	dns1.doveserver.com.
+techpilot.ng.		3600	IN	NS	dns2.doveserver.com.
 techplay.ng.		3600	IN	NS	nsa.whogohost.com.
 techplay.ng.		3600	IN	NS	nsb.whogohost.com.
 techplug.ng.		3600	IN	NS	etta.ns.cloudflare.com.
@@ -73265,6 +73278,8 @@ verhaal.ng.		3600	IN	NS	jessica.ns.cloudflare.com.
 verhaftu.ng.		3600	IN	NS	ns.udag.de.
 verhaftu.ng.		3600	IN	NS	ns.udag.net.
 verhaftu.ng.		3600	IN	NS	ns.udag.org.
+verico.ng.		3600	IN	NS	ns1.noc38.com.
+verico.ng.		3600	IN	NS	ns2.noc38.com.
 verificate.ng.		3600	IN	NS	ns-348.awsdns-43.com.
 verificate.ng.		3600	IN	NS	ns-678.awsdns-20.net.
 verificate.ng.		3600	IN	NS	ns-1515.awsdns-61.org.
@@ -78130,4 +78145,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051814 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051819 10800 3600 604800 3600
