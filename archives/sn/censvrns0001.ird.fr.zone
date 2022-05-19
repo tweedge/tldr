@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443269 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443290 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220709070003 20220510060750 17389 sn. hYSTKir1yeoEZkXUqyhyIPaUEdqO6U6FwHK+vu3lWaIs31OlXE3mpdi/ ch+P1Ojl4aa8ykoBJV3EBRglw4aqrA==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220611210832 20220412203838 37490 sn. uxzi0vujPrGJ0LdnCAiVfXk5qV0tJ/GGYdWNfoVRWSvG7hqibdvvcgdw 1ameWh7osi66hOfUiGnjk/LlWMmpvA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220622194916 20220519031002 17389 sn. 1lUt/MzTXXB9VHO1xUjqd6BBfy9OFgublYW4RhSRgbMGs8lSUoxMxSxT baXiMtTBvTjmBZijEL7JAQbv5Ps2Jw==
-sn.			172800	IN	TXT	"No RRs processed [19/05/2022 06H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220619233403 20220519061003 17389 sn. iFyFaY73uITUOaO+Ng2AMyCs1jQCjl0mf3wjzTWa04MAQCHeB+816Qvh xqEkTolIX3ASG1bDScbZjsxB0CPnnQ==
+sn.			172800	IN	TXT	"96 RRs processed [19/05/2022 09H10:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220604160127 20220405154952 17389 sn. Gsk9tI8fuKB8nm/EsoyAGcjvlmtaARlj8/u03A0dCEYu3hFZwlKZByFh bWSy8k7Bae6SsubjzOeG2EHenjXw4g==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220718041002 20220519031002 17389 sn. 7TfN/KehfkoZZr6dZn9Ewl7wfN/Wb2hGxg930H8y+GwURUfALbRqRCdc fculu9ahCs69AutbAxNr5iqDffbhcA==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220718071003 20220519061003 17389 sn. mzbkYK+PnPeCIwH9jRCDGprRhS2qKiYBCWDKwCu2OWvlOwCryIMtoCI3 3hXxW681wVn7z9UBlW8GuVHvnT2kuA==
 000.sn.			172800	IN	NS	pns101.cloudns.net.
 000.sn.			172800	IN	NS	pns102.cloudns.net.
 000.sn.			172800	IN	NS	pns103.cloudns.net.
@@ -245,14 +245,10 @@ sn.			43200	IN	RRSIG	SOA 13 1 43200 20220718041002 20220519031002 17389 sn. 7TfN
 337.sn.			172800	IN	NS	pns102.cloudns.net.
 337.sn.			172800	IN	NS	pns103.cloudns.net.
 337.sn.			172800	IN	NS	pns104.cloudns.net.
-338.sn.			172800	IN	NS	pns101.cloudns.net.
-338.sn.			172800	IN	NS	pns102.cloudns.net.
-338.sn.			172800	IN	NS	pns103.cloudns.net.
-338.sn.			172800	IN	NS	pns104.cloudns.net.
-339.sn.			172800	IN	NS	pns101.cloudns.net.
-339.sn.			172800	IN	NS	pns102.cloudns.net.
-339.sn.			172800	IN	NS	pns103.cloudns.net.
-339.sn.			172800	IN	NS	pns104.cloudns.net.
+338.sn.			172800	IN	NS	vip7.alidns.com.
+338.sn.			172800	IN	NS	vip8.alidns.com.
+339.sn.			172800	IN	NS	vip7.alidns.com.
+339.sn.			172800	IN	NS	vip8.alidns.com.
 360.sn.			43200	IN	NS	ns16.ovh.net.
 360.sn.			43200	IN	NS	dns16.ovh.net.
 360fitness.sn.		43200	IN	NS	ns1.kheweul.net.
@@ -291,10 +287,8 @@ sn.			43200	IN	RRSIG	SOA 13 1 43200 20220718041002 20220519031002 17389 sn. 7TfN
 3himmobilier.sn.	43200	IN	NS	dns110.ovh.net.
 3stech.sn.		172800	IN	NS	hank.ns.cloudflare.com.
 3stech.sn.		172800	IN	NS	meera.ns.cloudflare.com.
-444.sn.			172800	IN	NS	pns101.cloudns.net.
-444.sn.			172800	IN	NS	pns102.cloudns.net.
-444.sn.			172800	IN	NS	pns103.cloudns.net.
-444.sn.			172800	IN	NS	pns104.cloudns.net.
+444.sn.			172800	IN	NS	vip7.alidns.com.
+444.sn.			172800	IN	NS	vip8.alidns.com.
 4444.sn.		172800	IN	NS	ns1.dns.com.
 4444.sn.		172800	IN	NS	ns2.dns.com.
 4ingenierie.sn.		172800	IN	RRSIG	DS 13 2 172800 20220710140051 20220511131740 17389 sn. 7XA+oaVhnFZT4Re/IJKsddb9t77D8lsEpxM/m7nTaJSKRFj15ByOGH6s i0eyvlxVh5ZbaFpNtACehq3SHdI1lw==
@@ -306,56 +300,36 @@ sn.			43200	IN	RRSIG	SOA 13 1 43200 20220718041002 20220519031002 17389 sn. 7TfN
 511tactical.sn.		43200	IN	NS	ns5.markmonitor.com.
 520.sn.			43200	IN	NS	nia.ns.cloudflare.com.
 520.sn.			43200	IN	NS	arch.ns.cloudflare.com.
-555.sn.			172800	IN	NS	pns101.cloudns.net.
-555.sn.			172800	IN	NS	pns102.cloudns.net.
-555.sn.			172800	IN	NS	pns103.cloudns.net.
-555.sn.			172800	IN	NS	pns104.cloudns.net.
+555.sn.			172800	IN	NS	vip7.alidns.com.
+555.sn.			172800	IN	NS	vip8.alidns.com.
 5555.sn.		172800	IN	NS	ns1.dns.com.
 5555.sn.		172800	IN	NS	ns2.dns.com.
-661.sn.			172800	IN	NS	pns101.cloudns.net.
-661.sn.			172800	IN	NS	pns102.cloudns.net.
-661.sn.			172800	IN	NS	pns103.cloudns.net.
-661.sn.			172800	IN	NS	pns104.cloudns.net.
-662.sn.			172800	IN	NS	pns101.cloudns.net.
-662.sn.			172800	IN	NS	pns102.cloudns.net.
-662.sn.			172800	IN	NS	pns103.cloudns.net.
-662.sn.			172800	IN	NS	pns104.cloudns.net.
-663.sn.			172800	IN	NS	pns101.cloudns.net.
-663.sn.			172800	IN	NS	pns102.cloudns.net.
-663.sn.			172800	IN	NS	pns103.cloudns.net.
-663.sn.			172800	IN	NS	pns104.cloudns.net.
-665.sn.			172800	IN	NS	pns101.cloudns.net.
-665.sn.			172800	IN	NS	pns102.cloudns.net.
-665.sn.			172800	IN	NS	pns103.cloudns.net.
-665.sn.			172800	IN	NS	pns104.cloudns.net.
+661.sn.			172800	IN	NS	vip7.alidns.com.
+661.sn.			172800	IN	NS	vip8.alidns.com.
+662.sn.			172800	IN	NS	vip7.alidns.com.
+662.sn.			172800	IN	NS	vip8.alidns.com.
+663.sn.			172800	IN	NS	vip7.alidns.com.
+663.sn.			172800	IN	NS	vip8.alidns.com.
+665.sn.			172800	IN	NS	vip7.alidns.com.
+665.sn.			172800	IN	NS	vip8.alidns.com.
 666.sn.			43200	IN	NS	aria.ns.cloudflare.com.
 666.sn.			43200	IN	NS	john.ns.cloudflare.com.
-6666.sn.		172800	IN	NS	pns101.cloudns.net.
-6666.sn.		172800	IN	NS	pns102.cloudns.net.
-6666.sn.		172800	IN	NS	pns103.cloudns.net.
-6666.sn.		172800	IN	NS	pns104.cloudns.net.
-667.sn.			172800	IN	NS	pns101.cloudns.net.
-667.sn.			172800	IN	NS	pns102.cloudns.net.
-667.sn.			172800	IN	NS	pns103.cloudns.net.
-667.sn.			172800	IN	NS	pns104.cloudns.net.
-668.sn.			172800	IN	NS	pns101.cloudns.net.
-668.sn.			172800	IN	NS	pns102.cloudns.net.
-668.sn.			172800	IN	NS	pns103.cloudns.net.
-668.sn.			172800	IN	NS	pns104.cloudns.net.
-669.sn.			172800	IN	NS	pns101.cloudns.net.
-669.sn.			172800	IN	NS	pns102.cloudns.net.
-669.sn.			172800	IN	NS	pns103.cloudns.net.
-669.sn.			172800	IN	NS	pns104.cloudns.net.
+6666.sn.		172800	IN	NS	vip7.alidns.com.
+6666.sn.		172800	IN	NS	vip8.alidns.com.
+667.sn.			172800	IN	NS	vip7.alidns.com.
+667.sn.			172800	IN	NS	vip8.alidns.com.
+668.sn.			172800	IN	NS	vip7.alidns.com.
+668.sn.			172800	IN	NS	vip8.alidns.com.
+669.sn.			172800	IN	NS	vip7.alidns.com.
+669.sn.			172800	IN	NS	vip8.alidns.com.
 6point9.sn.		172800	IN	NS	ns1.kheweul.net.
 6point9.sn.		172800	IN	NS	ns2.kheweul.net.
 6point9.sn.		172800	IN	NS	ns3.kheweul.net.
 6point9.sn.		172800	IN	NS	ns4.kheweul.net.
-777.sn.			172800	IN	NS	ns1.dns.com.
-777.sn.			172800	IN	NS	ns2.dns.com.
-7777.sn.		172800	IN	NS	pns101.cloudns.net.
-7777.sn.		172800	IN	NS	pns102.cloudns.net.
-7777.sn.		172800	IN	NS	pns103.cloudns.net.
-7777.sn.		172800	IN	NS	pns104.cloudns.net.
+777.sn.			172800	IN	NS	vip7.alidns.com.
+777.sn.			172800	IN	NS	vip8.alidns.com.
+7777.sn.		172800	IN	NS	vip7.alidns.com.
+7777.sn.		172800	IN	NS	vip8.alidns.com.
 7a7pressing.sn.		43200	IN	RRSIG	DS 13 2 43200 20220626084437 20220427075920 17389 sn. UcdkYUiCQnBzjSImix+p5DBf0mH01iCMvqt1kCnzWPsu16M6g+/ofm3G mRqqOIIc1+12H1m2VEx5oCYxON3Ncg==
 7a7pressing.sn.		43200	IN	DS	19594 8 2 8233CBBCA78352815290A5F51330BBB66D9E0D10C9D1C2F81B7B0918 1AB26ABE
 7a7pressing.sn.		43200	IN	NS	ns200.anycast.me.
@@ -371,41 +345,27 @@ sn.			43200	IN	RRSIG	SOA 13 1 43200 20220718041002 20220519031002 17389 sn. 7TfN
 7tv.sn.			43200	IN	NS	ns2.kheweul.net.
 7tv.sn.			43200	IN	NS	ns3.kheweul.net.
 7tv.sn.			43200	IN	NS	ns4.kheweul.net.
-880.sn.			172800	IN	NS	pns101.cloudns.net.
-880.sn.			172800	IN	NS	pns102.cloudns.net.
-880.sn.			172800	IN	NS	pns103.cloudns.net.
-880.sn.			172800	IN	NS	pns104.cloudns.net.
-881.sn.			172800	IN	NS	pns101.cloudns.net.
-881.sn.			172800	IN	NS	pns102.cloudns.net.
-881.sn.			172800	IN	NS	pns103.cloudns.net.
-881.sn.			172800	IN	NS	pns104.cloudns.net.
-882.sn.			172800	IN	NS	pns101.cloudns.net.
-882.sn.			172800	IN	NS	pns102.cloudns.net.
-882.sn.			172800	IN	NS	pns103.cloudns.net.
-882.sn.			172800	IN	NS	pns104.cloudns.net.
-883.sn.			172800	IN	NS	pns101.cloudns.net.
-883.sn.			172800	IN	NS	pns102.cloudns.net.
-883.sn.			172800	IN	NS	pns103.cloudns.net.
-883.sn.			172800	IN	NS	pns104.cloudns.net.
-885.sn.			172800	IN	NS	pns101.cloudns.net.
-885.sn.			172800	IN	NS	pns102.cloudns.net.
-885.sn.			172800	IN	NS	pns103.cloudns.net.
-885.sn.			172800	IN	NS	pns104.cloudns.net.
+880.sn.			172800	IN	NS	vip7.alidns.com.
+880.sn.			172800	IN	NS	vip8.alidns.com.
+881.sn.			172800	IN	NS	vip7.alidns.com.
+881.sn.			172800	IN	NS	vip8.alidns.com.
+882.sn.			172800	IN	NS	vip7.alidns.com.
+882.sn.			172800	IN	NS	vip8.alidns.com.
+883.sn.			172800	IN	NS	vip7.alidns.com.
+883.sn.			172800	IN	NS	vip8.alidns.com.
+885.sn.			172800	IN	NS	vip7.alidns.com.
+885.sn.			172800	IN	NS	vip8.alidns.com.
 886.sn.			172800	IN	NS	pns101.cloudns.net.
 886.sn.			172800	IN	NS	pns102.cloudns.net.
 886.sn.			172800	IN	NS	pns103.cloudns.net.
 886.sn.			172800	IN	NS	pns104.cloudns.net.
-887.sn.			172800	IN	NS	pns101.cloudns.net.
-887.sn.			172800	IN	NS	pns102.cloudns.net.
-887.sn.			172800	IN	NS	pns103.cloudns.net.
-887.sn.			172800	IN	NS	pns104.cloudns.net.
+887.sn.			172800	IN	NS	vip7.alidns.com.
+887.sn.			172800	IN	NS	vip8.alidns.com.
 888.sn.			43200	IN	NS	dns1.idp365.net.
 888.sn.			43200	IN	NS	dns2.idp365.net.
 888.sn.			43200	IN	NS	dns3.idp365.net.
-8888.sn.		172800	IN	NS	pns101.cloudns.net.
-8888.sn.		172800	IN	NS	pns102.cloudns.net.
-8888.sn.		172800	IN	NS	pns103.cloudns.net.
-8888.sn.		172800	IN	NS	pns104.cloudns.net.
+8888.sn.		172800	IN	NS	vip7.alidns.com.
+8888.sn.		172800	IN	NS	vip8.alidns.com.
 888bet.sn.		172800	IN	NS	dns1.idp365.net.
 888bet.sn.		172800	IN	NS	dns2.idp365.net.
 888bet.sn.		172800	IN	NS	dns3.idp365.net.
@@ -418,53 +378,33 @@ sn.			43200	IN	RRSIG	SOA 13 1 43200 20220718041002 20220519031002 17389 sn. 7TfN
 888sport.sn.		172800	IN	NS	dns1.idp365.net.
 888sport.sn.		172800	IN	NS	dns2.idp365.net.
 888sport.sn.		172800	IN	NS	dns3.idp365.net.
-889.sn.			172800	IN	NS	pns101.cloudns.net.
-889.sn.			172800	IN	NS	pns102.cloudns.net.
-889.sn.			172800	IN	NS	pns103.cloudns.net.
-889.sn.			172800	IN	NS	pns104.cloudns.net.
+889.sn.			172800	IN	NS	vip7.alidns.com.
+889.sn.			172800	IN	NS	vip8.alidns.com.
 911.sn.			172800	IN	NS	ns1.netim.net.
 911.sn.			172800	IN	NS	ns2.netim.net.
 911.sn.			172800	IN	NS	ns3.netim.net.
-990.sn.			172800	IN	NS	pns101.cloudns.net.
-990.sn.			172800	IN	NS	pns102.cloudns.net.
-990.sn.			172800	IN	NS	pns103.cloudns.net.
-990.sn.			172800	IN	NS	pns104.cloudns.net.
-991.sn.			172800	IN	NS	pns101.cloudns.net.
-991.sn.			172800	IN	NS	pns102.cloudns.net.
-991.sn.			172800	IN	NS	pns103.cloudns.net.
-991.sn.			172800	IN	NS	pns104.cloudns.net.
+990.sn.			172800	IN	NS	vip7.alidns.com.
+990.sn.			172800	IN	NS	vip8.alidns.com.
+991.sn.			172800	IN	NS	vip7.alidns.com.
+991.sn.			172800	IN	NS	vip8.alidns.com.
 992.sn.			172800	IN	NS	pns101.cloudns.net.
 992.sn.			172800	IN	NS	pns102.cloudns.net.
 992.sn.			172800	IN	NS	pns103.cloudns.net.
 992.sn.			172800	IN	NS	pns104.cloudns.net.
-993.sn.			172800	IN	NS	pns101.cloudns.net.
-993.sn.			172800	IN	NS	pns102.cloudns.net.
-993.sn.			172800	IN	NS	pns103.cloudns.net.
-993.sn.			172800	IN	NS	pns104.cloudns.net.
-995.sn.			172800	IN	NS	pns101.cloudns.net.
-995.sn.			172800	IN	NS	pns102.cloudns.net.
-995.sn.			172800	IN	NS	pns103.cloudns.net.
-995.sn.			172800	IN	NS	pns104.cloudns.net.
-996.sn.			172800	IN	NS	pns101.cloudns.net.
-996.sn.			172800	IN	NS	pns102.cloudns.net.
-996.sn.			172800	IN	NS	pns103.cloudns.net.
-996.sn.			172800	IN	NS	pns104.cloudns.net.
-997.sn.			172800	IN	NS	pns101.cloudns.net.
-997.sn.			172800	IN	NS	pns102.cloudns.net.
-997.sn.			172800	IN	NS	pns103.cloudns.net.
-997.sn.			172800	IN	NS	pns104.cloudns.net.
-998.sn.			172800	IN	NS	pns101.cloudns.net.
-998.sn.			172800	IN	NS	pns102.cloudns.net.
-998.sn.			172800	IN	NS	pns103.cloudns.net.
-998.sn.			172800	IN	NS	pns104.cloudns.net.
-999.sn.			172800	IN	NS	pns101.cloudns.net.
-999.sn.			172800	IN	NS	pns102.cloudns.net.
-999.sn.			172800	IN	NS	pns103.cloudns.net.
-999.sn.			172800	IN	NS	pns104.cloudns.net.
-9999.sn.		172800	IN	NS	pns101.cloudns.net.
-9999.sn.		172800	IN	NS	pns102.cloudns.net.
-9999.sn.		172800	IN	NS	pns103.cloudns.net.
-9999.sn.		172800	IN	NS	pns104.cloudns.net.
+993.sn.			172800	IN	NS	vip7.alidns.com.
+993.sn.			172800	IN	NS	vip8.alidns.com.
+995.sn.			172800	IN	NS	vip7.alidns.com.
+995.sn.			172800	IN	NS	vip8.alidns.com.
+996.sn.			172800	IN	NS	vip7.alidns.com.
+996.sn.			172800	IN	NS	vip8.alidns.com.
+997.sn.			172800	IN	NS	vip7.alidns.com.
+997.sn.			172800	IN	NS	vip8.alidns.com.
+998.sn.			172800	IN	NS	vip7.alidns.com.
+998.sn.			172800	IN	NS	vip8.alidns.com.
+999.sn.			172800	IN	NS	vip7.alidns.com.
+999.sn.			172800	IN	NS	vip8.alidns.com.
+9999.sn.		172800	IN	NS	vip7.alidns.com.
+9999.sn.		172800	IN	NS	vip8.alidns.com.
 9pp.sn.			172800	IN	NS	ns5.afriregister.co.ke.
 9pp.sn.			172800	IN	NS	ns6.afriregister.co.ke.
 a1global.sn.		43200	IN	NS	ns1.bumeranginteraktif2.com.
@@ -2939,10 +2879,8 @@ betonsdusahel.sn.	43200	IN	NS	ns1.kheweul.net.
 betonsdusahel.sn.	43200	IN	NS	ns2.kheweul.net.
 betonsdusahel.sn.	43200	IN	NS	ns3.kheweul.net.
 betonsdusahel.sn.	43200	IN	NS	ns4.kheweul.net.
-betpawa.sn.		43200	IN	NS	ns-346.awsdns-43.com.
-betpawa.sn.		43200	IN	NS	ns-612.awsdns-12.net.
-betpawa.sn.		43200	IN	NS	ns-1088.awsdns-08.org.
-betpawa.sn.		43200	IN	NS	ns-2001.awsdns-58.co.uk.
+betpawa.sn.		172800	IN	NS	isla.ns.cloudflare.com.
+betpawa.sn.		172800	IN	NS	damian.ns.cloudflare.com.
 betplanet.sn.		43200	IN	NS	ns1.101domain.com.
 betplanet.sn.		43200	IN	NS	ns2.101domain.com.
 betplanet.sn.		43200	IN	NS	ns5.101domain.com.
@@ -11306,7 +11244,7 @@ japanmotors.sn.		172800	IN	RRSIG	DS 13 2 172800 20220625112413 20220426103234 17
 japanmotors.sn.		172800	IN	DS	14209 8 2 3B9FC42CD8EADDAC88AF1B940BCABEC426BC31B02191525BCA2D70D1 D4894A6E
 japanmotors.sn.		43200	IN	NS	ns200.anycast.me.
 japanmotors.sn.		43200	IN	NS	dns200.anycast.me.
-japsi.sn.		172800	IN	RRSIG	DS 13 2 172800 20220602052059 20220403045146 17389 sn. Hjvs0nQKUuo0fY4L4LZ53Rp5X76gzBB+DpWUIxlSrhLcLYJ3i0YaBIov f9r4xCGuYRCtqrXlDFJDxALbLJL7Dw==
+japsi.sn.		172800	IN	RRSIG	DS 13 2 172800 20220718045017 20220519042059 17389 sn. v2XW1Ci7fh8mbdS1b1DLonVXTzORLNFvufxXoHmLCEIAEefDYOZQtagJ iZnwf7tpnGuLQIkb8Wkh6/vU78oKGw==
 japsi.sn.		172800	IN	DS	6982 8 2 4F55BBA227AB79ADB9A17C6924BAC29B96274EA69FEED4C87AC134BC 012CBDFC
 japsi.sn.		172800	IN	NS	ns200.anycast.me.
 japsi.sn.		172800	IN	NS	dns200.anycast.me.
@@ -23590,7 +23528,7 @@ zou0784.sn.		172800	IN	NS	ns6.wanekoohost.com.
 6V2V0G3KMDQMLTPKATK56V4GODJBLHRM.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220707091622 20220508082436 17389 sn. 2jFh5O6LYMY/2cOEsF0z1pK0NqnnzCtPqdaPOHRutCrKCiwta5IXtJAf cJqi3XVl7UN28fgI5PzGgdt6YF4MEA==
 7115BVSIEJF80CF491OI5P1VNE18PD60.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220711235132 20220512225758 17389 sn. sEleG8BwJFTPY49DeAETkejTxbvoJ35AP+72JeMrkFDEa0WUCx0+3Cby 6JBImy5+Vuk5z6HlGdpfkfjFdOp7Tg==
 7115BVSIEJF80CF491OI5P1VNE18PD60.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 71J2P94CCD3JEERIPBB957SCVOIK8KH6 NS DS RRSIG
-71J2P94CCD3JEERIPBB957SCVOIK8KH6.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220602070230 20220403062205 17389 sn. LEeNUfNTfr4ya1C/6F5Fj+4MVBXA0rBfSP7q39/P/xlH+S/7HPX9RQOU yqnCsXwMqrPsgTvUii3U/sjyK+1Tpg==
+71J2P94CCD3JEERIPBB957SCVOIK8KH6.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220718065926 20220519060230 17389 sn. l5cVW3ypPunB1ZxkfrMKhQ6Tml+BN7Rta+W1/EMjqTKnSox75bUoUx7j 35IHaZuNFA0Z6zg7YbKalve2zYsaMQ==
 71J2P94CCD3JEERIPBB957SCVOIK8KH6.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 73CU704D92613P2U6BC4GVHL1UPD7VRQ NS DS RRSIG
 73CU704D92613P2U6BC4GVHL1UPD7VRQ.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220708225025 20220509215608 17389 sn. tpZUfZRaVse5kgDrn9WW0Gl0/DGLGiXD/GHayJRabWrIwbNAPgGDjjI7 +YTpGvGZ1LxOa9Gg59foY6DegLl2CA==
 73CU704D92613P2U6BC4GVHL1UPD7VRQ.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 74JNRBJ1UHEGJ017HVBHNUR697TV9H9O NS DS RRSIG
@@ -23638,7 +23576,7 @@ zou0784.sn.		172800	IN	NS	ns6.wanekoohost.com.
 7MKLH21PR74CNDOLC7FQ97T02OMVG73A.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 7MMT4J60LQNB51B808BESAUSQ9N81ORD NS DS RRSIG
 7MMT4J60LQNB51B808BESAUSQ9N81ORD.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220615114516 20220416111342 17389 sn. 9Bg1z9ZJtUWrhb/HnHyKaDWAEaEa29BsXyMprwuPn5GDRs4hp+Z7iiFf CvYTp30rwh9iKdoBQBypDHMfpnAxqQ==
 7MMT4J60LQNB51B808BESAUSQ9N81ORD.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 7N5I3C4UPC8TA1E7MO4NDSUPOJDAGGU8 NS DS RRSIG
-7N5I3C4UPC8TA1E7MO4NDSUPOJDAGGU8.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220602063955 20220403061500 17389 sn. Avw6DWmoaIcq2ssbPoCiKJO3V53k8nbm89k9APHG7oWz+oyls3J/Wk5o Aw/PJ8OiSMvZ5w3CikMRR/k31F3yyw==
+7N5I3C4UPC8TA1E7MO4NDSUPOJDAGGU8.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220718060540 20220519053955 17389 sn. d+bU867Oqed5tkMvHKjELDBSoh8IEU3yXPQ2RACHNvhki/1kK1GZn3E8 dDDz6ExewZhSA1hUQmWjo9Jc8k6mVg==
 7N5I3C4UPC8TA1E7MO4NDSUPOJDAGGU8.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 7OHHT7LASFIUAB2BCT9I0R55PBKMF1LK NS DS RRSIG
 7OHHT7LASFIUAB2BCT9I0R55PBKMF1LK.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220604215338 20220513190003 17389 sn. ZojhiRjarCXZ6yUbT35heiQbAtJNoDnYGnK1vxn1EE0aHS12JdYkKflE Dz+UIBzK/CcBWcCCtjSM7WdtNW2DDg==
 7OHHT7LASFIUAB2BCT9I0R55PBKMF1LK.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 7OILIAEBTBRIQ78H55K2EM5P27TO7BRJ NS DS RRSIG
@@ -25234,4 +25172,4 @@ VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022063010064
 VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 VV3IDF84ISCK271NU3M3JSCE5G2L69FE NS DS RRSIG
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220616220335 20220417215832 17389 sn. NKA2E2R6iLZQIH6f4LWT7WJiK7WoUGzqBQOUFxgcTkHQClYNPCESeozw icqHiccrAio3z3IiRsdrYGBVUEHo4A==
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 03E795UMJJIEBB4O5SBJU6BL20OBLSJS NS DS RRSIG
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443269 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443290 3600 1800 3600000 5400
