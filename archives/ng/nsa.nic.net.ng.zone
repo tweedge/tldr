@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051936 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1652985808"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051942 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1652997336"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -10263,6 +10263,8 @@ breseller.ng.		3600	IN	NS	ns1.bhostingsolutions.com.
 breseller.ng.		3600	IN	NS	ns2.bhostingsolutions.com.
 breteke.ng.		3600	IN	NS	ns7.hostnownow.com.
 breteke.ng.		3600	IN	NS	ns8.hostnownow.com.
+breverb.ng.		3600	IN	NS	nsa.whogohost.com.
+breverb.ng.		3600	IN	NS	nsb.whogohost.com.
 brevoli.ng.		3600	IN	NS	ns1.hostloni.com.
 brevoli.ng.		3600	IN	NS	ns2.hostloni.com.
 brewi.ng.		3600	IN	NS	ns1.parkingcrew.net.
@@ -11373,6 +11375,8 @@ bysmoe.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 bysmoe.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 bysonline.ng.		3600	IN	NS	nsa.whogohost.com.
 bysonline.ng.		3600	IN	NS	nsb.whogohost.com.
+bytebox.ng.		3600	IN	NS	nsa.whogohost.com.
+bytebox.ng.		3600	IN	NS	nsb.whogohost.com.
 bytecode.ng.		3600	IN	NS	terin.ns.cloudflare.com.
 bytecode.ng.		3600	IN	NS	princess.ns.cloudflare.com.
 bytedance.ng.		3600	IN	NS	a2-67.akam.net.
@@ -12701,8 +12705,8 @@ ceaf.ng.		3600	IN	NS	ns7.signonhost.com.
 ceaf.ng.		3600	IN	NS	ns8.signonhost.com.
 ceal.ng.		3600	IN	NS	ns1.host-ww.net.
 ceal.ng.		3600	IN	NS	ns2.host-ww.net.
-cec.ng.			3600	IN	NS	nsa.whogohost.com.
-cec.ng.			3600	IN	NS	nsb.whogohost.com.
+cec.ng.			3600	IN	NS	ns8615.hostgator.com.
+cec.ng.			3600	IN	NS	ns8616.hostgator.com.
 cedar.ng.		3600	IN	NS	nsa.whogohost.com.
 cedar.ng.		3600	IN	NS	nsb.whogohost.com.
 cedarfinancial.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -12861,6 +12865,8 @@ ceon.ng.		3600	IN	NS	ns23.qservers.net.
 ceon.ng.		3600	IN	NS	ns24.qservers.net.
 ceopr.ng.		3600	IN	NS	ignat.ns.cloudflare.com.
 ceopr.ng.		3600	IN	NS	delilah.ns.cloudflare.com.
+ceosafety.ng.		3600	IN	NS	ns15.qservers.net.
+ceosafety.ng.		3600	IN	NS	ns16.qservers.net.
 cep.ng.			3600	IN	NS	nsa.whogohost.com.
 cep.ng.			3600	IN	NS	nsb.whogohost.com.
 cepheus-pay.ng.		3600	IN	NS	ns1.netim.net.
@@ -27602,6 +27608,8 @@ geniemullahmusic.ng.	3600	IN	NS	ns2.cloudoon.com.
 geniemullahmusic.ng.	3600	IN	NS	ns3.cloudoon.com.
 genius.ng.		3600	IN	NS	ns1.parkingcrew.net.
 genius.ng.		3600	IN	NS	ns2.parkingcrew.net.
+geniusacademy.ng.	3600	IN	NS	ns1.contabo.net.
+geniusacademy.ng.	3600	IN	NS	ns2.contabo.net.
 geniuswash.ng.		3600	IN	NS	nsa.whogohost.com.
 geniuswash.ng.		3600	IN	NS	nsb.whogohost.com.
 genloc.ng.		3600	IN	NS	nsa.nuskin.com.
@@ -43551,8 +43559,11 @@ millenniumgroup.ng.	3600	IN	NS	nsa.whogohost.com.
 millenniumgroup.ng.	3600	IN	NS	nsb.whogohost.com.
 millerfarms.ng.		3600	IN	NS	nsa.whogohost.com.
 millerfarms.ng.		3600	IN	NS	nsb.whogohost.com.
-milli.ng.		3600	IN	NS	tani.ns.cloudflare.com.
-milli.ng.		3600	IN	NS	keenan.ns.cloudflare.com.
+milli.ng.		3600	IN	NS	ns1.he.net.
+milli.ng.		3600	IN	NS	ns2.he.net.
+milli.ng.		3600	IN	NS	ns3.he.net.
+milli.ng.		3600	IN	NS	ns4.he.net.
+milli.ng.		3600	IN	NS	ns5.he.net.
 milliman.ng.		3600	IN	NS	ns11.constellix.com.
 milliman.ng.		3600	IN	NS	ns41.constellix.net.
 millionaire.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -46767,8 +46778,8 @@ napharmacy.ng.		3600	IN	NS	ns1.o2switch.net.
 napharmacy.ng.		3600	IN	NS	ns2.o2switch.net.
 napower.ng.		3600	IN	NS	ns1.o2switch.net.
 napower.ng.		3600	IN	NS	ns2.o2switch.net.
-napps.ng.		3600	IN	NS	ns61.qservers.net.
-napps.ng.		3600	IN	NS	ns62.qservers.net.
+napps.ng.		3600	IN	NS	meera.ns.cloudflare.com.
+napps.ng.		3600	IN	NS	camilo.ns.cloudflare.com.
 naprod.ng.		3600	IN	NS	ns23.qservers.net.
 naprod.ng.		3600	IN	NS	ns24.qservers.net.
 nar.ng.			3600	IN	NS	ns1.c03.tmdcloud.london.
@@ -74365,6 +74376,8 @@ vpass.ng.		3600	IN	NS	ns1.upperserver29.com.
 vpass.ng.		3600	IN	NS	ns2.upperserver29.com.
 vpay.ng.		3600	IN	NS	ns1.upperserver29.com.
 vpay.ng.		3600	IN	NS	ns2.upperserver29.com.
+vpheemn.ng.		3600	IN	NS	nsa.whogohost.com.
+vpheemn.ng.		3600	IN	NS	nsb.whogohost.com.
 vpl.ng.			3600	IN	NS	dns.site5.com.
 vpl.ng.			3600	IN	NS	dns2.site5.com.
 vpn.ng.			3600	IN	NS	ns1.dkshared.com.
@@ -78242,4 +78255,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051936 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022051942 10800 3600 604800 3600
