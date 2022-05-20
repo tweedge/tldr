@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052031 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653062547"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052036 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653072155"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -16542,6 +16542,8 @@ cryptobiz101.ng.	3600	IN	NS	ns353.websitewelcome.com.
 cryptobiz101.ng.	3600	IN	NS	ns354.websitewelcome.com.
 cryptocentric.ng.	3600	IN	NS	nsa.whogohost.com.
 cryptocentric.ng.	3600	IN	NS	nsb.whogohost.com.
+cryptocoalition.ng.	3600	IN	NS	nsa.whogohost.com.
+cryptocoalition.ng.	3600	IN	NS	nsb.whogohost.com.
 cryptocoins.ng.		3600	IN	NS	ns1.sedoparking.com.
 cryptocoins.ng.		3600	IN	NS	ns2.sedoparking.com.
 cryptocurrencies.ng.	3600	IN	NS	ns1.digitalocean.com.
@@ -47376,8 +47378,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -49678,9 +49680,9 @@ oddjobber.ng.		3600	IN	NS	ns21.doveserver.com.
 oddjobber.ng.		3600	IN	NS	ns22.doveserver.com.
 oddoneout.ng.		3600	IN	NS	ns541.domainhosting.com.ng.
 oddoneout.ng.		3600	IN	NS	ns542.domainhosting.com.ng.
-odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds.ng.		3600	IN	NS	ns3.epik.com.
 odds.ng.		3600	IN	NS	ns4.epik.com.
+odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds10.ng.		3600	IN	NS	dns1.doveserver.com.
 odds10.ng.		3600	IN	NS	dns2.doveserver.com.
 odds96.ng.		3600	IN	NS	ivy.ns.cloudflare.com.
@@ -70886,6 +70888,9 @@ tradi.ng.		3600	IN	NS	ns1.parkingcrew.net.
 tradi.ng.		3600	IN	NS	ns2.parkingcrew.net.
 trading.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 trading.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+tradingpartner.ng.	3600	IN	NS	ns1.cloudoon.com.
+tradingpartner.ng.	3600	IN	NS	ns2.cloudoon.com.
+tradingpartner.ng.	3600	IN	NS	ns3.cloudoon.com.
 tradingplace.ng.	3600	IN	NS	ns55.qservers.net.
 tradingplace.ng.	3600	IN	NS	ns56.qservers.net.
 tradingview.ng.		3600	IN	NS	dns1.domeny.tv.
@@ -77356,9 +77361,9 @@ yinya.ng.		3600	IN	NS	nsa.whogohost.com.
 yinya.ng.		3600	IN	NS	nsb.whogohost.com.
 yip.ng.			3600	IN	NS	ns1.yiponline.com.
 yip.ng.			3600	IN	NS	ns2.yiponline.com.
-yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yipe.ng.		3600	IN	NS	clint.ns.cloudflare.com.
 yipe.ng.		3600	IN	NS	addyson.ns.cloudflare.com.
+yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yippee.ng.		3600	IN	NS	nsa.whogohost.com.
 yippee.ng.		3600	IN	NS	nsb.whogohost.com.
 yiqi.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -78265,4 +78270,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052031 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052036 10800 3600 604800 3600
