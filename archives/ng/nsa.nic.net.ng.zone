@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052025 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653051034"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052031 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653062547"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -4243,8 +4243,10 @@ antigravity.ng.		3600	IN	NS	ns1.supercp.com.
 antigravity.ng.		3600	IN	NS	ns2.supercp.com.
 antigravity.ng.		3600	IN	NS	ns3.supercp.com.
 antigravity.ng.		3600	IN	NS	ns4.supercp.com.
-antigravitygroup.ng.	3600	IN	NS	ns1.dknoc.com.
-antigravitygroup.ng.	3600	IN	NS	ns2.dknoc.com.
+antigravitygroup.ng.	3600	IN	NS	ns1.a2hosting.com.
+antigravitygroup.ng.	3600	IN	NS	ns2.a2hosting.com.
+antigravitygroup.ng.	3600	IN	NS	ns3.a2hosting.com.
+antigravitygroup.ng.	3600	IN	NS	ns4.a2hosting.com.
 antigravityinc.ng.	3600	IN	NS	ns1.dknoc.com.
 antigravityinc.ng.	3600	IN	NS	ns2.dknoc.com.
 antigravityng.ng.	3600	IN	NS	ns1.dknoc.com.
@@ -8219,8 +8221,8 @@ bigbot.ng.		3600	IN	NS	nsa.whogohost.com.
 bigbot.ng.		3600	IN	NS	nsb.whogohost.com.
 bigbrother.ng.		3600	IN	NS	ns1.dan.com.
 bigbrother.ng.		3600	IN	NS	ns2.dan.com.
-bigbrothernaija.ng.	3600	IN	NS	dns1.namecheaphosting.com.
-bigbrothernaija.ng.	3600	IN	NS	dns2.namecheaphosting.com.
+bigbrothernaija.ng.	3600	IN	NS	may.ns.cloudflare.com.
+bigbrothernaija.ng.	3600	IN	NS	coby.ns.cloudflare.com.
 bigcare.ng.		3600	IN	NS	ns1.ipage.com.
 bigcare.ng.		3600	IN	NS	ns2.ipage.com.
 bigcode.ng.		3600	IN	NS	chip.ns.cloudflare.com.
@@ -10208,6 +10210,8 @@ braveit.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 braveit.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 bravepoint.ng.		3600	IN	NS	n2.upperserver5.com.
 bravepoint.ng.		3600	IN	NS	ns1.upperserver5.com.
+bravewood.ng.		3600	IN	NS	nsa.whogohost.com.
+bravewood.ng.		3600	IN	NS	nsb.whogohost.com.
 bravo.ng.		3600	IN	NS	ns1.cloudns.io.
 bravo.ng.		3600	IN	NS	ns2.cloudns.io.
 bravoedge.ng.		3600	IN	NS	ns1.cloudns.io.
@@ -11096,6 +11100,9 @@ buyadvice.ng.		3600	IN	NS	ns1.upperserver29.com.
 buyadvice.ng.		3600	IN	NS	ns2.upperserver29.com.
 buyall.ng.		3600	IN	NS	nsa.whogohost.com.
 buyall.ng.		3600	IN	NS	nsb.whogohost.com.
+buyam.ng.		3600	IN	NS	ns1.gigalayer.com.
+buyam.ng.		3600	IN	NS	ns2.gigalayer.com.
+buyam.ng.		3600	IN	NS	ns3.gigalayer.com.
 buyandcook.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 buyandcook.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 buyandgo.ng.		3600	IN	NS	ns1.digitalocean.com.
@@ -32470,8 +32477,8 @@ iaswellnesscentre.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 iaswellnesscentre.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 ibadanmarket.ng.	3600	IN	NS	ns1.namecheaphosting.com.
 ibadanmarket.ng.	3600	IN	NS	ns2.namecheaphosting.com.
-ibadanproperties.ng.	3600	IN	NS	ns1.bluehost.com.
-ibadanproperties.ng.	3600	IN	NS	ns2.bluehost.com.
+ibadanproperties.ng.	3600	IN	NS	ns1.qservers.net.
+ibadanproperties.ng.	3600	IN	NS	ns2.qservers.net.
 ibadconsultancy.ng.	3600	IN	NS	ns1.dkshared1.com.
 ibadconsultancy.ng.	3600	IN	NS	ns2.dkshared1.com.
 ibafotv.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -47369,8 +47376,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -61461,6 +61468,8 @@ servegov.ng.		3600	IN	NS	ns3-03.azure-dns.org.
 servegov.ng.		3600	IN	NS	ns4-03.azure-dns.info.
 server.ng.		3600	IN	NS	ns1.upperserver29.com.
 server.ng.		3600	IN	NS	ns2.upperserver29.com.
+servermanagers.ng.	3600	IN	NS	ns1.upperserver29.com.
+servermanagers.ng.	3600	IN	NS	ns2.upperserver29.com.
 servers.ng.		3600	IN	NS	ns1.ibstack.com.
 servers.ng.		3600	IN	NS	ns2.ibstack.com.
 serverside.ng.		3600	IN	NS	ns19.whogohost.com.
@@ -66612,8 +66621,8 @@ surgery.ng.		3600	IN	NS	ns1.sedoparking.com.
 surgery.ng.		3600	IN	NS	ns2.sedoparking.com.
 suriname.ng.		3600	IN	NS	cp.nira.org.ng.
 suriname.ng.		3600	IN	NS	ns1.nira.org.ng.
-surplus.ng.		3600	IN	NS	rns13.webhostbox.net.
-surplus.ng.		3600	IN	NS	rns14.webhostbox.net.
+surplus.ng.		3600	IN	NS	nsa.whogohost.com.
+surplus.ng.		3600	IN	NS	nsb.whogohost.com.
 surprise.ng.		3600	IN	NS	ns1.parkingcrew.net.
 surprise.ng.		3600	IN	NS	ns2.parkingcrew.net.
 surprises.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -72576,6 +72585,8 @@ unusualvisualz.ng.	3600	IN	NS	nsa.whogohost.com.
 unusualvisualz.ng.	3600	IN	NS	nsb.whogohost.com.
 uownit.ng.		3600	IN	NS	cns4007.webhostbox.net.
 uownit.ng.		3600	IN	NS	cns4008.webhostbox.net.
+up4grabs.ng.		3600	IN	NS	ns1.websiteserverbox.com.
+up4grabs.ng.		3600	IN	NS	ns2.websiteserverbox.com.
 upandabout.ng.		3600	IN	NS	ns1.whogohost.com.
 upandabout.ng.		3600	IN	NS	ns2.whogohost.com.
 upassit.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -73984,6 +73995,8 @@ visela.ng.		3600	IN	NS	nsa.whogohost.com.
 visela.ng.		3600	IN	NS	nsb.whogohost.com.
 vision.ng.		3600	IN	NS	ns1.parkingcrew.net.
 vision.ng.		3600	IN	NS	ns2.parkingcrew.net.
+vision2023.ng.		3600	IN	NS	dns1.doveserver.com.
+vision2023.ng.		3600	IN	NS	dns2.doveserver.com.
 visionagri.ng.		3600	IN	NS	ns1.uk84.siteground.eu.
 visionagri.ng.		3600	IN	NS	ns2.uk84.siteground.eu.
 visiondirect.ng.	3600	IN	NS	ns1.uniregistrymarket.link.
@@ -78252,4 +78265,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052025 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052031 10800 3600 604800 3600
