@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052208 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653191314"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052214 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653202840"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -5883,6 +5883,8 @@ autosafe.ng.		3600	IN	NS	ns13.doveserver.com.
 autosafe.ng.		3600	IN	NS	ns14.doveserver.com.
 autosale.ng.		3600	IN	NS	ns.sourcedns.com.
 autosale.ng.		3600	IN	NS	ns1.sourcedns.com.
+autosecure.ng.		3600	IN	NS	ns1.bluehost.com.
+autosecure.ng.		3600	IN	NS	ns2.bluehost.com.
 autoshare.ng.		3600	IN	NS	ns1.web4africa.com.
 autoshare.ng.		3600	IN	NS	ns2.web4africa.com.
 autoshare.ng.		3600	IN	NS	ns3.web4africa.com.
@@ -8784,6 +8786,9 @@ biztips.ng.		3600	IN	NS	dana.ns.cloudflare.com.
 biztips.ng.		3600	IN	NS	dilbert.ns.cloudflare.com.
 bizwatchnigeria.ng.	3600	IN	NS	tom.ns.cloudflare.com.
 bizwatchnigeria.ng.	3600	IN	NS	bonnie.ns.cloudflare.com.
+bizzcart.ng.		3600	IN	NS	ns01.trademarkarea.com.
+bizzcart.ng.		3600	IN	NS	ns02.trademarkarea.com.
+bizzcart.ng.		3600	IN	NS	ns03.trademarkarea.com.
 bizzdesk.ng.		3600	IN	NS	ns1.qservers.net.
 bizzdesk.ng.		3600	IN	NS	ns2.qservers.net.
 bizzybody.ng.		3600	IN	NS	ns1.time4vps.com.
@@ -14120,6 +14125,8 @@ classroomwithoutborders.ng. 3600 IN	NS	nsa.whogohost.com.
 classroomwithoutborders.ng. 3600 IN	NS	nsb.whogohost.com.
 classylifestyle.ng.	3600	IN	NS	yisroel.ns.cloudflare.com.
 classylifestyle.ng.	3600	IN	NS	serenity.ns.cloudflare.com.
+classythrifty.ng.	3600	IN	NS	ns1.dns-parking.com.
+classythrifty.ng.	3600	IN	NS	ns2.dns-parking.com.
 classywatches.ng.	3600	IN	NS	ns1.cloudoon.com.
 classywatches.ng.	3600	IN	NS	ns2.cloudoon.com.
 classywatches.ng.	3600	IN	NS	ns3.cloudoon.com.
@@ -31017,6 +31024,8 @@ hiit.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 hiit.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 hiitplc.ng.		3600	IN	NS	dns1.registrar-servers.com.
 hiitplc.ng.		3600	IN	NS	dns2.registrar-servers.com.
+hijabi.ng.		3600	IN	NS	nsa.whogohost.com.
+hijabi.ng.		3600	IN	NS	nsb.whogohost.com.
 hikari.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 hikari.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 hiki.ng.		3600	IN	NS	tim.ns.cloudflare.com.
@@ -39008,9 +39017,7 @@ learningengine.ng.	3600	IN	NS	ns2.upperserver29.com.
 learninghowtolearn.ng.	3600	IN	NS	ns15.doveserver.com.
 learninghowtolearn.ng.	3600	IN	NS	ns16.doveserver.com.
 learninglambsschool.ng.	3600	IN	NS	ns1.upperserver4.com.
-learninglambsschool.ng.	3600	IN	NS	ns1.upperserver29.com.
 learninglambsschool.ng.	3600	IN	NS	ns2.upperserver4.com.
-learninglambsschool.ng.	3600	IN	NS	ns2.upperserver29.com.
 learningmate.ng.	3600	IN	NS	ns1.cavidelserver.com.
 learningmate.ng.	3600	IN	NS	ns2.cavidelserver.com.
 learningtree.ng.	3600	IN	NS	mimi.ns.cloudflare.com.
@@ -40795,6 +40802,8 @@ lubrimart.ng.		3600	IN	NS	ns51.qservers.net.
 lubrimart.ng.		3600	IN	NS	ns52.qservers.net.
 lubu.ng.		3600	IN	NS	ken.ns.cloudflare.com.
 lubu.ng.		3600	IN	NS	rihana.ns.cloudflare.com.
+lucidigital.ng.		3600	IN	NS	ns1.uplserver6.com.
+lucidigital.ng.		3600	IN	NS	ns2.uplserver6.com.
 luckee.ng.		3600	IN	NS	dns1.p02.nsone.net.
 luckee.ng.		3600	IN	NS	dns2.p02.nsone.net.
 luckee.ng.		3600	IN	NS	dns3.p02.nsone.net.
@@ -41090,8 +41099,8 @@ m-and-s.ng.		3600	IN	NS	ns1.iptwins.net.
 m-and-s.ng.		3600	IN	NS	ns2.iptwins.net.
 m-and-s.ng.		3600	IN	NS	ns3.iptwins.com.
 m-and-s.ng.		3600	IN	NS	ns4.iptwins.com.
-m-innovation.ng.	3600	IN	NS	nsa.whogohost.com.
-m-innovation.ng.	3600	IN	NS	nsb.whogohost.com.
+m-innovation.ng.	3600	IN	NS	ns6419.hostgator.com.
+m-innovation.ng.	3600	IN	NS	ns6420.hostgator.com.
 m-kopa.ng.		3600	IN	NS	ns1.routeafrica.net.
 m-kopa.ng.		3600	IN	NS	ns2.routeafrica.net.
 m-tiba.ng.		3600	IN	NS	ns.inmotionhosting.com.
@@ -47370,8 +47379,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -49670,9 +49679,9 @@ oddjobber.ng.		3600	IN	NS	ns21.doveserver.com.
 oddjobber.ng.		3600	IN	NS	ns22.doveserver.com.
 oddoneout.ng.		3600	IN	NS	ns541.domainhosting.com.ng.
 oddoneout.ng.		3600	IN	NS	ns542.domainhosting.com.ng.
-odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds.ng.		3600	IN	NS	ns3.epik.com.
 odds.ng.		3600	IN	NS	ns4.epik.com.
+odds.ng.		86400	IN	DS	49604 13 2 48AC329A078500D5D17E6DC1B9DC0E4792B05A3DBCECD5FF8C9461C5 BE9704E4
 odds10.ng.		3600	IN	NS	dns1.doveserver.com.
 odds10.ng.		3600	IN	NS	dns2.doveserver.com.
 odds96.ng.		3600	IN	NS	ivy.ns.cloudflare.com.
@@ -78234,4 +78243,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052208 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052214 10800 3600 604800 3600
