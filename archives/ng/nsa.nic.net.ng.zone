@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052142 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653170069"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052202 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653179797"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -38142,8 +38142,8 @@ labalaba.ng.		3600	IN	NS	ns1.digitalocean.com.
 labalaba.ng.		3600	IN	NS	ns2.digitalocean.com.
 labarai.ng.		3600	IN	NS	nsa.whogohost.com.
 labarai.ng.		3600	IN	NS	nsb.whogohost.com.
-labarunhausa.ng.	3600	IN	NS	nsa.whogohost.com.
-labarunhausa.ng.	3600	IN	NS	nsb.whogohost.com.
+labarunhausa.ng.	3600	IN	NS	ns1.siteground.net.
+labarunhausa.ng.	3600	IN	NS	ns2.siteground.net.
 labequipment.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 labequipment.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 labezecurrency.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -47416,8 +47416,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -61556,6 +61556,8 @@ set.ng.			3600	IN	NS	ns1.sedoparking.com.
 set.ng.			3600	IN	NS	ns2.sedoparking.com.
 sethub.ng.		3600	IN	NS	ns4.tfhost.ng.
 sethub.ng.		3600	IN	NS	ns5.tfhost.ng.
+setnaut.ng.		3600	IN	NS	ns3.doveserver.com.
+setnaut.ng.		3600	IN	NS	ns4.doveserver.com.
 setpoint.ng.		3600	IN	NS	ns1.ipage.com.
 setpoint.ng.		3600	IN	NS	ns2.ipage.com.
 settrack.ng.		3600	IN	NS	kay.ns.cloudflare.com.
@@ -73533,9 +73535,8 @@ versio.ng.		3600	IN	NS	ns1.web4africa.com.
 versio.ng.		3600	IN	NS	ns2.web4africa.com.
 versio.ng.		3600	IN	NS	ns3.web4africa.com.
 versio.ng.		3600	IN	NS	ns4.web4africa.com.
-versorgungsordnu.ng.	3600	IN	NS	ns1.netim.net.
-versorgungsordnu.ng.	3600	IN	NS	ns2.netim.net.
-versorgungsordnu.ng.	3600	IN	NS	ns3.netim.net.
+versorgungsordnu.ng.	3600	IN	NS	rafe.ns.cloudflare.com.
+versorgungsordnu.ng.	3600	IN	NS	simon.ns.cloudflare.com.
 versuni.ng.		3600	IN	NS	ns.barbero.de.
 versuni.ng.		3600	IN	NS	ns.barbero.eu.
 versuni.ng.		3600	IN	NS	ns.barbero.uk.
@@ -78299,4 +78300,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052142 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052202 10800 3600 604800 3600
