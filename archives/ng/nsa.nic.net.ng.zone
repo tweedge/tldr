@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052508 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653450514"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052514 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653462040"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -22461,8 +22461,8 @@ eoja.ng.		3600	IN	NS	nsa.whogohost.com.
 eoja.ng.		3600	IN	NS	nsb.whogohost.com.
 eontelecom.ng.		3600	IN	NS	ns1.ceejayhost.com.
 eontelecom.ng.		3600	IN	NS	ns2.ceejayhost.com.
-eootle.ng.		3600	IN	NS	nsa.whogohost.com.
-eootle.ng.		3600	IN	NS	nsb.whogohost.com.
+eootle.ng.		3600	IN	NS	ns1.winghost.ng.
+eootle.ng.		3600	IN	NS	ns2.winghost.ng.
 epa-ejiba.ng.		3600	IN	NS	nsa.whogohost.com.
 epa-ejiba.ng.		3600	IN	NS	nsb.whogohost.com.
 epay.ng.		3600	IN	NS	ns3.fastdirectadmin.com.
@@ -25265,6 +25265,10 @@ fixandfinish.ng.	3600	IN	NS	ns16.qservers.net.
 fixcenter.ng.		3600	IN	NS	ns1.digitalocean.com.
 fixcenter.ng.		3600	IN	NS	ns2.digitalocean.com.
 fixcenter.ng.		3600	IN	NS	ns3.digitalocean.com.
+fixelections.ng.	3600	IN	NS	dns1.supremedns.com.
+fixelections.ng.	3600	IN	NS	dns2.supremedns.com.
+fixelections.ng.	3600	IN	NS	dns3.supremedns.com.
+fixelections.ng.	3600	IN	NS	dns4.supremedns.com.
 fixer.ng.		3600	IN	NS	nsa.whogohost.com.
 fixer.ng.		3600	IN	NS	nsb.whogohost.com.
 fixers.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -25476,8 +25480,8 @@ flexybeautysalon.ng.	3600	IN	NS	nsa.whogohost.com.
 flexybeautysalon.ng.	3600	IN	NS	nsb.whogohost.com.
 flexymedia.ng.		3600	IN	NS	dns1.harmonweb.net.
 flexymedia.ng.		3600	IN	NS	dns2.harmonweb.net.
-flexymusic.ng.		3600	IN	NS	bolt1.speedhost247.com.
-flexymusic.ng.		3600	IN	NS	bolt2.speedhost247.com.
+flexymusic.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+flexymusic.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 flexypay.ng.		3600	IN	NS	ns1.md-91.webhostbox.net.
 flexypay.ng.		3600	IN	NS	ns2.md-91.webhostbox.net.
 flezibuy.ng.		3600	IN	NS	ns1.siteground.net.
@@ -32750,6 +32754,8 @@ icpc-ops.ng.		3600	IN	NS	nsa.whogohost.com.
 icpc-ops.ng.		3600	IN	NS	nsb.whogohost.com.
 icredit.ng.		3600	IN	NS	nsa.whogohost.com.
 icredit.ng.		3600	IN	NS	nsb.whogohost.com.
+icrproperties.ng.	3600	IN	NS	ns1.secureserver.net.
+icrproperties.ng.	3600	IN	NS	ns2.secureserver.net.
 icsahiaekeoldboys.ng.	3600	IN	NS	ns-47.awsdns-05.com.
 icsahiaekeoldboys.ng.	3600	IN	NS	ns-843.awsdns-41.net.
 icsahiaekeoldboys.ng.	3600	IN	NS	ns-1497.awsdns-59.org.
@@ -47488,8 +47494,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -59309,8 +59315,8 @@ rok.ng.			3600	IN	NS	ns3.nameshield.net.
 rok.ng.			3600	IN	NS	obs.ns1.fr.
 rokada.ng.		3600	IN	NS	ns31.qservers.net.
 rokada.ng.		3600	IN	NS	ns32.qservers.net.
-rokice.ng.		3600	IN	NS	ns1.host-ww.net.
-rokice.ng.		3600	IN	NS	ns2.host-ww.net.
+rokice.ng.		3600	IN	NS	ns10.wixdns.net.
+rokice.ng.		3600	IN	NS	ns11.wixdns.net.
 rokme.ng.		3600	IN	NS	ns2.observatoiredesmarques.fr.
 rokme.ng.		3600	IN	NS	ns3.nameshield.net.
 rokme.ng.		3600	IN	NS	obs.ns1.fr.
@@ -75789,6 +75795,8 @@ westlaw.ng.		3600	IN	NS	ns4.markmonitor.com.
 westlaw.ng.		3600	IN	NS	ns5.markmonitor.com.
 westlaw.ng.		3600	IN	NS	ns6.markmonitor.com.
 westlaw.ng.		3600	IN	NS	ns7.markmonitor.com.
+westmarc.ng.		3600	IN	NS	nsa.whogohost.com.
+westmarc.ng.		3600	IN	NS	nsb.whogohost.com.
 westmat.ng.		3600	IN	NS	ns63.qservers.net.
 westmat.ng.		3600	IN	NS	ns64.qservers.net.
 westmeadows.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -77885,10 +77893,10 @@ zabira.ng.		3600	IN	NS	ns-1353.awsdns-41.org.
 zabira.ng.		3600	IN	NS	ns-1787.awsdns-31.co.uk.
 zabirapay.ng.		3600	IN	NS	nsa.whogohost.com.
 zabirapay.ng.		3600	IN	NS	nsb.whogohost.com.
-zachyou.ng.		3600	IN	NS	dns1.p01.nsone.net.
-zachyou.ng.		3600	IN	NS	dns2.p01.nsone.net.
-zachyou.ng.		3600	IN	NS	dns3.p01.nsone.net.
-zachyou.ng.		3600	IN	NS	dns4.p01.nsone.net.
+zachyou.ng.		3600	IN	NS	dns1.p04.nsone.net.
+zachyou.ng.		3600	IN	NS	dns2.p04.nsone.net.
+zachyou.ng.		3600	IN	NS	dns3.p04.nsone.net.
+zachyou.ng.		3600	IN	NS	dns4.p04.nsone.net.
 zadox.ng.		3600	IN	NS	ns53.domaincontrol.com.
 zadox.ng.		3600	IN	NS	ns54.domaincontrol.com.
 zagaglobaltrucks.ng.	3600	IN	NS	ns3.dktlds.com.
@@ -78485,4 +78493,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052508 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052514 10800 3600 604800 3600
