@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052442 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653429269"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052502 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653438999"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -9169,6 +9169,8 @@ bloomdata.ng.		3600	IN	NS	ns3.gigalayer.com.
 bloomers.ng.		3600	IN	NS	ns1.digitalocean.com.
 bloomers.ng.		3600	IN	NS	ns2.digitalocean.com.
 bloomers.ng.		3600	IN	NS	ns3.digitalocean.com.
+bloomfield-law.ng.	3600	IN	NS	nsa.whogohost.com.
+bloomfield-law.ng.	3600	IN	NS	nsb.whogohost.com.
 bloomfieldchildrenschool.ng. 3600 IN	NS	dns1.namecheaphosting.com.
 bloomfieldchildrenschool.ng. 3600 IN	NS	dns2.namecheaphosting.com.
 bloomfieldchildrenschool.ng. 3600 IN	NS	dns3.namecheaphosting.com.
@@ -13431,6 +13433,8 @@ chia.ng.		3600	IN	NS	dns2.p05.nsone.net.
 chia.ng.		3600	IN	NS	dns3.p05.nsone.net.
 chibecooilandgasnigltd.ng. 3600	IN	NS	ns27.doveserver.com.
 chibecooilandgasnigltd.ng. 3600	IN	NS	ns28.doveserver.com.
+chibobec.ng.		3600	IN	NS	dns1.doveserver.com.
+chibobec.ng.		3600	IN	NS	dns2.doveserver.com.
 chibuikerotimiamaechi.ng. 3600	IN	NS	nsa.whogohost.com.
 chibuikerotimiamaechi.ng. 3600	IN	NS	nsb.whogohost.com.
 chicco.ng.		3600	IN	NS	ns1.brandshelter.com.
@@ -20178,8 +20182,8 @@ dynacert.ng.		3600	IN	NS	cory.ns.cloudflare.com.
 dynacert.ng.		3600	IN	NS	nicole.ns.cloudflare.com.
 dynamicgovernancesolutions.ng. 3600 IN	NS	nico.ns.cloudflare.com.
 dynamicgovernancesolutions.ng. 3600 IN	NS	norah.ns.cloudflare.com.
-dynamicpower.ng.	3600	IN	NS	ns1.upperserver29.com.
-dynamicpower.ng.	3600	IN	NS	ns2.upperserver29.com.
+dynamicpower.ng.	3600	IN	NS	dina.ns.cloudflare.com.
+dynamicpower.ng.	3600	IN	NS	kanye.ns.cloudflare.com.
 dynamikdigital.ng.	3600	IN	NS	nsa.whogohost.com.
 dynamikdigital.ng.	3600	IN	NS	nsb.whogohost.com.
 dynata.ng.		3600	IN	NS	pdns1.ultradns.net.
@@ -47531,8 +47535,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -53026,8 +53030,8 @@ payrent.ng.		3600	IN	NS	nsa.whogohost.com.
 payrent.ng.		3600	IN	NS	nsb.whogohost.com.
 payrevolve.ng.		3600	IN	NS	ns9.trivaluehost.com.
 payrevolve.ng.		3600	IN	NS	ns10.trivaluehost.com.
-payrex.ng.		3600	IN	NS	dns1.namecheaphosting.com.
-payrex.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+payrex.ng.		3600	IN	NS	merlin.ns.cloudflare.com.
+payrex.ng.		3600	IN	NS	mallory.ns.cloudflare.com.
 payride.ng.		3600	IN	NS	ns19.doveserver.com.
 payride.ng.		3600	IN	NS	ns20.doveserver.com.
 payright.ng.		3600	IN	NS	ns1.quantican.com.
@@ -72427,6 +72431,8 @@ uhurumall.ng.		3600	IN	NS	ns1.bergehost.com.
 uhurumall.ng.		3600	IN	NS	ns2.bergehost.com.
 uhurupay.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 uhurupay.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+ui-trainings.ng.	3600	IN	NS	nsa.whogohost.com.
+ui-trainings.ng.	3600	IN	NS	nsb.whogohost.com.
 uid.ng.			3600	IN	NS	ns1.upperserver29.com.
 uid.ng.			3600	IN	NS	ns2.upperserver29.com.
 uifoods.ng.		3600	IN	NS	ns1.cloudoon.com.
@@ -72508,6 +72514,8 @@ ultimatefamilychallenge.ng. 3600 IN	NS	ns3.web4africa.com.
 ultimatefamilychallenge.ng. 3600 IN	NS	ns4.web4africa.com.
 ultimategas.ng.		3600	IN	NS	ns1.mysecurecloudhost.com.
 ultimategas.ng.		3600	IN	NS	ns2.mysecurecloudhost.com.
+ultimateinnovations.ng.	3600	IN	NS	nsa.whogohost.com.
+ultimateinnovations.ng.	3600	IN	NS	nsb.whogohost.com.
 ultimatelotto.ng.	3600	IN	NS	julian.ns.cloudflare.com.
 ultimatelotto.ng.	3600	IN	NS	cecelia.ns.cloudflare.com.
 ultimatewin.ng.		3600	IN	NS	ns1.bluehost.com.
@@ -78531,4 +78539,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052442 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052502 10800 3600 604800 3600
