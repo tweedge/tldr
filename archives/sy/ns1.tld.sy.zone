@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052633 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1653579136"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052639 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1653591732"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3516,6 +3516,8 @@ hijazi-part.sy.		86400	IN	NS	suspend1.tld.sy.
 hijazi-part.sy.		86400	IN	NS	suspend2.tld.sy.
 hilal.sy.		86400	IN	NS	ns207.canadianwebhosting.com.
 hilal.sy.		86400	IN	NS	ns208.canadianwebhosting.com.
+hiro-health.sy.		86400	IN	NS	ns5.nameserverservice.de.
+hiro-health.sy.		86400	IN	NS	ns6.nameserverservice.de.
 hiro-healthy.sy.	86400	IN	NS	ns5.nameserverservice.de.
 hiro-healthy.sy.	86400	IN	NS	ns6.nameserverservice.de.
 hit.sy.			86400	IN	NS	ns1.sawa-host.net.
@@ -7808,4 +7810,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052633 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052639 3600 3600 2592000 3600
