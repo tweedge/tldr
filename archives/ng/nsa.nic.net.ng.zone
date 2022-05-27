@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052708 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653623242"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052714 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653634771"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -5229,6 +5229,8 @@ asicstiger.ng.		3600	IN	NS	ns1.markmonitor.com.
 asicstiger.ng.		3600	IN	NS	ns3.markmonitor.com.
 asiwajuairforce.ng.	3600	IN	NS	ns1.bluehost.com.
 asiwajuairforce.ng.	3600	IN	NS	ns2.bluehost.com.
+asiwajujagaban.ng.	3600	IN	NS	ns1.vitalclickhost.com.
+asiwajujagaban.ng.	3600	IN	NS	ns2.vitalclickhost.com.
 asiwajusairforce.ng.	3600	IN	NS	ns1.bluehost.com.
 asiwajusairforce.ng.	3600	IN	NS	ns2.bluehost.com.
 askalawyer.ng.		3600	IN	NS	dns2017a.trouble-free.net.
@@ -18273,6 +18275,10 @@ dev.ng.			3600	IN	NS	ns1.dan.com.
 dev.ng.			3600	IN	NS	ns2.dan.com.
 devbrands.ng.		3600	IN	NS	nsa.whogohost.com.
 devbrands.ng.		3600	IN	NS	nsb.whogohost.com.
+devcenter.ng.		3600	IN	NS	ns1.web4africa.com.
+devcenter.ng.		3600	IN	NS	ns2.web4africa.com.
+devcenter.ng.		3600	IN	NS	ns3.web4africa.com.
+devcenter.ng.		3600	IN	NS	ns4.web4africa.com.
 devco.ng.		3600	IN	NS	nsa.whogohost.com.
 devco.ng.		3600	IN	NS	nsb.whogohost.com.
 develop.ng.		3600	IN	NS	ns1.sedoparking.com.
@@ -28063,6 +28069,8 @@ giftitems.ng.		3600	IN	NS	ns41.qservers.net.
 giftitems.ng.		3600	IN	NS	ns42.qservers.net.
 giftmart.ng.		3600	IN	NS	nsa.whogohost.com.
 giftmart.ng.		3600	IN	NS	nsb.whogohost.com.
+gifton.ng.		3600	IN	NS	ns23.garanntor.net.
+gifton.ng.		3600	IN	NS	ns24.garanntor.net.
 gifts.ng.		3600	IN	NS	ns1.web4africa.com.
 gifts.ng.		3600	IN	NS	ns2.web4africa.com.
 gifts.ng.		3600	IN	NS	ns3.web4africa.com.
@@ -42090,6 +42098,8 @@ mascaphospital.ng.	3600	IN	NS	ns1.upperserver29.com.
 mascaphospital.ng.	3600	IN	NS	ns2.mascapserver2.com.
 mascaphospital.ng.	3600	IN	NS	ns2.upperserver29.com.
 mascaphospital.ng.	3600	IN	NS	ns3.mascapserver2.com.
+mascotstreats.ng.	3600	IN	NS	ns1.webmable.africa.
+mascotstreats.ng.	3600	IN	NS	ns2.webmable.africa.
 mascus.ng.		3600	IN	NS	ns0.leaseweb.nl.
 mascus.ng.		3600	IN	NS	ns1.leaseweb.nl.
 mascus.ng.		3600	IN	NS	ns4.leaseweb.net.
@@ -42400,6 +42410,8 @@ mazda.ng.		3600	IN	NS	ns2.sedoparking.com.
 mazhub.ng.		3600	IN	NS	ams-ns1.greengeeks.com.
 mazhub.ng.		3600	IN	NS	chi-ns1.greengeeks.com.
 mazhub.ng.		3600	IN	NS	chi-ns2.greengeeks.com.
+mazidata.ng.		3600	IN	NS	ns1.upperserver29.com.
+mazidata.ng.		3600	IN	NS	ns2.upperserver29.com.
 mazzuro.ng.		3600	IN	NS	ns1.gigalayer.com.
 mazzuro.ng.		3600	IN	NS	ns2.gigalayer.com.
 mazzuro.ng.		3600	IN	NS	ns3.gigalayer.com.
@@ -46428,6 +46440,8 @@ naijabot.ng.		3600	IN	NS	nsa.whogohost.com.
 naijabot.ng.		3600	IN	NS	nsb.whogohost.com.
 naijabreakingnews.ng.	3600	IN	NS	ns1.goldcoast.ng.
 naijabreakingnews.ng.	3600	IN	NS	ns2.goldcoast.ng.
+naijabusiness.ng.	3600	IN	NS	ns1.dknoc.com.
+naijabusiness.ng.	3600	IN	NS	ns2.dknoc.com.
 naijabutcher.ng.	3600	IN	NS	nsa.whogohost.com.
 naijabutcher.ng.	3600	IN	NS	nsb.whogohost.com.
 naijabuzz.ng.		3600	IN	NS	ns1.intechcloudserver.com.
@@ -47919,9 +47933,11 @@ newsrepublic247.ng.	3600	IN	NS	nsa.whogohost.com.
 newsrepublic247.ng.	3600	IN	NS	nsb.whogohost.com.
 newsroom.ng.		3600	IN	NS	jim.ns.cloudflare.com.
 newsroom.ng.		3600	IN	NS	liv.ns.cloudflare.com.
-newsstandard.ng.	3600	IN	NS	ns1.cloudoon.com.
-newsstandard.ng.	3600	IN	NS	ns2.cloudoon.com.
-newsstandard.ng.	3600	IN	NS	ns3.cloudoon.com.
+newsstandard.ng.	3600	IN	NS	ns1.epizy.com.
+newsstandard.ng.	3600	IN	NS	ns2.epizy.com.
+newsstandard.ng.	3600	IN	NS	ns3.epizy.com.
+newsstandard.ng.	3600	IN	NS	ns4.epizy.com.
+newsstandard.ng.	3600	IN	NS	ns5.epizy.com.
 newstabloid.ng.		3600	IN	NS	ns1.tmvhost.com.
 newstabloid.ng.		3600	IN	NS	ns2.tmvhost.com.
 newstabloid.ng.		3600	IN	NS	ns3.tmvhost.com.
@@ -53451,6 +53467,10 @@ peoplesfund.ng.		3600	IN	NS	nsa.whogohost.com.
 peoplesfund.ng.		3600	IN	NS	nsb.whogohost.com.
 peopleshealthlottery.ng. 3600	IN	NS	ns1.sweafricaconnect.com.
 peopleshealthlottery.ng. 3600	IN	NS	ns2.sweafricaconnect.com.
+peoplesnews.ng.		3600	IN	NS	ns1.web4africa.com.
+peoplesnews.ng.		3600	IN	NS	ns2.web4africa.com.
+peoplesnews.ng.		3600	IN	NS	ns3.web4africa.com.
+peoplesnews.ng.		3600	IN	NS	ns4.web4africa.com.
 peoplesvoice.ng.	3600	IN	NS	nsa.whogohost.com.
 peoplesvoice.ng.	3600	IN	NS	nsb.whogohost.com.
 peoplesvoicecoalition.ng. 3600	IN	NS	ns450.whukns.com.
@@ -69473,6 +69493,8 @@ thenigeriandream.ng.	3600	IN	NS	ns1.web4africa.com.
 thenigeriandream.ng.	3600	IN	NS	ns2.web4africa.com.
 thenigeriandream.ng.	3600	IN	NS	ns3.web4africa.com.
 thenigeriandream.ng.	3600	IN	NS	ns4.web4africa.com.
+thenigeriantracker.ng.	3600	IN	NS	ns1.webmable.africa.
+thenigeriantracker.ng.	3600	IN	NS	ns2.webmable.africa.
 thenigeriastandard.ng.	3600	IN	NS	ns1.digitalocean.com.
 thenigeriastandard.ng.	3600	IN	NS	ns2.digitalocean.com.
 thenigeriastandard.ng.	3600	IN	NS	ns3.digitalocean.com.
@@ -78569,4 +78591,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052708 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052714 10800 3600 604800 3600
