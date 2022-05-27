@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022052711 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022052717 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1653645639"
+mg.			7200	IN	TXT	"Generation Time: 1653656438"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3934,6 +3934,8 @@ fischzucht-stella.mg.	86400	IN	NS	ns1.da.cloudns.io.
 fischzucht-stella.mg.	86400	IN	NS	ns2.da.cloudns.io.
 fisema.mg.		86400	IN	NS	ns1.da.cloudns.io.
 fisema.mg.		86400	IN	NS	ns2.da.cloudns.io.
+fishesbanking.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
+fishesbanking.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
 fitahiana.mg.		86400	IN	NS	ns.dts.mg.
 fitahiana.mg.		86400	IN	NS	ns1.dts.mg.
 fitampoha-menabe.mg.	86400	IN	NS	ns1.servermada.com.
@@ -6076,6 +6078,8 @@ lenepenthesfd.mg.	86400	IN	NS	nsmpro1.nordnet.com.
 lenepenthesfd.mg.	86400	IN	NS	nsmpro2.nordnet.com.
 lenosa.mg.		86400	IN	NS	dns200.anycast.me.
 lenosa.mg.		86400	IN	NS	ns200.anycast.me.
+lens.mg.		86400	IN	NS	ns1.da.cloudns.io.
+lens.mg.		86400	IN	NS	ns2.da.cloudns.io.
 leovegas.mg.		86400	IN	NS	dns01.dipcon.com.
 leovegas.mg.		86400	IN	NS	dns02.ports.se.
 leovegas.mg.		86400	IN	NS	dns03.ports.se.
@@ -8163,6 +8167,8 @@ parabole.mg.		86400	IN	NS	c.dns.gandi.net.
 parabole.mg.		86400	IN	NS	a.dns.gandi.net.
 paramad.mg.		86400	IN	NS	ns.dts.mg.
 paramad.mg.		86400	IN	NS	ns1.dts.mg.
+parc-national-tanihely.mg. 86400 IN	NS	ns1.da.cloudns.io.
+parc-national-tanihely.mg. 86400 IN	NS	ns2.da.cloudns.io.
 parfumprestige.mg.	86400	IN	NS	ns11.infomaniak.ch.
 parfumprestige.mg.	86400	IN	NS	ns12.infomaniak.ch.
 pari365.mg.		86400	IN	NS	blair.ns.cloudflare.com.
@@ -11573,4 +11579,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022052711 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022052717 600 3600 604800 86400
