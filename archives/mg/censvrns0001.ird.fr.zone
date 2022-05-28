@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022052813 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022052821 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1653717700"
+mg.			7200	IN	TXT	"Generation Time: 1653732102"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -820,8 +820,6 @@ ampm.mg.		7200	IN	NS	ns-219-b.gandi.net.
 ampm.mg.		7200	IN	NS	ns-228-c.gandi.net.
 ams-security.mg.	7200	IN	NS	ns.dts.mg.
 ams-security.mg.	7200	IN	NS	ns1.dts.mg.
-amsp.mg.		7200	IN	NS	ns1.da.cloudns.io.
-amsp.mg.		7200	IN	NS	ns2.da.cloudns.io.
 amul.mg.		7200	IN	NS	ns11.urlnameserver.com.
 amul.mg.		7200	IN	NS	ns12.urlnameserver.com.
 amull.mg.		7200	IN	NS	ns1.jexiste.org.
@@ -2148,8 +2146,6 @@ capital101recruit.mg.	7200	IN	NS	ns2.gasyweb.com.
 capmad.mg.		7200	IN	NS	ns-252-b.gandi.net.
 capmad.mg.		7200	IN	NS	ns-56-a.gandi.net.
 capmad.mg.		7200	IN	NS	ns-180-c.gandi.net.
-cappharma.mg.		7200	IN	NS	ns1.da.cloudns.io.
-cappharma.mg.		7200	IN	NS	ns2.da.cloudns.io.
 capricorn.mg.		7200	IN	NS	ns1.hostns.io.
 capricorn.mg.		7200	IN	NS	ns2.hostns.io.
 capricorne.mg.		7200	IN	NS	ns1.cloudns.io.
@@ -3689,8 +3685,6 @@ evanga.mg.		86400	IN	NS	ns2.onyx.cloudns.io.
 evasionsansfrontiere.mg. 86400	IN	NS	ns1.mg.tambazotra.net.
 evasionsansfrontiere.mg. 86400	IN	NS	ns2.mg.tambazotra.net.
 evasionsansfrontiere.mg. 86400	IN	NS	ns1.fr.malagasy.com.
-eveil-enfant.mg.	86400	IN	NS	ns1.servermada.com.
-eveil-enfant.mg.	86400	IN	NS	ns2.servermada.com.
 eventplus.mg.		86400	IN	NS	ns1-boxer.vivawebhost.com.
 eventplus.mg.		86400	IN	NS	ns2-boxer.vivawebhost.com.
 eventslab.mg.		86400	IN	NS	dns1.alwaysdata.com.
@@ -10861,8 +10855,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11590,4 +11584,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022052813 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022052821 600 3600 604800 86400

@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052814 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653721234"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052819 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653730830"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -4328,6 +4328,8 @@ aoe.ng.			3600	IN	NS	ns1.sh003.webhostbox.net.
 aoe.ng.			3600	IN	NS	ns2.sh003.webhostbox.net.
 aoefoundation.ng.	3600	IN	NS	ns8471.hostgator.com.
 aoefoundation.ng.	3600	IN	NS	ns8472.hostgator.com.
+aoitech.ng.		3600	IN	NS	nsa.whogohost.com.
+aoitech.ng.		3600	IN	NS	nsb.whogohost.com.
 aone.ng.		3600	IN	NS	nsa.whogohost.com.
 aone.ng.		3600	IN	NS	nsb.whogohost.com.
 aonomy.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -13977,8 +13979,8 @@ cits.ng.		3600	IN	NS	ns17.garanntor.net.
 cits.ng.		3600	IN	NS	ns18.garanntor.net.
 city.ng.		3600	IN	NS	ns1.parkingcrew.net.
 city.ng.		3600	IN	NS	ns2.parkingcrew.net.
-cityalumnigeria.ng.	3600	IN	NS	irma.ns.cloudflare.com.
-cityalumnigeria.ng.	3600	IN	NS	chase.ns.cloudflare.com.
+cityalumnigeria.ng.	3600	IN	NS	ns63.qservers.net.
+cityalumnigeria.ng.	3600	IN	NS	ns64.qservers.net.
 citycall.ng.		3600	IN	NS	nsa.whogohost.com.
 citycall.ng.		3600	IN	NS	nsb.whogohost.com.
 citychimp.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -14566,6 +14568,8 @@ clubgrill.ng.		3600	IN	NS	ns1.thedgit.com.
 clubgrill.ng.		3600	IN	NS	ns2.thedgit.com.
 clubhouse.ng.		3600	IN	NS	ns1.parkingcrew.net.
 clubhouse.ng.		3600	IN	NS	ns2.parkingcrew.net.
+clubkonnect.ng.		3600	IN	NS	ns1.upperserver29.com.
+clubkonnect.ng.		3600	IN	NS	ns2.upperserver29.com.
 clubly.ng.		3600	IN	NS	nsa.whogohost.com.
 clubly.ng.		3600	IN	NS	nsb.whogohost.com.
 clubx.ng.		3600	IN	NS	ns1.digitalocean.com.
@@ -22987,6 +22991,11 @@ etcstore.ng.		3600	IN	NS	dns6.whogohost.com.
 etcstore.ng.		3600	IN	NS	dns8.whogohost.com.
 etcstore.ng.		3600	IN	NS	dns9.whogohost.com.
 etcstore.ng.		3600	IN	NS	dns7whogohost.com.
+eteach.ng.		3600	IN	NS	ns1.contabo.net.
+eteach.ng.		3600	IN	NS	ns2.contabo.net.
+eteach.ng.		3600	IN	NS	ns3.contabo.net.
+eteach.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+eteach.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 eteam.ng.		3600	IN	NS	ns17.smartwebng.com.
 eteam.ng.		3600	IN	NS	ns18.smartwebng.com.
 etefa.ng.		3600	IN	NS	ns1.whogohost.com.
@@ -24981,6 +24990,8 @@ finhub.ng.		3600	IN	NS	ns1.bluehost.com.
 finhub.ng.		3600	IN	NS	ns2.bluehost.com.
 fininvest.ng.		3600	IN	NS	nsa.whogohost.com.
 fininvest.ng.		3600	IN	NS	nsb.whogohost.com.
+finiq.ng.		3600	IN	NS	ns1.suburbancloud.ng.
+finiq.ng.		3600	IN	NS	ns2.suburbancloud.ng.
 finland.ng.		3600	IN	NS	cp.nira.org.ng.
 finland.ng.		3600	IN	NS	ns1.nira.org.ng.
 finlogic.ng.		3600	IN	NS	ns71.qservers.net.
@@ -26952,6 +26963,8 @@ furnisure.ng.		3600	IN	NS	ns1.gigalayer.com.
 furnisure.ng.		3600	IN	NS	ns2.gigalayer.com.
 furnitures.ng.		3600	IN	NS	dns1.doveserver.com.
 furnitures.ng.		3600	IN	NS	dns2.doveserver.com.
+furstclassschool.ng.	3600	IN	NS	nsa.whogohost.com.
+furstclassschool.ng.	3600	IN	NS	nsb.whogohost.com.
 furville.ng.		3600	IN	NS	jule.ns.cloudflare.com.
 furville.ng.		3600	IN	NS	donald.ns.cloudflare.com.
 fuse.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -49827,6 +49840,8 @@ oceanparkhotel.ng.	3600	IN	NS	nsa.whogohost.com.
 oceanparkhotel.ng.	3600	IN	NS	nsb.whogohost.com.
 oceanprotocol.ng.	3600	IN	NS	ns1.upperserver29.com.
 oceanprotocol.ng.	3600	IN	NS	ns2.upperserver29.com.
+oceans.ng.		3600	IN	NS	ns33.qservers.net.
+oceans.ng.		3600	IN	NS	ns34.qservers.net.
 oceansideassociates.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 oceansideassociates.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 ocheap.ng.		3600	IN	NS	ns-421.awsdns-52.com.
@@ -78621,4 +78636,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052814 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052819 10800 3600 604800 3600
