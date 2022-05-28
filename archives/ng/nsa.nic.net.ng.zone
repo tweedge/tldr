@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052819 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653730830"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052825 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653742239"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -12912,8 +12912,8 @@ ceon.ng.		3600	IN	NS	ns23.qservers.net.
 ceon.ng.		3600	IN	NS	ns24.qservers.net.
 ceopr.ng.		3600	IN	NS	ignat.ns.cloudflare.com.
 ceopr.ng.		3600	IN	NS	delilah.ns.cloudflare.com.
-ceosafety.ng.		3600	IN	NS	ns15.qservers.net.
-ceosafety.ng.		3600	IN	NS	ns16.qservers.net.
+ceosafety.ng.		3600	IN	NS	elmo.ns.cloudflare.com.
+ceosafety.ng.		3600	IN	NS	delilah.ns.cloudflare.com.
 cep.ng.			3600	IN	NS	nsa.whogohost.com.
 cep.ng.			3600	IN	NS	nsb.whogohost.com.
 cepheus-pay.ng.		3600	IN	NS	ns1.netim.net.
@@ -24176,6 +24176,8 @@ fas.ng.			3600	IN	NS	ns3.web4africa.com.
 fas.ng.			3600	IN	NS	ns4.web4africa.com.
 fasaha.ng.		3600	IN	NS	ns1.upperserver29.com.
 fasaha.ng.		3600	IN	NS	ns2.upperserver29.com.
+fascinatetech.ng.	3600	IN	NS	ns21.doveserver.com.
+fascinatetech.ng.	3600	IN	NS	ns22.doveserver.com.
 fascinati.ng.		3600	IN	NS	ns1.netim.net.
 fascinati.ng.		3600	IN	NS	ns2.netim.net.
 fascinati.ng.		3600	IN	NS	ns3.netim.net.
@@ -39528,8 +39530,9 @@ lesotho.ng.		3600	IN	NS	ns1.nira.org.ng.
 lessi.ng.		3600	IN	NS	ns1.digitalocean.com.
 lessi.ng.		3600	IN	NS	ns2.digitalocean.com.
 lessi.ng.		3600	IN	NS	ns3.digitalocean.com.
-lessonteacher.ng.	3600	IN	NS	ns1.whogohost.com.
-lessonteacher.ng.	3600	IN	NS	ns2.whogohost.com.
+lessonteacher.ng.	3600	IN	NS	ns1.digitalocean.com.
+lessonteacher.ng.	3600	IN	NS	ns2.digitalocean.com.
+lessonteacher.ng.	3600	IN	NS	ns3.digitalocean.com.
 leta.ng.		3600	IN	NS	ns1.netim.net.
 leta.ng.		3600	IN	NS	ns2.netim.net.
 leta.ng.		3600	IN	NS	ns3.netim.net.
@@ -44950,8 +44953,8 @@ mrfarmer.ng.		3600	IN	NS	ns1.gigalayer.com.
 mrfarmer.ng.		3600	IN	NS	ns2.gigalayer.com.
 mrfen.ng.		3600	IN	NS	ns1.bluehost.com.
 mrfen.ng.		3600	IN	NS	ns2.bluehost.com.
-mrfood.ng.		3600	IN	NS	ns1087.ifastnet.com.
-mrfood.ng.		3600	IN	NS	ns2087.ifastnet.com.
+mrfood.ng.		3600	IN	NS	ns1.byethost22.org.
+mrfood.ng.		3600	IN	NS	ns2.byethost22.org.
 mrgrains.ng.		3600	IN	NS	ns1.stablehost.com.
 mrgrains.ng.		3600	IN	NS	ns2.stablehost.com.
 mrhouse.ng.		3600	IN	NS	ns17.qservers.net.
@@ -47596,8 +47599,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -51507,6 +51510,10 @@ orda.ng.		3600	IN	NS	ns1.web4africa.com.
 orda.ng.		3600	IN	NS	ns2.web4africa.com.
 orda.ng.		3600	IN	NS	ns3.web4africa.com.
 orda.ng.		3600	IN	NS	ns4.web4africa.com.
+ordaland.ng.		3600	IN	NS	ns1.upperserver29.com.
+ordaland.ng.		3600	IN	NS	ns2.upperserver29.com.
+ordaride.ng.		3600	IN	NS	ns1.upperserver29.com.
+ordaride.ng.		3600	IN	NS	ns2.upperserver29.com.
 orderacake.ng.		3600	IN	NS	ns17.whogohost.com.
 orderacake.ng.		3600	IN	NS	ns18.whogohost.com.
 orderam.ng.		3600	IN	NS	ns-417.awsdns-52.com.
@@ -59232,6 +59239,8 @@ rivetsoftware.ng.	3600	IN	NS	ns3-06.azure-dns.org.
 rivetsoftware.ng.	3600	IN	NS	ns4-06.azure-dns.info.
 rivhd.ng.		3600	IN	NS	nsa.whogohost.com.
 rivhd.ng.		3600	IN	NS	nsb.whogohost.com.
+rivieracuisine.ng.	3600	IN	NS	ns1.dexhost.info.
+rivieracuisine.ng.	3600	IN	NS	ns2.dexhost.info.
 rivjobs.ng.		3600	IN	NS	contact-us-at.edoms.biz.
 rivjobs.ng.		3600	IN	NS	domain-may-be-for-sale-at.edoms.biz.
 rivlandsclient.ng.	3600	IN	NS	ns1.rivlandsclient.ng.
@@ -61846,8 +61855,8 @@ sewingessentials.ng.	3600	IN	NS	nsa.whogohost.com.
 sewingessentials.ng.	3600	IN	NS	nsb.whogohost.com.
 seychelles.ng.		3600	IN	NS	cp.nira.org.ng.
 seychelles.ng.		3600	IN	NS	ns1.nira.org.ng.
-seyimakinde.ng.		3600	IN	NS	vda2300a.trouble-free.net.
-seyimakinde.ng.		3600	IN	NS	vda2300b.trouble-free.net.
+seyimakinde.ng.		3600	IN	NS	nsa.whogohost.com.
+seyimakinde.ng.		3600	IN	NS	nsb.whogohost.com.
 seytu.ng.		3600	IN	NS	ns1.instradns.com.
 seytu.ng.		3600	IN	NS	ns2.instradns.com.
 seytu.ng.		3600	IN	NS	ns3.instradns.com.
@@ -78636,4 +78645,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052819 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052825 10800 3600 604800 3600
