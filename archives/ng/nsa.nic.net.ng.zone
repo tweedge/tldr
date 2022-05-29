@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052936 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653849820"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052942 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653861210"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -14021,8 +14021,8 @@ citymaxhotel.ng.	3600	IN	NS	ns1.vultr.com.
 citymaxhotel.ng.	3600	IN	NS	ns2.vultr.com.
 citymedics.ng.		3600	IN	NS	ns1.host-ww.net.
 citymedics.ng.		3600	IN	NS	ns2.host-ww.net.
-citymood.ng.		3600	IN	NS	bob.ns.cloudflare.com.
-citymood.ng.		3600	IN	NS	violet.ns.cloudflare.com.
+citymood.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+citymood.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 citymotors.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 citymotors.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 cityneeds.ng.		3600	IN	NS	ns1.uk12.tmd.cloud.
@@ -15587,8 +15587,8 @@ coopify.ng.		3600	IN	NS	dns3.supremedns.com.
 coopify.ng.		3600	IN	NS	dns4.supremedns.com.
 coople.ng.		3600	IN	NS	ns1.is-fun.net.
 coople.ng.		3600	IN	NS	ns2.is-fun.net.
-coopman.ng.		3600	IN	NS	ns1.coopmanserver.net.
-coopman.ng.		3600	IN	NS	ns2.coopmanserver.net.
+coopman.ng.		3600	IN	NS	ns1.coopmanvpnserver.net.
+coopman.ng.		3600	IN	NS	ns2.coopmanvpnserver.net.
 coopmanager.ng.		3600	IN	NS	ns0.registeram.com.
 coopmanager.ng.		3600	IN	NS	ns1.registeram.com.
 coopmanager.ng.		3600	IN	NS	ns2.registeram.com.
@@ -39160,6 +39160,8 @@ learningtree.ng.	3600	IN	NS	mimi.ns.cloudflare.com.
 learningtree.ng.	3600	IN	NS	charles.ns.cloudflare.com.
 learnnoun.ng.		3600	IN	NS	dns1.doveserver.com.
 learnnoun.ng.		3600	IN	NS	dns2.doveserver.com.
+learnnow.ng.		3600	IN	NS	ns1.dknoc.com.
+learnnow.ng.		3600	IN	NS	ns2.dknoc.com.
 learnpod.ng.		3600	IN	NS	brit.ns.cloudflare.com.
 learnpod.ng.		3600	IN	NS	owen.ns.cloudflare.com.
 learnpower.ng.		3600	IN	NS	ns-204.awsdns-25.com.
@@ -39327,6 +39329,9 @@ legalteamer.ng.		3600	IN	NS	ns1.qservers.net.
 legalteamer.ng.		3600	IN	NS	ns2.qservers.net.
 legaltechfactory.ng.	3600	IN	NS	nsa.whogohost.com.
 legaltechfactory.ng.	3600	IN	NS	nsb.whogohost.com.
+legalvines.ng.		3600	IN	NS	ns1.cloudoon.com.
+legalvines.ng.		3600	IN	NS	ns2.cloudoon.com.
+legalvines.ng.		3600	IN	NS	ns3.cloudoon.com.
 legalzoom.ng.		3600	IN	NS	ns1.brandsight-dns.com.
 legalzoom.ng.		3600	IN	NS	ns1.brandsight-dns.net.
 legalzoom.ng.		3600	IN	NS	ns2.brandsight-dns.com.
@@ -47581,8 +47586,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -63866,6 +63871,8 @@ snakki.ng.		3600	IN	NS	rodney.ns.cloudflare.com.
 snakki.ng.		3600	IN	NS	marissa.ns.cloudflare.com.
 snap.ng.		3600	IN	NS	ns8337.hostgator.com.
 snap.ng.		3600	IN	NS	ns8338.hostgator.com.
+snapbuy.ng.		3600	IN	NS	nsa.whogohost.com.
+snapbuy.ng.		3600	IN	NS	nsb.whogohost.com.
 snapcash.ng.		3600	IN	NS	ns1.whogohost.com.
 snapcash.ng.		3600	IN	NS	ns2.whogohost.com.
 snapcheck.ng.		3600	IN	NS	ns31.whogohost.com.
@@ -70063,8 +70070,8 @@ thriveinsolutions.ng.	3600	IN	NS	nsa.whogohost.com.
 thriveinsolutions.ng.	3600	IN	NS	nsb.whogohost.com.
 thrives.ng.		3600	IN	NS	nsa.whogohost.com.
 thrives.ng.		3600	IN	NS	nsb.whogohost.com.
-thrivi.ng.		3600	IN	NS	nsa.whogohost.com.
-thrivi.ng.		3600	IN	NS	nsb.whogohost.com.
+thrivi.ng.		3600	IN	NS	ns1.squadhelp.com.
+thrivi.ng.		3600	IN	NS	ns2.squadhelp.com.
 thro.ng.		3600	IN	NS	ns1.mediatemple.net.
 thro.ng.		3600	IN	NS	ns2.mediatemple.net.
 thronelife.ng.		3600	IN	NS	dns1.p08.nsone.net.
@@ -76092,8 +76099,8 @@ whiteflames.ng.		3600	IN	NS	nsa.whogohost.com.
 whiteflames.ng.		3600	IN	NS	nsb.whogohost.com.
 whiteharvestinitiative.ng. 3600	IN	NS	ns3.syskay.com.
 whiteharvestinitiative.ng. 3600	IN	NS	ns4.syskay.com.
-whitehat.ng.		3600	IN	NS	kiki.ns.cloudflare.com.
-whitehat.ng.		3600	IN	NS	rodney.ns.cloudflare.com.
+whitehat.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+whitehat.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 whiteheartmedicals.ng.	3600	IN	NS	nsa.whogohost.com.
 whiteheartmedicals.ng.	3600	IN	NS	nsb.whogohost.com.
 whitehorsegroup.ng.	3600	IN	NS	ns3.mysecurecloudhost.com.
@@ -78615,4 +78622,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052936 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052942 10800 3600 604800 3600
