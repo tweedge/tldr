@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052908 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653796114"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052914 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653807639"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -628,8 +628,11 @@ ns2.4sale.ng.		3600	IN	A	179.61.137.235
 4sure.ng.		3600	IN	NS	ns2.web4africa.com.
 4sure.ng.		3600	IN	NS	ns3.web4africa.com.
 4sure.ng.		3600	IN	NS	ns4.web4africa.com.
-4thestatereporters.ng.	3600	IN	NS	nsa.whogohost.com.
-4thestatereporters.ng.	3600	IN	NS	nsb.whogohost.com.
+4thestatereporters.ng.	3600	IN	NS	freedns1.registrar-servers.com.
+4thestatereporters.ng.	3600	IN	NS	freedns2.registrar-servers.com.
+4thestatereporters.ng.	3600	IN	NS	freedns3.registrar-servers.com.
+4thestatereporters.ng.	3600	IN	NS	freedns4.registrar-servers.com.
+4thestatereporters.ng.	3600	IN	NS	freedns5.registrar-servers.com.
 4thplace.ng.		3600	IN	NS	ns1.btshost.net.
 4thplace.ng.		3600	IN	NS	ns2.btshost.net.
 4uto.ng.		3600	IN	NS	ns15.qservers.net.
@@ -7225,6 +7228,8 @@ beetle.ng.		3600	IN	NS	ns1.upperserver29.com.
 beetle.ng.		3600	IN	NS	ns2.upperserver29.com.
 beetlejuicestudios.ng.	3600	IN	NS	ns1.cloudnetvox.com.
 beetlejuicestudios.ng.	3600	IN	NS	ns2.cloudnetvox.com.
+beewhy.ng.		3600	IN	NS	nsa.whogohost.com.
+beewhy.ng.		3600	IN	NS	nsb.whogohost.com.
 beez.ng.		3600	IN	NS	nsa.whogohost.com.
 beez.ng.		3600	IN	NS	nsb.whogohost.com.
 befinanciallyfit.ng.	3600	IN	NS	ns1099.ifastnet.com.
@@ -38019,8 +38024,8 @@ kubona.ng.		3600	IN	NS	kirk.ns.cloudflare.com.
 kubona.ng.		3600	IN	NS	chloe.ns.cloudflare.com.
 kubota.ng.		3600	IN	NS	ajay.ns.cloudflare.com.
 kubota.ng.		3600	IN	NS	lola.ns.cloudflare.com.
-kubuni.ng.		3600	IN	NS	ns1.azentori.com.
-kubuni.ng.		3600	IN	NS	ns2.azentori.com.
+kubuni.ng.		3600	IN	NS	ns1.stackdns.com.
+kubuni.ng.		3600	IN	NS	ns2.stackdns.com.
 kubwageneralhosp.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 kubwageneralhosp.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 kuda.ng.		3600	IN	NS	ns1.qservers.net.
@@ -72861,8 +72866,8 @@ unusualvisualz.ng.	3600	IN	NS	nsa.whogohost.com.
 unusualvisualz.ng.	3600	IN	NS	nsb.whogohost.com.
 uownit.ng.		3600	IN	NS	cns4007.webhostbox.net.
 uownit.ng.		3600	IN	NS	cns4008.webhostbox.net.
-up4grabs.ng.		3600	IN	NS	ns8453.hostgator.com.
-up4grabs.ng.		3600	IN	NS	ns8454.hostgator.com.
+up4grabs.ng.		3600	IN	NS	ns1.websiteserverbox.com.
+up4grabs.ng.		3600	IN	NS	ns2.websiteserverbox.com.
 upandabout.ng.		3600	IN	NS	ns1.whogohost.com.
 upandabout.ng.		3600	IN	NS	ns2.whogohost.com.
 upassit.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -77659,9 +77664,9 @@ yinya.ng.		3600	IN	NS	nsa.whogohost.com.
 yinya.ng.		3600	IN	NS	nsb.whogohost.com.
 yip.ng.			3600	IN	NS	ns1.yiponline.com.
 yip.ng.			3600	IN	NS	ns2.yiponline.com.
-yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yipe.ng.		3600	IN	NS	clint.ns.cloudflare.com.
 yipe.ng.		3600	IN	NS	addyson.ns.cloudflare.com.
+yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yippee.ng.		3600	IN	NS	nsa.whogohost.com.
 yippee.ng.		3600	IN	NS	nsb.whogohost.com.
 yiqi.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -78575,4 +78580,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052908 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052914 10800 3600 604800 3600

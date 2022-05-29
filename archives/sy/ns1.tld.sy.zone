@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052914 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1653796944"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052920 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1653807737"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -260,8 +260,10 @@ abdlkarim-co.sy.	86400	IN	NS	suspend1.tld.sy.
 abdlkarim-co.sy.	86400	IN	NS	suspend2.tld.sy.
 abdlkarim-part.sy.	86400	IN	NS	suspend1.tld.sy.
 abdlkarim-part.sy.	86400	IN	NS	suspend2.tld.sy.
-abdulbaki.sy.		86400	IN	NS	suspend1.tld.sy.
-abdulbaki.sy.		86400	IN	NS	suspend2.tld.sy.
+abdulbaki.sy.		86400	IN	NS	ns1.scs-net.sy.
+abdulbaki.sy.		86400	IN	NS	ns1.scs-net.org.
+abdulbaki.sy.		86400	IN	NS	ns2.scs-net.sy.
+abdulbaki.sy.		86400	IN	NS	ns2.scs-net.org.
 abed-mulhem.sy.		86400	IN	NS	suspend1.tld.sy.
 abed-mulhem.sy.		86400	IN	NS	suspend2.tld.sy.
 abh.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -2263,8 +2265,8 @@ dakouneh.sy.		86400	IN	NS	ns1.waveshost.sy.
 dakouneh.sy.		86400	IN	NS	ns2.waveshost.sy.
 dalati.sy.		86400	IN	NS	suspend1.tld.sy.
 dalati.sy.		86400	IN	NS	suspend2.tld.sy.
-daleel.sy.		86400	IN	NS	suspend1.tld.sy.
-daleel.sy.		86400	IN	NS	suspend2.tld.sy.
+daleel.sy.		86400	IN	NS	ns1.syrianhost.com.
+daleel.sy.		86400	IN	NS	ns2.syrianhost.com.
 dali.sy.		86400	IN	NS	suspend1.tld.sy.
 dali.sy.		86400	IN	NS	suspend2.tld.sy.
 dalilak.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -2689,8 +2691,8 @@ edilbi-ind.sy.		86400	IN	NS	suspend2.tld.sy.
 edu.sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 edu.sy.			86400	IN	NS	ns1.tld.sy.
 edu.sy.			86400	IN	NS	pch.anycast.tld.sy.
-edugroup.sy.		86400	IN	NS	suspend1.tld.sy.
-edugroup.sy.		86400	IN	NS	suspend2.tld.sy.
+edugroup.sy.		86400	IN	NS	ns1.syrianhost.com.
+edugroup.sy.		86400	IN	NS	ns2.syrianhost.com.
 ee.sy.			86400	IN	NS	suspend1.tld.sy.
 ee.sy.			86400	IN	NS	suspend2.tld.sy.
 ee-industry.sy.		86400	IN	NS	ns3.tld.sy.
@@ -2828,8 +2830,8 @@ eng-dalia.sy.		86400	IN	NS	ns247.ucg.ltd.
 eng-dalia.sy.		86400	IN	NS	ns2247.ucg.ltd.
 eng-pro.sy.		86400	IN	NS	suspend1.tld.sy.
 eng-pro.sy.		86400	IN	NS	suspend2.tld.sy.
-enggroup.sy.		86400	IN	NS	suspend1.tld.sy.
-enggroup.sy.		86400	IN	NS	suspend2.tld.sy.
+enggroup.sy.		86400	IN	NS	ns1.syrianhost.com.
+enggroup.sy.		86400	IN	NS	ns2.syrianhost.com.
 engilink.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 engilink.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
 engser.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -3749,8 +3751,8 @@ indomi-biz.sy.		86400	IN	NS	ns1.hostdnsserver.com.
 indomi-biz.sy.		86400	IN	NS	ns2.hostdnsserver.com.
 indomie.sy.		86400	IN	NS	ns1.hostdnsserver.com.
 indomie.sy.		86400	IN	NS	ns2.hostdnsserver.com.
-industry.sy.		86400	IN	NS	suspend1.tld.sy.
-industry.sy.		86400	IN	NS	suspend2.tld.sy.
+industry.sy.		86400	IN	NS	ns1.syrianhost.com.
+industry.sy.		86400	IN	NS	ns2.syrianhost.com.
 industrynews.sy.	86400	IN	NS	ns237.ucg.ltd.
 industrynews.sy.	86400	IN	NS	ns2237.ucg.ltd.
 inet.sy.		86400	IN	NS	ns1.inet.sy.
@@ -4723,8 +4725,8 @@ medicalcity.sy.		86400	IN	NS	ns3.tld.sy.
 medicalcity.sy.		86400	IN	NS	ns4.tld.sy.
 medicalgateway.sy.	86400	IN	NS	suspend1.tld.sy.
 medicalgateway.sy.	86400	IN	NS	suspend2.tld.sy.
-medicalgroup.sy.	86400	IN	NS	suspend1.tld.sy.
-medicalgroup.sy.	86400	IN	NS	suspend2.tld.sy.
+medicalgroup.sy.	86400	IN	NS	ns1.syrianhost.com.
+medicalgroup.sy.	86400	IN	NS	ns2.syrianhost.com.
 medico.sy.		86400	IN	NS	ns1.smallvillages.com.
 medico.sy.		86400	IN	NS	ns2.smallvillages.com.
 medico.sy.		86400	IN	NS	ns3.smallvillages.com.
@@ -7808,4 +7810,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052914 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052920 3600 3600 2592000 3600
