@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052927 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1653818544"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052931 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1653829337"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -641,6 +641,10 @@ albeik-bros.sy.		86400	IN	NS	suspend1.tld.sy.
 albeik-bros.sy.		86400	IN	NS	suspend2.tld.sy.
 albert-minassianco.sy.	86400	IN	NS	suspend1.tld.sy.
 albert-minassianco.sy.	86400	IN	NS	suspend2.tld.sy.
+albilasan-ga.sy.	86400	IN	NS	ns1.monster.sy.
+albilasan-ga.sy.	86400	IN	NS	ns2.monster.sy.
+albilasanga.sy.		86400	IN	NS	ns1.monster.sy.
+albilasanga.sy.		86400	IN	NS	ns2.monster.sy.
 albitar-part.sy.	86400	IN	NS	suspend1.tld.sy.
 albitar-part.sy.	86400	IN	NS	suspend2.tld.sy.
 alboselh.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -2208,6 +2212,8 @@ cowh.sy.		86400	IN	NS	suspend1.tld.sy.
 cowh.sy.		86400	IN	NS	suspend2.tld.sy.
 coworker.sy.		86400	IN	NS	ns1.damashost.com.
 coworker.sy.		86400	IN	NS	ns2.damashost.com.
+coworker-group.sy.	86400	IN	NS	ns1.waveshost.sy.
+coworker-group.sy.	86400	IN	NS	ns2.waveshost.sy.
 cp.sy.			86400	IN	NS	suspend1.tld.sy.
 cp.sy.			86400	IN	NS	suspend2.tld.sy.
 creation.sy.		86400	IN	NS	ns1.marota.me.
@@ -7810,4 +7816,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052927 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052931 3600 3600 2592000 3600
