@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052920 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1653807737"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052927 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1653818544"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2235,8 +2235,8 @@ csc.sy.			86400	IN	NS	beth.ns.cloudflare.com.
 csc.sy.			86400	IN	NS	major.ns.cloudflare.com.
 csr.sy.			86400	IN	NS	ns1.csrglobal.net.
 csr.sy.			86400	IN	NS	ns2.csrglobal.net.
-ctf.sy.			86400	IN	NS	suspend1.tld.sy.
-ctf.sy.			86400	IN	NS	suspend2.tld.sy.
+ctf.sy.			86400	IN	NS	ns3.tld.sy.
+ctf.sy.			86400	IN	NS	ns4.tld.sy.
 cts.sy.			86400	IN	NS	ns3.tld.sy.
 cts.sy.			86400	IN	NS	ns4.tld.sy.
 cute.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -2676,8 +2676,8 @@ ecc.sy.			86400	IN	NS	ns3.tld.sy.
 ecc.sy.			86400	IN	NS	ns4.tld.sy.
 eccs.sy.		86400	IN	NS	suspend1.tld.sy.
 eccs.sy.		86400	IN	NS	suspend2.tld.sy.
-ecsc-expat.sy.		86400	IN	NS	suspend1.tld.sy.
-ecsc-expat.sy.		86400	IN	NS	suspend2.tld.sy.
+ecsc-expat.sy.		86400	IN	NS	ns3.tld.sy.
+ecsc-expat.sy.		86400	IN	NS	ns4.tld.sy.
 ecsta.sy.		86400	IN	NS	ns1.dan.com.
 ecsta.sy.		86400	IN	NS	ns2.dan.com.
 ect.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -2715,8 +2715,8 @@ eha.sy.			86400	IN	NS	suspend1.tld.sy.
 eha.sy.			86400	IN	NS	suspend2.tld.sy.
 ehjezz.sy.		86400	IN	NS	ns1.monster.sy.
 ehjezz.sy.		86400	IN	NS	ns2.monster.sy.
-ehjizli.sy.		86400	IN	NS	ns1.madfoxhosting.com.
-ehjizli.sy.		86400	IN	NS	ns2.madfoxhosting.com.
+ehjizli.sy.		86400	IN	NS	suspend1.tld.sy.
+ehjizli.sy.		86400	IN	NS	suspend2.tld.sy.
 ehjzlee.sy.		86400	IN	NS	ns1.damashost.com.
 ehjzlee.sy.		86400	IN	NS	ns2.damashost.com.
 eibou.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -4186,8 +4186,8 @@ kilshi.sy.		86400	IN	NS	suspend1.tld.sy.
 kilshi.sy.		86400	IN	NS	suspend2.tld.sy.
 kinanah.sy.		86400	IN	NS	suspend1.tld.sy.
 kinanah.sy.		86400	IN	NS	suspend2.tld.sy.
-kinj.sy.		86400	IN	NS	ns1.185.194.124.200.
-kinj.sy.		86400	IN	NS	ns2.185.194.124.200.
+kinj.sy.		86400	IN	NS	suspend1.tld.sy.
+kinj.sy.		86400	IN	NS	suspend2.tld.sy.
 kinz.sy.		86400	IN	NS	suspend1.tld.sy.
 kinz.sy.		86400	IN	NS	suspend2.tld.sy.
 kiwan.sy.		86400	IN	NS	ns1.flexsolutiondomains.com.
@@ -7810,4 +7810,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052920 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052927 3600 3600 2592000 3600

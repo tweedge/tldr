@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052914 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653807639"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052919 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653817232"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -13549,6 +13549,8 @@ chk.ng.			3600	IN	NS	ns75.domaincontrol.com.
 chk.ng.			3600	IN	NS	ns76.domaincontrol.com.
 chk.ng.			3600	IN	NS	pdns11.domaincontrol.com.
 chk.ng.			3600	IN	NS	pdns12.domaincontrol.com.
+chloe.ng.		3600	IN	NS	ns1.dknoc.com.
+chloe.ng.		3600	IN	NS	ns2.dknoc.com.
 chloenigeria.ng.	3600	IN	NS	nsa.whogohost.com.
 chloenigeria.ng.	3600	IN	NS	nsb.whogohost.com.
 chm.ng.			3600	IN	NS	ns1.chm.ng.
@@ -19433,6 +19435,8 @@ dotapp.ng.		3600	IN	NS	ns1.101domain.com.
 dotapp.ng.		3600	IN	NS	ns2.101domain.com.
 dotbank.ng.		3600	IN	NS	nsa.whogohost.com.
 dotbank.ng.		3600	IN	NS	nsb.whogohost.com.
+dotbob.ng.		3600	IN	NS	nsa.whogohost.com.
+dotbob.ng.		3600	IN	NS	nsb.whogohost.com.
 dotbydot.ng.		3600	IN	NS	nsa.whogohost.com.
 dotbydot.ng.		3600	IN	NS	nsb.whogohost.com.
 dotcom.ng.		3600	IN	NS	ns8397.hostgator.com.
@@ -47558,8 +47562,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -72846,9 +72850,9 @@ unoid.ng.		3600	IN	NS	ns1.qservers.net.
 unoid.ng.		3600	IN	NS	ns2.qservers.net.
 unolist.ng.		3600	IN	NS	ns77.domaincontrol.com.
 unolist.ng.		3600	IN	NS	ns78.domaincontrol.com.
-unstoppables.ng.	3600	IN	NS	ns1.cloudoon.com.
-unstoppables.ng.	3600	IN	NS	ns2.cloudoon.com.
-unstoppables.ng.	3600	IN	NS	ns3.cloudoon.com.
+unstoppables.ng.	3600	IN	NS	giraffe.ezoicns.com.
+unstoppables.ng.	3600	IN	NS	manatee.ezoicns.com.
+unstoppables.ng.	3600	IN	NS	siamese.ezoicns.com.
 unsu.ng.		3600	IN	NS	ns1.dan.com.
 unsu.ng.		3600	IN	NS	ns2.dan.com.
 untappedfarms.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -77664,9 +77668,9 @@ yinya.ng.		3600	IN	NS	nsa.whogohost.com.
 yinya.ng.		3600	IN	NS	nsb.whogohost.com.
 yip.ng.			3600	IN	NS	ns1.yiponline.com.
 yip.ng.			3600	IN	NS	ns2.yiponline.com.
+yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yipe.ng.		3600	IN	NS	clint.ns.cloudflare.com.
 yipe.ng.		3600	IN	NS	addyson.ns.cloudflare.com.
-yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yippee.ng.		3600	IN	NS	nsa.whogohost.com.
 yippee.ng.		3600	IN	NS	nsb.whogohost.com.
 yiqi.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -78580,4 +78584,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052914 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022052919 10800 3600 604800 3600
