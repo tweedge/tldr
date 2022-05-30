@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022053009 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022053013 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1653901292"
+mg.			7200	IN	TXT	"Generation Time: 1653915688"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -6930,6 +6930,8 @@ mercedes-benz.mg.	86400	IN	NS	ns2.corpinter.de.
 mercedes-benz.mg.	86400	IN	NS	ns3.corpinter.net.
 merck.mg.		86400	IN	NS	ns02.brandshelter.net.
 merck.mg.		86400	IN	NS	ns01.brandshelter.com.
+mercurehotel.mg.	86400	IN	NS	ns1.da.cloudns.io.
+mercurehotel.mg.	86400	IN	NS	ns2.da.cloudns.io.
 mesauda.mg.		86400	IN	NS	ns1.register.it.
 mesauda.mg.		86400	IN	NS	ns2.register.it.
 mesaudamilano.mg.	86400	IN	NS	ns1.register.it.
@@ -7014,6 +7016,8 @@ mgalogistics.mg.	86400	IN	NS	ns1.da.cloudns.io.
 mgalogistics.mg.	86400	IN	NS	ns2.da.cloudns.io.
 mgbi.mg.		86400	IN	NS	dns200.anycast.me.
 mgbi.mg.		86400	IN	NS	ns200.anycast.me.
+mgc.mg.			86400	IN	NS	ns1407.websitewelcome.com.
+mgc.mg.			86400	IN	NS	ns1408.websitewelcome.com.
 mgi.mg.			86400	IN	NS	ns29.dot.mg.
 mgi.mg.			86400	IN	NS	ns29.illi.co.mg.
 mgix.mg.		86400	IN	NS	ns.mgix.mg.
@@ -11568,4 +11572,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022053009 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022053013 600 3600 604800 86400
