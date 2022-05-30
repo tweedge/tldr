@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053031 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653926499"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053036 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653936090"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -327,6 +327,9 @@ ns2.1stattorneys.ng.	3600	IN	A	23.227.135.35
 234gamez.ng.		3600	IN	NS	dns2.doveserver.com.
 234news.ng.		3600	IN	NS	ns1.de11.fcomet.com.
 234news.ng.		3600	IN	NS	ns2.de11.fcomet.com.
+234obi.ng.		3600	IN	NS	ns1.gigalayer.com.
+234obi.ng.		3600	IN	NS	ns2.gigalayer.com.
+234obi.ng.		3600	IN	NS	ns3.gigalayer.com.
 234parts.ng.		3600	IN	NS	nsa.whogohost.com.
 234parts.ng.		3600	IN	NS	nsb.whogohost.com.
 234property.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -343,6 +346,9 @@ ns2.1stattorneys.ng.	3600	IN	A	23.227.135.35
 234stars.ng.		3600	IN	NS	liv.ns.cloudflare.com.
 234teens.ng.		3600	IN	NS	nsa.whogohost.com.
 234teens.ng.		3600	IN	NS	nsb.whogohost.com.
+23forobi.ng.		3600	IN	NS	ns1.gigalayer.com.
+23forobi.ng.		3600	IN	NS	ns2.gigalayer.com.
+23forobi.ng.		3600	IN	NS	ns3.gigalayer.com.
 247.ng.			3600	IN	NS	ns1.sedoparking.com.
 247.ng.			3600	IN	NS	ns2.sedoparking.com.
 247btctrader.ng.	3600	IN	NS	dns1.namecheaphosting.com.
@@ -1262,8 +1268,10 @@ abnltd.ng.		3600	IN	NS	ns8365.hostgator.com.
 abnltd.ng.		3600	IN	NS	ns8366.hostgator.com.
 abntv.ng.		3600	IN	NS	dns2041a.trouble-free.net.
 abntv.ng.		3600	IN	NS	dns2041b.trouble-free.net.
-abode.ng.		3600	IN	NS	dns1.namecheaphosting.com.
-abode.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+abode.ng.		3600	IN	NS	ns-431.awsdns-53.com.
+abode.ng.		3600	IN	NS	ns-513.awsdns-00.net.
+abode.ng.		3600	IN	NS	ns-1533.awsdns-63.org.
+abode.ng.		3600	IN	NS	ns-1924.awsdns-48.co.uk.
 aboffshore.ng.		3600	IN	NS	ns15.doveserver.com.
 aboffshore.ng.		3600	IN	NS	ns16.doveserver.com.
 aboki.ng.		3600	IN	NS	ns1.host-ww.net.
@@ -13967,8 +13975,9 @@ citizenshipinvestment.ng. 3600	IN	NS	ns1.dknoc.com.
 citizenshipinvestment.ng. 3600	IN	NS	ns2.dknoc.com.
 citizentv.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 citizentv.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-citratech.ng.		3600	IN	NS	nsa.whogohost.com.
-citratech.ng.		3600	IN	NS	nsb.whogohost.com.
+citratech.ng.		3600	IN	NS	ns1.digitalocean.com.
+citratech.ng.		3600	IN	NS	ns2.digitalocean.com.
+citratech.ng.		3600	IN	NS	ns3.digitalocean.com.
 cits.ng.		3600	IN	NS	ns17.garanntor.net.
 cits.ng.		3600	IN	NS	ns18.garanntor.net.
 city.ng.		3600	IN	NS	ns1.parkingcrew.net.
@@ -15891,8 +15900,8 @@ counterhouseconsultants.ng. 3600 IN	NS	ns1.bluehost.com.
 counterhouseconsultants.ng. 3600 IN	NS	ns2.bluehost.com.
 counti.ng.		3600	IN	NS	ns3.epik.com.
 counti.ng.		3600	IN	NS	ns4.epik.com.
-countrybuilt.ng.	3600	IN	NS	dns11.garanntor.net.
-countrybuilt.ng.	3600	IN	NS	dns12.garanntor.net.
+countrybuilt.ng.	3600	IN	NS	dns1.namecheaphosting.com.
+countrybuilt.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 countryfresh.ng.	3600	IN	NS	ns1.bluehost.com.
 countryfresh.ng.	3600	IN	NS	ns2.bluehost.com.
 countrywide.ng.		3600	IN	NS	ns1.cp-ht-6.webhostbox.net.
@@ -18518,6 +18527,8 @@ dietarify.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 dietarify.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 dieti.ng.		3600	IN	NS	ns1.domains.ng.
 dieti.ng.		3600	IN	NS	ns2.domains.ng.
+differently.ng.		3600	IN	NS	nsa.whogohost.com.
+differently.ng.		3600	IN	NS	nsb.whogohost.com.
 diffuser.ng.		3600	IN	NS	ns1.vicinitybroadband.com.
 diffuser.ng.		3600	IN	NS	ns2.vicinitybroadband.com.
 diffuser.ng.		3600	IN	NS	ns3.vicinitybroadband.com.
@@ -21567,6 +21578,8 @@ ekogo.ng.		3600	IN	NS	nsa.whogohost.com.
 ekogo.ng.		3600	IN	NS	nsb.whogohost.com.
 ekohotels.ng.		3600	IN	NS	ns1.icecoolcontracts.com.
 ekohotels.ng.		3600	IN	NS	ns2.icecoolcontracts.com.
+ekohub.ng.		3600	IN	NS	nsa.whogohost.com.
+ekohub.ng.		3600	IN	NS	nsb.whogohost.com.
 ekoko.ng.		3600	IN	NS	kami.ns.cloudflare.com.
 ekoko.ng.		3600	IN	NS	jonah.ns.cloudflare.com.
 ekolotto.ng.		3600	IN	NS	ns1.upperserver29.com.
@@ -35711,6 +35724,10 @@ jkmarketing.ng.		3600	IN	NS	nsb.whogohost.com.
 jktechnologies.ng.	3600	IN	NS	ns1.digitalocean.com.
 jktechnologies.ng.	3600	IN	NS	ns2.digitalocean.com.
 jktechnologies.ng.	3600	IN	NS	ns3.digitalocean.com.
+jlearn.ng.		3600	IN	NS	ns1.ipisolutionsng.com.
+jlearn.ng.		3600	IN	NS	ns2.ipisolutionsng.com.
+jlearn.ng.		3600	IN	NS	ns3.ipisolutionsng.com.
+jlearn.ng.		3600	IN	NS	ns4.ipisolutionsng.com.
 jmarkventure.ng.	3600	IN	NS	ns5.doveserver.com.
 jmarkventure.ng.	3600	IN	NS	ns6.doveserver.com.
 jmc.ng.			3600	IN	NS	nsa.whogohost.com.
@@ -40241,6 +40258,8 @@ liveandearn.ng.		3600	IN	NS	nsa.whogohost.com.
 liveandearn.ng.		3600	IN	NS	nsb.whogohost.com.
 liveauction.ng.		3600	IN	NS	alec.ns.cloudflare.com.
 liveauction.ng.		3600	IN	NS	olga.ns.cloudflare.com.
+livebet.ng.		3600	IN	NS	ns1.webhouse.sk.
+livebet.ng.		3600	IN	NS	ns2.webhouse.sk.
 livebiz.ng.		3600	IN	NS	ns35.qservers.net.
 livebiz.ng.		3600	IN	NS	ns36.qservers.net.
 livebox.ng.		3600	IN	NS	ns23.doveserver.com.
@@ -47613,8 +47632,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -53690,6 +53709,8 @@ peterobi.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 peterobi.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 peterobi2023.ng.	3600	IN	NS	nsa.whogohost.com.
 peterobi2023.ng.	3600	IN	NS	nsb.whogohost.com.
+peterobi4president.ng.	3600	IN	NS	nsa.whogohost.com.
+peterobi4president.ng.	3600	IN	NS	nsb.whogohost.com.
 peterobiforpresident.ng. 3600	IN	NS	ns1.qservers.net.
 peterobiforpresident.ng. 3600	IN	NS	ns2.qservers.net.
 peterzha.ng.		3600	IN	NS	ns1.netim.net.
@@ -68413,6 +68434,9 @@ tejuosho.ng.		3600	IN	NS	nsa.whogohost.com.
 tejuosho.ng.		3600	IN	NS	nsb.whogohost.com.
 tek-experts.ng.		3600	IN	NS	ns1.dknoc.com.
 tek-experts.ng.		3600	IN	NS	ns2.dknoc.com.
+tekfinancials.ng.	3600	IN	NS	ns1.gigalayer.com.
+tekfinancials.ng.	3600	IN	NS	ns2.gigalayer.com.
+tekfinancials.ng.	3600	IN	NS	ns3.gigalayer.com.
 tekhera.ng.		3600	IN	NS	ns1.africaservers.net.
 tekhera.ng.		3600	IN	NS	ns2.africaservers.net.
 tekinologi.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -78672,4 +78696,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053031 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053036 10800 3600 604800 3600
