@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022053014 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1653894141"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022053019 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1653904935"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1114,11 +1114,8 @@ alsabekon.sy.		86400	IN	NS	ns2.scs-net.org.
 alsabekon.sy.		86400	IN	NS	ns6.scs-net.org.
 alsadiq.sy.		86400	IN	NS	suspend1.tld.sy.
 alsadiq.sy.		86400	IN	NS	suspend2.tld.sy.
-alsafadi-company.sy.	86400	IN	NS	ns1.ucg-core.com.
-alsafadi-company.sy.	86400	IN	NS	ns4.ucg-core.com.
-alsafadi-company.sy.	86400	IN	NS	ns11.ucg-core.com.
-alsafadi-company.sy.	86400	IN	NS	ns51.uae-dc.com.
-alsafadi-company.sy.	86400	IN	NS	ns54.uae-dc.com.
+alsafadi-company.sy.	86400	IN	NS	suspend1.tld.sy.
+alsafadi-company.sy.	86400	IN	NS	suspend2.tld.sy.
 alsafir.sy.		86400	IN	NS	ns1.ucg-ae.com.
 alsafir.sy.		86400	IN	NS	ns3.ucg-ae.com.
 alsaheel-wings.sy.	86400	IN	NS	ns3.tld.sy.
@@ -2539,8 +2536,8 @@ diyari.sy.		86400	IN	NS	suspend1.tld.sy.
 diyari.sy.		86400	IN	NS	suspend2.tld.sy.
 dlc.sy.			86400	IN	NS	suspend1.tld.sy.
 dlc.sy.			86400	IN	NS	suspend2.tld.sy.
-dm.sy.			86400	IN	NS	ns1.b-host.net.
-dm.sy.			86400	IN	NS	ns2.b-host.net.
+dm.sy.			86400	IN	NS	suspend1.tld.sy.
+dm.sy.			86400	IN	NS	suspend2.tld.sy.
 dmd.sy.			86400	IN	NS	ns1.scs-net.sy.
 dmd.sy.			86400	IN	NS	ns1.scs-net.org.
 dmd.sy.			86400	IN	NS	ns2.scs-net.sy.
@@ -2554,6 +2551,8 @@ doc.sy.			86400	IN	NS	ns1.entornodns.com.
 doc.sy.			86400	IN	NS	ns2.entornodns.com.
 doctormobile.sy.	86400	IN	NS	ns1.monster.sy.
 doctormobile.sy.	86400	IN	NS	ns2.monster.sy.
+doctoronline.sy.	86400	IN	NS	ns3.tld.sy.
+doctoronline.sy.	86400	IN	NS	ns4.tld.sy.
 doctors.sy.		86400	IN	NS	ns1.ourhost.org.
 doctors.sy.		86400	IN	NS	ns2.ourhost.org.
 documents.sy.		86400	IN	NS	dns1.namecheaphosting.com.
@@ -5453,8 +5452,8 @@ palsgaard.sy.		86400	IN	NS	a4.nstld.com.
 palsgaard.sy.		86400	IN	NS	f4.nstld.com.
 palsgaard.sy.		86400	IN	NS	g4.nstld.com.
 palsgaard.sy.		86400	IN	NS	l4.nstld.com.
-pan.sy.			86400	IN	NS	kate.ns.cloudflare.com.
-pan.sy.			86400	IN	NS	wilson.ns.cloudflare.com.
+pan.sy.			86400	IN	NS	suspend1.tld.sy.
+pan.sy.			86400	IN	NS	suspend2.tld.sy.
 panasonic.sy.		86400	IN	NS	ns1.ehdf.net.
 panasonic.sy.		86400	IN	NS	ns2.ehdf.net.
 panorama.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7818,4 +7817,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022053014 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022053019 3600 3600 2592000 3600
