@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053008 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653882515"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053014 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653894026"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -11233,6 +11233,9 @@ buyingpower.ng.		3600	IN	NS	nsa.whogohost.com.
 buyingpower.ng.		3600	IN	NS	nsb.whogohost.com.
 buyinstruments.ng.	3600	IN	NS	ns1.tenstrings.org.
 buyinstruments.ng.	3600	IN	NS	ns2.tenstrings.org.
+buyit.ng.		3600	IN	NS	ns1.cloudoon.com.
+buyit.ng.		3600	IN	NS	ns2.cloudoon.com.
+buyit.ng.		3600	IN	NS	ns3.cloudoon.com.
 buyland.ng.		3600	IN	NS	nsa.whogohost.com.
 buyland.ng.		3600	IN	NS	nsb.whogohost.com.
 buylight.ng.		3600	IN	NS	ns0.dnsmadeeasy.com.
@@ -16077,6 +16080,10 @@ craftsandgifts.ng.	3600	IN	NS	ns3.wolverinedns.com.
 craftsandgifts.ng.	3600	IN	NS	ns4.wolverinedns.com.
 craftstation.ng.	3600	IN	NS	nsa.whogohost.com.
 craftstation.ng.	3600	IN	NS	nsb.whogohost.com.
+craig.ng.		3600	IN	NS	ns1.web4africa.com.
+craig.ng.		3600	IN	NS	ns2.web4africa.com.
+craig.ng.		3600	IN	NS	ns3.web4africa.com.
+craig.ng.		3600	IN	NS	ns4.web4africa.com.
 cramn.ng.		3600	IN	NS	ns21.smartwebng.com.
 cramn.ng.		3600	IN	NS	ns22.smartwebng.com.
 craneschools.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -21112,6 +21119,8 @@ educart.ng.		3600	IN	NS	ns3.web4africa.com.
 educart.ng.		3600	IN	NS	ns4.web4africa.com.
 educate.ng.		3600	IN	NS	ns1.oasys.club.
 educate.ng.		3600	IN	NS	ns2.oasys.club.
+educati.ng.		3600	IN	NS	ns1.siteground.net.
+educati.ng.		3600	IN	NS	ns2.siteground.net.
 educations.ng.		3600	IN	NS	ns1.dnshost.net.
 educations.ng.		3600	IN	NS	ns2.dnshost.net.
 educatorsforum.ng.	3600	IN	NS	ns1.bh-41.webhostbox.net.
@@ -25264,6 +25273,8 @@ fix.ng.			3600	IN	NS	ns1.parkingcrew.net.
 fix.ng.			3600	IN	NS	ns2.parkingcrew.net.
 fix-it.ng.		3600	IN	NS	n8.iclassserver.com.
 fix-it.ng.		3600	IN	NS	n9.iclassserver.com.
+fixa.ng.		3600	IN	NS	ns77.qservers.net.
+fixa.ng.		3600	IN	NS	ns78.qservers.net.
 fixakwaibom.ng.		3600	IN	NS	matteo.ns.cloudflare.com.
 fixakwaibom.ng.		3600	IN	NS	princess.ns.cloudflare.com.
 fixall.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -28031,6 +28042,10 @@ giftable.ng.		3600	IN	NS	ns1.siteground.net.
 giftable.ng.		3600	IN	NS	ns2.siteground.net.
 giftalert.ng.		3600	IN	NS	nsa.whogohost.com.
 giftalert.ng.		3600	IN	NS	nsb.whogohost.com.
+giftbox-lagos.ng.	3600	IN	NS	ns1.loopia.se.
+giftbox-lagos.ng.	3600	IN	NS	ns2.loopia.se.
+giftboxlagos.ng.	3600	IN	NS	ns1.loopia.se.
+giftboxlagos.ng.	3600	IN	NS	ns2.loopia.se.
 giftcard.ng.		3600	IN	NS	ns1.gigalayer.com.
 giftcard.ng.		3600	IN	NS	ns2.gigalayer.com.
 giftcardplug.ng.	3600	IN	NS	dns1.namecheaphosting.com.
@@ -42317,10 +42332,8 @@ maxenergy.ng.		3600	IN	NS	ns1.dknoc.com.
 maxenergy.ng.		3600	IN	NS	ns2.dknoc.com.
 maxeva.ng.		3600	IN	NS	ns1.uplserver11.com.
 maxeva.ng.		3600	IN	NS	ns2.uplserver11.com.
-maxfa.ng.		3600	IN	NS	ns-199.awsdns-24.com.
-maxfa.ng.		3600	IN	NS	ns-567.awsdns-06.net.
-maxfa.ng.		3600	IN	NS	ns-1494.awsdns-58.org.
-maxfa.ng.		3600	IN	NS	ns-1855.awsdns-39.co.uk.
+maxfa.ng.		3600	IN	NS	martha.ns.cloudflare.com.
+maxfa.ng.		3600	IN	NS	trevor.ns.cloudflare.com.
 maxfiles.ng.		3600	IN	NS	jose.ns.cloudflare.com.
 maxfiles.ng.		3600	IN	NS	mckenzie.ns.cloudflare.com.
 maxfileslimited.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -45433,10 +45446,10 @@ mybonusstore.ng.	3600	IN	NS	ns1.cybonia.com.
 mybonusstore.ng.	3600	IN	NS	ns2.cybonia.com.
 mybook.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 mybook.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-mybooki.ng.		3600	IN	NS	ns-347.awsdns-43.com.
-mybooki.ng.		3600	IN	NS	ns-865.awsdns-44.net.
-mybooki.ng.		3600	IN	NS	ns-1239.awsdns-26.org.
-mybooki.ng.		3600	IN	NS	ns-1898.awsdns-45.co.uk.
+mybooki.ng.		3600	IN	NS	ns-129.awsdns-16.com.
+mybooki.ng.		3600	IN	NS	ns-820.awsdns-38.net.
+mybooki.ng.		3600	IN	NS	ns-1520.awsdns-62.org.
+mybooki.ng.		3600	IN	NS	ns-1916.awsdns-47.co.uk.
 myboon.ng.		3600	IN	NS	celeste.ns.cloudflare.com.
 myboon.ng.		3600	IN	NS	dilbert.ns.cloudflare.com.
 mybossmall.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -47868,6 +47881,10 @@ newsfront.ng.		3600	IN	NS	ns1.newsfront.ng.
 newsfront.ng.		3600	IN	NS	ns2.newsfront.ng.
 ns1.newsfront.ng.	3600	IN	A	178.79.134.103
 ns2.newsfront.ng.	3600	IN	A	139.162.185.132
+newsgazette.ng.		3600	IN	NS	ns1.tmvhosting.com.
+newsgazette.ng.		3600	IN	NS	ns2.tmvhosting.com.
+newsgazette.ng.		3600	IN	NS	ns3.tmvhosting.com.
+newsgazette.ng.		3600	IN	NS	ns4.tmvhosting.com.
 newshub.ng.		3600	IN	NS	ns1.skannet.com.ng.
 newshub.ng.		3600	IN	NS	ns2.skannet.com.ng.
 newsinsidenigeria.ng.	3600	IN	NS	ns1.smartsourcing.com.ng.
@@ -56055,6 +56072,8 @@ propertyforsale.ng.	3600	IN	NS	ns1.web4africa.com.
 propertyforsale.ng.	3600	IN	NS	ns2.web4africa.com.
 propertyforsale.ng.	3600	IN	NS	ns3.web4africa.com.
 propertyforsale.ng.	3600	IN	NS	ns4.web4africa.com.
+propertygeneral.ng.	3600	IN	NS	ns1.hostgoodies.com.
+propertygeneral.ng.	3600	IN	NS	ns2.hostgoodies.com.
 propertyhub.ng.		3600	IN	NS	ns23.doveserver.com.
 propertyhub.ng.		3600	IN	NS	ns24.doveserver.com.
 propertyhunt.ng.	3600	IN	NS	cass.ns.cloudflare.com.
@@ -57585,6 +57604,10 @@ rccglandallocation.ng.	3600	IN	NS	ns2.contabo.net.
 rccglandallocation.ng.	3600	IN	NS	ns3.contabo.net.
 rccgloveinaction.ng.	3600	IN	NS	ns1.whogohost.com.
 rccgloveinaction.ng.	3600	IN	NS	ns2.whogohost.com.
+rccgteapteens.ng.	3600	IN	NS	dns1.supremedns.com.
+rccgteapteens.ng.	3600	IN	NS	dns2.supremedns.com.
+rccgteapteens.ng.	3600	IN	NS	dns3.supremedns.com.
+rccgteapteens.ng.	3600	IN	NS	dns4.supremedns.com.
 rccgtog.ng.		3600	IN	NS	nsa.whogohost.com.
 rccgtog.ng.		3600	IN	NS	nsb.whogohost.com.
 rcli.ng.		3600	IN	NS	ns1.upperserver2.com.
@@ -78561,4 +78584,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053008 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053014 10800 3600 604800 3600
