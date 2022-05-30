@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053036 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653936090"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053042 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653947618"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -4341,8 +4341,8 @@ aoe.ng.			3600	IN	NS	ns1.sh003.webhostbox.net.
 aoe.ng.			3600	IN	NS	ns2.sh003.webhostbox.net.
 aoefoundation.ng.	3600	IN	NS	ns8471.hostgator.com.
 aoefoundation.ng.	3600	IN	NS	ns8472.hostgator.com.
-aoitech.ng.		3600	IN	NS	nsa.whogohost.com.
-aoitech.ng.		3600	IN	NS	nsb.whogohost.com.
+aoitech.ng.		3600	IN	NS	rita.ns.cloudflare.com.
+aoitech.ng.		3600	IN	NS	julian.ns.cloudflare.com.
 aone.ng.		3600	IN	NS	nsa.whogohost.com.
 aone.ng.		3600	IN	NS	nsb.whogohost.com.
 aonomy.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -17098,10 +17098,8 @@ cyprusgoldenvisa.ng.	3600	IN	NS	ns1.dknoc.com.
 cyprusgoldenvisa.ng.	3600	IN	NS	ns2.dknoc.com.
 cyprusrealestate.ng.	3600	IN	NS	ns1.dknoc.com.
 cyprusrealestate.ng.	3600	IN	NS	ns2.dknoc.com.
-cyrus.ng.		3600	IN	NS	ns-468.awsdns-58.com.
-cyrus.ng.		3600	IN	NS	ns-982.awsdns-58.net.
-cyrus.ng.		3600	IN	NS	ns-1449.awsdns-53.org.
-cyrus.ng.		3600	IN	NS	ns-1838.awsdns-37.co.uk.
+cyrus.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+cyrus.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 cyrus45.ng.		3600	IN	NS	ns19.garanntor.net.
 cyrus45.ng.		3600	IN	NS	ns20.garanntor.net.
 cyruselectrical.ng.	3600	IN	NS	ns19.syskay.com.
@@ -18784,6 +18782,8 @@ dihgroup.ng.		3600	IN	NS	ns1.bh-11.webhostbox.net.
 dihgroup.ng.		3600	IN	NS	ns2.bh-11.webhostbox.net.
 dijamade.ng.		3600	IN	NS	nsa.whogohost.com.
 dijamade.ng.		3600	IN	NS	nsb.whogohost.com.
+dijinfodata.ng.		3600	IN	NS	nsa.whogohost.com.
+dijinfodata.ng.		3600	IN	NS	nsb.whogohost.com.
 dik.ng.			3600	IN	NS	ns3.epik.com.
 dik.ng.			3600	IN	NS	ns4.epik.com.
 dikachino.ng.		3600	IN	NS	ns7.hostnownow.com.
@@ -35721,6 +35721,8 @@ jivochat.ng.		3600	IN	NS	ns1.edgedns.ru.
 jivochat.ng.		3600	IN	NS	ns2.edgedns.world.
 jkmarketing.ng.		3600	IN	NS	nsa.whogohost.com.
 jkmarketing.ng.		3600	IN	NS	nsb.whogohost.com.
+jkn.ng.			3600	IN	NS	ns23.qservers.net.
+jkn.ng.			3600	IN	NS	ns24.qservers.net.
 jktechnologies.ng.	3600	IN	NS	ns1.digitalocean.com.
 jktechnologies.ng.	3600	IN	NS	ns2.digitalocean.com.
 jktechnologies.ng.	3600	IN	NS	ns3.digitalocean.com.
@@ -47632,8 +47634,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -55131,6 +55133,8 @@ powerlinetrading.ng.	3600	IN	NS	nsb.whogohost.com.
 powerme.ng.		3600	IN	NS	ns1.site4now.net.
 powerme.ng.		3600	IN	NS	ns2.site4now.net.
 powerme.ng.		3600	IN	NS	ns3.site4now.net.
+powernews.ng.		3600	IN	NS	nsa.whogohost.com.
+powernews.ng.		3600	IN	NS	nsb.whogohost.com.
 poweroak.ng.		3600	IN	NS	n8.iclassserver.com.
 poweroak.ng.		3600	IN	NS	n9.iclassserver.com.
 poweroil.ng.		3600	IN	NS	ns1.upperserver2.com.
@@ -60835,6 +60839,8 @@ sbofoundation.ng.	3600	IN	NS	ns1.upperserver29.com.
 sbofoundation.ng.	3600	IN	NS	ns2.upperserver29.com.
 sbtcapital.ng.		3600	IN	NS	may.ns.cloudflare.com.
 sbtcapital.ng.		3600	IN	NS	titan.ns.cloudflare.com.
+sbtech.ng.		3600	IN	NS	ns1.kanesweb.com.
+sbtech.ng.		3600	IN	NS	ns2.kanesweb.com.
 sbw.ng.			3600	IN	NS	rs8a.registrar-servers.com.
 sbw.ng.			3600	IN	NS	rs8b.registrar-servers.com.
 sbx.ng.			3600	IN	NS	ns1.web4africa.com.
@@ -60844,8 +60850,8 @@ sbx.ng.			3600	IN	NS	ns4.web4africa.com.
 scaftech.ng.		3600	IN	NS	ns1.cloudoon.com.
 scaftech.ng.		3600	IN	NS	ns2.cloudoon.com.
 scaftech.ng.		3600	IN	NS	ns3.cloudoon.com.
-scala.ng.		3600	IN	NS	ns1.raziela.com.ng.
-scala.ng.		3600	IN	NS	ns2.raziela.com.ng.
+scala.ng.		3600	IN	NS	ns55.domaincontrol.com.
+scala.ng.		3600	IN	NS	ns56.domaincontrol.com.
 scalarangels.ng.	3600	IN	NS	aaden.ns.cloudflare.com.
 scalarangels.ng.	3600	IN	NS	keira.ns.cloudflare.com.
 scale.ng.		3600	IN	NS	ns0.registeram.com.
@@ -69056,6 +69062,8 @@ thebubblecompany.ng.	3600	IN	NS	ns37.qservers.net.
 thebubblecompany.ng.	3600	IN	NS	ns38.qservers.net.
 thebuilders.ng.		3600	IN	NS	ns59.qservers.net.
 thebuilders.ng.		3600	IN	NS	ns60.qservers.net.
+thebulletin.ng.		3600	IN	NS	nsa.whogohost.com.
+thebulletin.ng.		3600	IN	NS	nsb.whogohost.com.
 thebullpound.ng.	3600	IN	NS	ns1.upperserver29.com.
 thebullpound.ng.	3600	IN	NS	ns2.upperserver29.com.
 thebullpoundk9.ng.	3600	IN	NS	ns1.upperserver29.com.
@@ -69273,6 +69281,8 @@ thefoundry.ng.		3600	IN	NS	nsa.whogohost.com.
 thefoundry.ng.		3600	IN	NS	nsb.whogohost.com.
 theframehub.ng.		3600	IN	NS	ns1.bluehost.com.
 theframehub.ng.		3600	IN	NS	ns2.bluehost.com.
+thefrontier.ng.		3600	IN	NS	nsa.whogohost.com.
+thefrontier.ng.		3600	IN	NS	nsb.whogohost.com.
 thefrontoffice.ng.	3600	IN	NS	ns-279.awsdns-34.com.
 thefrontoffice.ng.	3600	IN	NS	ns-802.awsdns-36.net.
 thefrontoffice.ng.	3600	IN	NS	ns-1448.awsdns-53.org.
@@ -69664,6 +69674,8 @@ theperaawards.ng.	3600	IN	NS	ns37.qservers.net.
 theperaawards.ng.	3600	IN	NS	ns38.qservers.net.
 theperfectpa.ng.	3600	IN	NS	nsa.whogohost.com.
 theperfectpa.ng.	3600	IN	NS	nsb.whogohost.com.
+theperfumeoutlet.ng.	3600	IN	NS	nsa.whogohost.com.
+theperfumeoutlet.ng.	3600	IN	NS	nsb.whogohost.com.
 thephoenix.ng.		3600	IN	NS	ns1.bluehost.com.
 thephoenix.ng.		3600	IN	NS	ns2.bluehost.com.
 thepinnacle.ng.		3600	IN	NS	ns19.hostnownow.com.
@@ -78696,4 +78708,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053036 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053042 10800 3600 604800 3600
