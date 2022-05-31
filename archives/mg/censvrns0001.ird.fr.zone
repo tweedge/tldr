@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022053110 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022053113 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1653991296"
+mg.			7200	IN	TXT	"Generation Time: 1654002087"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3340,6 +3340,8 @@ ecosystemaccounting.mg.	7200	IN	NS	ns1.cloudns.io.
 ecosystemaccounting.mg.	7200	IN	NS	ns2.cloudns.io.
 edbm.mg.		7200	IN	NS	dns1.alwaysdata.com.
 edbm.mg.		7200	IN	NS	dns2.alwaysdata.com.
+eden.mg.		7200	IN	NS	ns1.servermada.com.
+eden.mg.		7200	IN	NS	ns2.servermada.com.
 edg.mg.			7200	IN	NS	ashley.ns.cloudflare.com.
 edg.mg.			7200	IN	NS	keenan.ns.cloudflare.com.
 editions-jeunes-malgaches.mg. 7200 IN	NS	vps220326.ovh.net.
@@ -6330,6 +6332,8 @@ mada-bestchange.mg.	86400	IN	NS	dns1.indritech.biz.
 mada-bestchange.mg.	86400	IN	NS	dns2.indritech.biz.
 mada-bizdev.mg.		86400	IN	NS	ns1.servermada.com.
 mada-bizdev.mg.		86400	IN	NS	ns2.servermada.com.
+mada-equip.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
+mada-equip.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
 mada-evasion.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 mada-evasion.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 mada-evasion.mg.	86400	IN	NS	ns1.fr.malagasy.com.
@@ -10409,6 +10413,8 @@ tickets.mg.		86400	IN	NS	ns60.domaincontrol.com.
 ticsalama.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 ticsalama.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 ticsalama.mg.		86400	IN	NS	ns1.fr.malagasy.com.
+tiger.mg.		86400	IN	NS	anna.ns.cloudflare.com.
+tiger.mg.		86400	IN	NS	rex.ns.cloudflare.com.
 tiktok.mg.		86400	IN	NS	ns1.sedoparking.com.
 tiktok.mg.		86400	IN	NS	ns2.sedoparking.com.
 timbu.mg.		86400	IN	NS	hydrogen.ns.hetzner.com.
@@ -10872,6 +10878,8 @@ upt.mg.			86400	IN	NS	dns2.supremepanel.com.
 urball.mg.		86400	IN	NS	ns-91-a.gandi.net.
 urball.mg.		86400	IN	NS	ns-249-b.gandi.net.
 urball.mg.		86400	IN	NS	ns-228-c.gandi.net.
+urbancompany.mg.	86400	IN	NS	ns1.da.cloudns.io.
+urbancompany.mg.	86400	IN	NS	ns2.da.cloudns.io.
 urbanfutsal.mg.		86400	IN	NS	ns.dts.mg.
 urbanfutsal.mg.		86400	IN	NS	ns1.dts.mg.
 urcsr.mg.		86400	IN	NS	ns31.infomaniak.com.
@@ -11395,10 +11403,10 @@ yes.mg.			86400	IN	NS	ns1.da.cloudns.io.
 yes.mg.			86400	IN	NS	ns2.da.cloudns.io.
 yl.mg.			86400	IN	NS	ns1.dns.com.
 yl.mg.			86400	IN	NS	ns2.dns.com.
+ylionmarket.mg.		86400	IN	DS	49385 13 1 E879AF78EEC25C5BF3F8F778E678F039D6A49D81
 ylionmarket.mg.		86400	IN	NS	nsa.n0c.com.
 ylionmarket.mg.		86400	IN	NS	nsb.n0c.com.
 ylionmarket.mg.		86400	IN	NS	nsc.n0c.com.
-ylionmarket.mg.		86400	IN	DS	49385 13 1 E879AF78EEC25C5BF3F8F778E678F039D6A49D81
 yltp.mg.		86400	IN	NS	ns-848.awsdns-42.net.
 yltp.mg.		86400	IN	NS	ns-194.awsdns-24.com.
 yltp.mg.		86400	IN	NS	ns-1039.awsdns-01.org.
@@ -11570,4 +11578,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022053110 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022053113 600 3600 604800 86400
