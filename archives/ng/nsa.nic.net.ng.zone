@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053131 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1654012957"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053136 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1654022554"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -10118,6 +10118,8 @@ brainstormi.ng.		3600	IN	NS	ns-1815.awsdns-34.co.uk.
 brainstrust.ng.		3600	IN	NS	ns1.lexsynergy.net.
 brainstrust.ng.		3600	IN	NS	ns2.lexsynergy.us.
 brainstrust.ng.		3600	IN	NS	ns3.lexsynergy.info.
+brainworks.ng.		3600	IN	NS	ns1.upperserver29.com.
+brainworks.ng.		3600	IN	NS	ns2.upperserver29.com.
 brainytrading.ng.	3600	IN	NS	ns1.fozzy.com.
 brainytrading.ng.	3600	IN	NS	ns2.fozzy.com.
 brakesandshocks.ng.	3600	IN	NS	ns6375.hostgator.com.
@@ -15578,8 +15580,8 @@ coolwazobiainfo.ng.	3600	IN	NS	ns2.coollink.us.
 coolwazobiainfo.ng.	3600	IN	NS	ns3.coollink.us.
 coolweb.ng.		3600	IN	NS	nsa.whogohost.com.
 coolweb.ng.		3600	IN	NS	nsb.whogohost.com.
-coop.ng.		3600	IN	NS	ns1.coopmanserver.net.
-coop.ng.		3600	IN	NS	ns2.coopmanserver.net.
+coop.ng.		3600	IN	NS	ns321.whukns.com.
+coop.ng.		3600	IN	NS	ns322.whukns.com.
 coopa.ng.		3600	IN	NS	ns.gabia.co.kr.
 coopa.ng.		3600	IN	NS	ns.gabia.net.
 coopa.ng.		3600	IN	NS	ns1.gabia.co.kr.
@@ -40272,7 +40274,10 @@ live.ng.		3600	IN	NS	ns1.bodis.com.
 live.ng.		3600	IN	NS	ns2.bodis.com.
 live-casino-online.ng.	3600	IN	NS	bella.ns.cloudflare.com.
 live-casino-online.ng.	3600	IN	NS	terry.ns.cloudflare.com.
+liveable.ng.		3600	IN	NS	ns-180.awsdns-22.com.
+liveable.ng.		3600	IN	NS	ns-770.awsdns-32.net.
 liveable.ng.		3600	IN	NS	ns-1363.awsdns-42.org.
+liveable.ng.		3600	IN	NS	ns-1758.awsdns-27.co.uk.
 liveandearn.ng.		3600	IN	NS	nsa.whogohost.com.
 liveandearn.ng.		3600	IN	NS	nsb.whogohost.com.
 liveauction.ng.		3600	IN	NS	alec.ns.cloudflare.com.
@@ -44855,6 +44860,8 @@ motorvision.ng.		3600	IN	NS	ns.udag.net.
 motorvision.ng.		3600	IN	NS	ns.udag.org.
 motosure.ng.		3600	IN	NS	nsa.whogohost.com.
 motosure.ng.		3600	IN	NS	nsb.whogohost.com.
+mototrack.ng.		3600	IN	NS	nsa.whogohost.com.
+mototrack.ng.		3600	IN	NS	nsb.whogohost.com.
 motra.ng.		3600	IN	NS	nsa.whogohost.com.
 motra.ng.		3600	IN	NS	nsb.whogohost.com.
 motreats.ng.		3600	IN	NS	ns1.upperserver2.com.
@@ -46636,6 +46643,8 @@ naijaguide.ng.		3600	IN	NS	ns1.101domain.com.
 naijaguide.ng.		3600	IN	NS	ns2.101domain.com.
 naijahelplines.ng.	3600	IN	NS	ns1.dn-servers.com.
 naijahelplines.ng.	3600	IN	NS	ns2.dn-servers.com.
+naijahistory.ng.	3600	IN	NS	nsa.whogohost.com.
+naijahistory.ng.	3600	IN	NS	nsb.whogohost.com.
 naijahomecooks.ng.	3600	IN	NS	nsa.whogohost.com.
 naijahomecooks.ng.	3600	IN	NS	nsb.whogohost.com.
 naijahost.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -46717,9 +46726,9 @@ naijanimi.ng.		3600	IN	NS	ns13.qservers.net.
 naijanimi.ng.		3600	IN	NS	ns14.qservers.net.
 naijaonline.ng.		3600	IN	NS	ns1.naijaonline.ng.
 naijaonline.ng.		3600	IN	NS	ns2.naijaonline.ng.
-ns1.naijaonline.ng.	3600	IN	A	198.251.89.144
+ns1.naijaonline.ng.	3600	IN	A	51.89.247.112
 ns2.naijaonline.ng.	3600	IN	A	46.4.205.206
-ns2.naijaonline.ng.	3600	IN	A	198.251.89.144
+ns2.naijaonline.ng.	3600	IN	A	51.89.247.113
 naijaonpoint.ng.	3600	IN	NS	ns1.naijawebhost.com.
 naijaonpoint.ng.	3600	IN	NS	ns2.naijawebhost.com.
 naijaown.ng.		3600	IN	NS	dns1.rythost.com.
@@ -47659,8 +47668,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -63675,8 +63684,8 @@ smartlife.ng.		3600	IN	NS	ns1.bluehost.com.
 smartlife.ng.		3600	IN	NS	ns2.bluehost.com.
 smartliving.ng.		3600	IN	NS	nsa.whogohost.com.
 smartliving.ng.		3600	IN	NS	nsb.whogohost.com.
-smartlogistics.ng.	3600	IN	NS	rns37.webhostbox.net.
-smartlogistics.ng.	3600	IN	NS	rns38.webhostbox.net.
+smartlogistics.ng.	3600	IN	NS	dns1.namecheaphosting.com.
+smartlogistics.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 smartmab.ng.		3600	IN	NS	ns1.dknoc.com.
 smartmab.ng.		3600	IN	NS	ns2.dknoc.com.
 smartmanufacturi.ng.	3600	IN	NS	ns1.hostinger.com.
@@ -68465,6 +68474,8 @@ tekinologi.ng.		3600	IN	NS	nsa.whogohost.com.
 tekinologi.ng.		3600	IN	NS	nsb.whogohost.com.
 tekinoloji.ng.		3600	IN	NS	nsa.whogohost.com.
 tekinoloji.ng.		3600	IN	NS	nsb.whogohost.com.
+tekki.ng.		3600	IN	NS	ns34.hostnownow.com.
+tekki.ng.		3600	IN	NS	ns35.hostnownow.com.
 tekkistore.ng.		3600	IN	NS	ns1.web4africa.com.
 tekkistore.ng.		3600	IN	NS	ns2.web4africa.com.
 tekkistore.ng.		3600	IN	NS	ns3.web4africa.com.
@@ -72750,6 +72761,9 @@ unaprice.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 unayo.ng.		3600	IN	NS	ns1.lexsynergy.net.
 unayo.ng.		3600	IN	NS	ns2.lexsynergy.us.
 unayo.ng.		3600	IN	NS	ns3.lexsynergy.info.
+unayoworld.ng.		3600	IN	NS	ns1.lexsynergy.net.
+unayoworld.ng.		3600	IN	NS	ns2.lexsynergy.us.
+unayoworld.ng.		3600	IN	NS	ns3.lexsynergy.info.
 unboxed.ng.		3600	IN	NS	ns8127.hostgator.com.
 unboxed.ng.		3600	IN	NS	ns8128.hostgator.com.
 unboxfoods.ng.		3600	IN	NS	ns77.qservers.net.
@@ -75972,6 +75986,8 @@ wescolotto.ng.		3600	IN	NS	ns2.site4now.net.
 wescolotto.ng.		3600	IN	NS	ns3.site4now.net.
 weseal.ng.		3600	IN	NS	ns1.bluehost.com.
 weseal.ng.		3600	IN	NS	ns2.bluehost.com.
+wesell.ng.		3600	IN	NS	nsa.whogohost.com.
+wesell.ng.		3600	IN	NS	nsb.whogohost.com.
 wesellcars.ng.		3600	IN	NS	lee.ns.cloudflare.com.
 wesellcars.ng.		3600	IN	NS	pat.ns.cloudflare.com.
 weselldevice.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -78726,4 +78742,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053131 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053136 10800 3600 604800 3600
