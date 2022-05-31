@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022053117 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1653978741"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022053122 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1653991343"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -963,8 +963,8 @@ almoard.sy.		86400	IN	NS	suspend1.tld.sy.
 almoard.sy.		86400	IN	NS	suspend2.tld.sy.
 almoard1.sy.		86400	IN	NS	suspend1.tld.sy.
 almoard1.sy.		86400	IN	NS	suspend2.tld.sy.
-almoayad.sy.		86400	IN	NS	ns3.tld.sy.
-almoayad.sy.		86400	IN	NS	ns4.tld.sy.
+almoayad.sy.		86400	IN	NS	suspend1.tld.sy.
+almoayad.sy.		86400	IN	NS	suspend2.tld.sy.
 almoazin-abbas.sy.	86400	IN	NS	suspend1.tld.sy.
 almoazin-abbas.sy.	86400	IN	NS	suspend2.tld.sy.
 almohaimen.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7140,8 +7140,8 @@ teach.sy.		86400	IN	NS	sydns1.nobalaa.com.
 teach.sy.		86400	IN	NS	sydns2.nobalaa.com.
 teachsyn.sy.		86400	IN	NS	ns1.clicknetco.com.
 teachsyn.sy.		86400	IN	NS	ns2.clicknetco.com.
-team.sy.		86400	IN	NS	ns1.monster.sy.
-team.sy.		86400	IN	NS	ns2.monster.sy.
+team.sy.		86400	IN	NS	suspend1.tld.sy.
+team.sy.		86400	IN	NS	suspend2.tld.sy.
 tec.sy.			86400	IN	NS	ns3.tld.sy.
 tec.sy.			86400	IN	NS	ns4.tld.sy.
 tech.sy.		86400	IN	NS	sydns1.nobalaa.com.
@@ -7817,4 +7817,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022053117 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022053122 3600 3600 2592000 3600
