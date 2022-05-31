@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053108 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1653968920"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053114 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1653980427"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -17078,8 +17078,10 @@ cyprusgoldenvisa.ng.	3600	IN	NS	ns1.dknoc.com.
 cyprusgoldenvisa.ng.	3600	IN	NS	ns2.dknoc.com.
 cyprusrealestate.ng.	3600	IN	NS	ns1.dknoc.com.
 cyprusrealestate.ng.	3600	IN	NS	ns2.dknoc.com.
-cyrus.ng.		3600	IN	NS	dns1.namecheaphosting.com.
-cyrus.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+cyrus.ng.		3600	IN	NS	ns-468.awsdns-58.com.
+cyrus.ng.		3600	IN	NS	ns-982.awsdns-58.net.
+cyrus.ng.		3600	IN	NS	ns-1449.awsdns-53.org.
+cyrus.ng.		3600	IN	NS	ns-1838.awsdns-37.co.uk.
 cyrus45.ng.		3600	IN	NS	ns19.garanntor.net.
 cyrus45.ng.		3600	IN	NS	ns20.garanntor.net.
 cyruselectrical.ng.	3600	IN	NS	ns19.syskay.com.
@@ -17320,10 +17322,9 @@ danci.ng.		3600	IN	NS	tim.ns.cloudflare.com.
 danci.ng.		3600	IN	NS	olga.ns.cloudflare.com.
 dancoops.ng.		3600	IN	NS	nsa.whogohost.com.
 dancoops.ng.		3600	IN	NS	nsb.whogohost.com.
-dandako.ng.		3600	IN	NS	dns6.whogohost.com.
-dandako.ng.		3600	IN	NS	dns7.whogohost.com.
-dandako.ng.		3600	IN	NS	dns8.whogohost.com.
-dandako.ng.		3600	IN	NS	dns9.whogohost.com.
+dandako.ng.		3600	IN	NS	ns1.digitalocean.com.
+dandako.ng.		3600	IN	NS	ns2.digitalocean.com.
+dandako.ng.		3600	IN	NS	ns3.digitalocean.com.
 dandalinvoa.ng.		3600	IN	NS	a2-64.akam.net.
 dandalinvoa.ng.		3600	IN	NS	a1-222.akam.net.
 dandalinvoa.ng.		3600	IN	NS	a11-64.akam.net.
@@ -44286,6 +44287,8 @@ modusoperandum.ng.	3600	IN	NS	cass.ns.cloudflare.com.
 modusoperandum.ng.	3600	IN	NS	marek.ns.cloudflare.com.
 moease.ng.		3600	IN	NS	nsa.whogohost.com.
 moease.ng.		3600	IN	NS	nsb.whogohost.com.
+moeedo.ng.		3600	IN	NS	alec.ns.cloudflare.com.
+moeedo.ng.		3600	IN	NS	anita.ns.cloudflare.com.
 moehairgold.ng.		3600	IN	NS	ns1.cloudoon.com.
 moehairgold.ng.		3600	IN	NS	ns2.cloudoon.com.
 moehairgold.ng.		3600	IN	NS	ns3.cloudoon.com.
@@ -49454,10 +49457,8 @@ numbers.ng.		3600	IN	NS	ns-1176.awsdns-19.org.
 numbers.ng.		3600	IN	NS	ns-1951.awsdns-51.co.uk.
 numbersltd.ng.		3600	IN	NS	ns1.amarjnet.com.
 numbersltd.ng.		3600	IN	NS	ns2.amarjnet.com.
-numero.ng.		3600	IN	NS	ns1.web4africa.com.
-numero.ng.		3600	IN	NS	ns2.web4africa.com.
-numero.ng.		3600	IN	NS	ns3.web4africa.com.
-numero.ng.		3600	IN	NS	ns4.web4africa.com.
+numero.ng.		3600	IN	NS	joan.ns.cloudflare.com.
+numero.ng.		3600	IN	NS	damon.ns.cloudflare.com.
 numoraintegrated.ng.	3600	IN	NS	ns29.doveserver.com.
 numoraintegrated.ng.	3600	IN	NS	ns30.doveserver.com.
 nunex.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -50942,10 +50943,8 @@ oneradio.ng.		3600	IN	NS	ns1.web4africa.com.
 oneradio.ng.		3600	IN	NS	ns2.web4africa.com.
 oneradio.ng.		3600	IN	NS	ns3.web4africa.com.
 oneradio.ng.		3600	IN	NS	ns4.web4africa.com.
-onereach.ng.		3600	IN	NS	ns1.web4africa.com.
-onereach.ng.		3600	IN	NS	ns2.web4africa.com.
-onereach.ng.		3600	IN	NS	ns3.web4africa.com.
-onereach.ng.		3600	IN	NS	ns4.web4africa.com.
+onereach.ng.		3600	IN	NS	joan.ns.cloudflare.com.
+onereach.ng.		3600	IN	NS	damon.ns.cloudflare.com.
 oneschool.ng.		3600	IN	NS	nsa.whogohost.com.
 oneschool.ng.		3600	IN	NS	nsb.whogohost.com.
 oneserve.ng.		3600	IN	NS	ed.ns.cloudflare.com.
@@ -57566,6 +57565,9 @@ rates.ng.		3600	IN	NS	nsa.whogohost.com.
 rates.ng.		3600	IN	NS	nsb.whogohost.com.
 ratesportal.ng.		3600	IN	NS	zoe.ns.cloudflare.com.
 ratesportal.ng.		3600	IN	NS	toby.ns.cloudflare.com.
+rateus.ng.		3600	IN	NS	ns1.cloudoon.com.
+rateus.ng.		3600	IN	NS	ns2.cloudoon.com.
+rateus.ng.		3600	IN	NS	ns3.cloudoon.com.
 ratga.ng.		3600	IN	NS	ns1.epizy.com.
 ratga.ng.		3600	IN	NS	ns2.epizy.com.
 rati.ng.		3600	IN	NS	dns1.dk-ng.com.
@@ -78660,4 +78662,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053108 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022053114 10800 3600 604800 3600
