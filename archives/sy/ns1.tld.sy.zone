@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060115 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1654066935"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060119 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1654077744"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2321,8 +2321,8 @@ damasuniv.sy.		86400	IN	NS	ns1.damasuniv.edu.sy.
 damasuniv.sy.		86400	IN	NS	ns2.damasuniv.edu.sy.
 damazzle.sy.		86400	IN	NS	ns1.pronet.sy.
 damazzle.sy.		86400	IN	NS	ns2.pronet.sy.
-damworkers.sy.		86400	IN	NS	ns3.tld.sy.
-damworkers.sy.		86400	IN	NS	ns4.tld.sy.
+damworkers.sy.		86400	IN	NS	suspend1.tld.sy.
+damworkers.sy.		86400	IN	NS	suspend2.tld.sy.
 danacol.sy.		86400	IN	NS	a4.nstld.com.
 danacol.sy.		86400	IN	NS	f4.nstld.com.
 danacol.sy.		86400	IN	NS	g4.nstld.com.
@@ -2673,10 +2673,10 @@ ebm-papst.sy.		86400	IN	NS	ns.do-ex.org.
 ebmpapst.sy.		86400	IN	NS	ns.do-ex.com.
 ebmpapst.sy.		86400	IN	NS	ns.do-ex.net.
 ebmpapst.sy.		86400	IN	NS	ns.do-ex.org.
-ecash.sy.		86400	IN	NS	ns1.monster.sy.
-ecash.sy.		86400	IN	NS	ns2.monster.sy.
-ecash-pay.sy.		86400	IN	NS	ns1.monster.sy.
-ecash-pay.sy.		86400	IN	NS	ns2.monster.sy.
+ecash.sy.		86400	IN	NS	suspend1.tld.sy.
+ecash.sy.		86400	IN	NS	suspend2.tld.sy.
+ecash-pay.sy.		86400	IN	NS	suspend1.tld.sy.
+ecash-pay.sy.		86400	IN	NS	suspend2.tld.sy.
 ecc.sy.			86400	IN	NS	ns3.tld.sy.
 ecc.sy.			86400	IN	NS	ns4.tld.sy.
 eccs.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6377,8 +6377,8 @@ shukfa-trade.sy.	86400	IN	NS	suspend1.tld.sy.
 shukfa-trade.sy.	86400	IN	NS	suspend2.tld.sy.
 shukra.sy.		86400	IN	NS	ns1.mowared.sy.
 shukra.sy.		86400	IN	NS	ns2.mowared.sy.
-siamco.sy.		86400	IN	NS	ns3.bocme.net.
-siamco.sy.		86400	IN	NS	ns4.bocme.net.
+siamco.sy.		86400	IN	NS	suspend1.tld.sy.
+siamco.sy.		86400	IN	NS	suspend2.tld.sy.
 sibahi.sy.		86400	IN	NS	suspend1.tld.sy.
 sibahi.sy.		86400	IN	NS	suspend2.tld.sy.
 sibon.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7819,4 +7819,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060115 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060119 3600 3600 2592000 3600
