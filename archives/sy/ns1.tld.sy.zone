@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060111 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1654054341"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060115 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1654066935"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -5279,8 +5279,8 @@ odyssey.sy.		86400	IN	NS	ns1.alanqaa.com.
 odyssey.sy.		86400	IN	NS	ns2.alanqaa.com.
 oilex.sy.		86400	IN	NS	ns207.canadianwebhosting.com.
 oilex.sy.		86400	IN	NS	ns208.canadianwebhosting.com.
-oiqryzpmga.sy.		86400	IN	NS	julio.ns.cloudflare.com.
-oiqryzpmga.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
+oiqryzpmga.sy.		86400	IN	NS	suspend1.tld.sy.
+oiqryzpmga.sy.		86400	IN	NS	suspend2.tld.sy.
 ois.sy.			86400	IN	NS	suspend1.tld.sy.
 ois.sy.			86400	IN	NS	suspend2.tld.sy.
 ok.sy.			86400	IN	NS	andrea.dnspod.net.
@@ -7819,4 +7819,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060111 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060115 3600 3600 2592000 3600
