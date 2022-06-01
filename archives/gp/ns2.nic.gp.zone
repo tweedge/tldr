@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022052715 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022060103 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -252,8 +252,6 @@ agil.gp.		86400	IN	NS	ns100.ovh.net.
 agil.gp.		86400	IN	NS	dns100.ovh.net.
 agip.gp.		86400	IN	NS	ns1.register.it.
 agip.gp.		86400	IN	NS	ns2.register.it.
-agipsah.gp.		86400	IN	NS	ns109.ovh.net.
-agipsah.gp.		86400	IN	NS	dns109.ovh.net.
 agir-plus.gp.		86400	IN	NS	ns1.edf.fr.
 agir-plus.gp.		86400	IN	NS	ns2.edf.fr.
 agir-plus-edf.gp.	86400	IN	NS	ns1.edf.fr.
@@ -266,8 +264,6 @@ agirplusedf.gp.		86400	IN	NS	ns1.edf.fr.
 agirplusedf.gp.		86400	IN	NS	ns2.edf.fr.
 agro-system.gp.		86400	IN	NS	ns15.ovh.net.
 agro-system.gp.		86400	IN	NS	dns15.ovh.net.
-agroforesterie.gp.	86400	IN	NS	dns1.cloudns.net.
-agroforesterie.gp.	86400	IN	NS	dns2.cloudns.net.
 agrosystem-pointvert.gp. 86400	IN	NS	ns106.ovh.net.
 agrosystem-pointvert.gp. 86400	IN	NS	dns106.ovh.net.
 agwanet.gp.		86400	IN	NS	ns17.ovh.net.
@@ -299,8 +295,6 @@ alamo.gp.		86400	IN	NS	ha1.markmonitor.zone.
 alamo.gp.		86400	IN	NS	ha2.markmonitor.zone.
 alamo.gp.		86400	IN	NS	ha3.markmonitor.zone.
 alamo.gp.		86400	IN	NS	ha4.markmonitor.zone.
-alch.gp.		86400	IN	NS	ns1.dan.hosting.
-alch.gp.		86400	IN	NS	ns2.dan.hosting.
 alch.gp.		86400	IN	NS	verification-5mltl5xc.ns3.dan.hosting.
 alerte.gp.		86400	IN	NS	ns1.ikoula.fr.
 alerte.gp.		86400	IN	NS	ns2.ikoula.fr.
@@ -907,8 +901,6 @@ care.gp.		86400	IN	NS	tia.ns.cloudflare.com.
 care.gp.		86400	IN	NS	newt.ns.cloudflare.com.
 carglass.gp.		86400	IN	NS	dns1.cscdns.net.
 carglass.gp.		86400	IN	NS	dns2.cscdns.net.
-caribejob.gp.		86400	IN	NS	daniella.ns.cloudflare.com.
-caribejob.gp.		86400	IN	NS	dimitris.ns.cloudflare.com.
 cariblog.gp.		86400	IN	NS	ns103.ovh.net.
 cariblog.gp.		86400	IN	NS	dns103.ovh.net.
 caro.gp.		86400	IN	NS	ns101.cloudns.net.
@@ -2476,9 +2468,6 @@ immobilier.gp.		86400	IN	NS	ns1.txpro12.fcomet.com.
 immobilier.gp.		86400	IN	NS	ns2.txpro12.fcomet.com.
 imos.gp.		86400	IN	NS	ns1.imos.net.
 imos.gp.		86400	IN	NS	ns2.imos.net.
-impact.gp.		86400	IN	NS	ns-113-a.gandi.net.
-impact.gp.		86400	IN	NS	ns-183-c.gandi.net.
-impact.gp.		86400	IN	NS	ns-202-b.gandi.net.
 in.gp.			86400	IN	NS	ns1.website.org.
 in.gp.			86400	IN	NS	ns2.website.org.
 inbeez.gp.		86400	IN	NS	ns1.francedns.com.
@@ -2885,8 +2874,6 @@ lcl.gp.			86400	IN	NS	ns2.netnames.net.
 lcl.gp.			86400	IN	NS	ns2.observatoiredesmarques.fr.
 lcl.gp.			86400	IN	NS	ns3.nameshield.net.
 lcl.gp.			86400	IN	NS	obs.ns1.fr.
-leader.gp.		86400	IN	NS	ns1.ikoula.fr.
-leader.gp.		86400	IN	NS	ns2.ikoula.fr.
 leader-price.gp.	86400	IN	NS	ns16.ovh.net.
 leader-price.gp.	86400	IN	NS	dns16.ovh.net.
 ns.leader-price.gp.	86400	IN	A	81.248.24.227
@@ -3052,9 +3039,6 @@ lscs.gp.		86400	IN	NS	ns15.ovh.net.
 lscs.gp.		86400	IN	NS	dns15.ovh.net.
 lumen.gp.		86400	IN	NS	authns1.centurylink.net.
 lumen.gp.		86400	IN	NS	authns2.centurylink.net.
-luniversdupneu.gp.	86400	IN	NS	ns1.netim.net.
-luniversdupneu.gp.	86400	IN	NS	ns2.netim.net.
-luniversdupneu.gp.	86400	IN	NS	ns3.netim.net.
 lynxata.gp.		86400	IN	NS	dns1.cscdns.net.
 lynxata.gp.		86400	IN	NS	dns2.cscdns.net.
 lyrica.gp.		86400	IN	NS	ns1.p15.dynect.net.
@@ -3079,9 +3063,6 @@ maerskline.gp.		86400	IN	NS	dns2.cscdns.net.
 magasinbio.gp.		86400	IN	NS	ns1.francedns.com.
 magasinbio.gp.		86400	IN	NS	ns2.francedns.com.
 magasinbio.gp.		86400	IN	NS	ns3.francedns.com.
-magenta.gp.		86400	IN	NS	ns1.francedns.com.
-magenta.gp.		86400	IN	NS	ns2.francedns.com.
-magenta.gp.		86400	IN	NS	ns3.francedns.com.
 mail.gp.		86400	IN	NS	ns1.undeveloped.com.
 mail.gp.		86400	IN	NS	ns2.undeveloped.com.
 mailchimp.gp.		86400	IN	NS	ns1.eurodns.com.
@@ -3116,8 +3097,6 @@ mappy.gp.		86400	IN	NS	c.ns.mailclub.com.
 marathonclubbrand.gp.	86400	IN	NS	nsgbr.comlaude.co.uk.
 marathonclubbrand.gp.	86400	IN	NS	nssui.comlaude.ch.
 marathonclubbrand.gp.	86400	IN	NS	nsusa.comlaude.net.
-marcguilliod.gp.	86400	IN	NS	ns107.ovh.net.
-marcguilliod.gp.	86400	IN	NS	dns107.ovh.net.
 mardigras.gp.		86400	IN	NS	nsgbr.comlaude.co.uk.
 mardigras.gp.		86400	IN	NS	nssui.comlaude.ch.
 mardigras.gp.		86400	IN	NS	nsusa.comlaude.net.
@@ -3682,8 +3661,8 @@ ofracosmetics.gp.	86400	IN	NS	ns4.inwx.com.
 ofracosmetics.gp.	86400	IN	NS	ns5.inwx.net.
 oli.gp.			86400	IN	NS	ns1.magiiic.com.
 oli.gp.			86400	IN	NS	ns2.magiiic.com.
-omega.gp.		86400	IN	NS	ns1.101domain.com.
-omega.gp.		86400	IN	NS	ns2.101domain.com.
+omega.gp.		86400	IN	NS	ns1.syd6.hostingplatform.net.au.
+omega.gp.		86400	IN	NS	ns2.syd6.hostingplatform.net.au.
 omni.gp.		86400	IN	NS	dns1.omnigroup.com.
 omni.gp.		86400	IN	NS	dns2.omnigroup.com.
 on.gp.			86400	IN	NS	ns1.subdomain.net.
@@ -3885,10 +3864,6 @@ photobox.gp.		86400	IN	NS	ns1.eurodns.com.
 photobox.gp.		86400	IN	NS	ns2.eurodns.com.
 photobox.gp.		86400	IN	NS	ns3.eurodns.com.
 photobox.gp.		86400	IN	NS	ns4.eurodns.com.
-phygital.gp.		86400	IN	NS	ns1045.ui-dns.de.
-phygital.gp.		86400	IN	NS	ns1045.ui-dns.biz.
-phygital.gp.		86400	IN	NS	ns1045.ui-dns.com.
-phygital.gp.		86400	IN	NS	ns1045.ui-dns.org.
 picard.gp.		86400	IN	NS	ns-76-a.gandi.net.
 picard.gp.		86400	IN	NS	ns-96-c.gandi.net.
 picard.gp.		86400	IN	NS	ns-128-b.gandi.net.
@@ -4468,8 +4443,6 @@ sigmafwi.gp.		86400	IN	NS	dns1.hosteur.com.
 sigmafwi.gp.		86400	IN	NS	dns2.hosteur.com.
 simple.gp.		86400	IN	NS	ns4.wixdns.net.
 simple.gp.		86400	IN	NS	ns5.wixdns.net.
-simples.gp.		86400	IN	NS	ns4.wixdns.net.
-simples.gp.		86400	IN	NS	ns5.wixdns.net.
 simracing.gp.		86400	IN	NS	ns1.serveriai.lt.
 simracing.gp.		86400	IN	NS	ns2.serveriai.lt.
 simracing.gp.		86400	IN	NS	ns3.serveriai.lt.
@@ -4496,15 +4469,6 @@ site.gp.		86400	IN	NS	dns2.cloudns.net.
 sixt.gp.		86400	IN	NS	b.ns14.net.
 sixt.gp.		86400	IN	NS	c.ns14.net.
 sixt.gp.		86400	IN	NS	d.ns14.net.
-sixt-carsales.gp.	86400	IN	NS	ns1.francedns.com.
-sixt-carsales.gp.	86400	IN	NS	ns2.francedns.com.
-sixt-carsales.gp.	86400	IN	NS	ns3.francedns.com.
-sixt-occasions.gp.	86400	IN	NS	ns1.francedns.com.
-sixt-occasions.gp.	86400	IN	NS	ns2.francedns.com.
-sixt-occasions.gp.	86400	IN	NS	ns3.francedns.com.
-sixtcarsales.gp.	86400	IN	NS	ns1.francedns.com.
-sixtcarsales.gp.	86400	IN	NS	ns2.francedns.com.
-sixtcarsales.gp.	86400	IN	NS	ns3.francedns.com.
 skoda.gp.		86400	IN	NS	isp2.viapraga.cz.
 skoda.gp.		86400	IN	NS	skoda2.skoda-auto.cz.
 skoda.gp.		86400	IN	NS	skoda3.skoda-auto.cz.
@@ -5185,9 +5149,6 @@ wallet.gp.		86400	IN	NS	ns3.francedns.com.
 waterair.gp.		86400	IN	NS	indom10.indomco.com.
 waterair.gp.		86400	IN	NS	indom20.indomco.net.
 waterair.gp.		86400	IN	NS	indom30.indomco.fr.
-waverley.gp.		86400	IN	NS	ns1.francedns.com.
-waverley.gp.		86400	IN	NS	ns2.francedns.com.
-waverley.gp.		86400	IN	NS	ns3.francedns.com.
 waypoint.gp.		86400	IN	NS	ns1045.ui-dns.de.
 waypoint.gp.		86400	IN	NS	ns1045.ui-dns.biz.
 waypoint.gp.		86400	IN	NS	ns1045.ui-dns.com.
@@ -5390,4 +5351,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022052715 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022060103 86400 7200 2592000 345600
