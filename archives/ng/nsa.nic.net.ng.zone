@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060236 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1654195297"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060242 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1654206810"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -5348,6 +5348,8 @@ assaabloyopeningsolutions.ng. 3600 IN	NS	dns1.cscdns.net.
 assaabloyopeningsolutions.ng. 3600 IN	NS	dns2.cscdns.net.
 asseco.ng.		3600	IN	NS	nsa.whogohost.com.
 asseco.ng.		3600	IN	NS	nsb.whogohost.com.
+assert.ng.		3600	IN	NS	ns1.vercel-dns.com.
+assert.ng.		3600	IN	NS	ns2.vercel-dns.com.
 assess.ng.		3600	IN	NS	ns1.uk07.tmd.cloud.
 assess.ng.		3600	IN	NS	ns2.uk07.tmd.cloud.
 asset.ng.		3600	IN	NS	ns1.domains.ng.
@@ -22727,8 +22729,10 @@ erocs.ng.		3600	IN	NS	ns1.weblagos.com.
 erocs.ng.		3600	IN	NS	ns2.webagos.com.
 eromosele.ng.		3600	IN	NS	nsa.whogohost.com.
 eromosele.ng.		3600	IN	NS	nsb.whogohost.com.
-erononline.ng.		3600	IN	NS	ns1.qservers.net.
-erononline.ng.		3600	IN	NS	ns2.qservers.net.
+erononline.ng.		3600	IN	NS	ns1.erononline.ng.
+erononline.ng.		3600	IN	NS	ns2.erononline.ng.
+ns1.erononline.ng.	3600	IN	A	63.250.41.223
+ns2.erononline.ng.	3600	IN	A	63.250.41.223
 erontl.ng.		3600	IN	NS	ns401.hostbudget.net.
 erontl.ng.		3600	IN	NS	ns402.hostbudget.net.
 eros.ng.		3600	IN	NS	ns1.digitalocean.com.
@@ -47695,8 +47699,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -51414,8 +51418,8 @@ opensale.ng.		3600	IN	NS	ns45.doveserver.com.
 opensale.ng.		3600	IN	NS	ns46.doveserver.com.
 openschool.ng.		3600	IN	NS	ns11.garanntor.net.
 openschool.ng.		3600	IN	NS	ns12.garanntor.net.
-opensea.ng.		3600	IN	NS	nsa.whogohost.com.
-opensea.ng.		3600	IN	NS	nsb.whogohost.com.
+opensea.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+opensea.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 opensource.ng.		3600	IN	NS	ns1.parkingcrew.net.
 opensource.ng.		3600	IN	NS	ns2.parkingcrew.net.
 openspace.ng.		3600	IN	NS	ns1.web4africa.com.
@@ -53925,8 +53929,8 @@ pharmadirect.ng.	3600	IN	NS	nsa.whogohost.com.
 pharmadirect.ng.	3600	IN	NS	nsb.whogohost.com.
 pharmahub.ng.		3600	IN	NS	ns1.upperserver29.com.
 pharmahub.ng.		3600	IN	NS	ns2.upperserver29.com.
-pharmajobs.ng.		3600	IN	NS	nsa.whogohost.com.
-pharmajobs.ng.		3600	IN	NS	nsb.whogohost.com.
+pharmajobs.ng.		3600	IN	NS	ganz.ns.cloudflare.com.
+pharmajobs.ng.		3600	IN	NS	nova.ns.cloudflare.com.
 pharmalys.ng.		3600	IN	NS	ns1.rrpproxy.net.
 pharmalys.ng.		3600	IN	NS	ns2.na.rrpproxy.net.
 pharmalys.ng.		3600	IN	NS	ns2.rrpproxy.net.
@@ -57679,6 +57683,8 @@ raumplus.ng.		3600	IN	NS	ns1.is-fun.net.
 raumplus.ng.		3600	IN	NS	ns2.is-fun.net.
 rave.ng.		3600	IN	NS	clint.ns.cloudflare.com.
 rave.ng.		3600	IN	NS	frida.ns.cloudflare.com.
+raven.ng.		3600	IN	NS	nsa.whogohost.com.
+raven.ng.		3600	IN	NS	nsb.whogohost.com.
 raveroltd.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 raveroltd.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 ravi.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -65706,6 +65712,8 @@ starlineenergy.ng.	3600	IN	NS	nsa.whogohost.com.
 starlineenergy.ng.	3600	IN	NS	nsb.whogohost.com.
 starlink.ng.		3600	IN	NS	nsa.whogohost.com.
 starlink.ng.		3600	IN	NS	nsb.whogohost.com.
+starlinkinternet.ng.	3600	IN	NS	ns1.suburbancloud.ng.
+starlinkinternet.ng.	3600	IN	NS	ns2.suburbancloud.ng.
 starlinksub.ng.		3600	IN	NS	ns1.upperserver29.com.
 starlinksub.ng.		3600	IN	NS	ns2.upperserver29.com.
 starloan.ng.		3600	IN	NS	ns1.upperserver29.com.
@@ -65984,6 +65992,8 @@ sterlingcollege.ng.	3600	IN	NS	nsa.whogohost.com.
 sterlingcollege.ng.	3600	IN	NS	nsb.whogohost.com.
 sterlingonefoundation.ng. 3600	IN	NS	ns1.upperserver29.com.
 sterlingonefoundation.ng. 3600	IN	NS	ns2.upperserver29.com.
+sterlings.ng.		3600	IN	NS	nsa.whogohost.com.
+sterlings.ng.		3600	IN	NS	nsb.whogohost.com.
 sterlingtech.ng.	3600	IN	NS	nsa.whogohost.com.
 sterlingtech.ng.	3600	IN	NS	nsb.whogohost.com.
 sterlingwealth.ng.	3600	IN	NS	ns1.upperserver29.com.
@@ -69073,9 +69083,9 @@ thebloga.ng.		3600	IN	NS	ns1.whogohost.com.
 thebloga.ng.		3600	IN	NS	ns2.whogohost.com.
 thebloomnetwork.ng.	3600	IN	NS	ns1.upperserver29.com.
 thebloomnetwork.ng.	3600	IN	NS	ns2.upperserver29.com.
-thebo.ng.		86400	IN	DS	20024 13 2 7B3B22D70DAA2B5A83837C2DE5F8078B2AD29DB4AFBF53BF53CEADE4 F1A1840A
 thebo.ng.		3600	IN	NS	ns3.epik.com.
 thebo.ng.		3600	IN	NS	ns4.epik.com.
+thebo.ng.		86400	IN	DS	20024 13 2 7B3B22D70DAA2B5A83837C2DE5F8078B2AD29DB4AFBF53BF53CEADE4 F1A1840A
 thebodyshop.ng.		3600	IN	NS	ns1.markmonitor.com.
 thebodyshop.ng.		3600	IN	NS	ns2.markmonitor.com.
 thebodyshop.ng.		3600	IN	NS	ns3.markmonitor.com.
@@ -72012,6 +72022,8 @@ truspace.ng.		3600	IN	NS	nsa.whogohost.com.
 truspace.ng.		3600	IN	NS	nsb.whogohost.com.
 trust.ng.		3600	IN	NS	ns1.parkingcrew.net.
 trust.ng.		3600	IN	NS	ns2.parkingcrew.net.
+trusted.ng.		3600	IN	NS	nsa.whogohost.com.
+trusted.ng.		3600	IN	NS	nsb.whogohost.com.
 trustededge.ng.		3600	IN	NS	ns49.domaincontrol.com.
 trustededge.ng.		3600	IN	NS	ns50.domaincontrol.com.
 trustedmaids.ng.	3600	IN	NS	dns1.namecheaphosting.com.
@@ -75124,6 +75136,8 @@ wallisandfutunaislands.ng. 3600	IN	NS	cp.nira.org.ng.
 wallisandfutunaislands.ng. 3600	IN	NS	ns1.nira.org.ng.
 wallpapermart.ng.	3600	IN	NS	ns39.boxsecured.com.
 wallpapermart.ng.	3600	IN	NS	ns40.boxsecured.com.
+wallplast.ng.		3600	IN	NS	dns1.doveserver.com.
+wallplast.ng.		3600	IN	NS	dns2.doveserver.com.
 wallrox.ng.		3600	IN	NS	ns1.upperserver29.com.
 wallrox.ng.		3600	IN	NS	ns2.upperserver29.com.
 wallstik.ng.		3600	IN	NS	emma.ns.cloudflare.com.
@@ -78735,4 +78749,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060236 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060242 10800 3600 604800 3600
