@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022053100 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022060201 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -2772,14 +2772,12 @@ nca.COM.pg.		172800	IN	NS	ns2.online.net.pg.
 nccivilworks.COM.pg.	172800	IN	NS	ns1.webcity.com.au.
 nccivilworks.COM.pg.	172800	IN	NS	ns2.webcity.com.au.
 nccivilworks.COM.pg.	172800	IN	NS	ns3.webcity.com.au.
-ncl.COM.pg.		172800	IN	NS	ns1.vits.com.pg.
-ncl.COM.pg.		172800	IN	NS	ns2.vits.com.
-ncl.COM.pg.		172800	IN	NS	ns3.virtual.com.
-ncl.COM.pg.		172800	IN	NS	ns4.virtualit.com.
-ncl-vits.COM.pg.	172800	IN	NS	ns1.vits.com.pg.pg.
-ncl-vits.COM.pg.	172800	IN	NS	ns2.vits.com.
-ncl-vits.COM.pg.	172800	IN	NS	ns3.virtual.com.
-ncl-vits.COM.pg.	172800	IN	NS	ns4.virtualit.com.
+ncl.COM.pg.		172800	IN	NS	ns1.pngconnect.com.
+ncl.COM.pg.		172800	IN	NS	ns2.pngconnect.com.
+ncl.COM.pg.		172800	IN	NS	ns3.pngconnect.com.
+ncl-vits.COM.pg.	172800	IN	NS	ns1.pngconnect.com.
+ncl-vits.COM.pg.	172800	IN	NS	ns2.pngconnect.com.
+ncl-vits.COM.pg.	172800	IN	NS	ns3.pngconnect.com.
 ncr.COM.pg.		172800	IN	NS	ns1.global.net.pg.
 ncr.COM.pg.		172800	IN	NS	ns2.global.net.pg.
 ncs.COM.pg.		172800	IN	NS	pdns07.domaincontrol.com.
@@ -4912,6 +4910,9 @@ madangdistrict.GOV.pg.	172800	IN	NS	ns3.webcity.com.au.
 madangopenmp.GOV.pg.	172800	IN	NS	ns1.webcity.com.au.
 madangopenmp.GOV.pg.	172800	IN	NS	ns2.webcity.com.au.
 madangopenmp.GOV.pg.	172800	IN	NS	ns3.webcity.com.au.
+madangpha.GOV.pg.	172800	IN	NS	ns1.telinet.com.pg.
+madangpha.GOV.pg.	172800	IN	NS	ns2.telinet.com.pg.
+madangpha.GOV.pg.	172800	IN	NS	ns3.telinet.com.pg.
 magisterialservices.GOV.pg. 172800 IN	NS	ns1.datec.net.pg.
 magisterialservices.GOV.pg. 172800 IN	NS	ns2.datec.net.pg.
 manuspg.GOV.pg.		172800	IN	NS	ns1.digiteccloud.com.
@@ -5156,9 +5157,10 @@ primeminister.GOV.pg.	172800	IN	NS	ns2.datec.net.pg.
 procurement.GOV.pg.	172800	IN	NS	ns1.datec.net.pg.
 procurement.GOV.pg.	172800	IN	NS	ns2.datec.net.pg.
 procurement.GOV.pg.	172800	IN	NS	ns3.datec.net.pg.
-psc.GOV.pg.		172800	IN	NS	ns1.datec.net.pg.
-psc.GOV.pg.		172800	IN	NS	ns2.datec.net.pg.
-psc.GOV.pg.		172800	IN	NS	ns3.datec.net.pg.
+psc.GOV.pg.		172800	IN	NS	ns-417.awsdns-52.com.
+psc.GOV.pg.		172800	IN	NS	ns-775.awsdns-32.net.
+psc.GOV.pg.		172800	IN	NS	ns-1355.awsdns-41.org.
+psc.GOV.pg.		172800	IN	NS	ns-1994.awsdns-57.co.uk.
 publicenterprises.GOV.pg. 172800 IN	NS	ns1.global.net.pg.
 publicenterprises.GOV.pg. 172800 IN	NS	ns2.global.net.pg.
 publicprosecutor.GOV.pg. 172800	IN	NS	ns1.global.net.pg.
@@ -5650,6 +5652,9 @@ neph.ORG.pg.		172800	IN	NS	ns3.datec.net.pg.
 netaid.ORG.pg.		172800	IN	NS	ns1.datec.net.pg.
 netaid.ORG.pg.		172800	IN	NS	ns2.datec.net.pg.
 netaid.ORG.pg.		172800	IN	NS	ns3.datec.net.pg.
+netballpng.ORG.pg.	172800	IN	NS	ns1.telinet.com.pg.
+netballpng.ORG.pg.	172800	IN	NS	ns2.telinet.com.pg.
+netballpng.ORG.pg.	172800	IN	NS	ns3.telinet.com.pg.
 netherlands.ORG.pg.	172800	IN	NS	ns1.online.net.pg.
 netherlands.ORG.pg.	172800	IN	NS	ns2.online.net.pg.
 networkkokodapng.ORG.pg. 172800	IN	NS	ns1.global.net.pg.
@@ -5981,4 +5986,4 @@ ywamships.ORG.pg.	172800	IN	NS	ns3.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns1.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns2.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns3.qnetau.com.
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022053100 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022060201 14400 7200 1728000 14400
