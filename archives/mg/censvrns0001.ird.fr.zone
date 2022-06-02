@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060204 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060207 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1654142444"
+mg.			7200	IN	TXT	"Generation Time: 1654153238"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2982,8 +2982,6 @@ dggfpe.mg.		7200	IN	NS	karl.ns.cloudflare.com.
 dggfpe.mg.		7200	IN	NS	oaklyn.ns.cloudflare.com.
 dgi-s2im.mg.		7200	IN	NS	ns1.da.cloudns.io.
 dgi-s2im.mg.		7200	IN	NS	ns2.da.cloudns.io.
-diabe.mg.		7200	IN	NS	ns5.webhostingpad.com.
-diabe.mg.		7200	IN	NS	ns6.webhostingpad.com.
 diagbox.mg.		7200	IN	NS	ns-80-b.gandi.net.
 diagbox.mg.		7200	IN	NS	ns-147-c.gandi.net.
 diagbox.mg.		7200	IN	NS	ns-244-a.gandi.net.
@@ -3582,8 +3580,6 @@ espacehitech.mg.	86400	IN	NS	ns2.servermada.com.
 espacemedical.mg.	86400	IN	NS	ns1.entrydns.net.
 espacemedical.mg.	86400	IN	NS	ns2.entrydns.net.
 espacemedical.mg.	86400	IN	NS	ns3.entrydns.net.
-espritdentreprise.mg.	86400	IN	NS	lina.ns.cloudflare.com.
-espritdentreprise.mg.	86400	IN	NS	phil.ns.cloudflare.com.
 esri.mg.		86400	IN	NS	ns1-park.esri.com.
 esri.mg.		86400	IN	NS	ns2-park.esri.com.
 esrsa.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
@@ -5243,6 +5239,8 @@ inscae.mg.		86400	IN	NS	ns.dts.mg.
 inscae.mg.		86400	IN	NS	ns1.dts.mg.
 inscriptioncgm.mg.	86400	IN	NS	hybrid2860.fr.ns.planethoster.net.
 inscriptioncgm.mg.	86400	IN	NS	hybrid2860-1.fr.ns.planethoster.net.
+insi.mg.		86400	IN	NS	ns1.da.cloudns.io.
+insi.mg.		86400	IN	NS	ns2.da.cloudns.io.
 inside-university.mg.	86400	IN	NS	ns1.onyx.cloudns.io.
 inside-university.mg.	86400	IN	NS	ns2.onyx.cloudns.io.
 inspalm.mg.		86400	IN	NS	ns1.servermada.com.
@@ -6240,8 +6238,6 @@ lottoland.mg.		86400	IN	NS	nssui.comlaude.ch.
 lottoland.mg.		86400	IN	NS	nsusa.comlaude.net.
 lotus.mg.		86400	IN	NS	dns13.ovh.net.
 lotus.mg.		86400	IN	NS	ns13.ovh.net.
-lova-melaky.mg.		86400	IN	NS	ns1.servermada.com.
-lova-melaky.mg.		86400	IN	NS	ns2.servermada.com.
 lovasoa.mg.		86400	IN	NS	ns.dts.mg.
 lovasoa.mg.		86400	IN	NS	ns1.dts.mg.
 lovasoamahavonjy.mg.	86400	IN	NS	ns1.da.cloudns.io.
@@ -11009,8 +11005,6 @@ villa.mg.		86400	IN	NS	ns3.bkngs.com.
 villa.mg.		86400	IN	NS	ns1.bkngs.com.
 villaclaire.mg.		86400	IN	NS	dns10.ovh.net.
 villaclaire.mg.		86400	IN	NS	ns10.ovh.net.
-villamahefa.mg.		86400	IN	NS	ns112.ovh.net.
-villamahefa.mg.		86400	IN	NS	dns112.ovh.net.
 villas.mg.		86400	IN	NS	ns0.bkngs.com.
 villas.mg.		86400	IN	NS	ns2.bkngs.com.
 villas.mg.		86400	IN	NS	ns3.bkngs.com.
@@ -11587,4 +11581,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060204 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060207 600 3600 604800 86400

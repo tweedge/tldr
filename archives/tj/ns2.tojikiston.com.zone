@@ -1,4 +1,4 @@
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022060104 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022060204 7200 3600 2678400 7200
 tj.			7200	IN	NS	tj.cctld.authdns.ripe.net.
 tj.			7200	IN	NS	ns1.nic.tj.
 tj.			7200	IN	NS	ns2.tojikiston.com.
@@ -5671,6 +5671,10 @@ foodmarket.tj.		7200	IN	NS	ns1.reg.ru.
 foodmarket.tj.		7200	IN	NS	ns2.reg.ru.
 foodmaster.tj.		7200	IN	NS	ns1.shedevr.name.
 foodmaster.tj.		7200	IN	NS	ns2.shedevr.name.
+foodpack.tj.		7200	IN	NS	ns1.beget.com.
+foodpack.tj.		7200	IN	NS	ns1.beget.pro.
+foodpack.tj.		7200	IN	NS	ns2.beget.com.
+foodpack.tj.		7200	IN	NS	ns2.beget.pro.
 foods.tj.		7200	IN	NS	ns9.ismtj.co.
 foods.tj.		7200	IN	NS	ns10.ismtj.co.
 foodsharing.tj.		7200	IN	NS	ns1.rspd.tj.
@@ -9422,6 +9426,8 @@ mino7.tj.		7200	IN	NS	ns.tojikiston.com.
 mino7.tj.		7200	IN	NS	ns1.tojikiston.com.
 minou.tj.		7200	IN	NS	ns1.beget.com.
 minou.tj.		7200	IN	NS	ns2.beget.com.
+mintas.tj.		7200	IN	NS	ns1.rspd.tj.
+mintas.tj.		7200	IN	NS	ns2.rspd.tj.
 mintrans.tj.		7200	IN	NS	ns.tojikiston.com.
 mintrans.tj.		7200	IN	NS	ns1.tojikiston.com.
 mir.tj.			7200	IN	NS	freedns1.registrar-servers.com.
@@ -14063,8 +14069,8 @@ telemedicine.tj.	7200	IN	NS	ns.tojikiston.com.
 telemedicine.tj.	7200	IN	NS	ns1.tojikiston.com.
 teleport.tj.		7200	IN	NS	ns1.hosting.reg.ru.
 teleport.tj.		7200	IN	NS	ns2.hosting.reg.ru.
-teleradiocom.tj.	7200	IN	NS	ns1.isatel.tj.
-teleradiocom.tj.	7200	IN	NS	ns2.isatel.tj.
+teleradiocom.tj.	7200	IN	NS	ns5.gettj.net.
+teleradiocom.tj.	7200	IN	NS	ns6.gettj.net.
 temurmalik.tj.		7200	IN	NS	ns1.rspd.tj.
 temurmalik.tj.		7200	IN	NS	ns2.rspd.tj.
 tena.tj.		7200	IN	NS	melkor.ngninfra.net.
@@ -16005,4 +16011,4 @@ zzap.tj.		7200	IN	NS	ns.abcp.ru.
 zzap.tj.		7200	IN	NS	ns.nodacdn.net.
 zzap.tj.		7200	IN	NS	ns3.abcp.ru.
 zzap.tj.		7200	IN	NS	ns3.nodacdn.net.
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022060104 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022060204 7200 3600 2678400 7200
