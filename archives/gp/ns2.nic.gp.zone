@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022060117 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022060306 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -960,10 +960,10 @@ cdg971.gp.		86400	IN	NS	a.dns.gandi.net.
 cdg971.gp.		86400	IN	NS	b.dns.gandi.net.
 cdiscount.gp.		86400	IN	NS	dns1.cscdns.net.
 cdiscount.gp.		86400	IN	NS	dns2.cscdns.net.
-celebrex.gp.		86400	IN	NS	ns1.p15.dynect.net.
-celebrex.gp.		86400	IN	NS	ns2.p15.dynect.net.
-celebrex.gp.		86400	IN	NS	ns3.p15.dynect.net.
-celebrex.gp.		86400	IN	NS	ns4.p15.dynect.net.
+celebrex.gp.		86400	IN	NS	ns-43.awsdns-05.com.
+celebrex.gp.		86400	IN	NS	ns-748.awsdns-29.net.
+celebrex.gp.		86400	IN	NS	ns-1460.awsdns-54.org.
+celebrex.gp.		86400	IN	NS	ns-1696.awsdns-20.co.uk.
 cgp.gp.			86400	IN	NS	pns1.cloudns.net.
 cgp.gp.			86400	IN	NS	pns2.cloudns.net.
 ch.gp.			86400	IN	NS	ns1.website.org.
@@ -5353,4 +5353,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022060117 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022060306 86400 7200 2592000 345600
