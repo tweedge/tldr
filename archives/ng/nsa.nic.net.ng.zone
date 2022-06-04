@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060431 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1654358547"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060436 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1654368156"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -4229,6 +4229,8 @@ anqr.ng.		3600	IN	NS	ns3.mysecurecloudhost.com.
 anqr.ng.		3600	IN	NS	ns4.mysecurecloudhost.com.
 ansarullah.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 ansarullah.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+anse.ng.		3600	IN	NS	kip.ns.cloudflare.com.
+anse.ng.		3600	IN	NS	connie.ns.cloudflare.com.
 ansgtransport.ng.	3600	IN	NS	ns1.ansgtransport.ng.
 ansgtransport.ng.	3600	IN	NS	ns2.ansgtransport.ng.
 ns1.ansgtransport.ng.	3600	IN	A	204.93.196.230
@@ -47691,8 +47693,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -47755,8 +47757,9 @@ netnews.ng.		3600	IN	NS	jim.ns.cloudflare.com.
 netnews.ng.		3600	IN	NS	liv.ns.cloudflare.com.
 netng.ng.		3600	IN	NS	jim.ns.cloudflare.com.
 netng.ng.		3600	IN	NS	liv.ns.cloudflare.com.
-netowsolutions.ng.	3600	IN	NS	ns1.netowsolutions.com.
-netowsolutions.ng.	3600	IN	NS	ns2.netowsolutions.com.
+netowsolutions.ng.	3600	IN	NS	xsfmpwv6.ns0.migadu.com.
+netowsolutions.ng.	3600	IN	NS	xsfmpwv6.ns1.migadu.com.
+netowsolutions.ng.	3600	IN	NS	xsfmpwv6.ns2.migadu.com.
 netpals.ng.		3600	IN	NS	nsa.whogohost.com.
 netpals.ng.		3600	IN	NS	nsb.whogohost.com.
 netpc.ng.		3600	IN	NS	ns1.upperserver26.com.
@@ -60949,8 +60952,8 @@ scamtrust.ng.		3600	IN	NS	nsa.whogohost.com.
 scamtrust.ng.		3600	IN	NS	nsb.whogohost.com.
 scamwatch.ng.		3600	IN	NS	ns10.veeblehosting.com.
 scamwatch.ng.		3600	IN	NS	ns11.veeblehosting.com.
-scan.ng.		3600	IN	NS	nsa.whogohost.com.
-scan.ng.		3600	IN	NS	nsb.whogohost.com.
+scan.ng.		3600	IN	NS	ns1.siteground.net.
+scan.ng.		3600	IN	NS	ns2.siteground.net.
 scanme.ng.		3600	IN	NS	nsa.whogohost.com.
 scanme.ng.		3600	IN	NS	nsb.whogohost.com.
 scannews.ng.		3600	IN	NS	ns1.goldcoast.ng.
@@ -69660,8 +69663,10 @@ thenigeriandream.ng.	3600	IN	NS	ns1.web4africa.com.
 thenigeriandream.ng.	3600	IN	NS	ns2.web4africa.com.
 thenigeriandream.ng.	3600	IN	NS	ns3.web4africa.com.
 thenigeriandream.ng.	3600	IN	NS	ns4.web4africa.com.
-thenigerianproject.ng.	3600	IN	NS	ns1.upperserver26.com.
-thenigerianproject.ng.	3600	IN	NS	ns2.upperserver26.com.
+thenigerianproject.ng.	3600	IN	NS	ns1.isolutions-ng.com.
+thenigerianproject.ng.	3600	IN	NS	ns2.isolutions-ng.com.
+thenigerianproject.ng.	3600	IN	NS	ns3.isolutions-ng.com.
+thenigerianproject.ng.	3600	IN	NS	ns4.isolutions-ng.com.
 thenigeriantracker.ng.	3600	IN	NS	ns1.webmable.africa.
 thenigeriantracker.ng.	3600	IN	NS	ns2.webmable.africa.
 thenigeriastandard.ng.	3600	IN	NS	ns1.digitalocean.com.
@@ -78752,4 +78757,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060431 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060436 10800 3600 604800 3600
