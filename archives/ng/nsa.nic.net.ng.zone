@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060414 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1654326031"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060419 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1654335580"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -6386,6 +6386,8 @@ baccarat.ng.		3600	IN	NS	ns31.constellix.com.
 baccarat.ng.		3600	IN	NS	ns41.constellix.net.
 baccarat.ng.		3600	IN	NS	ns51.constellix.net.
 baccarat.ng.		3600	IN	NS	ns61.constellix.net.
+baccima.ng.		3600	IN	NS	ns1.datasharetech.com.ng.
+baccima.ng.		3600	IN	NS	ns2.datasharetech.com.ng.
 bace.ng.		3600	IN	NS	ns1.servconfig.com.
 bace.ng.		3600	IN	NS	ns2.servconfig.com.
 bachelorstudies.ng.	3600	IN	NS	jay.ns.cloudflare.com.
@@ -23815,8 +23817,8 @@ faceus.ng.		3600	IN	NS	ns1.dknoc.com.
 faceus.ng.		3600	IN	NS	ns2.dknoc.com.
 faci.ng.		3600	IN	NS	ns3.epik.com.
 faci.ng.		3600	IN	NS	ns4.epik.com.
-facials.ng.		3600	IN	NS	remy.ns.cloudflare.com.
-facials.ng.		3600	IN	NS	keyla.ns.cloudflare.com.
+facials.ng.		3600	IN	NS	ns5.kanohost.com.
+facials.ng.		3600	IN	NS	ns6.kanohost.com.
 facil.ng.		3600	IN	NS	nsa.whogohost.com.
 facil.ng.		3600	IN	NS	nsb.whogohost.com.
 facila.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -29990,6 +29992,8 @@ hadartechnologies.ng.	3600	IN	NS	ns2.dkstack.com.
 haddii.ng.		3600	IN	NS	ns1.site4now.net.
 haddii.ng.		3600	IN	NS	ns2.site4now.net.
 haddii.ng.		3600	IN	NS	ns3.site4now.net.
+hadi.ng.		3600	IN	NS	ns1.qservers.net.
+hadi.ng.		3600	IN	NS	ns2.qservers.net.
 hafiksworld.ng.		3600	IN	NS	ns1.site5.com.
 hafiksworld.ng.		3600	IN	NS	ns2.site5.com.
 hafiz.ng.		3600	IN	NS	ns25.doveserver.com.
@@ -44911,6 +44915,8 @@ movetoaustralia.ng.	3600	IN	NS	ns353.websitewelcome.com.
 movetoaustralia.ng.	3600	IN	NS	ns354.websitewelcome.com.
 movi.ng.		3600	IN	NS	ns1.domains.ng.
 movi.ng.		3600	IN	NS	ns2.domains.ng.
+moviecity.ng.		3600	IN	NS	ns17.smartwebng.com.
+moviecity.ng.		3600	IN	NS	ns18.smartwebng.com.
 movieextras.ng.		3600	IN	NS	ns1.qservers.net.
 movieextras.ng.		3600	IN	NS	ns2.qservers.net.
 movietransit.ng.	3600	IN	NS	ns1.upperserver29.com.
@@ -53912,6 +53918,10 @@ pharmeasy.ng.		3600	IN	NS	nsa.whogohost.com.
 pharmeasy.ng.		3600	IN	NS	nsb.whogohost.com.
 pharmplexus.ng.		3600	IN	NS	ns1.dns-parking.com.
 pharmplexus.ng.		3600	IN	NS	ns2.dns-parking.com.
+phatlim.ng.		3600	IN	NS	ns1.qservers.net.
+phatlim.ng.		3600	IN	NS	ns2.qservers.net.
+phatlimventures.ng.	3600	IN	NS	ns1.qservers.net.
+phatlimventures.ng.	3600	IN	NS	ns2.qservers.net.
 phcity.ng.		3600	IN	NS	nsa.whogohost.com.
 phcity.ng.		3600	IN	NS	nsb.whogohost.com.
 phcityonline.ng.	3600	IN	NS	ns0.registeram.com.
@@ -69243,8 +69253,8 @@ thefabshotel.ng.	3600	IN	NS	ns1.bluehost.com.
 thefabshotel.ng.	3600	IN	NS	ns2.bluehost.com.
 thefact.ng.		3600	IN	NS	angela.ns.cloudflare.com.
 thefact.ng.		3600	IN	NS	salvador.ns.cloudflare.com.
-thefactor.ng.		3600	IN	NS	ns1.calibreplatforms.com.
-thefactor.ng.		3600	IN	NS	ns2.calibreplatforms.com.
+thefactor.ng.		3600	IN	NS	ns1.hostns.io.
+thefactor.ng.		3600	IN	NS	ns21.hostns.io.
 thefancyplace.ng.	3600	IN	NS	dns1.thefancyplace.com.
 thefancyplace.ng.	3600	IN	NS	dns2.thefancyplace.com.
 thefanstogether.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -69614,10 +69624,8 @@ thenigeriandream.ng.	3600	IN	NS	ns1.web4africa.com.
 thenigeriandream.ng.	3600	IN	NS	ns2.web4africa.com.
 thenigeriandream.ng.	3600	IN	NS	ns3.web4africa.com.
 thenigeriandream.ng.	3600	IN	NS	ns4.web4africa.com.
-thenigerianproject.ng.	3600	IN	NS	ns1.isolutions-ng.com.
-thenigerianproject.ng.	3600	IN	NS	ns2.isolutions-ng.com.
-thenigerianproject.ng.	3600	IN	NS	ns3.isolutions-ng.com.
-thenigerianproject.ng.	3600	IN	NS	ns4.isolutions-ng.com.
+thenigerianproject.ng.	3600	IN	NS	ns1.upperserver26.com.
+thenigerianproject.ng.	3600	IN	NS	ns2.upperserver26.com.
 thenigeriantracker.ng.	3600	IN	NS	ns1.webmable.africa.
 thenigeriantracker.ng.	3600	IN	NS	ns2.webmable.africa.
 thenigeriastandard.ng.	3600	IN	NS	ns1.digitalocean.com.
@@ -78697,4 +78705,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060414 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060419 10800 3600 604800 3600
