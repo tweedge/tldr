@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060419 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060422 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1654369355"
+mg.			7200	IN	TXT	"Generation Time: 1654380151"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2277,8 +2277,6 @@ cellupack.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 cellupack.mg.		7200	IN	NS	ns1.fr.malagasy.com.
 cem.mg.			7200	IN	NS	ns.dts.mg.
 cem.mg.			7200	IN	NS	ns1.dts.mg.
-cementis.mg.		7200	IN	NS	dan.ns.cloudflare.com.
-cementis.mg.		7200	IN	NS	dara.ns.cloudflare.com.
 ceni.mg.		7200	IN	NS	ns.dts.mg.
 ceni.mg.		7200	IN	NS	ns1.dts.mg.
 ceni-madagascar.mg.	7200	IN	NS	ns.dts.mg.
@@ -8779,9 +8777,9 @@ rallygasy.mg.		86400	IN	NS	ns111.ovh.net.
 rallygasy.mg.		86400	IN	NS	dns111.ovh.net.
 ram.mg.			86400	IN	NS	ns1.extra.chrysler.com.
 ram.mg.			86400	IN	NS	ns2.extra.chrysler.com.
-ramanitra.mg.		86400	IN	DS	2371 13 2 2B8B5EFCF92A6EA78A912F33D0369BDE0293369AE040EC62AB842109 786FEFD3
 ramanitra.mg.		86400	IN	NS	brett.ns.cloudflare.com.
 ramanitra.mg.		86400	IN	NS	margot.ns.cloudflare.com.
+ramanitra.mg.		86400	IN	DS	2371 13 2 2B8B5EFCF92A6EA78A912F33D0369BDE0293369AE040EC62AB842109 786FEFD3
 ramatoa.mg.		86400	IN	NS	ns1.da.cloudns.io.
 ramatoa.mg.		86400	IN	NS	ns2.da.cloudns.io.
 ramboloson.mg.		86400	IN	NS	dns14.ovh.net.
@@ -11595,4 +11593,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060419 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060422 600 3600 604800 86400

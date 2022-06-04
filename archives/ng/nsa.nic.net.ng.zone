@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060436 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1654368156"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060442 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1654379669"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -11074,10 +11074,8 @@ buspass.ng.		3600	IN	NS	ns1.dan.com.
 buspass.ng.		3600	IN	NS	ns2.dan.com.
 bussi.ng.		3600	IN	NS	clyde.ns.cloudflare.com.
 bussi.ng.		3600	IN	NS	barbara.ns.cloudflare.com.
-bussynoble.ng.		3600	IN	NS	ns1.web4africa.com.
-bussynoble.ng.		3600	IN	NS	ns2.web4africa.com.
-bussynoble.ng.		3600	IN	NS	ns3.web4africa.com.
-bussynoble.ng.		3600	IN	NS	ns4.web4africa.com.
+bussynoble.ng.		3600	IN	NS	ns1.schoolshell.net.
+bussynoble.ng.		3600	IN	NS	ns2.schoolshell.net.
 busted.ng.		3600	IN	NS	nsa.whogohost.com.
 busted.ng.		3600	IN	NS	nsb.whogohost.com.
 bustopbistro.ng.	3600	IN	NS	ns1.gigalayer.com.
@@ -17696,6 +17694,10 @@ daybreakrecords.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 daybreakrecords.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 daydone.ng.		3600	IN	NS	nsa.whogohost.com.
 daydone.ng.		3600	IN	NS	nsb.whogohost.com.
+daylight.ng.		3600	IN	NS	ns1.web4africa.com.
+daylight.ng.		3600	IN	NS	ns2.web4africa.com.
+daylight.ng.		3600	IN	NS	ns3.web4africa.com.
+daylight.ng.		3600	IN	NS	ns4.web4africa.com.
 dayspri.ng.		3600	IN	NS	ns-350.awsdns-43.com.
 dayspri.ng.		3600	IN	NS	ns-614.awsdns-12.net.
 dayspri.ng.		3600	IN	NS	ns-1298.awsdns-34.org.
@@ -29646,6 +29648,8 @@ grohe.ng.		3600	IN	NS	ns1.sedoparking.com.
 grohe.ng.		3600	IN	NS	ns2.sedoparking.com.
 grolink.ng.		3600	IN	NS	nsa.whogohost.com.
 grolink.ng.		3600	IN	NS	nsb.whogohost.com.
+groliteenergy.ng.	3600	IN	NS	nsa.whogohost.com.
+groliteenergy.ng.	3600	IN	NS	nsb.whogohost.com.
 groot.ng.		3600	IN	NS	nsa.whogohost.com.
 groot.ng.		3600	IN	NS	nsb.whogohost.com.
 groove.ng.		3600	IN	NS	dns1.yandex.net.
@@ -32443,6 +32447,8 @@ hwa.ng.			3600	IN	NS	ns1.squadhelp.com.
 hwa.ng.			3600	IN	NS	ns2.squadhelp.com.
 hwg.ng.			3600	IN	NS	ns35.doveserver.com.
 hwg.ng.			3600	IN	NS	ns36.doveserver.com.
+hybee.ng.		3600	IN	NS	nsa.whogohost.com.
+hybee.ng.		3600	IN	NS	nsb.whogohost.com.
 hybreed.ng.		3600	IN	NS	ns-276.awsdns-34.com.
 hybreed.ng.		3600	IN	NS	ns-579.awsdns-08.net.
 hybreed.ng.		3600	IN	NS	ns-1134.awsdns-13.org.
@@ -38101,8 +38107,10 @@ kubona.ng.		3600	IN	NS	kirk.ns.cloudflare.com.
 kubona.ng.		3600	IN	NS	chloe.ns.cloudflare.com.
 kubota.ng.		3600	IN	NS	ajay.ns.cloudflare.com.
 kubota.ng.		3600	IN	NS	lola.ns.cloudflare.com.
-kubuni.ng.		3600	IN	NS	ns1.azentori.com.
-kubuni.ng.		3600	IN	NS	ns2.azentori.com.
+kubuni.ng.		3600	IN	NS	ns1.kubuni.ng.
+kubuni.ng.		3600	IN	NS	ns2.kubuni.ng.
+ns1.kubuni.ng.		3600	IN	A	185.239.208.137
+ns2.kubuni.ng.		3600	IN	A	185.239.208.137
 kubwageneralhosp.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 kubwageneralhosp.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 kuda.ng.		3600	IN	NS	ns1.qservers.net.
@@ -44294,10 +44302,9 @@ modeli.ng.		3600	IN	NS	pns21.cloudns.net.
 modeli.ng.		3600	IN	NS	pns22.cloudns.net.
 modellearni.ng.		3600	IN	NS	ns1.vercel-dns.com.
 modellearni.ng.		3600	IN	NS	ns2.vercel-dns.com.
-modellica.ng.		3600	IN	NS	dns6.whogohost.com.
-modellica.ng.		3600	IN	NS	dns7.whogohost.com.
-modellica.ng.		3600	IN	NS	dns8.whogohost.com.
-modellica.ng.		3600	IN	NS	dns9.whogohost.com.
+modellica.ng.		3600	IN	NS	ns1.digitalocean.com.
+modellica.ng.		3600	IN	NS	ns2.digitalocean.com.
+modellica.ng.		3600	IN	NS	ns3.digitalocean.com.
 modemedia.ng.		3600	IN	NS	ns21.doveserver.com.
 modemedia.ng.		3600	IN	NS	ns22.doveserver.com.
 modern.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -54911,6 +54918,9 @@ politicsnigeria.ng.	3600	IN	NS	ns1.dknoc.com.
 politicsnigeria.ng.	3600	IN	NS	ns2.dknoc.com.
 politicstoday.ng.	3600	IN	NS	ns21.whogohost.com.
 politicstoday.ng.	3600	IN	NS	ns22.whogohost.com.
+politikit.ng.		3600	IN	NS	ns1.cloudoon.com.
+politikit.ng.		3600	IN	NS	ns2.cloudoon.net.
+politikit.ng.		3600	IN	NS	ns3.cloudoon.org.
 politynow.ng.		3600	IN	NS	dns1.doveserver.com.
 politynow.ng.		3600	IN	NS	dns2.doveserver.com.
 polkadot.ng.		3600	IN	NS	ns.mcreal.net.
@@ -78757,4 +78767,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060436 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060442 10800 3600 604800 3600
