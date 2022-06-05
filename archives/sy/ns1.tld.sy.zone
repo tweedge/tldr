@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060506 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1654390931"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060511 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1654401740"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2039,8 +2039,8 @@ cdi.sy.			86400	IN	NS	ns01.cdi.sy.
 cdi.sy.			86400	IN	NS	ns02.cdi.sy.
 ns01.cdi.sy.		86400	IN	A	82.137.193.100
 ns02.cdi.sy.		86400	IN	A	82.137.193.100
-cdn.sy.			86400	IN	NS	ns3.dnsv2.com.
-cdn.sy.			86400	IN	NS	ns4.dnsv2.com.
+cdn.sy.			86400	IN	NS	vip1.alidns.com.
+cdn.sy.			86400	IN	NS	vip2.alidns.com.
 cec.sy.			86400	IN	NS	ns1.shamcenter.com.
 cec.sy.			86400	IN	NS	ns2.shamcenter.com.
 celia.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7815,4 +7815,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060506 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060511 3600 3600 2592000 3600
