@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060515 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1654408944"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060521 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1654423345"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -282,8 +282,8 @@ aboodhamad.sy.		86400	IN	NS	suspend1.tld.sy.
 aboodhamad.sy.		86400	IN	NS	suspend2.tld.sy.
 abratalshraa.sy.	86400	IN	NS	ns1.signal-host.com.
 abratalshraa.sy.	86400	IN	NS	ns2.signal-host.com.
-abt.sy.			86400	IN	NS	ns1.clicknetco.com.
-abt.sy.			86400	IN	NS	ns2.clicknetco.com.
+abt.sy.			86400	IN	NS	suspend1.tld.sy.
+abt.sy.			86400	IN	NS	suspend2.tld.sy.
 abualeyoun.sy.		86400	IN	NS	suspend1.tld.sy.
 abualeyoun.sy.		86400	IN	NS	suspend2.tld.sy.
 abudamaa.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -767,11 +767,8 @@ alhadi.sy.		86400	IN	NS	ns1.imtyaz.sy.
 alhadi.sy.		86400	IN	NS	ns2.imtyaz.sy.
 alhafez.sy.		86400	IN	NS	suspend1.tld.sy.
 alhafez.sy.		86400	IN	NS	suspend2.tld.sy.
-alhafi-zaidan.sy.	86400	IN	NS	ns1.ucg-core.com.
-alhafi-zaidan.sy.	86400	IN	NS	ns4.ucg-core.com.
-alhafi-zaidan.sy.	86400	IN	NS	ns11.ucg-core.com.
-alhafi-zaidan.sy.	86400	IN	NS	ns51.uae-dc.com.
-alhafi-zaidan.sy.	86400	IN	NS	ns54.uae-dc.com.
+alhafi-zaidan.sy.	86400	IN	NS	suspend1.tld.sy.
+alhafi-zaidan.sy.	86400	IN	NS	suspend2.tld.sy.
 alhalaby-part.sy.	86400	IN	NS	suspend1.tld.sy.
 alhalaby-part.sy.	86400	IN	NS	suspend2.tld.sy.
 alhallab.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -1428,6 +1425,10 @@ arnous-desouki.sy.	86400	IN	NS	suspend1.tld.sy.
 arnous-desouki.sy.	86400	IN	NS	suspend2.tld.sy.
 art.sy.			86400	IN	NS	ns1.dan.com.
 art.sy.			86400	IN	NS	ns2.dan.com.
+art-house.sy.		86400	IN	NS	ns3.tld.sy.
+art-house.sy.		86400	IN	NS	ns4.tld.sy.
+art-housepro.sy.	86400	IN	NS	ns3.tld.sy.
+art-housepro.sy.	86400	IN	NS	ns4.tld.sy.
 artahhan.sy.		86400	IN	NS	suspend1.tld.sy.
 artahhan.sy.		86400	IN	NS	suspend2.tld.sy.
 artallc.sy.		86400	IN	NS	ns1.waveshost.sy.
@@ -1969,8 +1970,8 @@ buildup.sy.		86400	IN	NS	ns1.buildup.sy.
 buildup.sy.		86400	IN	NS	ns2.buildup.sy.
 ns1.buildup.sy.		86400	IN	A	185.216.132.119
 ns2.buildup.sy.		86400	IN	A	185.216.132.119
-bukraelna.sy.		86400	IN	NS	dns1.almuhafazaclub.sy.
-bukraelna.sy.		86400	IN	NS	dns2.almuhafazaclub.sy.
+bukraelna.sy.		86400	IN	NS	suspend1.tld.sy.
+bukraelna.sy.		86400	IN	NS	suspend2.tld.sy.
 buna.sy.		86400	IN	NS	ns1.souria.net.
 buna.sy.		86400	IN	NS	ns2.souria.net.
 burjalarab.sy.		86400	IN	NS	ns1.tagidomains.com.
@@ -2158,8 +2159,6 @@ climax.sy.		86400	IN	NS	ns1.waveshost.sy.
 climax.sy.		86400	IN	NS	ns2.waveshost.sy.
 cloud.sy.		86400	IN	NS	ns252.ucg.ltd.
 cloud.sy.		86400	IN	NS	ns2252.ucg.ltd.
-cloudfitters.sy.	86400	IN	NS	suspend1.tld.sy.
-cloudfitters.sy.	86400	IN	NS	suspend2.tld.sy.
 cn.sy.			86400	IN	NS	suspend1.tld.sy.
 cn.sy.			86400	IN	NS	suspend2.tld.sy.
 co.sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
@@ -2279,6 +2278,8 @@ dama.sy.		86400	IN	NS	ns5001.mochahost.com.
 dama.sy.		86400	IN	NS	ns6001.mochahost.com.
 damacham.sy.		86400	IN	NS	ns1.shamcenter.com.
 damacham.sy.		86400	IN	NS	ns2.shamcenter.com.
+damamalls.sy.		86400	IN	NS	ns3.tld.sy.
+damamalls.sy.		86400	IN	NS	ns4.tld.sy.
 daman.sy.		86400	IN	NS	ns16.samamax.com.
 daman.sy.		86400	IN	NS	ns17.samamax.com.
 damancham.sy.		86400	IN	NS	ns1.scs-net.sy.
@@ -3346,11 +3347,8 @@ hadyati.sy.		86400	IN	NS	ns11.inet.sy.
 hadyati.sy.		86400	IN	NS	ns12.inet.sy.
 hafez-part.sy.		86400	IN	NS	suspend1.tld.sy.
 hafez-part.sy.		86400	IN	NS	suspend2.tld.sy.
-hafi-paper.sy.		86400	IN	NS	ns1.ucg-core.com.
-hafi-paper.sy.		86400	IN	NS	ns4.ucg-core.com.
-hafi-paper.sy.		86400	IN	NS	ns11.ucg-core.com.
-hafi-paper.sy.		86400	IN	NS	ns51.uae-dc.com.
-hafi-paper.sy.		86400	IN	NS	ns54.uae-dc.com.
+hafi-paper.sy.		86400	IN	NS	suspend1.tld.sy.
+hafi-paper.sy.		86400	IN	NS	suspend2.tld.sy.
 haithampartner.sy.	86400	IN	NS	ns1.waveshost.sy.
 haithampartner.sy.	86400	IN	NS	ns2.waveshost.sy.
 hakim.sy.		86400	IN	NS	ns1.scs-net.sy.
@@ -4708,8 +4706,8 @@ medad-inv.sy.		86400	IN	NS	suspend1.tld.sy.
 medad-inv.sy.		86400	IN	NS	suspend2.tld.sy.
 medexa.sy.		86400	IN	NS	ns3.tld.sy.
 medexa.sy.		86400	IN	NS	ns4.tld.sy.
-media.sy.		86400	IN	NS	ns3.tld.sy.
-media.sy.		86400	IN	NS	ns4.tld.sy.
+media.sy.		86400	IN	NS	suspend1.tld.sy.
+media.sy.		86400	IN	NS	suspend2.tld.sy.
 mediamix.sy.		86400	IN	NS	ns1.dimofinf.net.
 mediamix.sy.		86400	IN	NS	ns2.dimofinf.net.
 mediamix.sy.		86400	IN	NS	ns3.dimofinf.net.
@@ -6116,8 +6114,6 @@ scltd.sy.		86400	IN	NS	ns1.scltd.sy.
 scltd.sy.		86400	IN	NS	ns2.scltd.sy.
 ns1.scltd.sy.		86400	IN	A	82.137.234.91
 ns2.scltd.sy.		86400	IN	A	82.137.234.92
-scm.sy.			86400	IN	NS	suspend1.tld.sy.
-scm.sy.			86400	IN	NS	suspend2.tld.sy.
 sco-me.sy.		86400	IN	NS	ns1.scs-net.sy.
 sco-me.sy.		86400	IN	NS	ns1.scs-net.org.
 sco-me.sy.		86400	IN	NS	ns2.scs-net.sy.
@@ -6371,8 +6367,8 @@ shukfa-trade.sy.	86400	IN	NS	suspend1.tld.sy.
 shukfa-trade.sy.	86400	IN	NS	suspend2.tld.sy.
 shukra.sy.		86400	IN	NS	ns1.mowared.sy.
 shukra.sy.		86400	IN	NS	ns2.mowared.sy.
-siamco.sy.		86400	IN	NS	suspend1.tld.sy.
-siamco.sy.		86400	IN	NS	suspend2.tld.sy.
+siamco.sy.		86400	IN	NS	ns3.bocme.net.
+siamco.sy.		86400	IN	NS	ns4.bocme.net.
 sibahi.sy.		86400	IN	NS	suspend1.tld.sy.
 sibahi.sy.		86400	IN	NS	suspend2.tld.sy.
 sibon.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6752,6 +6748,8 @@ syria-motors.sy.	86400	IN	NS	suspend1.tld.sy.
 syria-motors.sy.	86400	IN	NS	suspend2.tld.sy.
 syria-news.sy.		86400	IN	NS	ns3.tld.sy.
 syria-news.sy.		86400	IN	NS	ns4.tld.sy.
+syria-passadm.sy.	86400	IN	NS	ns3.tld.sy.
+syria-passadm.sy.	86400	IN	NS	ns4.tld.sy.
 syria-scope.sy.		86400	IN	NS	norm.ns.cloudflare.com.
 syria-scope.sy.		86400	IN	NS	vivienne.ns.cloudflare.com.
 syria-tech.sy.		86400	IN	NS	ns1.syria-tech.sy.
@@ -7646,8 +7644,8 @@ yara.sy.		86400	IN	NS	ns1.yara.sy.
 yara.sy.		86400	IN	NS	ns2.yara.sy.
 ns1.yara.sy.		86400	IN	A	185.162.164.17
 ns2.yara.sy.		86400	IN	A	185.162.164.18
-yashfeen.sy.		86400	IN	NS	ns1.clicknetco.com.
-yashfeen.sy.		86400	IN	NS	ns2.clicknetco.com.
+yashfeen.sy.		86400	IN	NS	suspend1.tld.sy.
+yashfeen.sy.		86400	IN	NS	suspend2.tld.sy.
 yasinorganization.sy.	86400	IN	NS	suspend1.tld.sy.
 yasinorganization.sy.	86400	IN	NS	suspend2.tld.sy.
 yaskawa.sy.		86400	IN	NS	ns1.webhosting.jp.
@@ -7815,4 +7813,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060515 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060521 3600 3600 2592000 3600

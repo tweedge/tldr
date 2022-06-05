@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060514 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1654412437"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060519 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1654422032"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -5647,6 +5647,8 @@ auchan-retail.ng.	3600	IN	NS	dns1.cscdns.net.
 auchan-retail.ng.	3600	IN	NS	dns2.cscdns.net.
 auchanretail.ng.	3600	IN	NS	dns1.cscdns.net.
 auchanretail.ng.	3600	IN	NS	dns2.cscdns.net.
+auchi.ng.		3600	IN	NS	nsa.whogohost.com.
+auchi.ng.		3600	IN	NS	nsb.whogohost.com.
 auchipoly.ng.		3600	IN	NS	ns1.marolinks.com.
 auchipoly.ng.		3600	IN	NS	ns2.marolinks.com.
 auction.ng.		3600	IN	NS	ns1.dan.com.
@@ -10179,8 +10181,8 @@ brandmanager.ng.	3600	IN	NS	nsa.whogohost.com.
 brandmanager.ng.	3600	IN	NS	nsb.whogohost.com.
 brandmatic.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 brandmatic.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-brandmeup.ng.		3600	IN	NS	ns1.md-21.webhostbox.net.
-brandmeup.ng.		3600	IN	NS	ns2.md-21.webhostbox.net.
+brandmeup.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+brandmeup.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 brandmycar.ng.		3600	IN	NS	nsa.whogohost.com.
 brandmycar.ng.		3600	IN	NS	nsb.whogohost.com.
 brandom.ng.		3600	IN	NS	ns19.doveserver.com.
@@ -20846,8 +20848,11 @@ ecochampions.ng.	3600	IN	NS	nsa.whogohost.com.
 ecochampions.ng.	3600	IN	NS	nsb.whogohost.com.
 ecocitiessmarthomes.ng.	3600	IN	NS	ns11.breeze.host.
 ecocitiessmarthomes.ng.	3600	IN	NS	ns12.breeze.host.
-ecocleaners.ng.		3600	IN	NS	nsa.whogohost.com.
-ecocleaners.ng.		3600	IN	NS	nsb.whogohost.com.
+ecocleaners.ng.		3600	IN	NS	ns0000.hostgator.com.
+ecocleaners.ng.		3600	IN	NS	ns1111.hostgator.com.
+ecocleaners.ng.		3600	IN	NS	ns1234.hostgator.com.
+ecocleaners.ng.		3600	IN	NS	ns5878.hostgator.com.
+ecocleaners.ng.		3600	IN	NS	ns12346.hostgator.com.
 ecoconnect.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 ecoconnect.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 ecofarms.ng.		3600	IN	NS	cdns1.main-hosting.eu.
@@ -21475,6 +21480,8 @@ eie.ng.			3600	IN	NS	ns1.eienigeria.org.
 eie.ng.			3600	IN	NS	ns2.eienigeria.org.
 eifil.ng.		3600	IN	NS	ns69.qservers.net.
 eifil.ng.		3600	IN	NS	ns70.qservers.net.
+eigconline.ng.		3600	IN	NS	ns1.servercpl.com.
+eigconline.ng.		3600	IN	NS	ns2.servercpl.com.
 eighteen.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 eighteen.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 einar.ng.		3600	IN	NS	ns1.rrpproxy.net.
@@ -21719,6 +21726,8 @@ electronicstore.ng.	3600	IN	NS	ns-2031.awsdns-61.co.uk.
 electronicsvilla.ng.	3600	IN	NS	ns1.digitalocean.com.
 electronicsvilla.ng.	3600	IN	NS	ns2.digitalocean.com.
 electronicsvilla.ng.	3600	IN	NS	ns3.digitalocean.com.
+electroshop.ng.		3600	IN	NS	nsa.whogohost.com.
+electroshop.ng.		3600	IN	NS	nsb.whogohost.com.
 elegal.ng.		3600	IN	NS	nsa.whogohost.com.
 elegal.ng.		3600	IN	NS	nsb.whogohost.com.
 elegant.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -47657,8 +47666,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -52703,8 +52712,8 @@ partown.ng.		3600	IN	NS	ns1.webguru.ng.
 partown.ng.		3600	IN	NS	ns2.webguru.ng.
 parts.ng.		3600	IN	NS	nsa.whogohost.com.
 parts.ng.		3600	IN	NS	nsb.whogohost.com.
-parts4cars.ng.		3600	IN	NS	ns1.md-21.webhostbox.net.
-parts4cars.ng.		3600	IN	NS	ns2.md-21.webhostbox.net.
+parts4cars.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+parts4cars.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 partsonal.ng.		3600	IN	NS	ns1.qservers.net.
 partsonal.ng.		3600	IN	NS	ns2.qservers.net.
 partste.ng.		3600	IN	NS	ns21.naijadomains.com.
@@ -57463,6 +57472,8 @@ rainmaker.ng.		3600	IN	NS	ns1.dknoc.com.
 rainmaker.ng.		3600	IN	NS	ns2.dknoc.com.
 rainmakeragro.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 rainmakeragro.ng.	3600	IN	NS	dns2.namecheaphosting.com.
+rainmakercompany.ng.	3600	IN	NS	nsa.whogohost.com.
+rainmakercompany.ng.	3600	IN	NS	nsb.whogohost.com.
 rainmakers.ng.		3600	IN	NS	ns1.us105.siteground.us.
 rainmakers.ng.		3600	IN	NS	ns2.us105.siteground.us.
 rainshowerintegrated.ng. 3600	IN	NS	ns13.garanntor.net.
@@ -62965,8 +62976,8 @@ silo.ng.		3600	IN	NS	dns1.doveserver.com.
 silo.ng.		3600	IN	NS	dns2.doveserver.com.
 silverdream.ng.		3600	IN	NS	nsa.whogohost.com.
 silverdream.ng.		3600	IN	NS	nsb.whogohost.com.
-silverlini.ng.		3600	IN	NS	nsa.whogohost.com.
-silverlini.ng.		3600	IN	NS	nsb.whogohost.com.
+silverlini.ng.		3600	IN	NS	ns1.squadhelp.com.
+silverlini.ng.		3600	IN	NS	ns2.squadhelp.com.
 silverspoon.ng.		3600	IN	NS	ns1.upperserver2.com.
 silverspoon.ng.		3600	IN	NS	ns2.upperserver2.com.
 simabel.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -75184,6 +75195,9 @@ war.ng.			3600	IN	NS	ns4.web4africa.com.
 war.ng.			3600	IN	NS	ns5.web4africa.com.
 wara.ng.		3600	IN	NS	dale.ns.cloudflare.com.
 wara.ng.		3600	IN	NS	paislee.ns.cloudflare.com.
+warawata.ng.		3600	IN	NS	ns1.cloudoon.com.
+warawata.ng.		3600	IN	NS	ns2.cloudoon.com.
+warawata.ng.		3600	IN	NS	ns3.cloudoon.com.
 wardchat.ng.		3600	IN	NS	ns-119.awsdns-14.com.
 wardchat.ng.		3600	IN	NS	ns-895.awsdns-47.net.
 wardchat.ng.		3600	IN	NS	ns-1045.awsdns-02.org.
@@ -78713,4 +78727,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060514 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060519 10800 3600 604800 3600
