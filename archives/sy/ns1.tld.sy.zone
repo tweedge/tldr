@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060521 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1654423345"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060527 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1654434136"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1427,8 +1427,6 @@ art.sy.			86400	IN	NS	ns1.dan.com.
 art.sy.			86400	IN	NS	ns2.dan.com.
 art-house.sy.		86400	IN	NS	ns3.tld.sy.
 art-house.sy.		86400	IN	NS	ns4.tld.sy.
-art-housepro.sy.	86400	IN	NS	ns3.tld.sy.
-art-housepro.sy.	86400	IN	NS	ns4.tld.sy.
 artahhan.sy.		86400	IN	NS	suspend1.tld.sy.
 artahhan.sy.		86400	IN	NS	suspend2.tld.sy.
 artallc.sy.		86400	IN	NS	ns1.waveshost.sy.
@@ -1439,6 +1437,8 @@ ns1.artdesignergroup.sy. 86400	IN	A	116.203.183.77
 ns2.artdesignergroup.sy. 86400	IN	A	116.203.183.77
 arthouse.sy.		86400	IN	NS	ns1.alifouad91.com.
 arthouse.sy.		86400	IN	NS	ns2.alifouad91.com.
+arthousepro.sy.		86400	IN	NS	ns3.tld.sy.
+arthousepro.sy.		86400	IN	NS	ns4.tld.sy.
 artists-syndicate.sy.	86400	IN	NS	ns1.shamcenter.com.
 artists-syndicate.sy.	86400	IN	NS	ns2.shamcenter.com.
 arts.sy.		86400	IN	NS	ns1.entornodns.com.
@@ -2671,10 +2671,10 @@ ebm-papst.sy.		86400	IN	NS	ns.do-ex.org.
 ebmpapst.sy.		86400	IN	NS	ns.do-ex.com.
 ebmpapst.sy.		86400	IN	NS	ns.do-ex.net.
 ebmpapst.sy.		86400	IN	NS	ns.do-ex.org.
-ecash.sy.		86400	IN	NS	suspend1.tld.sy.
-ecash.sy.		86400	IN	NS	suspend2.tld.sy.
-ecash-pay.sy.		86400	IN	NS	suspend1.tld.sy.
-ecash-pay.sy.		86400	IN	NS	suspend2.tld.sy.
+ecash.sy.		86400	IN	NS	ns1.monster.sy.
+ecash.sy.		86400	IN	NS	ns2.monster.sy.
+ecash-pay.sy.		86400	IN	NS	ns1.monster.sy.
+ecash-pay.sy.		86400	IN	NS	ns2.monster.sy.
 ecc.sy.			86400	IN	NS	ns3.tld.sy.
 ecc.sy.			86400	IN	NS	ns4.tld.sy.
 eccs.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7134,8 +7134,8 @@ teach.sy.		86400	IN	NS	sydns1.nobalaa.com.
 teach.sy.		86400	IN	NS	sydns2.nobalaa.com.
 teachsyn.sy.		86400	IN	NS	ns1.clicknetco.com.
 teachsyn.sy.		86400	IN	NS	ns2.clicknetco.com.
-team.sy.		86400	IN	NS	suspend1.tld.sy.
-team.sy.		86400	IN	NS	suspend2.tld.sy.
+team.sy.		86400	IN	NS	ns1.monster.sy.
+team.sy.		86400	IN	NS	ns2.monster.sy.
 tec.sy.			86400	IN	NS	ns3.tld.sy.
 tec.sy.			86400	IN	NS	ns4.tld.sy.
 tech.sy.		86400	IN	NS	sydns1.nobalaa.com.
@@ -7813,4 +7813,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060521 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060527 3600 3600 2592000 3600
