@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060442 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1654379669"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060502 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1654389392"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -2920,6 +2920,8 @@ ajala.ng.		3600	IN	NS	ns-1342.awsdns-39.org.
 ajala.ng.		3600	IN	NS	ns-1679.awsdns-17.co.uk.
 ajalagroup.ng.		3600	IN	NS	nsa.whogohost.com.
 ajalagroup.ng.		3600	IN	NS	nsb.whogohost.com.
+ajared.ng.		3600	IN	NS	ns1.bluehost.com.
+ajared.ng.		3600	IN	NS	ns2.bluehost.com.
 ajboxi.ng.		3600	IN	NS	ns1.dan.net.
 ajboxi.ng.		3600	IN	NS	ns2.dan.net.
 aje.ng.			3600	IN	NS	nsa.whogohost.com.
@@ -47700,8 +47702,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -54918,9 +54920,8 @@ politicsnigeria.ng.	3600	IN	NS	ns1.dknoc.com.
 politicsnigeria.ng.	3600	IN	NS	ns2.dknoc.com.
 politicstoday.ng.	3600	IN	NS	ns21.whogohost.com.
 politicstoday.ng.	3600	IN	NS	ns22.whogohost.com.
-politikit.ng.		3600	IN	NS	ns1.cloudoon.com.
-politikit.ng.		3600	IN	NS	ns2.cloudoon.net.
-politikit.ng.		3600	IN	NS	ns3.cloudoon.org.
+politikit.ng.		3600	IN	NS	dns1.supremepanel.com.
+politikit.ng.		3600	IN	NS	dns2.supremepanel.com.
 politynow.ng.		3600	IN	NS	dns1.doveserver.com.
 politynow.ng.		3600	IN	NS	dns2.doveserver.com.
 polkadot.ng.		3600	IN	NS	ns.mcreal.net.
@@ -59710,6 +59711,8 @@ roosca.ng.		3600	IN	NS	ns3.thehostns.com.
 roosca.ng.		3600	IN	NS	ns4.thehostns.com.
 rooster.ng.		3600	IN	NS	ns3.epik.com.
 rooster.ng.		3600	IN	NS	ns4.epik.com.
+root.ng.		3600	IN	NS	ns1.parkingcrew.net.
+root.ng.		3600	IN	NS	ns2.parkingcrew.net.
 roothub.ng.		3600	IN	NS	ns1.vercel-dns.com.
 roothub.ng.		3600	IN	NS	ns2.vercel-dns.com.
 roots.ng.		3600	IN	NS	ns1.sedoparking.com.
@@ -65863,10 +65866,10 @@ statistics.ng.		3600	IN	NS	ns17.smartwebng.com.
 statistics.ng.		3600	IN	NS	ns18.smartwebng.com.
 stats.ng.		3600	IN	NS	ns1.domains.ng.
 stats.ng.		3600	IN	NS	ns2.domains.ng.
-statsmetrics.ng.	3600	IN	NS	dsn1.p03.nsone.net.
-statsmetrics.ng.	3600	IN	NS	dsn2.p03.nsone.net.
-statsmetrics.ng.	3600	IN	NS	dsn3.p03.nsone.net.
-statsmetrics.ng.	3600	IN	NS	dsn4.p03.nsone.net.
+statsmetrics.ng.	3600	IN	NS	dns1.p03.nsone.net.
+statsmetrics.ng.	3600	IN	NS	dns2.p03.nsone.net.
+statsmetrics.ng.	3600	IN	NS	dns3.p03.nsone.net.
+statsmetrics.ng.	3600	IN	NS	dns4.p03.nsone.net.
 status.ng.		3600	IN	NS	ns1.upperserver29.com.
 status.ng.		3600	IN	NS	ns2.upperserver29.com.
 stauff.ng.		3600	IN	NS	a.ns14.net.
@@ -78767,4 +78770,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060442 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060502 10800 3600 604800 3600
