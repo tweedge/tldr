@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060613 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1654497135"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060619 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1654509731"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2685,8 +2685,8 @@ ecsta.sy.		86400	IN	NS	ns1.dan.com.
 ecsta.sy.		86400	IN	NS	ns2.dan.com.
 ect.sy.			86400	IN	NS	suspend1.tld.sy.
 ect.sy.			86400	IN	NS	suspend2.tld.sy.
-edaat4speedreading.sy.	86400	IN	NS	ns1.clicknetco.com.
-edaat4speedreading.sy.	86400	IN	NS	ns2.clicknetco.com.
+edaat4speedreading.sy.	86400	IN	NS	suspend1.tld.sy.
+edaat4speedreading.sy.	86400	IN	NS	suspend2.tld.sy.
 edg.sy.			86400	IN	NS	troy.ns.cloudflare.com.
 edg.sy.			86400	IN	NS	zelda.ns.cloudflare.com.
 edilbi-ind.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -3599,8 +3599,8 @@ hpu.sy.			86400	IN	NS	ns3.tld.sy.
 hpu.sy.			86400	IN	NS	ns4.tld.sy.
 hpuhos.sy.		86400	IN	NS	suspend1.tld.sy.
 hpuhos.sy.		86400	IN	NS	suspend2.tld.sy.
-hpuhospital.sy.		86400	IN	NS	suspend1.tld.sy.
-hpuhospital.sy.		86400	IN	NS	suspend2.tld.sy.
+hpuhospital.sy.		86400	IN	NS	ns3.tld.sy.
+hpuhospital.sy.		86400	IN	NS	ns4.tld.sy.
 hretani.sy.		86400	IN	NS	suspend1.tld.sy.
 hretani.sy.		86400	IN	NS	suspend2.tld.sy.
 hritany-naasany.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -7811,4 +7811,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060613 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060619 3600 3600 2592000 3600
