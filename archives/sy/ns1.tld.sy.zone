@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060600 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1654462940"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060605 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1654477340"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3695,10 +3695,8 @@ ich.sy.			86400	IN	NS	ns5.takamol.sy.
 ich.sy.			86400	IN	NS	ns6.takamol.sy.
 icit.sy.		86400	IN	NS	ns3.tld.sy.
 icit.sy.		86400	IN	NS	ns4.tld.sy.
-ict.sy.			86400	IN	NS	ns1045.ui-dns.de.
-ict.sy.			86400	IN	NS	ns1045.ui-dns.biz.
-ict.sy.			86400	IN	NS	ns1045.ui-dns.com.
-ict.sy.			86400	IN	NS	ns1045.ui-dns.org.
+ict.sy.			86400	IN	NS	jasper.ns.cloudflare.com.
+ict.sy.			86400	IN	NS	jocelyn.ns.cloudflare.com.
 ict-pro.sy.		86400	IN	NS	suspend1.tld.sy.
 ict-pro.sy.		86400	IN	NS	suspend2.tld.sy.
 ictsi.sy.		86400	IN	NS	ictsisrv010.ictsi.sy.
@@ -7813,4 +7811,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060600 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060605 3600 3600 2592000 3600
