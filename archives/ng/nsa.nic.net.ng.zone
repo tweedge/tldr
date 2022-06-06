@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060608 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1654487313"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060614 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1654498839"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -32446,8 +32446,8 @@ hustles.ng.		3600	IN	NS	ns1.dns-parking.com.
 hustles.ng.		3600	IN	NS	ns2.dns-parking.com.
 hustli.ng.		3600	IN	NS	clyde.ns.cloudflare.com.
 hustli.ng.		3600	IN	NS	barbara.ns.cloudflare.com.
-huud.ng.		3600	IN	NS	ns67.qservers.net.
-huud.ng.		3600	IN	NS	ns68.qservers.net.
+huud.ng.		3600	IN	NS	ns19.qservers.net.
+huud.ng.		3600	IN	NS	ns20.qservers.net.
 huzex.ng.		3600	IN	NS	ns1.uplserver9.com.
 huzex.ng.		3600	IN	NS	ns2.uplserver9.com.
 hvac.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -33127,6 +33127,9 @@ igf.ng.			3600	IN	NS	ns1.desec.io.
 igf.ng.			3600	IN	NS	ns2.desec.org.
 igfollowers.ng.		3600	IN	NS	ns23.smartwebng.com.
 igfollowers.ng.		3600	IN	NS	ns24.smartwebng.com.
+igho.ng.		3600	IN	NS	ns1.cloudoon.com.
+igho.ng.		3600	IN	NS	ns2.cloudoon.net.
+igho.ng.		3600	IN	NS	ns3.cloudoon.org.
 ighost.ng.		3600	IN	NS	ns1.servconfig.com.
 ighost.ng.		3600	IN	NS	ns2.servconfig.com.
 ignes.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -47387,6 +47390,8 @@ nbd.ng.			3600	IN	NS	ns3.a2hosting.com.
 nbd.ng.			3600	IN	NS	ns4.a2hosting.com.
 nbf.ng.			3600	IN	NS	ns9.qservers.net.
 nbf.ng.			3600	IN	NS	ns10.qservers.net.
+nbimc.ng.		3600	IN	NS	ns1.siteport.com.ng.
+nbimc.ng.		3600	IN	NS	ns2.siteport.com.ng.
 nbltd.ng.		3600	IN	NS	ns1.upperserver29.com.
 nbltd.ng.		3600	IN	NS	ns2.upperserver29.com.
 nblvibe.ng.		3600	IN	NS	ns51.qservers.net.
@@ -47714,8 +47719,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -78758,4 +78763,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060608 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060614 10800 3600 604800 3600
