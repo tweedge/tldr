@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022052701 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022060601 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	cv01.dns.pt.
@@ -8102,6 +8102,9 @@ textoeditores.cv.	28800	IN	NS	ns-36.awsdns-04.com.
 textoeditores.cv.	28800	IN	NS	ns-933.awsdns-52.net.
 textoeditores.cv.	28800	IN	NS	ns-1455.awsdns-53.org.
 textoeditores.cv.	28800	IN	NS	ns-1871.awsdns-41.co.uk.
+thclothes.cv.		28800	IN	NS	ns01.trademarkarea.com.
+thclothes.cv.		28800	IN	NS	ns02.trademarkarea.com.
+thclothes.cv.		28800	IN	NS	ns03.trademarkarea.com.
 thebluebananagroup.cv.	28800	IN	NS	ns1.ptwebserv.net.
 thebluebananagroup.cv.	28800	IN	NS	ns2.ptwebserv.net.
 thebluebananagroup.cv.	28800	IN	NS	ns3.ptwebserv.net.
@@ -8112,12 +8115,12 @@ thefactory.cv.		28800	IN	AAAA	2001:4801:7818:6:94c2:71bb:ff10:7bc1
 thefactory.cv.		28800	IN	NS	ns1.dnscpanel.com.
 thefactory.cv.		28800	IN	NS	ns2.dnscpanel.com.
 thefactory.cv.		28800	IN	NS	ns3.dnscpanel.com.
-thetravellers.cv.	28800	IN	AAAA	2001:67c:1bc::104
-thetravellers.cv.	28800	IN	AAAA	2001:67c:10b8::104
-thetravellers.cv.	28800	IN	AAAA	2a01:4f8:222:b03::2
 thetravellers.cv.	28800	IN	NS	een.dnssrv.nl.
 thetravellers.cv.	28800	IN	NS	drie.dnssrv.nl.
 thetravellers.cv.	28800	IN	NS	twee.dnssrv.nl.
+thetravellers.cv.	28800	IN	AAAA	2001:67c:1bc::104
+thetravellers.cv.	28800	IN	AAAA	2001:67c:10b8::104
+thetravellers.cv.	28800	IN	AAAA	2a01:4f8:222:b03::2
 thisismy.cv.		28800	IN	NS	ns.inwx.de.
 thisismy.cv.		28800	IN	NS	ns2.inwx.de.
 thisismy.cv.		28800	IN	NS	ns3.inwx.eu.
@@ -8414,11 +8417,11 @@ ns1.usantiago.cv.	28800	IN	A	162.214.96.155
 ns2.usantiago.cv.	28800	IN	A	162.214.96.156
 uta.cv.			28800	IN	NS	ns.cvtelecom.cv.
 uta.cv.			28800	IN	NS	ns2.cvtelecom.cv.
-vaccine.cv.		28800	IN	NS	jean.ns.cloudflare.com.
-vaccine.cv.		28800	IN	NS	terry.ns.cloudflare.com.
 vaccine.cv.		28800	IN	AAAA	2001:67c:1bc::104
 vaccine.cv.		28800	IN	AAAA	2001:67c:10b8::104
 vaccine.cv.		28800	IN	AAAA	2a01:4f8:222:b03::2
+vaccine.cv.		28800	IN	NS	jean.ns.cloudflare.com.
+vaccine.cv.		28800	IN	NS	terry.ns.cloudflare.com.
 vale.cv.		28800	IN	NS	ns.inwx.de.
 vale.cv.		28800	IN	NS	ns2.inwx.de.
 vale.cv.		28800	IN	NS	ns3.inwx.eu.
@@ -8480,11 +8483,11 @@ verdeana.cv.		28800	IN	NS	ns103.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns104.cloudns.net.
 verdeeverde.cv.		28800	IN	NS	ns1.dns-parking.com.
 verdeeverde.cv.		28800	IN	NS	ns2.dns-parking.com.
+verdefam.cv.		28800	IN	NS	ns7.securenet-server.net.
+verdefam.cv.		28800	IN	NS	ns8.securenet-server.net.
 verdefam.cv.		28800	IN	AAAA	2a02:c200:0:10::891:1
 verdefam.cv.		28800	IN	A	5.189.191.29
 verdefam.cv.		28800	IN	A	79.143.182.242
-verdefam.cv.		28800	IN	NS	ns7.securenet-server.net.
-verdefam.cv.		28800	IN	NS	ns8.securenet-server.net.
 verdelines.cv.		28800	IN	NS	ns1.contabo.net.
 verdelines.cv.		28800	IN	NS	ns2.contabo.net.
 verdelines.cv.		28800	IN	NS	ns3.contabo.net.
@@ -8598,12 +8601,12 @@ vulcanico.cv.		28800	IN	NS	ns1.capeverdehosting.com.
 vulcanico.cv.		28800	IN	NS	ns2.capeverdehosting.com.
 mail.vulcanico.cv.	28800	IN	A	184.168.119.98
 ns.vulcanico.cv.	28800	IN	A	184.168.119.98
-vunku.cv.		28800	IN	A	45.154.66.253
-vunku.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 vunku.cv.		28800	IN	NS	ns1.linxisp.net.
 vunku.cv.		28800	IN	NS	ns2.linxisp.net.
 vunku.cv.		28800	IN	NS	ns3.linxisp.net.
 vunku.cv.		28800	IN	NS	ns4.linxisp.net.
+vunku.cv.		28800	IN	A	45.154.66.253
+vunku.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 wag.cv.			28800	IN	NS	ns1.wtservers.com.
 wag.cv.			28800	IN	NS	ns2.wtservers.com.
 wag.cv.			28800	IN	NS	ns3.wtservers.com.
@@ -8723,4 +8726,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022052701 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022060601 86400 7200 2592000 300
