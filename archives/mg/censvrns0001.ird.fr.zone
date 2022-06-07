@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060705 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060707 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1654574551"
+mg.			7200	IN	TXT	"Generation Time: 1654581774"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -4241,6 +4241,8 @@ gammatrading.mg.	86400	IN	NS	ns2.onlydomains.com.
 gammatrading.mg.	86400	IN	NS	ns3.onlydomains.com.
 gapcm.mg.		86400	IN	NS	ns.dts.mg.
 gapcm.mg.		86400	IN	NS	ns1.dts.mg.
+garabola.mg.		86400	IN	NS	ns1.da.cloudns.io.
+garabola.mg.		86400	IN	NS	ns2.da.cloudns.io.
 garage.mg.		86400	IN	NS	ns1.da.cloudns.io.
 garage.mg.		86400	IN	NS	ns2.da.cloudns.io.
 garedesmanguiers.mg.	86400	IN	NS	ns3052532.ip-178-33-229.eu.
@@ -8113,6 +8115,8 @@ pallan.mg.		86400	IN	NS	dns1.indritech.biz.
 pallan.mg.		86400	IN	NS	dns2.indritech.biz.
 palmex.mg.		86400	IN	NS	ns103.ovh.net.
 palmex.mg.		86400	IN	NS	dns103.ovh.net.
+palmguesthouse.mg.	86400	IN	NS	ns1.hostns.io.
+palmguesthouse.mg.	86400	IN	NS	ns2.hostns.io.
 pamf.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 pamf.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 pamf.mg.		86400	IN	NS	ns1.fr.malagasy.com.
@@ -8849,6 +8853,8 @@ redbull.mg.		86400	IN	NS	pdns91.ultradns.org.
 redbus.mg.		86400	IN	NS	ns1.101domain.com.
 redbus.mg.		86400	IN	NS	ns5.101domain.com.
 redbus.mg.		86400	IN	NS	ns2.101domain.com.
+redcircle.mg.		86400	IN	NS	ns1.hostns.io.
+redcircle.mg.		86400	IN	NS	ns2.hostns.io.
 redislandimpex.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 redislandimpex.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
 redoute.mg.		86400	IN	NS	ns-173-a.gandi.net.
@@ -11563,4 +11569,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060705 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060707 600 3600 604800 86400
