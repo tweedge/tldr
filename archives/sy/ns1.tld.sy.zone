@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060722 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1654596138"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060728 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1654606944"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2345,6 +2345,8 @@ dantrading.sy.		86400	IN	NS	ns1.damashost.com.
 dantrading.sy.		86400	IN	NS	ns2.damashost.com.
 dao.sy.			86400	IN	NS	adela.dnspod.net.
 dao.sy.			86400	IN	NS	gannet.dnspod.net.
+daoob.sy.		86400	IN	NS	ns3.tld.sy.
+daoob.sy.		86400	IN	NS	ns4.tld.sy.
 daoorli.sy.		86400	IN	NS	suspend1.tld.sy.
 daoorli.sy.		86400	IN	NS	suspend2.tld.sy.
 daoud-group-transport.sy. 86400	IN	NS	suspend1.tld.sy.
@@ -2791,8 +2793,8 @@ embas.sy.		86400	IN	NS	suspend1.tld.sy.
 embas.sy.		86400	IN	NS	suspend2.tld.sy.
 emec-syria.sy.		86400	IN	NS	suspend1.tld.sy.
 emec-syria.sy.		86400	IN	NS	suspend2.tld.sy.
-emeg.sy.		86400	IN	NS	suspend1.tld.sy.
-emeg.sy.		86400	IN	NS	suspend2.tld.sy.
+emeg.sy.		86400	IN	NS	ns1.alanqaa.com.
+emeg.sy.		86400	IN	NS	ns2.alanqaa.com.
 emessalabs.sy.		86400	IN	NS	suspend1.tld.sy.
 emessalabs.sy.		86400	IN	NS	suspend2.tld.sy.
 emg.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -7815,4 +7817,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060722 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060728 3600 3600 2592000 3600

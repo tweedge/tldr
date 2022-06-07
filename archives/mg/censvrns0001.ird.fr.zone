@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060711 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060714 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1654596163"
+mg.			7200	IN	TXT	"Generation Time: 1654606941"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2830,6 +2830,8 @@ dagodrinks.mg.		7200	IN	NS	ns.dts.mg.
 dagodrinks.mg.		7200	IN	NS	ns1.dts.mg.
 dagomivarotra.mg.	7200	IN	NS	dns100.ovh.net.
 dagomivarotra.mg.	7200	IN	NS	ns100.ovh.net.
+dagopixel.mg.		7200	IN	NS	ns1.cloudns.io.
+dagopixel.mg.		7200	IN	NS	ns2.cloudns.io.
 dagoproduct.mg.		7200	IN	NS	ns1.gasyweb.com.
 dagoproduct.mg.		7200	IN	NS	ns2.gasyweb.com.
 dagotruck.mg.		7200	IN	NS	ns1.indritech.mg.
@@ -6575,6 +6577,8 @@ mahazodelivery.mg.	86400	IN	NS	ns1.serveurgasy.com.
 mahazodelivery.mg.	86400	IN	NS	ns2.serveurgasy.com.
 mahita.mg.		86400	IN	NS	ns1.serveurgasy.com.
 mahita.mg.		86400	IN	NS	ns2.serveurgasy.com.
+mahitasoa.mg.		86400	IN	NS	ns1.da.cloudns.io.
+mahitasoa.mg.		86400	IN	NS	ns2.da.cloudns.io.
 mailaka.mg.		86400	IN	NS	ns1.cloudns.io.
 mailaka.mg.		86400	IN	NS	ns2.cloudns.io.
 mailbox.mg.		86400	IN	NS	dns1.orangenet.mg.
@@ -8283,6 +8287,8 @@ pharmatech.mg.		86400	IN	NS	donovan.ns.cloudflare.com.
 pharmatech.mg.		86400	IN	NS	nia.ns.cloudflare.com.
 pharmatek.mg.		86400	IN	NS	ns1.da.cloudns.io.
 pharmatek.mg.		86400	IN	NS	ns2.da.cloudns.io.
+phavaradrano.mg.	86400	IN	NS	ns.dts.mg.
+phavaradrano.mg.	86400	IN	NS	ns1.dts.mg.
 phileol.mg.		86400	IN	NS	ns107.ovh.net.
 phileol.mg.		86400	IN	NS	dns107.ovh.net.
 philippe.mg.		86400	IN	NS	ns-83-b.gandi.net.
@@ -8976,6 +8982,10 @@ rgm.mg.			86400	IN	NS	dns106.ovh.net.
 rgm.mg.			86400	IN	NS	ns106.ovh.net.
 riality.mg.		86400	IN	NS	ns1.serveurgasy.com.
 riality.mg.		86400	IN	NS	ns2.serveurgasy.com.
+ridee.mg.		86400	IN	NS	ns1.ridee.mg.
+ridee.mg.		86400	IN	NS	ns2.ridee.mg.
+ns1.ridee.mg.		86400	IN	A	199.192.22.75
+ns2.ridee.mg.		86400	IN	A	199.192.22.75
 rightnowclimatefund.mg.	86400	IN	NS	nsgbr.comlaude.co.uk.
 rightnowclimatefund.mg.	86400	IN	NS	nssui.comlaude.ch.
 rightnowclimatefund.mg.	86400	IN	NS	nsusa.comlaude.net.
@@ -11551,4 +11561,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060711 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060714 600 3600 604800 86400
