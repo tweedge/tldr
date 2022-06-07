@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060715 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1654585295"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060720 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1654594887"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -8265,8 +8265,8 @@ bigbot.ng.		3600	IN	NS	nsa.whogohost.com.
 bigbot.ng.		3600	IN	NS	nsb.whogohost.com.
 bigbrother.ng.		3600	IN	NS	ns1.dan.com.
 bigbrother.ng.		3600	IN	NS	ns2.dan.com.
-bigbrothernaija.ng.	3600	IN	NS	may.ns.cloudflare.com.
-bigbrothernaija.ng.	3600	IN	NS	coby.ns.cloudflare.com.
+bigbrothernaija.ng.	3600	IN	NS	dns1.namecheaphosting.com.
+bigbrothernaija.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 bigcare.ng.		3600	IN	NS	ns1.ipage.com.
 bigcare.ng.		3600	IN	NS	ns2.ipage.com.
 bigcode.ng.		3600	IN	NS	chip.ns.cloudflare.com.
@@ -19470,10 +19470,10 @@ dorime.ng.		3600	IN	NS	nsa.whogohost.com.
 dorime.ng.		3600	IN	NS	nsb.whogohost.com.
 dork.ng.		3600	IN	NS	nsa.whogohost.com.
 dork.ng.		3600	IN	NS	nsb.whogohost.com.
-dorm.ng.		3600	IN	NS	ns1.qservers.net.
-dorm.ng.		3600	IN	NS	ns2.qservers.net.
-dormitory.ng.		3600	IN	NS	ns1.qservers.net.
-dormitory.ng.		3600	IN	NS	ns2.qservers.net.
+dorm.ng.		3600	IN	NS	cns2079.hostgator.com.
+dorm.ng.		3600	IN	NS	cns2080.hostgator.com.
+dormitory.ng.		3600	IN	NS	cns2079.hostgator.com.
+dormitory.ng.		3600	IN	NS	cns2080.hostgator.com.
 dormot.ng.		3600	IN	NS	mvs.herokudns.com.
 dormot.ng.		3600	IN	NS	ns1.gigalayer.com.
 dormot.ng.		3600	IN	NS	ns2.gigalayer.com.
@@ -23829,6 +23829,8 @@ faaji.ng.		3600	IN	NS	ns1.upperserver29.com.
 faaji.ng.		3600	IN	NS	ns2.upperserver29.com.
 faari.ng.		3600	IN	NS	nsa.whogohost.com.
 faari.ng.		3600	IN	NS	nsb.whogohost.com.
+fab.ng.			3600	IN	NS	ns1.bluehost.com.
+fab.ng.			3600	IN	NS	ns2.bluehost.com.
 fabaaw.ng.		3600	IN	NS	ns1.upperserver29.com.
 fabaaw.ng.		3600	IN	NS	ns2.upperserver29.com.
 fabafrique.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -26269,6 +26271,8 @@ foresightgroup.ng.	3600	IN	NS	ns1.bluehost.com.
 foresightgroup.ng.	3600	IN	NS	ns2.bluehost.com.
 forestbank.ng.		3600	IN	NS	nsa.whogohost.com.
 forestbank.ng.		3600	IN	NS	nsb.whogohost.com.
+forestry.ng.		3600	IN	NS	diva.ns.cloudflare.com.
+forestry.ng.		3600	IN	NS	luke.ns.cloudflare.com.
 foreststarhomes.ng.	3600	IN	NS	ns3.dktlds.com.
 foreststarhomes.ng.	3600	IN	NS	ns4.dktlds.com.
 foretec.ng.		3600	IN	NS	ns3.qservers.net.
@@ -29581,6 +29585,8 @@ greenvest.ng.		3600	IN	NS	ns1.qservers.net.
 greenvest.ng.		3600	IN	NS	ns8358.hostgator.com.
 greenview.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 greenview.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+greenvillemontessorischools.ng.	3600 IN	NS	nsa.whogohost.com.
+greenvillemontessorischools.ng.	3600 IN	NS	nsb.whogohost.com.
 greenware.ng.		3600	IN	NS	ns1.rhostbh.com.
 greenware.ng.		3600	IN	NS	ns2.rhostbh.com.
 greenwatch.ng.		3600	IN	NS	ns1.linode.com.
@@ -30044,6 +30050,10 @@ haddii.ng.		3600	IN	NS	ns2.site4now.net.
 haddii.ng.		3600	IN	NS	ns3.site4now.net.
 hadi.ng.		3600	IN	NS	ns1.qservers.net.
 hadi.ng.		3600	IN	NS	ns2.qservers.net.
+hafford.ng.		3600	IN	NS	ns1.a2hosting.com.
+hafford.ng.		3600	IN	NS	ns2.a2hosting.com.
+hafford.ng.		3600	IN	NS	ns3.a2hosting.com.
+hafford.ng.		3600	IN	NS	ns4.a2hosting.com.
 hafiksworld.ng.		3600	IN	NS	ns1.site5.com.
 hafiksworld.ng.		3600	IN	NS	ns2.site5.com.
 hafiz.ng.		3600	IN	NS	ns25.doveserver.com.
@@ -43097,6 +43107,8 @@ megaplazamall.ng.	3600	IN	NS	ns1.web4africa.com.
 megaplazamall.ng.	3600	IN	NS	ns2.web4africa.com.
 megaplazamall.ng.	3600	IN	NS	ns3.web4africa.com.
 megaplazamall.ng.	3600	IN	NS	ns4.web4africa.com.
+megapro.ng.		3600	IN	NS	nsa.whogohost.com.
+megapro.ng.		3600	IN	NS	nsb.whogohost.com.
 megarex.ng.		3600	IN	NS	ns1.registeram.com.
 megarex.ng.		3600	IN	NS	ns2.registeram.com.
 megascaffolding.ng.	3600	IN	NS	ns11.syskay.com.
@@ -49616,6 +49628,8 @@ nupemco.ng.		3600	IN	NS	nsa.whogohost.com.
 nupemco.ng.		3600	IN	NS	nsb.whogohost.com.
 nura.ng.		3600	IN	NS	ns545.domainhosting.com.ng.
 nura.ng.		3600	IN	NS	ns546.domainhosting.com.ng.
+nurenta.ng.		3600	IN	NS	ns1.codefixbug.com.
+nurenta.ng.		3600	IN	NS	ns2.codefixbug.com.
 nurick.ng.		3600	IN	NS	ns15.doveserver.com.
 nurick.ng.		3600	IN	NS	ns16.doveserver.com.
 nurnberger.ng.		3600	IN	NS	ns1.kwalitedigital.com.
@@ -53130,6 +53144,8 @@ paygrade.ng.		3600	IN	NS	ns1.upperserver29.com.
 paygrade.ng.		3600	IN	NS	ns2.upperserver29.com.
 paygrail.ng.		3600	IN	NS	nsa.whogohost.com.
 paygrail.ng.		3600	IN	NS	nsb.whogohost.com.
+paygreens.ng.		3600	IN	NS	margo.ns.cloudflare.com.
+paygreens.ng.		3600	IN	NS	arushi.ns.cloudflare.com.
 payhaven.ng.		3600	IN	NS	ns6361.hostgator.com.
 payhaven.ng.		3600	IN	NS	ns6362.hostgator.com.
 payhere.ng.		3600	IN	NS	ns1.digitalocean.com.
@@ -68043,6 +68059,8 @@ tbpconsulting.ng.	3600	IN	NS	dns6.whogohost.com.
 tbpconsulting.ng.	3600	IN	NS	dns7.whogohost.com.
 tbpconsulting.ng.	3600	IN	NS	dns8.whogohost.com.
 tbpconsulting.ng.	3600	IN	NS	dns9.whogohost.com.
+tbs.ng.			3600	IN	NS	nsa.whogohost.com.
+tbs.ng.			3600	IN	NS	nsb.whogohost.com.
 tbsfarmtech.ng.		3600	IN	NS	ns1004.hostasset.net.
 tbsfarmtech.ng.		3600	IN	NS	ns2004.hostasset.net.
 tcagro.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -72206,8 +72224,8 @@ tsqtech.ng.		3600	IN	NS	ns11.qservers.net.
 tsqtech.ng.		3600	IN	NS	ns12.qservers.net.
 tst.ng.			3600	IN	NS	kara.ns.cloudflare.com.
 tst.ng.			3600	IN	NS	ishaan.ns.cloudflare.com.
-tstopshow.ng.		3600	IN	NS	ns19.smartwebng.com.
-tstopshow.ng.		3600	IN	NS	ns20.smartwebng.com.
+tstopshow.ng.		3600	IN	NS	ns11.smartwebng.com.
+tstopshow.ng.		3600	IN	NS	ns12.smartwebng.com.
 tstreami.ng.		3600	IN	NS	dns1.cscdns.net.
 tstreami.ng.		3600	IN	NS	dns2.cscdns.net.
 tsul.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -78825,4 +78843,4 @@ zyz.ng.			3600	IN	NS	ns1.bluehost.com.
 zyz.ng.			3600	IN	NS	ns2.bluehost.com.
 zztravels.ng.		3600	IN	NS	ns1.dknoc.com.
 zztravels.ng.		3600	IN	NS	ns2.dknoc.com.
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060715 10800 3600 604800 3600
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022060720 10800 3600 604800 3600
