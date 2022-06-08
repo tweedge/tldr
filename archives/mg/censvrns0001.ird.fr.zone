@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060807 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060811 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1654671698"
+mg.			7200	IN	TXT	"Generation Time: 1654682495"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1314,6 +1314,8 @@ autoparadise.mg.	7200	IN	NS	ns1.da.cloudns.io.
 autoparadise.mg.	7200	IN	NS	ns2.da.cloudns.io.
 autos-camions.mg.	7200	IN	NS	ns1.onyx.cloudns.io.
 autos-camions.mg.	7200	IN	NS	ns2.onyx.cloudns.io.
+autostopmada.mg.	7200	IN	NS	ns1.hostns.io.
+autostopmada.mg.	7200	IN	NS	ns2.hostns.io.
 auximad.mg.		7200	IN	NS	ns1.servermada.com.
 auximad.mg.		7200	IN	NS	ns2.servermada.com.
 avatclaims.mg.		7200	IN	NS	ns-163-c.gandi.net.
@@ -3198,6 +3200,7 @@ e-magazine.mg.		7200	IN	NS	ns1.da.cloudns.io.
 e-magazine.mg.		7200	IN	NS	ns2.da.cloudns.io.
 e-market.mg.		7200	IN	NS	ns1.servermada.com.
 e-market.mg.		7200	IN	NS	ns2.servermada.com.
+e-market.mg.		7200	IN	NS	ns3.servermada.com.
 e-media.mg.		7200	IN	NS	ns1.gasyweb.com.
 e-media.mg.		7200	IN	NS	ns2.gasyweb.com.
 e-mianatra.mg.		7200	IN	NS	ns1.da.cloudns.io.
@@ -5143,8 +5146,8 @@ imviso.mg.		86400	IN	NS	ns-14-b.gandi.net.
 imviso.mg.		86400	IN	NS	ns-50-c.gandi.net.
 in.mg.			86400	IN	NS	ns2.in.mg.
 in.mg.			86400	IN	NS	ns1.in.mg.
-ns1.in.mg.		86400	IN	A	128.199.239.179
-ns2.in.mg.		86400	IN	A	139.59.220.93
+ns1.in.mg.		86400	IN	A	27.254.152.185
+ns2.in.mg.		86400	IN	A	27.254.152.185
 in-der-mache.mg.	86400	IN	NS	ns2-02.azure-dns.net.
 in-der-mache.mg.	86400	IN	NS	ns4-02.azure-dns.info.
 in-der-mache.mg.	86400	IN	NS	ns1-02.azure-dns.com.
@@ -6449,8 +6452,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -6695,8 +6698,6 @@ marais.mg.		86400	IN	NS	ns.dts.mg.
 marais.mg.		86400	IN	NS	ns1.dts.mg.
 marcelalban.mg.		86400	IN	NS	ns1-boxer.vivawebhost.com.
 marcelalban.mg.		86400	IN	NS	ns2-boxer.vivawebhost.com.
-marche.mg.		86400	IN	NS	ns1.101domain.com.
-marche.mg.		86400	IN	NS	ns2.101domain.com.
 mariapoly.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 mariapoly.mg.		86400	IN	NS	ns2.madanetinfo.mg.
 mariestopes.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
@@ -9165,6 +9166,9 @@ salfahygiene.mg.	86400	IN	NS	ns2.gasyweb.com.
 salines-diego.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 salines-diego.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 salines-diego.mg.	86400	IN	NS	ns1.fr.malagasy.com.
+salon-digital-innovation.mg. 86400 IN	NS	nsa.planethoster.net.
+salon-digital-innovation.mg. 86400 IN	NS	nsb.planethoster.net.
+salon-digital-innovation.mg. 86400 IN	NS	nsc.planethoster.net.
 salon-voyage-decouverte.mg. 86400 IN	NS	ns1.gasyweb.com.
 salon-voyage-decouverte.mg. 86400 IN	NS	ns2.gasyweb.com.
 salone.mg.		86400	IN	NS	ns.dts.mg.
@@ -11203,6 +11207,8 @@ weko.mg.		86400	IN	NS	ns.udag.net.
 weko.mg.		86400	IN	NS	ns.udag.org.
 welcome.mg.		86400	IN	NS	ns1.compureweb.com.
 welcome.mg.		86400	IN	NS	ns2.compureweb.com.
+weldom.mg.		86400	IN	NS	dns1.cscdns.net.
+weldom.mg.		86400	IN	NS	dns2.cscdns.net.
 welight.mg.		86400	IN	NS	ns.dts.mg.
 welight.mg.		86400	IN	NS	ns1.dts.mg.
 wellcom.mg.		86400	IN	NS	ns1.cloudns.io.
@@ -11557,4 +11563,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060807 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060811 600 3600 604800 86400

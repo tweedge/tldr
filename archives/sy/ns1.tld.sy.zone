@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060816 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1654671743"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060820 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1654682538"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1511,6 +1511,8 @@ atozbrands.sy.		86400	IN	NS	suspend1.tld.sy.
 atozbrands.sy.		86400	IN	NS	suspend2.tld.sy.
 audeh-group.sy.		86400	IN	NS	suspend1.tld.sy.
 audeh-group.sy.		86400	IN	NS	suspend2.tld.sy.
+auspost-com.sy.		86400	IN	NS	julio.ns.cloudflare.com.
+auspost-com.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
 aust.sy.		86400	IN	NS	suspend1.tld.sy.
 aust.sy.		86400	IN	NS	suspend2.tld.sy.
 auto.sy.		86400	IN	NS	ns1.miob.sk.
@@ -2395,6 +2397,8 @@ daya-trade.sy.		86400	IN	NS	suspend1.tld.sy.
 daya-trade.sy.		86400	IN	NS	suspend2.tld.sy.
 dayco.sy.		86400	IN	NS	ns1.alanqaa.com.
 dayco.sy.		86400	IN	NS	ns2.alanqaa.com.
+dbs-com-sg.sy.		86400	IN	NS	julio.ns.cloudflare.com.
+dbs-com-sg.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
 dbt.sy.			86400	IN	NS	ns1.veesp.com.
 dbt.sy.			86400	IN	NS	ns2.veesp.com.
 dbtglobal.sy.		86400	IN	NS	ns1.veesp.com.
@@ -3812,8 +3816,8 @@ investinsyria.sy.	86400	IN	NS	ns1.shamcenter.com.
 investinsyria.sy.	86400	IN	NS	ns2.shamcenter.com.
 investn.sy.		86400	IN	NS	ns1.shamcenter.com.
 investn.sy.		86400	IN	NS	ns2.shamcenter.com.
-io.sy.			86400	IN	NS	maxim.ns.cloudflare.com.
-io.sy.			86400	IN	NS	nucum.ns.cloudflare.com.
+io.sy.			86400	IN	NS	ns41.infomaniak.com.
+io.sy.			86400	IN	NS	ns42.infomaniak.com.
 ip.sy.			86400	IN	NS	theo.ns.cloudflare.com.
 ip.sy.			86400	IN	NS	izabella.ns.cloudflare.com.
 ipay.sy.		86400	IN	NS	ns1.scltd.sy.
@@ -5340,10 +5344,8 @@ ooredooglobal.sy.	86400	IN	NS	ns1.tagidomains.com.
 ooredooglobal.sy.	86400	IN	NS	ns2.tagidomains.com.
 ooreedoo.sy.		86400	IN	NS	ns1.tagidomains.com.
 ooreedoo.sy.		86400	IN	NS	ns2.tagidomains.com.
-opc.sy.			86400	IN	NS	ns1.scs-net.sy.
-opc.sy.			86400	IN	NS	ns1.scs-net.org.
-opc.sy.			86400	IN	NS	ns2.scs-net.sy.
-opc.sy.			86400	IN	NS	ns2.scs-net.org.
+opc.sy.			86400	IN	NS	suspend1.tld.sy.
+opc.sy.			86400	IN	NS	suspend2.tld.sy.
 opensooq.sy.		86400	IN	NS	ns1.opensooq.com.
 opensooq.sy.		86400	IN	NS	ns2.opensooq.com.
 openvox.sy.		86400	IN	NS	ns10.ucg-core.com.
@@ -6535,8 +6537,8 @@ sooqtibbi.sy.		86400	IN	NS	ns4.ucg-core.com.
 sooqtibbi.sy.		86400	IN	NS	ns11.ucg-core.com.
 sooqtibbi.sy.		86400	IN	NS	ns51.uae-dc.com.
 sooqtibbi.sy.		86400	IN	NS	ns54.uae-dc.com.
-sosrice.sy.		86400	IN	NS	ns.ebrofoods.es.
-sosrice.sy.		86400	IN	NS	ns2.ebrofoods.es.
+sosrice.sy.		86400	IN	NS	suspend1.tld.sy.
+sosrice.sy.		86400	IN	NS	suspend2.tld.sy.
 soufan.sy.		86400	IN	NS	suspend1.tld.sy.
 soufan.sy.		86400	IN	NS	suspend2.tld.sy.
 souq.sy.		86400	IN	NS	dns1.securiteam.io.
@@ -7817,4 +7819,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060816 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060820 3600 3600 2592000 3600
