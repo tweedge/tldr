@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1654697101 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1654711501 1800 600 604800 1800
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
 mw.			18000	IN	NS	d.ext.nic.cz.
@@ -851,8 +851,10 @@ cluttons.mw.		18000	IN	NS	dns1.cscdns.net.
 cluttons.mw.		18000	IN	NS	dns2.cscdns.net.
 cmed.mw.		18000	IN	NS	dns1.registrar-servers.com.
 cmed.mw.		18000	IN	NS	dns2.registrar-servers.com.
-cmst.mw.		18000	IN	NS	ns1.mtlonline.mw.
-cmst.mw.		18000	IN	NS	ns2.mtlonline.mw.
+cmst.mw.		18000	IN	NS	ns1.bdsmw.com.
+cmst.mw.		18000	IN	NS	ns2.bdsmw.com.
+cmst.mw.		18000	IN	NS	ns3.bdsmw.com.
+cmst.mw.		18000	IN	NS	ns4.bdsmw.com.
 cn.mw.			18000	IN	NS	dns1.biz.tk.
 cn.mw.			18000	IN	NS	dns2.biz.tk.
 cn.mw.			18000	IN	NS	dns3.ch99.com.cn.
@@ -4468,4 +4470,4 @@ zurich.mw.		18000	IN	NS	dns1.cscdns.net.
 zurich.mw.		18000	IN	NS	dns2.cscdns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1654697101 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1654711501 1800 600 604800 1800
