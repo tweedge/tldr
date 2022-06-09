@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022060814 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022060915 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -652,6 +652,9 @@ bet365.gp.		86400	IN	NS	ns2.markmonitor.com.
 bet365.gp.		86400	IN	NS	ns3.markmonitor.com.
 bet365.gp.		86400	IN	NS	ns4.markmonitor.com.
 bet365.gp.		86400	IN	NS	ns5.markmonitor.com.
+betonline.gp.		86400	IN	NS	dns1.idp365.net.
+betonline.gp.		86400	IN	NS	dns2.idp365.net.
+betonline.gp.		86400	IN	NS	dns3.idp365.net.
 betsafe.gp.		86400	IN	NS	pdns142.ultradns.biz.
 betsafe.gp.		86400	IN	NS	pdns142.ultradns.com.
 betsafe.gp.		86400	IN	NS	pdns142.ultradns.net.
@@ -1313,8 +1316,11 @@ desirade.gp.		86400	IN	NS	ns103.ovh.net.
 desirade.gp.		86400	IN	NS	dns103.ovh.net.
 despegar.gp.		86400	IN	NS	ns1.despegar.net.
 despegar.gp.		86400	IN	NS	ns2.despegar.net.
-developpement-durable.gp. 86400	IN	NS	ns0.equipement.gouv.fr.
-developpement-durable.gp. 86400	IN	NS	ns2.observatoiredesmarques.fr.
+developpement-durable.gp. 86400	IN	NS	a.ns.developpement-durable.gouv.fr.
+developpement-durable.gp. 86400	IN	NS	b.ns.developpement-durable.gouv.fr.
+developpement-durable.gp. 86400	IN	NS	nsa.perf1.fr.
+developpement-durable.gp. 86400	IN	NS	nsb.perf1.com.
+developpement-durable.gp. 86400	IN	NS	nsc.perf1.com.
 devexpert.gp.		86400	IN	NS	ns1.ikoula.fr.
 devexpert.gp.		86400	IN	NS	ns2.ikoula.fr.
 dg.gp.			86400	IN	NS	ns1.register.it.
@@ -1950,6 +1956,9 @@ galbani.gp.		86400	IN	NS	dns.kivial.it.
 galbani.gp.		86400	IN	NS	dns2.kivial.it.
 game.gp.		86400	IN	NS	ns1.sedoparking.com.
 game.gp.		86400	IN	NS	ns2.sedoparking.com.
+gamingcity.gp.		86400	IN	NS	dns1.idp365.net.
+gamingcity.gp.		86400	IN	NS	dns2.idp365.net.
+gamingcity.gp.		86400	IN	NS	dns3.idp365.net.
 gapac.gp.		86400	IN	NS	nsgbr.comlaude.co.uk.
 gapac.gp.		86400	IN	NS	nssui.comlaude.ch.
 gapac.gp.		86400	IN	NS	nsusa.comlaude.net.
@@ -3802,6 +3811,9 @@ pastis-51.gp.		86400	IN	NS	dns1.cscdns.net.
 pastis-51.gp.		86400	IN	NS	dns2.cscdns.net.
 pastis51.gp.		86400	IN	NS	dns1.cscdns.net.
 pastis51.gp.		86400	IN	NS	dns2.cscdns.net.
+paydaycasino.gp.	86400	IN	NS	dns1.idp365.net.
+paydaycasino.gp.	86400	IN	NS	dns2.idp365.net.
+paydaycasino.gp.	86400	IN	NS	dns3.idp365.net.
 paye.gp.		86400	IN	NS	pns1.cloudns.net.
 paye.gp.		86400	IN	NS	pns3.cloudns.net.
 payfort.gp.		86400	IN	NS	nsgbr.comlaude.co.uk.
@@ -4582,6 +4594,9 @@ sportdirect.gp.		86400	IN	NS	ns1.netnames.net.
 sportdirect.gp.		86400	IN	NS	ns2.netnames.net.
 sportdirect.gp.		86400	IN	NS	ns5.netnames.net.
 sportdirect.gp.		86400	IN	NS	ns6.netnames.net.
+sportsbetting.gp.	86400	IN	NS	dns1.idp365.net.
+sportsbetting.gp.	86400	IN	NS	dns2.idp365.net.
+sportsbetting.gp.	86400	IN	NS	dns3.idp365.net.
 sportsdirect.gp.	86400	IN	NS	ns1.netnames.net.
 sportsdirect.gp.	86400	IN	NS	ns2.netnames.net.
 sportsdirect.gp.	86400	IN	NS	ns5.netnames.net.
@@ -4662,6 +4677,9 @@ sunzil.gp.		86400	IN	NS	dns20.ovh.net.
 supermarchebio.gp.	86400	IN	NS	ns1.francedns.com.
 supermarchebio.gp.	86400	IN	NS	ns2.francedns.com.
 supermarchebio.gp.	86400	IN	NS	ns3.francedns.com.
+superslots.gp.		86400	IN	NS	dns1.idp365.net.
+superslots.gp.		86400	IN	NS	dns2.idp365.net.
+superslots.gp.		86400	IN	NS	dns3.idp365.net.
 sustainera.gp.		86400	IN	NS	ns-50-b.gandi.net.
 sustainera.gp.		86400	IN	NS	ns-67-a.gandi.net.
 sustainera.gp.		86400	IN	NS	ns-187-c.gandi.net.
@@ -4783,6 +4801,9 @@ tibia.gp.		86400	IN	NS	roxy.ns.cloudflare.com.
 tibia.gp.		86400	IN	NS	will.ns.cloudflare.com.
 tig.gp.			86400	IN	NS	ns19.ovh.net.
 tig.gp.			86400	IN	NS	dns19.ovh.net.
+tigergaming.gp.		86400	IN	NS	dns1.idp365.net.
+tigergaming.gp.		86400	IN	NS	dns2.idp365.net.
+tigergaming.gp.		86400	IN	NS	dns3.idp365.net.
 tinderplaces.gp.	86400	IN	NS	ns1.markmonitor.com.
 tinderplaces.gp.	86400	IN	NS	ns3.markmonitor.com.
 tinderselect.gp.	86400	IN	NS	ns1.markmonitor.com.
@@ -4806,8 +4827,8 @@ to.gp.			86400	IN	NS	dns3.comlaude-dns.co.uk.
 to.gp.			86400	IN	NS	dns4.comlaude-dns.eu.
 toctino.gp.		86400	IN	NS	dns1.cscdns.net.
 toctino.gp.		86400	IN	NS	dns2.cscdns.net.
-token.gp.		86400	IN	NS	ian.ns.cloudflare.com.
-token.gp.		86400	IN	NS	miki.ns.cloudflare.com.
+token.gp.		86400	IN	NS	maxine.ns.cloudflare.com.
+token.gp.		86400	IN	NS	kianchau.ns.cloudflare.com.
 toll.gp.		86400	IN	NS	a1-33.akam.net.
 toll.gp.		86400	IN	NS	a2-66.akam.net.
 toll.gp.		86400	IN	NS	a5-65.akam.net.
@@ -5190,6 +5211,9 @@ whirlpool.gp.		86400	IN	NS	ns.whirlpool.com.
 whirlpool.gp.		86400	IN	NS	ns2.whirlpool.com.
 whois.gp.		86400	IN	NS	dns1.cloudns.net.
 whois.gp.		86400	IN	NS	dns2.cloudns.net.
+wildcasino.gp.		86400	IN	NS	dns1.idp365.net.
+wildcasino.gp.		86400	IN	NS	dns2.idp365.net.
+wildcasino.gp.		86400	IN	NS	dns3.idp365.net.
 willkommen.gp.		86400	IN	NS	dns1.cloudns.net.
 willkommen.gp.		86400	IN	NS	dns2.cloudns.net.
 willkommen-in-guadeloupe.gp. 86400 IN	NS	dns1.cloudns.net.
@@ -5341,4 +5365,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022060814 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022060915 86400 7200 2592000 345600
