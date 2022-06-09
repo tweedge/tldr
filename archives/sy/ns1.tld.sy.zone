@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060916 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1654758142"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060921 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1654768935"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3448,8 +3448,8 @@ hawasly.sy.		86400	IN	NS	beth.ns.cloudflare.com.
 hawasly.sy.		86400	IN	NS	major.ns.cloudflare.com.
 hb.sy.			86400	IN	NS	suspend1.tld.sy.
 hb.sy.			86400	IN	NS	suspend2.tld.sy.
-hcifz.sy.		86400	IN	NS	ns1.clicknetco.com.
-hcifz.sy.		86400	IN	NS	ns2.clicknetco.com.
+hcifz.sy.		86400	IN	NS	suspend1.tld.sy.
+hcifz.sy.		86400	IN	NS	suspend2.tld.sy.
 hcs.sy.			86400	IN	NS	ns1.aldrtech.sy.
 hcs.sy.			86400	IN	NS	ns2.aldrtech.sy.
 hd.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -6716,8 +6716,8 @@ swf.sy.			86400	IN	NS	ns3.tld.sy.
 swf.sy.			86400	IN	NS	ns4.tld.sy.
 swift.sy.		86400	IN	NS	suspend1.tld.sy.
 swift.sy.		86400	IN	NS	suspend2.tld.sy.
-swissapproval.sy.	86400	IN	NS	ns1.pronet.sy.
-swissapproval.sy.	86400	IN	NS	ns2.pronet.sy.
+swissapproval.sy.	86400	IN	NS	suspend1.tld.sy.
+swissapproval.sy.	86400	IN	NS	suspend2.tld.sy.
 swt.sy.			86400	IN	NS	ns3.tld.sy.
 swt.sy.			86400	IN	NS	ns4.tld.sy.
 sx.sy.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -7819,4 +7819,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060916 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060921 3600 3600 2592000 3600
