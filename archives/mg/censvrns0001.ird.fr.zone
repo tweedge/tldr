@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061007 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061013 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1654833649"
+mg.			7200	IN	TXT	"Generation Time: 1654844440"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2031,8 +2031,6 @@ bwin.mg.		7200	IN	NS	dns3.itsfogo.com.
 bwin.mg.		7200	IN	NS	dns4.itsfogo.com.
 bwin.mg.		7200	IN	NS	dns5.itsfogo.com.
 bwin.mg.		7200	IN	NS	dns6.itsfogo.com.
-byfounders.mg.		7200	IN	NS	ns1.servermada.com.
-byfounders.mg.		7200	IN	NS	ns2.servermada.com.
 byos.mg.		7200	IN	NS	dns113.ovh.net.
 byos.mg.		7200	IN	NS	ns113.ovh.net.
 c3m.mg.			7200	IN	NS	ns1.da.cloudns.io.
@@ -5282,6 +5280,8 @@ int.mg.			86400	IN	NS	ns.nic.mg.
 int.mg.			86400	IN	NS	ns.dts.mg.
 int.mg.			86400	IN	NS	censvrns0001.ird.fr.
 int.mg.			86400	IN	NS	pch.nic.mg.
+intc.mg.		86400	IN	NS	ns1.hostadom.net.
+intc.mg.		86400	IN	NS	ns2.hostadom.net.
 integralys.mg.		86400	IN	NS	ns.dts.mg.
 integralys.mg.		86400	IN	NS	ns1.dts.mg.
 intel.mg.		86400	IN	NS	ns1.intel.com.
@@ -6471,8 +6471,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -7332,8 +7332,6 @@ moveupmadagascar.mg.	86400	IN	NS	ns1.hostpapa.com.
 moveupmadagascar.mg.	86400	IN	NS	ns2.hostpapa.com.
 mozearock.mg.		86400	IN	NS	ns29.dot.mg.
 mozearock.mg.		86400	IN	NS	ns29.illi.co.mg.
-mpakasary.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
-mpakasary.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
 mpe-sa.mg.		86400	IN	NS	dns200.anycast.me.
 mpe-sa.mg.		86400	IN	NS	ns200.anycast.me.
 mpinamana.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
@@ -8618,8 +8616,6 @@ protegezvousbien.mg.	86400	IN	NS	ns1.tgn.mg.
 provisorium.mg.		86400	IN	NS	ns26.ns26.de.
 provisorium.mg.		86400	IN	NS	ns27.ns27.de.
 provisorium.mg.		86400	IN	NS	ns28.ns28.de.
-prulab.mg.		86400	IN	NS	ns1.goldvision.com.
-prulab.mg.		86400	IN	NS	ns2.goldvision.com.
 psi.mg.			86400	IN	NS	ns.dts.mg.
 psi.mg.			86400	IN	NS	ns1.dts.mg.
 pubg.mg.		86400	IN	NS	ns1.servermada.com.
@@ -10652,8 +10648,6 @@ tropicalwood.mg.	86400	IN	NS	ns.dts.mg.
 tropicalwood.mg.	86400	IN	NS	ns1.dts.mg.
 tropiques.mg.		86400	IN	NS	ns112.ovh.net.
 tropiques.mg.		86400	IN	NS	dns112.ovh.net.
-trouvaille-de-lile.mg.	86400	IN	NS	ns1.vercel-dns.com.
-trouvaille-de-lile.mg.	86400	IN	NS	ns2.vercel-dns.com.
 trouvailledelile.mg.	86400	IN	NS	ns1.vercel-dns.com.
 trouvailledelile.mg.	86400	IN	NS	ns2.vercel-dns.com.
 trouveunjob.mg.		86400	IN	NS	brenda.ns.cloudflare.com.
@@ -10858,8 +10852,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11155,6 +11149,8 @@ vy101.mg.		86400	IN	NS	ns1.da.cloudns.io.
 vy101.mg.		86400	IN	NS	ns2.da.cloudns.io.
 vyfanga.mg.		86400	IN	NS	ns.orchid.mg.
 vyfanga.mg.		86400	IN	NS	ns4.orchid.mg.
+wa.mg.			86400	IN	NS	dns1.namecheaphosting.com.
+wa.mg.			86400	IN	NS	dns2.namecheaphosting.com.
 waiza.mg.		86400	IN	NS	ns1.contabo.net.
 waiza.mg.		86400	IN	NS	ns2.contabo.net.
 waiza.mg.		86400	IN	NS	ns3.contabo.net.
@@ -11201,8 +11197,6 @@ web.mg.			86400	IN	NS	censvrns0001.ird.fr.
 web.mg.			86400	IN	NS	pch.nic.mg.
 web-corporate.mg.	86400	IN	NS	dns11.ovh.net.
 web-corporate.mg.	86400	IN	NS	ns11.ovh.net.
-web2mada.mg.		86400	IN	NS	ns29.dot.mg.
-web2mada.mg.		86400	IN	NS	ns29.illi.co.mg.
 webcorporate.mg.	86400	IN	NS	dns101.ovh.net.
 webcorporate.mg.	86400	IN	NS	ns101.ovh.net.
 webhelp.mg.		86400	IN	NS	ns1.perf1.com.
@@ -11589,4 +11583,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061007 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061013 600 3600 604800 86400
