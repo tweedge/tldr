@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061015 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1654844531"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061020 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1654855340"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -308,8 +308,8 @@ aci.sy.			86400	IN	NS	robotns2.second-ns.de.
 aci.sy.			86400	IN	NS	robotns3.second-ns.com.
 acmaved.sy.		86400	IN	NS	suspend1.tld.sy.
 acmaved.sy.		86400	IN	NS	suspend2.tld.sy.
-acs.sy.			86400	IN	NS	dns1.hypernet.sy.
-acs.sy.			86400	IN	NS	dns2.hypernet.sy.
+acs.sy.			86400	IN	NS	suspend1.tld.sy.
+acs.sy.			86400	IN	NS	suspend2.tld.sy.
 act.sy.			86400	IN	NS	suspend1.tld.sy.
 act.sy.			86400	IN	NS	suspend2.tld.sy.
 actimel.sy.		86400	IN	NS	a4.nstld.com.
@@ -334,8 +334,8 @@ adamstore.sy.		86400	IN	NS	suspend1.tld.sy.
 adamstore.sy.		86400	IN	NS	suspend2.tld.sy.
 adavit.sy.		86400	IN	NS	ns1.topservers.biz.
 adavit.sy.		86400	IN	NS	ns2.topservers.biz.
-adb.sy.			86400	IN	NS	ns1.monster.sy.
-adb.sy.			86400	IN	NS	ns2.monster.sy.
+adb.sy.			86400	IN	NS	suspend1.tld.sy.
+adb.sy.			86400	IN	NS	suspend2.tld.sy.
 addoumeh-co.sy.		86400	IN	NS	suspend1.tld.sy.
 addoumeh-co.sy.		86400	IN	NS	suspend2.tld.sy.
 addoumieh-bros.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -1390,11 +1390,8 @@ arabunionre.sy.		86400	IN	NS	ns3.tld.sy.
 arabunionre.sy.		86400	IN	NS	ns4.tld.sy.
 araby.sy.		86400	IN	NS	suspend1.tld.sy.
 araby.sy.		86400	IN	NS	suspend2.tld.sy.
-aram-alsham.sy.		86400	IN	NS	ns1.ucg-core.com.
-aram-alsham.sy.		86400	IN	NS	ns4.ucg-core.com.
-aram-alsham.sy.		86400	IN	NS	ns11.ucg-core.com.
-aram-alsham.sy.		86400	IN	NS	ns51.uae-dc.com.
-aram-alsham.sy.		86400	IN	NS	ns54.uae-dc.com.
+aram-alsham.sy.		86400	IN	NS	suspend1.tld.sy.
+aram-alsham.sy.		86400	IN	NS	suspend2.tld.sy.
 aramalsham.sy.		86400	IN	NS	ns1.imtyaz.sy.
 aramalsham.sy.		86400	IN	NS	ns2.imtyaz.sy.
 aramsoft.sy.		86400	IN	NS	adam.ns.cloudflare.com.
@@ -2594,10 +2591,8 @@ dr-mobile.sy.		86400	IN	NS	ns1.syrianhost.sy.
 dr-mobile.sy.		86400	IN	NS	ns2.syrianhost.sy.
 drami.sy.		86400	IN	NS	ns1.eye-adv.com.
 drami.sy.		86400	IN	NS	ns2.eye-adv.com.
-dreamcity.sy.		86400	IN	NS	ns1.dreamcity.sy.
-dreamcity.sy.		86400	IN	NS	ns2.dreamcity.sy.
-ns1.dreamcity.sy.	86400	IN	A	116.203.183.77
-ns2.dreamcity.sy.	86400	IN	A	116.203.183.77
+dreamcity.sy.		86400	IN	NS	suspend1.tld.sy.
+dreamcity.sy.		86400	IN	NS	suspend2.tld.sy.
 dreams.sy.		86400	IN	NS	suspend1.tld.sy.
 dreams.sy.		86400	IN	NS	suspend2.tld.sy.
 dreamscards.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7031,8 +7026,8 @@ taleb.sy.		86400	IN	NS	suspend1.tld.sy.
 taleb.sy.		86400	IN	NS	suspend2.tld.sy.
 talleb-raadcom.sy.	86400	IN	NS	suspend1.tld.sy.
 talleb-raadcom.sy.	86400	IN	NS	suspend2.tld.sy.
-tameeni.sy.		86400	IN	NS	ns3.tld.sy.
-tameeni.sy.		86400	IN	NS	ns4.tld.sy.
+tameeni.sy.		86400	IN	NS	suspend1.tld.sy.
+tameeni.sy.		86400	IN	NS	suspend2.tld.sy.
 taminmash.sy.		86400	IN	NS	ns1.syrianmonster.sy.
 taminmash.sy.		86400	IN	NS	ns2.syrianmonster.sy.
 tamkeen.sy.		86400	IN	NS	ns1.tamkeen.sy.
@@ -7819,4 +7814,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061015 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061020 3600 3600 2592000 3600
