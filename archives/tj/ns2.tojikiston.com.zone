@@ -1,4 +1,4 @@
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022061003 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022061005 7200 3600 2678400 7200
 tj.			7200	IN	NS	tj.cctld.authdns.ripe.net.
 tj.			7200	IN	NS	ns1.nic.tj.
 tj.			7200	IN	NS	ns2.tojikiston.com.
@@ -354,8 +354,10 @@ adlshop.tj.		7200	IN	NS	ns3.timeweb.org.
 adlshop.tj.		7200	IN	NS	ns4.timeweb.org.
 admedia.tj.		7200	IN	NS	ns1.ht-systems.ru.
 admedia.tj.		7200	IN	NS	ns2.ht-systems.ru.
-admin.tj.		7200	IN	NS	ns1.epizy.com.
-admin.tj.		7200	IN	NS	ns2.epizy.com.
+admin.tj.		7200	IN	NS	ns1.beget.com.
+admin.tj.		7200	IN	NS	ns1.beget.pro.
+admin.tj.		7200	IN	NS	ns2.beget.com.
+admin.tj.		7200	IN	NS	ns2.beget.pro.
 adobe.tj.		7200	IN	NS	adobe-dns-01.adobe.com.
 adobe.tj.		7200	IN	NS	adobe-dns-03.adobe.com.
 adolat.tj.		7200	IN	NS	eu.atakdomain.com.
@@ -11004,8 +11006,6 @@ pamir-highway.tj.	7200	IN	NS	ns3.timeweb.org.
 pamir-highway.tj.	7200	IN	NS	ns4.timeweb.org.
 pamir-integral.tj.	7200	IN	NS	pins1.eastera.tj.
 pamir-integral.tj.	7200	IN	NS	pins2.eastera.tj.
-pamirhighwayadventure.tj. 7200	IN	NS	ns1.s700.sureserver.com.
-pamirhighwayadventure.tj. 7200	IN	NS	ns2.s700.sureserver.com.
 pamirpalace.tj.		7200	IN	NS	ns1.saturn.tj.
 pamirpalace.tj.		7200	IN	NS	ns2.saturn.tj.
 pamirpeaks.tj.		7200	IN	NS	ns1.linode.com.
@@ -15082,8 +15082,6 @@ vari.tj.		7200	IN	NS	ns1.101domain.com.
 vari.tj.		7200	IN	NS	ns2.101domain.com.
 varzin.tj.		7200	IN	NS	ns1.timeweb.ru.
 varzin.tj.		7200	IN	NS	ns3.timeweb.org.
-varzish.tj.		7200	IN	NS	ns1.101domain.com.
-varzish.tj.		7200	IN	NS	ns2.101domain.com.
 varzish24.tj.		7200	IN	NS	ns1.hosting.reg.ru.
 varzish24.tj.		7200	IN	NS	ns2.hosting.reg.ru.
 varzishtv.tj.		7200	IN	NS	ns1.hosting.reg.ru.
@@ -16052,4 +16050,4 @@ zzap.tj.		7200	IN	NS	ns.abcp.ru.
 zzap.tj.		7200	IN	NS	ns.nodacdn.net.
 zzap.tj.		7200	IN	NS	ns3.abcp.ru.
 zzap.tj.		7200	IN	NS	ns3.nodacdn.net.
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022061003 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022061005 7200 3600 2678400 7200
