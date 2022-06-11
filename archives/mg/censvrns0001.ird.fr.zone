@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061113 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061121 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1654927295"
+mg.			7200	IN	TXT	"Generation Time: 1654941690"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3154,8 +3154,8 @@ dts.mg.			7200	IN	NS	ns.dts.mg.
 dts.mg.			7200	IN	NS	ns1.dts.mg.
 ns.dts.mg.		86400	IN	A	196.192.32.2
 ns1.dts.mg.		86400	IN	A	41.188.17.3
-dubai.mg.		7200	IN	NS	ns1.gasyweb.com.
-dubai.mg.		7200	IN	NS	ns2.gasyweb.com.
+dubai.mg.		7200	IN	NS	bayan.ns.cloudflare.com.
+dubai.mg.		7200	IN	NS	cheryl.ns.cloudflare.com.
 ducom.mg.		7200	IN	NS	ns1.hostns.io.
 ducom.mg.		7200	IN	NS	ns2.hostns.io.
 dukas.mg.		7200	IN	NS	ns1.eurodns.com.
@@ -9717,8 +9717,6 @@ soafly.mg.		86400	IN	NS	ns1.cloudns.io.
 soafly.mg.		86400	IN	NS	ns2.cloudns.io.
 soamadigna.mg.		86400	IN	NS	ns1.da.cloudns.io.
 soamadigna.mg.		86400	IN	NS	ns2.da.cloudns.io.
-soanamad.mg.		86400	IN	NS	ns1.cloudns.io.
-soanamad.mg.		86400	IN	NS	ns2.cloudns.io.
 soanambo.mg.		86400	IN	NS	ns1.servermada.com.
 soanambo.mg.		86400	IN	NS	ns2.servermada.com.
 soart-prod.mg.		86400	IN	NS	ns1.madanetinfo.mg.
@@ -10911,8 +10909,6 @@ urbanfutsal.mg.		86400	IN	NS	ns.dts.mg.
 urbanfutsal.mg.		86400	IN	NS	ns1.dts.mg.
 urcsr.mg.		86400	IN	NS	ns31.infomaniak.com.
 urcsr.mg.		86400	IN	NS	ns32.infomaniak.com.
-usoa.mg.		86400	IN	NS	ns1.da.cloudns.io.
-usoa.mg.		86400	IN	NS	ns2.da.cloudns.io.
 utexma.mg.		86400	IN	NS	ns1.servermada.com.
 utexma.mg.		86400	IN	NS	ns2.servermada.com.
 utilev.mg.		86400	IN	NS	cbru.br.ns.els-gms.att.net.
@@ -11605,4 +11601,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061113 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061121 600 3600 604800 86400
