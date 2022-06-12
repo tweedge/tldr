@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061223 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1655028136"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061229 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1655038943"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1316,8 +1316,8 @@ amyaal-co.sy.		86400	IN	NS	ns1.scs-net.org.
 amyaal-co.sy.		86400	IN	NS	ns2.scs-net.sy.
 amyaal-co.sy.		86400	IN	NS	ns2.scs-net.org.
 amyaal-co.sy.		86400	IN	NS	ns6.scs-net.sy.
-amyal.sy.		86400	IN	NS	ns1.sawa-host.net.
-amyal.sy.		86400	IN	NS	ns2.sawa-host.net.
+amyal.sy.		86400	IN	NS	ns3.tld.sy.
+amyal.sy.		86400	IN	NS	ns4.tld.sy.
 anbar-services.sy.	86400	IN	NS	suspend1.tld.sy.
 anbar-services.sy.	86400	IN	NS	suspend2.tld.sy.
 anistrading.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -1781,11 +1781,8 @@ beyazid.sy.		86400	IN	NS	ns51.uae-dc.com.
 beyazid.sy.		86400	IN	NS	ns54.uae-dc.com.
 bf.sy.			86400	IN	NS	ns10.ucg-core.com.
 bf.sy.			86400	IN	NS	ns15.ucg-core.com.
-bfcorh.sy.		86400	IN	NS	ns1.ucg-core.com.
-bfcorh.sy.		86400	IN	NS	ns4.ucg-core.com.
-bfcorh.sy.		86400	IN	NS	ns11.ucg-core.com.
-bfcorh.sy.		86400	IN	NS	ns51.uae-dc.com.
-bfcorh.sy.		86400	IN	NS	ns54.uae-dc.com.
+bfcorh.sy.		86400	IN	NS	julio.ns.cloudflare.com.
+bfcorh.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
 bfg.sy.			86400	IN	NS	ns1.rrpproxy.net.
 bfg.sy.			86400	IN	NS	ns2.rrpproxy.net.
 bfg.sy.			86400	IN	NS	ns3.rrpproxy.net.
@@ -2877,11 +2874,8 @@ ns1.eshhanli.sy.	86400	IN	A	185.216.132.73
 ns2.eshhanli.sy.	86400	IN	A	185.216.132.73
 eshop.sy.		86400	IN	NS	ns1.topservers.biz.
 eshop.sy.		86400	IN	NS	ns2.topservers.biz.
-esjrli.sy.		86400	IN	NS	ns1.ucg-core.com.
-esjrli.sy.		86400	IN	NS	ns4.ucg-core.com.
-esjrli.sy.		86400	IN	NS	ns11.ucg-core.com.
-esjrli.sy.		86400	IN	NS	ns51.uae-dc.com.
-esjrli.sy.		86400	IN	NS	ns54.uae-dc.com.
+esjrli.sy.		86400	IN	NS	julio.ns.cloudflare.com.
+esjrli.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
 esoaq.sy.		86400	IN	NS	suspend1.tld.sy.
 esoaq.sy.		86400	IN	NS	suspend2.tld.sy.
 esoaqk.sy.		86400	IN	NS	ns1.aldrtech.sy.
@@ -3245,11 +3239,8 @@ glos.sy.		86400	IN	NS	tom.ns.cloudflare.com.
 glos.sy.		86400	IN	NS	diva.ns.cloudflare.com.
 glowmedia.sy.		86400	IN	NS	suspend1.tld.sy.
 glowmedia.sy.		86400	IN	NS	suspend2.tld.sy.
-gmssow.sy.		86400	IN	NS	ns1.ucg-core.com.
-gmssow.sy.		86400	IN	NS	ns4.ucg-core.com.
-gmssow.sy.		86400	IN	NS	ns11.ucg-core.com.
-gmssow.sy.		86400	IN	NS	ns51.uae-dc.com.
-gmssow.sy.		86400	IN	NS	ns54.uae-dc.com.
+gmssow.sy.		86400	IN	NS	julio.ns.cloudflare.com.
+gmssow.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
 gnome-trade.sy.		86400	IN	NS	suspend1.tld.sy.
 gnome-trade.sy.		86400	IN	NS	suspend2.tld.sy.
 go.sy.			86400	IN	NS	lily.ns.cloudflare.com.
@@ -3736,8 +3727,8 @@ iets.sy.		86400	IN	NS	ns3.tld.sy.
 iets.sy.		86400	IN	NS	ns4.tld.sy.
 igate.sy.		86400	IN	NS	suspend1.tld.sy.
 igate.sy.		86400	IN	NS	suspend2.tld.sy.
-ihit.sy.		86400	IN	NS	ns1.lazernet.sy.
-ihit.sy.		86400	IN	NS	ns2.lazernet.sy.
+ihit.sy.		86400	IN	NS	ns1.sawa-host.net.
+ihit.sy.		86400	IN	NS	ns2.sawa-host.net.
 ii.sy.			86400	IN	NS	f1g1ns1.dnspod.net.
 ii.sy.			86400	IN	NS	f1g1ns2.dnspod.net.
 ikar.sy.		86400	IN	NS	damiete.ns.cloudflare.com.
@@ -3835,11 +3826,8 @@ ip.sy.			86400	IN	NS	theo.ns.cloudflare.com.
 ip.sy.			86400	IN	NS	izabella.ns.cloudflare.com.
 ipay.sy.		86400	IN	NS	ns1.scltd.sy.
 ipay.sy.		86400	IN	NS	ns2.scltd.sy.
-ipdjxh.sy.		86400	IN	NS	ns1.ucg-core.com.
-ipdjxh.sy.		86400	IN	NS	ns4.ucg-core.com.
-ipdjxh.sy.		86400	IN	NS	ns11.ucg-core.com.
-ipdjxh.sy.		86400	IN	NS	ns51.uae-dc.com.
-ipdjxh.sy.		86400	IN	NS	ns54.uae-dc.com.
+ipdjxh.sy.		86400	IN	NS	julio.ns.cloudflare.com.
+ipdjxh.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
 iphone.sy.		86400	IN	NS	ns1.imjordan.com.
 iphone.sy.		86400	IN	NS	ns2.imjordan.com.
 iptv.sy.		86400	IN	NS	ns1.pronet.sy.
@@ -4025,11 +4013,8 @@ jumlat.sy.		86400	IN	NS	ns1.damashost.com.
 jumlat.sy.		86400	IN	NS	ns2.damashost.com.
 jumlatech.sy.		86400	IN	NS	ns1.damashost.com.
 jumlatech.sy.		86400	IN	NS	ns2.damashost.com.
-junlyl.sy.		86400	IN	NS	ns1.ucg-core.com.
-junlyl.sy.		86400	IN	NS	ns4.ucg-core.com.
-junlyl.sy.		86400	IN	NS	ns11.ucg-core.com.
-junlyl.sy.		86400	IN	NS	ns51.uae-dc.com.
-junlyl.sy.		86400	IN	NS	ns54.uae-dc.com.
+junlyl.sy.		86400	IN	NS	julio.ns.cloudflare.com.
+junlyl.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
 jupiter.sy.		86400	IN	NS	ns3.bocme.net.
 jupiter.sy.		86400	IN	NS	ns4.bocme.net.
 jurous-saleba.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -7872,4 +7857,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061223 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061229 3600 3600 2592000 3600
