@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447868 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220812071003 20220613061003 17389 sn. X1YbHjSLB3NiCfPh/+LM7B/Ahqg4YWLVaSaMuSdMQbs0sTbL+4EohJEe 541fO5bm1cINtzMNw/MxOD/0b3UZ8w==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447889 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220812101003 20220613091003 17389 sn. Jdr8Wao0BswMssZIybHmJKO6HAOsWveWM7g4Lb7M78tJSv30a3JA1r55 8j4Bw7ghHwIb8JD8wiRX1hghy+At/Q==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220720154248 20220521150127 17389 sn. NYLvvbbtaaNsMrlL5vklp94cmNEGNsxZHwdFagPZ6sb6DkQnNbLvpy6V DmRoMqv636RbQ2+/7H/FZMG/w/xjIQ==
-sn.			172800	IN	TXT	"8 RRs processed [13/06/2022 09H10:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220717233041 20220613061003 17389 sn. NLVDCAozT35Mw8fo0xQHwfpQkYuZ/jQdMSl9W3OdgjHv9+/u3XIN4Yp1 LmoEiq1wok+DDpfceODo9JLeofdYmg==
+sn.			172800	IN	TXT	"No RRs processed [13/06/2022 12H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220707224346 20220613091003 17389 sn. iwJdwBBKfWMVBjDEW8YordQKRUJfqg9TQqBajNQgXcjY8+Mpp7gXxx0D AKpFzyAsncnQ2+qoT1u9C1F/pcgcBw==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220727201301 20220528200832 37490 sn. FXQaaPpMC+ytPS/yXbHg2fGs2RX+tm/tMFviIK++yMzZ74pyRUC9lkfO WOvtUTyDvjR+NCRO0XKz2++xv9CLjg==
@@ -2480,6 +2480,8 @@ bai-group.sn.		43200	IN	NS	ns1.ascio.com.
 bai-group.sn.		43200	IN	NS	ns2.ascio.com.
 bai-group.sn.		43200	IN	NS	ns3.ascio.com.
 bai-group.sn.		43200	IN	NS	ns4.ascio.com.
+baic.sn.		172800	IN	NS	dns3.cloudns.net.
+baic.sn.		172800	IN	NS	dns4.cloudns.net.
 baidu.sn.		43200	IN	NS	ns1.baidu.com.
 baidu.sn.		43200	IN	NS	ns2.baidu.com.
 baidu.sn.		43200	IN	NS	ns3.baidu.com.
@@ -9999,6 +10001,8 @@ honestfoods.sn.		172800	IN	RRSIG	DS 13 2 172800 20220704175919 20220505173357 17
 honestfoods.sn.		172800	IN	DS	46597 8 2 9B82051BBA7E32283D78E20D17FEA9D26C61E3042BD345BF5136A6AD 35E46589
 honestfoods.sn.		172800	IN	NS	ns18.ovh.net.
 honestfoods.sn.		172800	IN	NS	dns18.ovh.net.
+honor.sn.		172800	IN	NS	ns1.netim.net.
+honor.sn.		172800	IN	NS	ns2.netim.net.
 hoop.sn.		43200	IN	NS	ns17.ovh.net.
 hoop.sn.		43200	IN	NS	dns17.ovh.net.
 hoovers.sn.		43200	IN	NS	dns1.safenames.com.
@@ -12542,7 +12546,7 @@ laturquoise.sn.		43200	IN	NS	ns2.sonatel.sn.
 laturquoisetraiteur.sn.	172800	IN	NS	ns200.anycast.me.
 laturquoisetraiteur.sn.	172800	IN	NS	dns200.anycast.me.
 laturquoisetraiteur.sn.	172800	IN	DS	1282 8 2 BB9A86A1B8852D6F0BACDFA7CCB77E607D8A9A877839A1FE2CE5184A 524546E6
-laturquoisetraiteur.sn.	172800	IN	RRSIG	DS 13 2 172800 20220627080715 20220428075916 17389 sn. h4CrqFPgvUY+6c21d9rK+NFLXeVOf8eBoUNPA8pXQdPJp4T65ZEEWSQ4 o1f+/4MA+q4rbsu8+wsUNt8+dZzhww==
+laturquoisetraiteur.sn.	172800	IN	RRSIG	DS 13 2 172800 20220812071416 20220613070715 17389 sn. nXdk3Li5+rU/OfxiXsxX8+CPYs3MzZJ+0BWYeVFnfoCzGxLGlBOXvdEL ccgmI052JzWzBCpQCZ8ap4hrZUvZzg==
 laurshop.sn.		172800	IN	NS	ns200.anycast.me.
 laurshop.sn.		172800	IN	NS	dns200.anycast.me.
 laurshop.sn.		172800	IN	DS	31852 8 2 71278E85C7DBCFD2AFB9A84D262CB24D15D01BDE124486352AF31A65 FB9503B2
@@ -15469,6 +15473,8 @@ oneeas.sn.		43200	IN	NS	ns.sonatel.sn.
 oneeas.sn.		43200	IN	NS	ns2.sonatel.sn.
 onema.sn.		172800	IN	NS	ns1.caurys.net.
 onema.sn.		172800	IN	NS	ns2.caurys.net.
+oneplus.sn.		172800	IN	NS	ns1.netim.net.
+oneplus.sn.		172800	IN	NS	ns2.netim.net.
 onesource.sn.		172800	IN	NS	ns6.wixdns.net.
 onesource.sn.		172800	IN	NS	ns7.wixdns.net.
 onestop.sn.		172800	IN	NS	ns1.101domain.com.
@@ -16237,10 +16243,6 @@ peja.sn.		172800	IN	RRSIG	DS 13 2 172800 20220806020730 20220607020019 17389 sn.
 peja.sn.		172800	IN	DS	56110 8 2 F9464176BC783E23C0895C10E3976C714A1D6A0CA5DFD4719FF33650 B2B93AC5
 peja.sn.		172800	IN	NS	ns200.anycast.me.
 peja.sn.		172800	IN	NS	dns200.anycast.me.
-penc.sn.		172800	IN	NS	ns1.ultahost.com.
-penc.sn.		172800	IN	NS	ns2.ultahost.com.
-penc.sn.		172800	IN	NS	ns3.ultahost.com.
-penc.sn.		172800	IN	NS	ns4.ultahost.com.
 pencmi.sn.		172800	IN	NS	ns103.ovh.net.
 pencmi.sn.		172800	IN	NS	dns103.ovh.net.
 pencumlebu.sn.		172800	IN	NS	ns9.lwsdns.com.
@@ -21485,8 +21487,8 @@ tpe.sn.			43200	IN	NS	ns1.kheweul.net.
 tpe.sn.			43200	IN	NS	ns2.kheweul.net.
 tpe.sn.			43200	IN	NS	ns3.kheweul.net.
 tpe.sn.			43200	IN	NS	ns4.kheweul.net.
-tpecloud.sn.		172800	IN	NS	jaime.ns.cloudflare.com.
-tpecloud.sn.		172800	IN	NS	ophelia.ns.cloudflare.com.
+tpecloud.sn.		172800	IN	NS	ns1.hostns.io.
+tpecloud.sn.		172800	IN	NS	ns2.hostns.io.
 tpm-rhconsulting.sn.	43200	IN	NS	ns1.ascio.com.
 tpm-rhconsulting.sn.	43200	IN	NS	ns2.ascio.com.
 tpm-rhconsulting.sn.	43200	IN	NS	ns3.ascio.com.
@@ -21676,7 +21678,7 @@ trouverunemploi.sn.	172800	IN	NS	nsa.n0c.com.
 trouverunemploi.sn.	172800	IN	NS	nsb.n0c.com.
 trouverunemploi.sn.	172800	IN	NS	nsc.n0c.com.
 trouverunemploi.sn.	172800	IN	DS	62437 8 1 47EAB2EA0C50B4914C0D20BA7D0F07CC4F00EC62
-trouverunemploi.sn.	172800	IN	RRSIG	DS 13 2 172800 20220627095955 20220428094257 17389 sn. PykbmpKgPb399ERunR/xC7AC3EUoZHkKUdksuBBdSAmUiErnHQwObvnl BXhC0Qc6Kgwe6Vk29T8FAqWdHhidNg==
+trouverunemploi.sn.	172800	IN	RRSIG	DS 13 2 172800 20220812090841 20220613085955 17389 sn. ijLiIeru9yft+/EhrMXIkZWrf/3vyVhjh0jqhJA274D5Ib1ic/WKArYI hmrY5dJ8SBMwaNjaXyPUbZFEtPOtqA==
 trouvetonbonheur.sn.	43200	IN	NS	ns1.kheweul.net.
 trouvetonbonheur.sn.	43200	IN	NS	ns2.kheweul.net.
 trouvetonbonheur.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -22884,6 +22886,11 @@ xewel.sn.		43200	IN	NS	ns1.validname.com.
 xewel.sn.		43200	IN	NS	ns2.validname.com.
 xeweul.sn.		172800	IN	NS	cpanel21.lws-hosting.com.
 xeweul.sn.		172800	IN	NS	cpanel22.lws-hosting.com.
+xiaomi.sn.		172800	IN	NS	ns1.netim.net.
+xiaomi.sn.		172800	IN	NS	ns2.netim.net.
+xiaomi.sn.		172800	IN	NS	ns3.netim.net.
+xiaomi.sn.		172800	IN	NS	ns4.netim.net.
+xiaomi.sn.		172800	IN	NS	ns5.netim.net.
 xibaaru.sn.		43200	IN	NS	ns1.kheweul.net.
 xibaaru.sn.		43200	IN	NS	ns2.kheweul.net.
 xibaaru.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -24535,7 +24542,7 @@ JH4BAVJILS1T2DKCHQCKTQH8O3QHK7AJ.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022071620591
 JK6VT9J1DTM4DMB7BEQMPQBCI5DP9581.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 JKDPH9T7CS2218N6N14KJ021O5QC8JB7 NS DS RRSIG
 JK6VT9J1DTM4DMB7BEQMPQBCI5DP9581.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220713165339 20220514162126 17389 sn. 4pABiExu9wYhP1FZNQSod19bOqVRsEPe+QvkmIF8K6R3Guf81yHULtKH w8p8Vjs5/K2xfij84/I/AG6GmvK1fw==
 JKDPH9T7CS2218N6N14KJ021O5QC8JB7.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 JOD86LKTT8KQU50BTLCKJQNFJGDBD1ND NS DS RRSIG
-JKDPH9T7CS2218N6N14KJ021O5QC8JB7.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220627091731 20220526094003 17389 sn. 7ssIOXUgpUpilSuu3htNH15zLpOwugjktURh+TV+5QG4LLimQ/QYk8Zb +mABpXjpntprMBTyg9ZuqlTilbj+Vg==
+JKDPH9T7CS2218N6N14KJ021O5QC8JB7.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220812083651 20220613081731 17389 sn. w3B7MxIWgSk8RRhfnNmTUjsx9MxrCIzv+M2AdsCYY1OHtlb356JzF6wy OqumGrc7rI/ssIxKT6QBdQReXSGfeg==
 JOD86LKTT8KQU50BTLCKJQNFJGDBD1ND.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220629125700 20220430124223 17389 sn. juGeqMu1AIYtJQ3l7j9AGjihUJguGMD3qii8tlNGzOvm6hW6DlMXOPh0 teOpmZlXswWj/TFtfZ0lKJvi2/25fg==
 JOD86LKTT8KQU50BTLCKJQNFJGDBD1ND.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 JP50GLRNMUR77Q311JVS82LIN0E5IP69 NS DS RRSIG
 JP50GLRNMUR77Q311JVS82LIN0E5IP69.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 JPPRTLS9MMKP0BFEVUNIA7PHRCI97HV8 NS DS RRSIG
@@ -25382,4 +25389,4 @@ VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 VV3IDF84ISCK27
 VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220630100647 20220501095741 17389 sn. AsGLri09q5aNPJJhAlKPR4ROO9gW+VKvzXJiWXbOkI0FsVDi0e1vSroh WyYP1q6UHXwujeSQimxPjrUCRaTbPg==
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 03E795UMJJIEBB4O5SBJU6BL20OBLSJS NS DS RRSIG
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220801214314 20220602210335 17389 sn. R/ez97QVrc7ty9kiiLhlFITWW1/QINceK/uAMEZXVXITJpbd5y/vv3jr qf1My7l4dGK2xxwmmwzxAeeR+kcG3A==
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447868 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447889 3600 1800 3600000 5400

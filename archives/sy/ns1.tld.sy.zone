@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061318 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1655103731"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061321 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1655114543"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -5245,8 +5245,8 @@ nour-elsham.sy.		86400	IN	NS	ns3.tld.sy.
 nour-elsham.sy.		86400	IN	NS	ns4.tld.sy.
 nour-mf.sy.		86400	IN	NS	suspend1.tld.sy.
 nour-mf.sy.		86400	IN	NS	suspend2.tld.sy.
-nour-mfi.sy.		86400	IN	NS	suspend1.tld.sy.
-nour-mfi.sy.		86400	IN	NS	suspend2.tld.sy.
+nour-mfi.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
+nour-mfi.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
 noura.sy.		86400	IN	NS	ns1.monster.sy.
 noura.sy.		86400	IN	NS	ns2.monster.sy.
 nova.sy.		86400	IN	NS	dns7.aya.sy.
@@ -7845,4 +7845,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061318 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061321 3600 3600 2592000 3600
