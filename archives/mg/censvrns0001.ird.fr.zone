@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061313 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061316 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1655125359"
+mg.			7200	IN	TXT	"Generation Time: 1655136214"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -5046,8 +5046,8 @@ iep-madagascar.mg.	86400	IN	NS	ns1.da.cloudns.io.
 iep-madagascar.mg.	86400	IN	NS	ns2.da.cloudns.io.
 ifcfactory.mg.		86400	IN	NS	ns1.serveurgasy.com.
 ifcfactory.mg.		86400	IN	NS	ns2.serveurgasy.com.
-ifem.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
-ifem.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
+ifem.mg.		86400	IN	NS	ns1.hostns.io.
+ifem.mg.		86400	IN	NS	ns2.hostns.io.
 ifra.mg.		86400	IN	NS	ns.dts.mg.
 ifra.mg.		86400	IN	NS	ns1.dts.mg.
 igate.mg.		86400	IN	NS	ns.dts.mg.
@@ -6444,8 +6444,6 @@ madagaskar.mg.		86400	IN	NS	ns1.bluehost.com.
 madagaskar.mg.		86400	IN	NS	ns2.bluehost.com.
 madaged.mg.		86400	IN	NS	ns1.da.cloudns.io.
 madaged.mg.		86400	IN	NS	ns2.da.cloudns.io.
-madagold.mg.		86400	IN	NS	dns18.ovh.net.
-madagold.mg.		86400	IN	NS	ns18.ovh.net.
 madagroup.mg.		86400	IN	NS	leia.ns.cloudflare.com.
 madagroup.mg.		86400	IN	NS	lou.ns.cloudflare.com.
 madahull.mg.		86400	IN	NS	ns1.serveurgasy.com.
@@ -6710,6 +6708,8 @@ marais.mg.		86400	IN	NS	ns.dts.mg.
 marais.mg.		86400	IN	NS	ns1.dts.mg.
 marcelalban.mg.		86400	IN	NS	ns1-boxer.vivawebhost.com.
 marcelalban.mg.		86400	IN	NS	ns2-boxer.vivawebhost.com.
+mariage.mg.		86400	IN	NS	ns1.cloudns.io.
+mariage.mg.		86400	IN	NS	ns2.cloudns.io.
 mariapoly.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 mariapoly.mg.		86400	IN	NS	ns2.madanetinfo.mg.
 mariestopes.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
@@ -10637,6 +10637,8 @@ troneprint.mg.		86400	IN	NS	ns1.mysecurecloudhost.com.
 troneprint.mg.		86400	IN	NS	ns2.mysecurecloudhost.com.
 tropical-biocontrol-sas.mg. 86400 IN	NS	ns29.dot.mg.
 tropical-biocontrol-sas.mg. 86400 IN	NS	ns29.illi.co.mg.
+tropical-food.mg.	86400	IN	NS	ns29.dot.mg.
+tropical-food.mg.	86400	IN	NS	ns29.illi.co.mg.
 tropicalfruits.mg.	86400	IN	NS	ns17.ovh.net.
 tropicalfruits.mg.	86400	IN	NS	dns17.ovh.net.
 tropicalmobilier.mg.	86400	IN	NS	ns.dts.mg.
@@ -10853,8 +10855,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11582,4 +11584,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061313 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061316 600 3600 604800 86400
