@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061410 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061413 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1655200836"
+mg.			7200	IN	TXT	"Generation Time: 1655211700"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3028,6 +3028,8 @@ diplomes-ua.mg.		7200	IN	NS	ns29.illi.co.mg.
 directimmo.mg.		7200	IN	NS	nsa.planethoster.net.
 directimmo.mg.		7200	IN	NS	nsb.planethoster.net.
 directimmo.mg.		7200	IN	NS	nsc.planethoster.net.
+directnews.mg.		7200	IN	NS	ns1.gasyweb.com.
+directnews.mg.		7200	IN	NS	ns2.gasyweb.com.
 dirickx.mg.		7200	IN	NS	ns.dts.mg.
 dirickx.mg.		7200	IN	NS	ns1.dts.mg.
 districar.mg.		7200	IN	NS	ns1.da.cloudns.io.
@@ -5115,6 +5117,8 @@ imillions.mg.		86400	IN	NS	candy.ns.cloudflare.com.
 imillions.mg.		86400	IN	NS	valentin.ns.cloudflare.com.
 immo-mantasoa.mg.	86400	IN	NS	ns31.infomaniak.com.
 immo-mantasoa.mg.	86400	IN	NS	ns32.infomaniak.com.
+immobi.mg.		86400	IN	NS	ns1.da.cloudns.io.
+immobi.mg.		86400	IN	NS	ns2.da.cloudns.io.
 immobilier.mg.		86400	IN	NS	ns1.o2switch.net.
 immobilier.mg.		86400	IN	NS	ns2.o2switch.net.
 immobilier-nosybe.mg.	86400	IN	NS	ns1.da.cloudns.io.
@@ -8096,8 +8100,8 @@ pagesjaunes.mg.		86400	IN	NS	ns11.ovh.net.
 pagesjaunes.mg.		86400	IN	NS	dns11.ovh.net.
 pagose.mg.		86400	IN	NS	ns.dts.mg.
 pagose.mg.		86400	IN	NS	ns1.dts.mg.
-paisf.mg.		86400	IN	NS	ns1.hostpapa.com.
-paisf.mg.		86400	IN	NS	ns2.hostpapa.com.
+paisf.mg.		86400	IN	NS	ns29.dot.mg.
+paisf.mg.		86400	IN	NS	ns29.illi.co.mg.
 pala.mg.		86400	IN	NS	ns1.goldvision.com.
 pala.mg.		86400	IN	NS	ns2.goldvision.com.
 paleo.mg.		86400	IN	NS	ns1.onlydomains.com.
@@ -8307,6 +8311,8 @@ photovoltaique-donbosco-majunga.mg. 86400 IN NS	ns1.servermada.com.
 photovoltaique-donbosco-majunga.mg. 86400 IN NS	ns2.servermada.com.
 phygos.mg.		86400	IN	NS	ns1.bluehost.com.
 phygos.mg.		86400	IN	NS	ns2.bluehost.com.
+physiolac.mg.		86400	IN	NS	ns1.servermada.com.
+physiolac.mg.		86400	IN	NS	ns2.servermada.com.
 phyto.mg.		86400	IN	NS	ns1.da.cloudns.io.
 phyto.mg.		86400	IN	NS	ns2.da.cloudns.io.
 pi.mg.			86400	IN	NS	ns-55-a.gandi.net.
@@ -10552,6 +10558,8 @@ trademachines.mg.	86400	IN	NS	jay.ns.cloudflare.com.
 trademachines.mg.	86400	IN	NS	jill.ns.cloudflare.com.
 trademarks.mg.		86400	IN	NS	dns106.ovh.net.
 trademarks.mg.		86400	IN	NS	ns106.ovh.net.
+traderesources.mg.	86400	IN	NS	ns1.hostpapa.com.
+traderesources.mg.	86400	IN	NS	ns2.hostpapa.com.
 traffic.mg.		86400	IN	NS	chloe.ns.cloudflare.com.
 traffic.mg.		86400	IN	NS	rob.ns.cloudflare.com.
 trail-madagascar.mg.	86400	IN	NS	ns29.dot.mg.
@@ -10850,8 +10858,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11581,4 +11589,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061410 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061413 600 3600 604800 86400

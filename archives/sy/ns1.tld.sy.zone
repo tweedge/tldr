@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061421 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1655200938"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061426 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1655211745"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3339,6 +3339,8 @@ gz.sy.			86400	IN	NS	suspend1.tld.sy.
 gz.sy.			86400	IN	NS	suspend2.tld.sy.
 h-a-s-group.sy.		86400	IN	NS	suspend1.tld.sy.
 h-a-s-group.sy.		86400	IN	NS	suspend2.tld.sy.
+h-care.sy.		86400	IN	NS	ns1.lazernet.sy.
+h-care.sy.		86400	IN	NS	ns2.lazernet.sy.
 h-m.sy.			86400	IN	NS	a5-65.akam.net.
 h-m.sy.			86400	IN	NS	a8-66.akam.net.
 h-m.sy.			86400	IN	NS	a1-139.akam.net.
@@ -4539,6 +4541,8 @@ makki-3laa.sy.		86400	IN	NS	suspend1.tld.sy.
 makki-3laa.sy.		86400	IN	NS	suspend2.tld.sy.
 makol.sy.		86400	IN	NS	ns3.tld.sy.
 makol.sy.		86400	IN	NS	ns4.tld.sy.
+makook.sy.		86400	IN	NS	ns1.lazernet.sy.
+makook.sy.		86400	IN	NS	ns2.lazernet.sy.
 maktabalsistani.sy.	86400	IN	NS	eric.ns.cloudflare.com.
 maktabalsistani.sy.	86400	IN	NS	nadia.ns.cloudflare.com.
 maktabati.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
@@ -4568,8 +4572,10 @@ managementdc.sy.	86400	IN	NS	ns1.damashost.com.
 managementdc.sy.	86400	IN	NS	ns2.damashost.com.
 mandoob.sy.		86400	IN	NS	sydns1.nobalaa.com.
 mandoob.sy.		86400	IN	NS	sydns2.nobalaa.com.
-mandoubi.sy.		86400	IN	NS	ns1.mowared.sy.
-mandoubi.sy.		86400	IN	NS	ns2.mowared.sy.
+mandoubi.sy.		86400	IN	NS	ns1.mandoubi.sy.
+mandoubi.sy.		86400	IN	NS	ns2.mandoubi.sy.
+ns1.mandoubi.sy.	86400	IN	A	212.11.196.203
+ns2.mandoubi.sy.	86400	IN	A	212.11.196.203
 mandowb.sy.		86400	IN	NS	sydns1.nobalaa.com.
 mandowb.sy.		86400	IN	NS	sydns2.nobalaa.com.
 mango.sy.		86400	IN	NS	ns-310.awsdns-38.com.
@@ -4961,10 +4967,8 @@ moustafakharbutly.sy.	86400	IN	NS	suspend1.tld.sy.
 moustafakharbutly.sy.	86400	IN	NS	suspend2.tld.sy.
 moveit.sy.		86400	IN	NS	ns1.lazernet.sy.
 moveit.sy.		86400	IN	NS	ns2.lazernet.sy.
-mowared.sy.		86400	IN	NS	ns1.mowared.sy.
-mowared.sy.		86400	IN	NS	ns2.mowared.sy.
-ns1.mowared.sy.		86400	IN	A	212.11.196.203
-ns2.mowared.sy.		86400	IN	A	212.11.196.203
+mowared.sy.		86400	IN	NS	ns1.mandoubi.sy.
+mowared.sy.		86400	IN	NS	ns2.mandoubi.sy.
 mp.sy.			86400	IN	NS	ns1.shamcenter.com.
 mp.sy.			86400	IN	NS	ns2.shamcenter.com.
 mpay.sy.		86400	IN	NS	ns1.pronet.sy.
@@ -7859,4 +7863,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061421 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061426 3600 3600 2592000 3600
