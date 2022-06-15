@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061518 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1655276533"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061524 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1655287337"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2783,8 +2783,8 @@ ellamedia.sy.		86400	IN	NS	ns1.scs-net.sy.
 ellamedia.sy.		86400	IN	NS	ns1.scs-net.org.
 ellamedia.sy.		86400	IN	NS	ns2.scs-net.sy.
 ellamedia.sy.		86400	IN	NS	ns2.scs-net.org.
-elotto.sy.		86400	IN	NS	suspend1.tld.sy.
-elotto.sy.		86400	IN	NS	suspend2.tld.sy.
+elotto.sy.		86400	IN	NS	ns3.tld.sy.
+elotto.sy.		86400	IN	NS	ns4.tld.sy.
 elton-trade.sy.		86400	IN	NS	suspend1.tld.sy.
 elton-trade.sy.		86400	IN	NS	suspend2.tld.sy.
 emadabdelhai.sy.	86400	IN	NS	ns1.waveshost.sy.
@@ -3115,6 +3115,8 @@ fujitsu.sy.		86400	IN	NS	rns1.rightsdns.com.
 fujitsu.sy.		86400	IN	NS	rns2.rightsdns.com.
 fun.sy.			86400	IN	NS	suspend1.tld.sy.
 fun.sy.			86400	IN	NS	suspend2.tld.sy.
+furatacademy.sy.	86400	IN	NS	ns3.tld.sy.
+furatacademy.sy.	86400	IN	NS	ns4.tld.sy.
 fuse-fm.sy.		86400	IN	NS	suspend1.tld.sy.
 fuse-fm.sy.		86400	IN	NS	suspend2.tld.sy.
 fusefm.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6741,8 +6743,8 @@ swf.sy.			86400	IN	NS	ns3.tld.sy.
 swf.sy.			86400	IN	NS	ns4.tld.sy.
 swift.sy.		86400	IN	NS	suspend1.tld.sy.
 swift.sy.		86400	IN	NS	suspend2.tld.sy.
-swissapproval.sy.	86400	IN	NS	suspend1.tld.sy.
-swissapproval.sy.	86400	IN	NS	suspend2.tld.sy.
+swissapproval.sy.	86400	IN	NS	ns1.pronet.sy.
+swissapproval.sy.	86400	IN	NS	ns2.pronet.sy.
 swt.sy.			86400	IN	NS	ns3.tld.sy.
 swt.sy.			86400	IN	NS	ns4.tld.sy.
 sx.sy.			86400	IN	NS	f1g1ns1.dnspod.net.
@@ -7860,4 +7862,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061518 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061524 3600 3600 2592000 3600
