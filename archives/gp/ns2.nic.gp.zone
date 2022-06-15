@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022061515 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022061518 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -295,7 +295,6 @@ alamo.gp.		86400	IN	NS	ha1.markmonitor.zone.
 alamo.gp.		86400	IN	NS	ha2.markmonitor.zone.
 alamo.gp.		86400	IN	NS	ha3.markmonitor.zone.
 alamo.gp.		86400	IN	NS	ha4.markmonitor.zone.
-alch.gp.		86400	IN	NS	verification-5mltl5xc.ns3.dan.hosting.
 alerte.gp.		86400	IN	NS	ns1.ikoula.fr.
 alerte.gp.		86400	IN	NS	ns2.ikoula.fr.
 ales.gp.		86400	IN	NS	a.ns.mailclub.fr.
@@ -441,8 +440,6 @@ artemiscourtage.gp.	86400	IN	NS	ns1.bdm.microsoftonline.com.
 artemiscourtage.gp.	86400	IN	NS	ns2.bdm.microsoftonline.com.
 artemiscourtage.gp.	86400	IN	NS	ns3.bdm.microsoftonline.com.
 artemiscourtage.gp.	86400	IN	NS	ns4.bdm.microsoftonline.com.
-arti.gp.		86400	IN	NS	ns19.ovh.net.
-arti.gp.		86400	IN	NS	dns19.ovh.net.
 arw.gp.			86400	IN	NS	pdns77.ultradns.biz.
 arw.gp.			86400	IN	NS	pdns77.ultradns.com.
 arw.gp.			86400	IN	NS	pdns77.ultradns.net.
@@ -1921,8 +1918,6 @@ freshfromparis.gp.	86400	IN	NS	ns3.netim.net.
 freshoutparis.gp.	86400	IN	NS	ns1.netim.net.
 freshoutparis.gp.	86400	IN	NS	ns2.netim.net.
 freshoutparis.gp.	86400	IN	NS	ns3.netim.net.
-fresse.gp.		86400	IN	NS	sdns2.ovh.ca.
-fresse.gp.		86400	IN	NS	vps181016.vps.ovh.ca.
 friulsider.gp.		86400	IN	NS	ns01.trademarkarea.com.
 friulsider.gp.		86400	IN	NS	ns02.trademarkarea.com.
 friulsider.gp.		86400	IN	NS	ns03.trademarkarea.com.
@@ -4113,8 +4108,6 @@ rdl.gp.			86400	IN	NS	ns11.ovh.net.
 rdl.gp.			86400	IN	NS	dns11.ovh.net.
 rechargezclaro.gp.	86400	IN	NS	dns01.amigokit.com.
 rechargezclaro.gp.	86400	IN	NS	dns1i.itelcel.com.
-recrute.gp.		86400	IN	NS	pns101.cloudns.net.
-recrute.gp.		86400	IN	NS	pns104.cloudns.net.
 recyclermonauto.gp.	86400	IN	NS	ns6.oleane.net.
 recyclermonauto.gp.	86400	IN	NS	ns7.oleane.net.
 recyclermonauto.gp.	86400	IN	NS	ntserver.o2game.com.
@@ -5370,4 +5363,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022061515 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022061518 86400 7200 2592000 345600
