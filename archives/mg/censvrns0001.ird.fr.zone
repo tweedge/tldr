@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061504 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061507 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1655265667"
+mg.			7200	IN	TXT	"Generation Time: 1655276491"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -69,12 +69,8 @@ mg.			7200	IN	TXT	"Generation Time: 1655265667"
 1xbet.mg.		7200	IN	NS	pete.ns.cloudflare.com.
 1y.mg.			7200	IN	NS	norm.ns.cloudflare.com.
 1y.mg.			7200	IN	NS	rihana.ns.cloudflare.com.
-21.mg.			7200	IN	NS	elijah.ns.cloudflare.com.
-21.mg.			7200	IN	NS	katja.ns.cloudflare.com.
 22bet.mg.		7200	IN	NS	daisy.ns.cloudflare.com.
 22bet.mg.		7200	IN	NS	gerald.ns.cloudflare.com.
-23.mg.			7200	IN	NS	elijah.ns.cloudflare.com.
-23.mg.			7200	IN	NS	katja.ns.cloudflare.com.
 24.mg.			7200	IN	NS	norm.ns.cloudflare.com.
 24.mg.			7200	IN	NS	rihana.ns.cloudflare.com.
 24-24.mg.		7200	IN	NS	ns1.servermada.com.
@@ -190,8 +186,6 @@ mg.			7200	IN	TXT	"Generation Time: 1655265667"
 520.mg.			7200	IN	NS	yoxall.ns.cloudflare.com.
 55.mg.			7200	IN	NS	f1g1ns1.dnspod.net.
 55.mg.			7200	IN	NS	f1g1ns2.dnspod.net.
-555.mg.			7200	IN	NS	adam.ns.cloudflare.com.
-555.mg.			7200	IN	NS	candy.ns.cloudflare.com.
 58.mg.			7200	IN	NS	clara.ns.cloudflare.com.
 58.mg.			7200	IN	NS	terin.ns.cloudflare.com.
 58777.mg.		7200	IN	NS	hayden.dnspod.net.
@@ -294,8 +288,6 @@ mg.			7200	IN	TXT	"Generation Time: 1655265667"
 95.mg.			7200	IN	NS	tom.ns.cloudflare.com.
 96.mg.			7200	IN	NS	bella.ns.cloudflare.com.
 96.mg.			7200	IN	NS	tom.ns.cloudflare.com.
-99.mg.			7200	IN	NS	adam.ns.cloudflare.com.
-99.mg.			7200	IN	NS	candy.ns.cloudflare.com.
 999.mg.			7200	IN	NS	adam.ns.cloudflare.com.
 999.mg.			7200	IN	NS	candy.ns.cloudflare.com.
 9k.mg.			7200	IN	NS	elijah.ns.cloudflare.com.
@@ -2026,6 +2018,8 @@ bwin.mg.		7200	IN	NS	dns3.itsfogo.com.
 bwin.mg.		7200	IN	NS	dns4.itsfogo.com.
 bwin.mg.		7200	IN	NS	dns5.itsfogo.com.
 bwin.mg.		7200	IN	NS	dns6.itsfogo.com.
+byfounders.mg.		7200	IN	NS	ns1.servermada.com.
+byfounders.mg.		7200	IN	NS	ns2.servermada.com.
 byos.mg.		7200	IN	NS	dns113.ovh.net.
 byos.mg.		7200	IN	NS	ns113.ovh.net.
 c3m.mg.			7200	IN	NS	ns1.da.cloudns.io.
@@ -3251,8 +3245,6 @@ eariary.mg.		7200	IN	NS	sdns2.ovh.net.
 easybreath.mg.		7200	IN	NS	ns-53-a.gandi.net.
 easybreath.mg.		7200	IN	NS	ns-144-b.gandi.net.
 easybreath.mg.		7200	IN	NS	ns-116-c.gandi.net.
-easydata.mg.		7200	IN	NS	ns29.illi.co.mg.
-easydata.mg.		7200	IN	NS	ns29.dot.mg.
 easyjet.mg.		7200	IN	NS	ns1.da.cloudns.io.
 easyjet.mg.		7200	IN	NS	ns2.da.cloudns.io.
 easylink.mg.		7200	IN	NS	pdns09.domaincontrol.com.
@@ -4837,8 +4829,6 @@ holysybe.mg.		86400	IN	NS	dns108.ovh.net.
 holysybe.mg.		86400	IN	NS	ns108.ovh.net.
 home.mg.		86400	IN	NS	ns1.da.cloudns.io.
 home.mg.		86400	IN	NS	ns2.da.cloudns.io.
-home-services.mg.	86400	IN	NS	dns19.ovh.net.
-home-services.mg.	86400	IN	NS	ns19.ovh.net.
 home24.mg.		86400	IN	NS	ns1.eurodns.com.
 home24.mg.		86400	IN	NS	ns2.eurodns.com.
 home24.mg.		86400	IN	NS	ns3.eurodns.com.
@@ -6463,8 +6453,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -8548,12 +8538,6 @@ production.mg.		86400	IN	NS	ns1.cloudns.io.
 production.mg.		86400	IN	NS	ns2.cloudns.io.
 produir-madagascar.mg.	86400	IN	NS	ns1.da.cloudns.io.
 produir-madagascar.mg.	86400	IN	NS	ns2.da.cloudns.io.
-profi.mg.		86400	IN	NS	dns.robbo.pl.
-profi.mg.		86400	IN	NS	dns2.robbo.pl.
-profi.mg.		86400	IN	NS	dns3.robbo.pl.
-profi24.mg.		86400	IN	NS	dns.robbo.pl.
-profi24.mg.		86400	IN	NS	dns2.robbo.pl.
-profi24.mg.		86400	IN	NS	dns3.robbo.pl.
 profixers.mg.		86400	IN	NS	chi-ns2.greengeeks.com.
 profixers.mg.		86400	IN	NS	chi-ns1.greengeeks.com.
 profixers.mg.		86400	IN	NS	ams-ns1.greengeeks.com.
@@ -10862,8 +10846,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11593,4 +11577,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061504 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061507 600 3600 604800 86400
