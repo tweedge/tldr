@@ -1,4 +1,4 @@
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022061402 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022061502 7200 3600 2678400 7200
 tj.			7200	IN	NS	tj.cctld.authdns.ripe.net.
 tj.			7200	IN	NS	ns1.nic.tj.
 tj.			7200	IN	NS	ns2.tojikiston.com.
@@ -9046,6 +9046,8 @@ mazza.tj.		7200	IN	NS	ns1.ehost.tj.
 mazza.tj.		7200	IN	NS	ns2.ehost.tj.
 mazzainav.tj.		7200	IN	NS	salavat.ens.mail.ru.
 mazzainav.tj.		7200	IN	NS	belgorod.ens.mail.ru.
+mba.tj.			7200	IN	NS	ns1.rspd.tj.
+mba.tj.			7200	IN	NS	ns2.rspd.tj.
 mbasamo.tj.		7200	IN	NS	ns1.rspd.tj.
 mbasamo.tj.		7200	IN	NS	ns2.rspd.tj.
 mbma.tj.		7200	IN	NS	ns1.rspd.tj.
@@ -12326,8 +12328,8 @@ sakotourism.tj.		7200	IN	NS	ns1.rspd.tj.
 sakotourism.tj.		7200	IN	NS	ns2.rspd.tj.
 salac.tj.		7200	IN	NS	ns.tojikiston.com.
 salac.tj.		7200	IN	NS	ns1.tojikiston.com.
-salam.tj.		7200	IN	NS	pins1.eastera.tj.
-salam.tj.		7200	IN	NS	pins2.eastera.tj.
+salam.tj.		7200	IN	NS	ns1.timeweb.ru.
+salam.tj.		7200	IN	NS	ns2.timeweb.ru.
 salini-impregilo.tj.	7200	IN	NS	ns1.register.it.
 salini-impregilo.tj.	7200	IN	NS	ns2.register.it.
 salmoninshaat.tj.	7200	IN	NS	ns1.shedevr.name.
@@ -16068,4 +16070,4 @@ zzap.tj.		7200	IN	NS	ns.abcp.ru.
 zzap.tj.		7200	IN	NS	ns.nodacdn.net.
 zzap.tj.		7200	IN	NS	ns3.abcp.ru.
 zzap.tj.		7200	IN	NS	ns3.nodacdn.net.
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022061402 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022061502 7200 3600 2678400 7200
