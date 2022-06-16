@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061619 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1655373742"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061624 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1655384532"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -933,6 +933,11 @@ almasarrah.sy.		86400	IN	NS	suspend1.tld.sy.
 almasarrah.sy.		86400	IN	NS	suspend2.tld.sy.
 almashhad-souq.sy.	86400	IN	NS	suspend1.tld.sy.
 almashhad-souq.sy.	86400	IN	NS	suspend2.tld.sy.
+almashhadani-trading.sy. 86400	IN	NS	ns1.ucg-core.com.
+almashhadani-trading.sy. 86400	IN	NS	ns4.ucg-core.com.
+almashhadani-trading.sy. 86400	IN	NS	ns11.ucg-core.com.
+almashhadani-trading.sy. 86400	IN	NS	ns51.uae-dc.com.
+almashhadani-trading.sy. 86400	IN	NS	ns54.uae-dc.com.
 almashreq-edu.sy.	86400	IN	NS	suspend1.tld.sy.
 almashreq-edu.sy.	86400	IN	NS	suspend2.tld.sy.
 almasri.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7047,6 +7052,11 @@ talabati.sy.		86400	IN	NS	suspend1.tld.sy.
 talabati.sy.		86400	IN	NS	suspend2.tld.sy.
 talabatuna.sy.		86400	IN	NS	suspend1.tld.sy.
 talabatuna.sy.		86400	IN	NS	suspend2.tld.sy.
+talaj-trading.sy.	86400	IN	NS	ns1.ucg-core.com.
+talaj-trading.sy.	86400	IN	NS	ns4.ucg-core.com.
+talaj-trading.sy.	86400	IN	NS	ns11.ucg-core.com.
+talaj-trading.sy.	86400	IN	NS	ns51.uae-dc.com.
+talaj-trading.sy.	86400	IN	NS	ns54.uae-dc.com.
 talalco.sy.		86400	IN	NS	ns1.waveshost.sy.
 talalco.sy.		86400	IN	NS	ns2.waveshost.sy.
 tale3aa-pr.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7861,4 +7871,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061619 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061624 3600 3600 2592000 3600
