@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061615 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1655362944"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061619 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1655373742"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2799,8 +2799,10 @@ emarindustries.sy.	86400	IN	NS	suspend1.tld.sy.
 emarindustries.sy.	86400	IN	NS	suspend2.tld.sy.
 embas.sy.		86400	IN	NS	suspend1.tld.sy.
 embas.sy.		86400	IN	NS	suspend2.tld.sy.
-emec-syria.sy.		86400	IN	NS	suspend1.tld.sy.
-emec-syria.sy.		86400	IN	NS	suspend2.tld.sy.
+emec-syria.sy.		86400	IN	NS	ns1.scs-net.sy.
+emec-syria.sy.		86400	IN	NS	ns1.scs-net.org.
+emec-syria.sy.		86400	IN	NS	ns2.scs-net.sy.
+emec-syria.sy.		86400	IN	NS	ns2.scs-net.org.
 emeg.sy.		86400	IN	NS	ns1.alanqaa.com.
 emeg.sy.		86400	IN	NS	ns2.alanqaa.com.
 emessalabs.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -3978,11 +3980,8 @@ jobly.sy.		86400	IN	NS	suspend1.tld.sy.
 jobly.sy.		86400	IN	NS	suspend2.tld.sy.
 jobs.sy.		86400	IN	NS	suspend1.tld.sy.
 jobs.sy.		86400	IN	NS	suspend2.tld.sy.
-john.sy.		86400	IN	NS	ns1.ucg-core.com.
-john.sy.		86400	IN	NS	ns4.ucg-core.com.
-john.sy.		86400	IN	NS	ns11.ucg-core.com.
-john.sy.		86400	IN	NS	ns51.uae-dc.com.
-john.sy.		86400	IN	NS	ns54.uae-dc.com.
+john.sy.		86400	IN	NS	suspend1.tld.sy.
+john.sy.		86400	IN	NS	suspend2.tld.sy.
 jomwasap.sy.		86400	IN	NS	suspend1.tld.sy.
 jomwasap.sy.		86400	IN	NS	suspend2.tld.sy.
 jonaid-co.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6143,10 +6142,8 @@ scit.sy.		86400	IN	NS	ns3.tld.sy.
 scit.sy.		86400	IN	NS	ns4.tld.sy.
 scitcoo.sy.		86400	IN	NS	suspend1.tld.sy.
 scitcoo.sy.		86400	IN	NS	suspend2.tld.sy.
-scltd.sy.		86400	IN	NS	ns1.scltd.sy.
-scltd.sy.		86400	IN	NS	ns2.scltd.sy.
-ns1.scltd.sy.		86400	IN	A	82.137.234.91
-ns2.scltd.sy.		86400	IN	A	82.137.234.92
+scltd.sy.		86400	IN	NS	suspend1.tld.sy.
+scltd.sy.		86400	IN	NS	suspend2.tld.sy.
 sco-me.sy.		86400	IN	NS	ns1.scs-net.sy.
 sco-me.sy.		86400	IN	NS	ns1.scs-net.org.
 sco-me.sy.		86400	IN	NS	ns2.scs-net.sy.
@@ -7658,6 +7655,8 @@ xfbiranclh.sy.		86400	IN	NS	julio.ns.cloudflare.com.
 xfbiranclh.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
 xj.sy.			86400	IN	NS	dom.ns.cloudflare.com.
 xj.sy.			86400	IN	NS	harleigh.ns.cloudflare.com.
+xkd.sy.			86400	IN	NS	erin.ns.cloudflare.com.
+xkd.sy.			86400	IN	NS	cartman.ns.cloudflare.com.
 xr.sy.			86400	IN	NS	ns1.dan.com.
 xr.sy.			86400	IN	NS	ns2.dan.com.
 xs.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -7862,4 +7861,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061615 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061619 3600 3600 2592000 3600
