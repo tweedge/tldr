@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022061519 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022061703 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -3270,6 +3270,8 @@ michelgaschet.gp.	86400	IN	NS	ns103.ovh.net.
 michelgaschet.gp.	86400	IN	NS	dns103.ovh.net.
 microcreche.gp.		86400	IN	NS	ns1.mediatemple.net.
 microcreche.gp.		86400	IN	NS	ns2.mediatemple.net.
+microforce.gp.		86400	IN	NS	ns-792.awsdns-35.net.
+microforce.gp.		86400	IN	NS	ns-1403.awsdns-47.org.
 microsoft.gp.		86400	IN	NS	ns1-04.azure-dns.com.
 microsoft.gp.		86400	IN	NS	ns2-04.azure-dns.net.
 microsoft.gp.		86400	IN	NS	ns3-04.azure-dns.org.
@@ -5360,4 +5362,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022061519 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022061703 86400 7200 2592000 345600
