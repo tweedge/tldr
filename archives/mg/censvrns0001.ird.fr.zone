@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061809 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061815 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1655524905"
+mg.			7200	IN	TXT	"Generation Time: 1655535690"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -996,9 +996,6 @@ arcadis.mg.		7200	IN	NS	ns1.beget.com.
 arcadis.mg.		7200	IN	NS	ns1.beget.pro.
 arcadis.mg.		7200	IN	NS	ns2.beget.com.
 arcadis.mg.		7200	IN	NS	ns2.beget.pro.
-archimede.mg.		7200	IN	NS	nsa.planethoster.net.
-archimede.mg.		7200	IN	NS	nsb.planethoster.net.
-archimede.mg.		7200	IN	NS	nsc.planethoster.net.
 arckiplan.mg.		7200	IN	NS	ns1.hostns.io.
 arckiplan.mg.		7200	IN	NS	ns2.hostns.io.
 arconsulting.mg.	7200	IN	NS	ns1.bluehost.com.
@@ -1517,8 +1514,6 @@ bcdtravel.mg.		7200	IN	NS	ns2.domainnetwork.se.
 bcdtravel.mg.		7200	IN	NS	ns3.domainnetwork.com.
 bcmm.mg.		7200	IN	NS	ns29.dot.mg.
 bcmm.mg.		7200	IN	NS	ns29.illi.co.mg.
-bdo.mg.			7200	IN	NS	ns.dts.mg.
-bdo.mg.			7200	IN	NS	ns1.dts.mg.
 bdswiss.mg.		7200	IN	NS	ns1.eurodns.com.
 bdswiss.mg.		7200	IN	NS	ns2.eurodns.com.
 bdswiss.mg.		7200	IN	NS	ns3.eurodns.com.
@@ -2634,8 +2629,6 @@ consultant.mg.		7200	IN	NS	ns2.inmotionhosting.com.
 contact.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
 contact.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 contact.mg.		7200	IN	NS	ns1.fr.malagasy.com.
-contemporaryliving.mg.	7200	IN	NS	ns29.illi.co.mg.
-contemporaryliving.mg.	7200	IN	NS	ns29.dot.mg.
 continental-auto.mg.	7200	IN	NS	ns.dts.mg.
 continental-auto.mg.	7200	IN	NS	ns1.dts.mg.
 control-strategy.mg.	7200	IN	NS	ns1.cloudns.io.
@@ -3372,8 +3365,6 @@ ekaleka.mg.		7200	IN	NS	ns-2018.awsdns-60.co.uk.
 ekaleka.mg.		7200	IN	NS	ns-953.awsdns-55.net.
 ekaleka.mg.		7200	IN	NS	ns-1295.awsdns-33.org.
 ekaleka.mg.		7200	IN	NS	ns-323.awsdns-40.com.
-ekar-ftk.mg.		7200	IN	NS	ns1.eden.dnshostnetwork.com.
-ekar-ftk.mg.		7200	IN	NS	ns2.eden.dnshostnetwork.com.
 ekaranatihazo.mg.	7200	IN	NS	dns105.ovh.net.
 ekaranatihazo.mg.	7200	IN	NS	ns105.ovh.net.
 ekseption.mg.		7200	IN	NS	ns10.ovh.net.
@@ -6284,8 +6275,6 @@ m1.mg.			86400	IN	NS	tadeo.ns.cloudflare.com.
 m1.mg.			86400	IN	NS	ursula.ns.cloudflare.com.
 m2.mg.			86400	IN	NS	elijah.ns.cloudflare.com.
 m2.mg.			86400	IN	NS	katja.ns.cloudflare.com.
-m3.mg.			86400	IN	NS	carioca.ns.cloudflare.com.
-m3.mg.			86400	IN	NS	ryan.ns.cloudflare.com.
 m3m.mg.			86400	IN	NS	ns1.servermada.com.
 m3m.mg.			86400	IN	NS	ns2.servermada.com.
 m4.mg.			86400	IN	NS	ollie.ns.cloudflare.com.
@@ -8418,10 +8407,6 @@ polytech.mg.		86400	IN	NS	ns29.illi.co.mg.
 polytech.mg.		86400	IN	NS	ns29.dot.mg.
 polytechnique.mg.	86400	IN	NS	ns1.o2switch.net.
 polytechnique.mg.	86400	IN	NS	ns2.o2switch.net.
-polywork.mg.		86400	IN	NS	ns-338.awsdns-42.com.
-polywork.mg.		86400	IN	NS	ns-1139.awsdns-14.org.
-polywork.mg.		86400	IN	NS	ns-990.awsdns-59.net.
-polywork.mg.		86400	IN	NS	ns-1719.awsdns-22.co.uk.
 pongori.mg.		86400	IN	NS	ns-108-a.gandi.net.
 pongori.mg.		86400	IN	NS	ns-232-b.gandi.net.
 pongori.mg.		86400	IN	NS	ns-138-c.gandi.net.
@@ -10834,8 +10819,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11565,4 +11550,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061809 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061815 600 3600 604800 86400
