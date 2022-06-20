@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062024 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1655730131"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062030 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1655740941"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1332,6 +1332,10 @@ anka.sy.		86400	IN	NS	suspend1.tld.sy.
 anka.sy.		86400	IN	NS	suspend2.tld.sy.
 annabk.sy.		86400	IN	NS	ns3.noblesintl.com.
 annabk.sy.		86400	IN	NS	ns4.noblesintl.com.
+antaradous.sy.		86400	IN	NS	ns1.lazernet.sy.
+antaradous.sy.		86400	IN	NS	ns2.lazernet.sy.
+antaradous-media.sy.	86400	IN	NS	ns1.lazernet.sy.
+antaradous-media.sy.	86400	IN	NS	ns2.lazernet.sy.
 antools.sy.		86400	IN	NS	ns3.tld.sy.
 antools.sy.		86400	IN	NS	ns4.tld.sy.
 aog.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -6288,6 +6292,8 @@ shamfm.sy.		86400	IN	NS	ns1.alanqaa.com.
 shamfm.sy.		86400	IN	NS	ns2.alanqaa.com.
 shami-abden.sy.		86400	IN	NS	suspend1.tld.sy.
 shami-abden.sy.		86400	IN	NS	suspend2.tld.sy.
+shamlamour.sy.		86400	IN	NS	ns1.lazernet.sy.
+shamlamour.sy.		86400	IN	NS	ns2.lazernet.sy.
 shamland.sy.		86400	IN	NS	suspend1.tld.sy.
 shamland.sy.		86400	IN	NS	suspend2.tld.sy.
 shamlands.sy.		86400	IN	NS	ns1.lbcinformation.com.
@@ -7866,4 +7872,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062024 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062030 3600 3600 2592000 3600
