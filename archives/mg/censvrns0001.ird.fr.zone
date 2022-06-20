@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062007 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062010 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1655708435"
+mg.			7200	IN	TXT	"Generation Time: 1655719230"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -5143,6 +5143,8 @@ inddl.mg.		86400	IN	NS	ns1.da.cloudns.io.
 inddl.mg.		86400	IN	NS	ns2.da.cloudns.io.
 index.mg.		86400	IN	NS	ns1.sahazamarline.net.
 index.mg.		86400	IN	NS	ns2.sahazamarline.net.
+indianocean.mg.		86400	IN	NS	ns1.da.cloudns.io.
+indianocean.mg.		86400	IN	NS	ns2.da.cloudns.io.
 indolceattesa.mg.	86400	IN	NS	dns1.renderspace.si.
 indolceattesa.mg.	86400	IN	NS	dns2.renderspace.si.
 indolceattesa.mg.	86400	IN	NS	dns3.renderspace.si.
@@ -5650,6 +5652,8 @@ kaps.mg.		86400	IN	NS	ns2.hostns.io.
 karama.mg.		86400	IN	NS	ns1.digitalocean.com.
 karama.mg.		86400	IN	NS	ns2.digitalocean.com.
 karama.mg.		86400	IN	NS	ns3.digitalocean.com.
+karanao.mg.		86400	IN	NS	ns1.da.cloudns.io.
+karanao.mg.		86400	IN	NS	ns2.da.cloudns.io.
 karatra.mg.		86400	IN	NS	ns1.wordpress.com.
 karatra.mg.		86400	IN	NS	ns2.wordpress.com.
 karatra.mg.		86400	IN	NS	ns3.wordpress.com.
@@ -6426,8 +6430,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -9877,6 +9881,8 @@ spikevax.mg.		86400	IN	NS	ns3.markmonitor.com.
 spikevax.mg.		86400	IN	NS	ns7.markmonitor.com.
 spikevax.mg.		86400	IN	NS	ns2.markmonitor.com.
 spikevax.mg.		86400	IN	NS	ns5.markmonitor.com.
+spim.mg.		86400	IN	NS	ns1.da.cloudns.io.
+spim.mg.		86400	IN	NS	ns2.da.cloudns.io.
 spirion.mg.		86400	IN	NS	dns1.e-c.com.
 spirion.mg.		86400	IN	NS	dns2.e-c.com.
 spis.mg.		86400	IN	NS	beth.ns.cloudflare.com.
@@ -11549,4 +11555,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062007 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062010 600 3600 604800 86400

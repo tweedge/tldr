@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062015 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1655708543"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062019 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1655719337"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3109,8 +3109,8 @@ fransabanksyria.sy.	86400	IN	NS	ns3.tld.sy.
 fransabanksyria.sy.	86400	IN	NS	ns4.tld.sy.
 frection-material.sy.	86400	IN	NS	suspend1.tld.sy.
 frection-material.sy.	86400	IN	NS	suspend2.tld.sy.
-friendstel.sy.		86400	IN	NS	suspend1.tld.sy.
-friendstel.sy.		86400	IN	NS	suspend2.tld.sy.
+friendstel.sy.		86400	IN	NS	ns3.tld.sy.
+friendstel.sy.		86400	IN	NS	ns4.tld.sy.
 fruitflowers.sy.	86400	IN	NS	ns1.chilledserver.com.
 fruitflowers.sy.	86400	IN	NS	ns2.chilledserver.com.
 fuez.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -3896,8 +3896,8 @@ ns1.itc.sy.		86400	IN	A	136.243.90.133
 ns2.itc.sy.		86400	IN	A	94.130.116.142
 itec.sy.		86400	IN	NS	suspend1.tld.sy.
 itec.sy.		86400	IN	NS	suspend2.tld.sy.
-itech.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
-itech.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
+itech.sy.		86400	IN	NS	ns1.syriandns.com.
+itech.sy.		86400	IN	NS	ns2.syriandns.com.
 itexperts.sy.		86400	IN	NS	ns2.theblueserver.com.
 itexperts.sy.		86400	IN	NS	nsl.theblueserver.com.
 itk.sy.			86400	IN	NS	ns1.scs-net.sy.
@@ -6839,8 +6839,8 @@ syriamedicalservices.sy. 86400	IN	NS	ns1.monster.sy.
 syriamedicalservices.sy. 86400	IN	NS	ns2.monster.sy.
 syrian.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 syrian.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
-syrian-cargo.sy.	86400	IN	NS	dns7.aya.sy.
-syrian-cargo.sy.	86400	IN	NS	dns8.aya.sy.
+syrian-cargo.sy.	86400	IN	NS	suspend1.tld.sy.
+syrian-cargo.sy.	86400	IN	NS	suspend2.tld.sy.
 syrian-center.sy.	86400	IN	NS	ns1.syrian-center.com.
 syrian-center.sy.	86400	IN	NS	ns2.syrian-center.com.
 syrian-copper.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -6987,8 +6987,8 @@ sytco.sy.		86400	IN	NS	suspend1.tld.sy.
 sytco.sy.		86400	IN	NS	suspend2.tld.sy.
 sytra.sy.		86400	IN	NS	ns3.tld.sy.
 sytra.sy.		86400	IN	NS	ns4.tld.sy.
-sytrd.sy.		86400	IN	NS	ns3.tld.sy.
-sytrd.sy.		86400	IN	NS	ns4.tld.sy.
+sytrd.sy.		86400	IN	NS	suspend1.tld.sy.
+sytrd.sy.		86400	IN	NS	suspend2.tld.sy.
 t-lamborghini.sy.	86400	IN	NS	suspend1.tld.sy.
 t-lamborghini.sy.	86400	IN	NS	suspend2.tld.sy.
 taaden.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7097,8 +7097,8 @@ tartous2day.sy.		86400	IN	NS	suspend1.tld.sy.
 tartous2day.sy.		86400	IN	NS	suspend2.tld.sy.
 tartouscement.sy.	86400	IN	NS	ns3.tld.sy.
 tartouscement.sy.	86400	IN	NS	ns4.tld.sy.
-tartouschamber.sy.	86400	IN	NS	ns1.orasys.net.
-tartouschamber.sy.	86400	IN	NS	ns7.orasys.net.
+tartouschamber.sy.	86400	IN	NS	suspend1.tld.sy.
+tartouschamber.sy.	86400	IN	NS	suspend2.tld.sy.
 tartousgov.sy.		86400	IN	NS	ns1.scs-net.sy.
 tartousgov.sy.		86400	IN	NS	ns1.scs-net.org.
 tartousgov.sy.		86400	IN	NS	ns2.scs-net.sy.
@@ -7866,4 +7866,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062015 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062019 3600 3600 2592000 3600
