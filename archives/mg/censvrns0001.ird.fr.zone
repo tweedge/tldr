@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062004 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062007 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1655697638"
+mg.			7200	IN	TXT	"Generation Time: 1655708435"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2511,6 +2511,8 @@ cofarma.mg.		7200	IN	NS	ns.dts.mg.
 cofarma.mg.		7200	IN	NS	ns1.dts.mg.
 cogelec.mg.		7200	IN	NS	ns.dts.mg.
 cogelec.mg.		7200	IN	NS	ns1.dts.mg.
+coin.mg.		7200	IN	NS	kia.ns.cloudflare.com.
+coin.mg.		7200	IN	NS	tom.ns.cloudflare.com.
 coinafrique.mg.		7200	IN	NS	ns1.francedns.com.
 coinafrique.mg.		7200	IN	NS	ns2.francedns.com.
 coinafrique.mg.		7200	IN	NS	ns3.francedns.com.
@@ -2682,8 +2684,6 @@ cp.mg.			7200	IN	NS	f1g1ns1.dnspod.net.
 cp.mg.			7200	IN	NS	f1g1ns2.dnspod.net.
 cpm.mg.			7200	IN	NS	ns29.illi.co.mg.
 cpm.mg.			7200	IN	NS	ns29.dot.mg.
-craam.mg.		7200	IN	NS	ns1.da.cloudns.io.
-craam.mg.		7200	IN	NS	ns2.da.cloudns.io.
 crdp7v.mg.		7200	IN	NS	ns1.da.cloudns.io.
 crdp7v.mg.		7200	IN	NS	ns2.da.cloudns.io.
 cream.mg.		7200	IN	NS	ns.dts.mg.
@@ -6191,8 +6191,6 @@ lokoconcept.mg.		86400	IN	NS	ns1.o2switch.net.
 lokoconcept.mg.		86400	IN	NS	ns2.o2switch.net.
 lokonaka.mg.		86400	IN	NS	ns1.hostns.io.
 lokonaka.mg.		86400	IN	NS	ns2.hostns.io.
-lokopro.mg.		86400	IN	NS	ns1.hostns.io.
-lokopro.mg.		86400	IN	NS	ns2.hostns.io.
 lol.mg.			86400	IN	NS	diva.ns.cloudflare.com.
 lol.mg.			86400	IN	NS	tom.ns.cloudflare.com.
 longfe.mg.		86400	IN	NS	ns.dts.mg.
@@ -10540,6 +10538,8 @@ transcontinents.mg.	86400	IN	NS	ns.dts.mg.
 transcontinents.mg.	86400	IN	NS	ns1.dts.mg.
 translog.mg.		86400	IN	NS	ns1.onyx.cloudns.io.
 translog.mg.		86400	IN	NS	ns2.onyx.cloudns.io.
+transmalala.mg.		86400	IN	NS	ns1.da.cloudns.io.
+transmalala.mg.		86400	IN	NS	ns2.da.cloudns.io.
 transmanda.mg.		86400	IN	NS	ns1.da.cloudns.io.
 transmanda.mg.		86400	IN	NS	ns2.da.cloudns.io.
 transparency.mg.	86400	IN	NS	dns1.supremepanel.com.
@@ -11549,4 +11549,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062004 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062007 600 3600 604800 86400
