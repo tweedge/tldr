@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062019 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1655719337"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062024 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1655730131"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -5257,8 +5257,8 @@ nour-elsham.sy.		86400	IN	NS	ns3.tld.sy.
 nour-elsham.sy.		86400	IN	NS	ns4.tld.sy.
 nour-mf.sy.		86400	IN	NS	suspend1.tld.sy.
 nour-mf.sy.		86400	IN	NS	suspend2.tld.sy.
-nour-mfi.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
-nour-mfi.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
+nour-mfi.sy.		86400	IN	NS	ns1.syriandns.com.
+nour-mfi.sy.		86400	IN	NS	ns2.syriandns.com.
 noura.sy.		86400	IN	NS	ns1.monster.sy.
 noura.sy.		86400	IN	NS	ns2.monster.sy.
 nova.sy.		86400	IN	NS	dns7.aya.sy.
@@ -5769,8 +5769,8 @@ ramico.sy.		86400	IN	NS	suspend1.tld.sy.
 ramico.sy.		86400	IN	NS	suspend2.tld.sy.
 ramifrend.sy.		86400	IN	NS	suspend1.tld.sy.
 ramifrend.sy.		86400	IN	NS	suspend2.tld.sy.
-rand.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
-rand.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
+rand.sy.		86400	IN	NS	ns1.syriandns.com.
+rand.sy.		86400	IN	NS	ns2.syriandns.com.
 ranin.sy.		86400	IN	NS	suspend1.tld.sy.
 ranin.sy.		86400	IN	NS	suspend2.tld.sy.
 ratib-saif.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6399,8 +6399,8 @@ shtest.sy.		86400	IN	NS	suspend1.tld.sy.
 shtest.sy.		86400	IN	NS	suspend2.tld.sy.
 shukfa-trade.sy.	86400	IN	NS	suspend1.tld.sy.
 shukfa-trade.sy.	86400	IN	NS	suspend2.tld.sy.
-shukra.sy.		86400	IN	NS	ns1.mowared.sy.
-shukra.sy.		86400	IN	NS	ns2.mowared.sy.
+shukra.sy.		86400	IN	NS	ns1.mandoubi.sy.
+shukra.sy.		86400	IN	NS	ns2.mandoubi.sy.
 siamco.sy.		86400	IN	NS	ns3.bocme.net.
 siamco.sy.		86400	IN	NS	ns4.bocme.net.
 sibahi.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7866,4 +7866,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062019 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062024 3600 3600 2592000 3600
