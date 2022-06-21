@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062110 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062113 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1655805696"
+mg.			7200	IN	TXT	"Generation Time: 1655816486"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -4278,8 +4278,8 @@ gcenergies.mg.		86400	IN	NS	ns334016.ip-37-187-127.eu.
 gcenergies.mg.		86400	IN	NS	sdns2.ovh.net.
 geedo.mg.		86400	IN	NS	burt.ns.cloudflare.com.
 geedo.mg.		86400	IN	NS	jade.ns.cloudflare.com.
-geek.mg.		86400	IN	NS	dns1.namecheaphosting.com.
-geek.mg.		86400	IN	NS	dns2.namecheaphosting.com.
+geek.mg.		86400	IN	NS	piotr.ns.cloudflare.com.
+geek.mg.		86400	IN	NS	tina.ns.cloudflare.com.
 gefp.mg.		86400	IN	NS	ns1.afraid.org.
 gefp.mg.		86400	IN	NS	ns2.afraid.org.
 gefp.mg.		86400	IN	NS	ns3.afraid.org.
@@ -6432,8 +6432,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -7303,6 +7303,8 @@ mpinamana.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
 mpinamana.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
 mpitsidika.mg.		86400	IN	NS	ns1.da.cloudns.io.
 mpitsidika.mg.		86400	IN	NS	ns2.da.cloudns.io.
+mprocall.mg.		86400	IN	NS	ns1.da.cloudns.io.
+mprocall.mg.		86400	IN	NS	ns2.da.cloudns.io.
 mps.mg.			86400	IN	NS	ns.dts.mg.
 mps.mg.			86400	IN	NS	ns1.dts.mg.
 mrkb.mg.		86400	IN	NS	marjory.ns.cloudflare.com.
@@ -9075,6 +9077,8 @@ rus.mg.			86400	IN	NS	ns3.eurodns.com.
 rus.mg.			86400	IN	NS	ns4.eurodns.com.
 rvlconsulting.mg.	86400	IN	NS	ns1.madanetinfo.mg.
 rvlconsulting.mg.	86400	IN	NS	ns2.madanetinfo.mg.
+rvs.mg.			86400	IN	NS	ns1.da.cloudns.io.
+rvs.mg.			86400	IN	NS	ns2.da.cloudns.io.
 rx.mg.			86400	IN	NS	ns9.ns0.com.
 rx.mg.			86400	IN	NS	dns4.pair.com.
 s2pc.mg.		86400	IN	NS	ns1.da.cloudns.io.
@@ -11550,4 +11554,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062110 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062113 600 3600 604800 86400
