@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062104 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062107 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1655784061"
+mg.			7200	IN	TXT	"Generation Time: 1655794888"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -227,8 +227,6 @@ mg.			7200	IN	TXT	"Generation Time: 1655784061"
 6w.mg.			7200	IN	NS	rihana.ns.cloudflare.com.
 700.mg.			7200	IN	NS	ns1.my-ndns.com.
 700.mg.			7200	IN	NS	ns2.my-ndns.com.
-75.mg.			7200	IN	NS	howard.ns.cloudflare.com.
-75.mg.			7200	IN	NS	noor.ns.cloudflare.com.
 76.mg.			7200	IN	NS	aisha.ns.cloudflare.com.
 76.mg.			7200	IN	NS	bowen.ns.cloudflare.com.
 77.mg.			7200	IN	NS	ns1.dns.com.
@@ -248,8 +246,6 @@ mg.			7200	IN	TXT	"Generation Time: 1655784061"
 7s.mg.			7200	IN	NS	rihana.ns.cloudflare.com.
 7w.mg.			7200	IN	NS	norm.ns.cloudflare.com.
 7w.mg.			7200	IN	NS	rihana.ns.cloudflare.com.
-81.mg.			7200	IN	NS	bjorn.ns.cloudflare.com.
-81.mg.			7200	IN	NS	kinsley.ns.cloudflare.com.
 82.mg.			7200	IN	NS	candy.ns.cloudflare.com.
 82.mg.			7200	IN	NS	sage.ns.cloudflare.com.
 822.mg.			7200	IN	NS	alex.ns.cloudflare.com.
@@ -7525,8 +7521,8 @@ nexta.mg.		86400	IN	NS	ns.dts.mg.
 nexta.mg.		86400	IN	NS	ns1.dts.mg.
 nextjobs.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
 nextjobs.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
-nft.mg.			86400	IN	NS	kangaroo.dnspod.net.
-nft.mg.			86400	IN	NS	vanessa.dnspod.net.
+nft.mg.			86400	IN	NS	ns1.dan.com.
+nft.mg.			86400	IN	NS	ns2.dan.com.
 ngs.mg.			86400	IN	NS	ns15.ovh.net.
 ngs.mg.			86400	IN	NS	dns15.ovh.net.
 niag.mg.		86400	IN	NS	ns.dts.mg.
@@ -7558,8 +7554,6 @@ nivo.mg.		86400	IN	NS	dan.ns.cloudflare.com.
 nivo.mg.		86400	IN	NS	olga.ns.cloudflare.com.
 nix.mg.			86400	IN	NS	ns1.da.cloudns.io.
 nix.mg.			86400	IN	NS	ns2.da.cloudns.io.
-njakafoodis.mg.		86400	IN	NS	dns1.indritech.biz.
-njakafoodis.mg.		86400	IN	NS	dns2.indritech.biz.
 noagency.mg.		86400	IN	NS	chi-ns2.greengeeks.com.
 noagency.mg.		86400	IN	NS	chi-ns1.greengeeks.com.
 noagency.mg.		86400	IN	NS	ams-ns1.greengeeks.com.
@@ -8140,8 +8134,6 @@ parigames.mg.		86400	IN	NS	damian.ns.cloudflare.com.
 parigames.mg.		86400	IN	NS	rosemary.ns.cloudflare.com.
 parisport.mg.		86400	IN	NS	elaine.ns.cloudflare.com.
 parisport.mg.		86400	IN	NS	phil.ns.cloudflare.com.
-parisportifs.mg.	86400	IN	NS	ns1.servermada.com.
-parisportifs.mg.	86400	IN	NS	ns2.servermada.com.
 pariturf.mg.		86400	IN	NS	ns1.o2switch.net.
 pariturf.mg.		86400	IN	NS	ns2.o2switch.net.
 park.mg.		86400	IN	NS	ns.dts.mg.
@@ -9355,9 +9347,6 @@ selectppe.mg.		86400	IN	NS	ns1-05.azure-dns.com.
 selectppe.mg.		86400	IN	NS	ns2-05.azure-dns.net.
 selectppe.mg.		86400	IN	NS	ns3-05.azure-dns.org.
 selectppe.mg.		86400	IN	NS	ns4-05.azure-dns.info.
-semad.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
-semad.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
-semad.mg.		86400	IN	NS	ns1.fr.malagasy.com.
 semana.mg.		86400	IN	NS	ns.dts.mg.
 semana.mg.		86400	IN	NS	ns1.dts.mg.
 semba.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
@@ -9571,8 +9560,6 @@ sm.mg.			86400	IN	NS	ns-1311.awsdns-35.org.
 sm.mg.			86400	IN	NS	ns-681.awsdns-21.net.
 sma.mg.			86400	IN	NS	dns102.ovh.net.
 sma.mg.			86400	IN	NS	ns102.ovh.net.
-smagency.mg.		86400	IN	NS	ns1.o2switch.net.
-smagency.mg.		86400	IN	NS	ns2.o2switch.net.
 smail.mg.		86400	IN	NS	ns1.lemursystems.com.
 smail.mg.		86400	IN	NS	ns2.lemursystems.com.
 smart.mg.		86400	IN	NS	ns1.corpinter.net.
@@ -10826,8 +10813,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11557,4 +11544,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062104 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062107 600 3600 604800 86400

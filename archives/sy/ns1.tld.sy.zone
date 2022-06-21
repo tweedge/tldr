@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062111 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1655784141"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062112 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1655794934"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -947,6 +947,11 @@ almatin-forinter.sy.	86400	IN	NS	suspend1.tld.sy.
 almatin-forinter.sy.	86400	IN	NS	suspend2.tld.sy.
 almawwas.sy.		86400	IN	NS	suspend1.tld.sy.
 almawwas.sy.		86400	IN	NS	suspend2.tld.sy.
+almeer.sy.		86400	IN	NS	ns1.scs-net.sy.
+almeer.sy.		86400	IN	NS	ns1.scs-net.org.
+almeer.sy.		86400	IN	NS	ns2.scs-net.sy.
+almeer.sy.		86400	IN	NS	ns2.scs-net.org.
+almeer.sy.		86400	IN	NS	ns6.scs-net.sy.
 almeree-tn.sy.		86400	IN	NS	ns1.waveshost.sy.
 almeree-tn.sy.		86400	IN	NS	ns2.waveshost.sy.
 almhemid-bros.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -7872,4 +7877,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062111 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062112 3600 3600 2592000 3600
