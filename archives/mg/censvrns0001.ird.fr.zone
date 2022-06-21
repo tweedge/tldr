@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062107 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062110 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1655794888"
+mg.			7200	IN	TXT	"Generation Time: 1655805696"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2040,6 +2040,8 @@ camermada.mg.		7200	IN	NS	ns1.da.cloudns.io.
 camermada.mg.		7200	IN	NS	ns2.da.cloudns.io.
 camm.mg.		7200	IN	NS	ns29.illi.co.mg.
 camm.mg.		7200	IN	NS	ns29.dot.mg.
+camm2.mg.		7200	IN	NS	ns1.gasyweb.com.
+camm2.mg.		7200	IN	NS	ns2.gasyweb.com.
 camoi.mg.		7200	IN	NS	dns1.supremepanel.com.
 camoi.mg.		7200	IN	NS	dns2.supremepanel.com.
 campus.mg.		7200	IN	NS	ns1.cloudns.io.
@@ -4077,6 +4079,8 @@ fosa-agency.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 fosa-agency.mg.		86400	IN	NS	ns2.madanetinfo.mg.
 fosajuniors.mg.		86400	IN	NS	ns.dts.mg.
 fosajuniors.mg.		86400	IN	NS	ns1.dts.mg.
+fossa.mg.		86400	IN	NS	ns01.trademarkarea.com.
+fossa.mg.		86400	IN	NS	ns02.trademarkarea.com.
 fouganza.mg.		86400	IN	NS	ns-217-a.gandi.net.
 fouganza.mg.		86400	IN	NS	ns-39-b.gandi.net.
 fouganza.mg.		86400	IN	NS	ns-219-c.gandi.net.
@@ -6566,6 +6570,8 @@ mailden.mg.		86400	IN	NS	ns-43-c.gandi.net.
 mainstream.mg.		86400	IN	NS	ns1.instradns.com.
 mainstream.mg.		86400	IN	NS	ns2.instradns.com.
 mainstream.mg.		86400	IN	NS	ns3.instradns.com.
+mairie-mahajanga.mg.	86400	IN	NS	dns1.indritech.biz.
+mairie-mahajanga.mg.	86400	IN	NS	dns2.indritech.biz.
 maisonbema.mg.		86400	IN	NS	ns1.gasyweb.com.
 maisonbema.mg.		86400	IN	NS	ns2.gasyweb.com.
 maisonetradition.mg.	86400	IN	NS	ns1.afraid.org.
@@ -10813,8 +10819,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11544,4 +11550,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062107 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062110 600 3600 604800 86400
