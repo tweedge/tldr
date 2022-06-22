@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062218 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1655881341"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062224 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1655892142"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2782,8 +2782,8 @@ elias-khalaf.sy.	86400	IN	NS	suspend1.tld.sy.
 elias-khalaf.sy.	86400	IN	NS	suspend2.tld.sy.
 elira.sy.		86400	IN	NS	ns3.tld.sy.
 elira.sy.		86400	IN	NS	ns4.tld.sy.
-elisyr.sy.		86400	IN	NS	ns1.lazernet.sy.
-elisyr.sy.		86400	IN	NS	ns2.lazernet.sy.
+elisyr.sy.		86400	IN	NS	suspend1.tld.sy.
+elisyr.sy.		86400	IN	NS	suspend2.tld.sy.
 elite.sy.		86400	IN	NS	beau.ns.cloudflare.com.
 elite.sy.		86400	IN	NS	dawn.ns.cloudflare.com.
 elite-garment.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -2970,8 +2970,8 @@ exta.sy.		86400	IN	NS	suspend1.tld.sy.
 exta.sy.		86400	IN	NS	suspend2.tld.sy.
 extramile.sy.		86400	IN	NS	suspend1.tld.sy.
 extramile.sy.		86400	IN	NS	suspend2.tld.sy.
-ez.sy.			86400	IN	NS	ns1.scltd.sy.
-ez.sy.			86400	IN	NS	ns2.scltd.sy.
+ez.sy.			86400	IN	NS	suspend1.tld.sy.
+ez.sy.			86400	IN	NS	suspend2.tld.sy.
 ezhost.sy.		86400	IN	NS	sydns1.nobalaa.com.
 ezhost.sy.		86400	IN	NS	sydns2.nobalaa.com.
 ezpay.sy.		86400	IN	NS	sydns1.nobalaa.com.
@@ -7875,4 +7875,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062218 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062224 3600 3600 2592000 3600
