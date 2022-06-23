@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062304 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062307 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1655956850"
+mg.			7200	IN	TXT	"Generation Time: 1655967632"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -777,8 +777,6 @@ amit.mg.		7200	IN	NS	ns.dts.mg.
 amit.mg.		7200	IN	NS	ns1.dts.mg.
 amjlogistique.mg.	7200	IN	NS	ns29.dot.mg.
 amjlogistique.mg.	7200	IN	NS	ns29.illi.co.mg.
-ampelamitraoke.mg.	7200	IN	NS	ns1.da.cloudns.io.
-ampelamitraoke.mg.	7200	IN	NS	ns2.da.cloudns.io.
 ampm.mg.		7200	IN	NS	ns-29-a.gandi.net.
 ampm.mg.		7200	IN	NS	ns-219-b.gandi.net.
 ampm.mg.		7200	IN	NS	ns-228-c.gandi.net.
@@ -1867,8 +1865,6 @@ bonplans.mg.		7200	IN	NS	ns.dts.mg.
 bonplans.mg.		7200	IN	NS	ns1.dts.mg.
 bonplantourisme.mg.	7200	IN	NS	ns1.ntmada-webhosting.com.
 bonplantourisme.mg.	7200	IN	NS	ns2.ntmada-webhosting.com.
-bonprix.mg.		7200	IN	NS	ns1.o2switch.net.
-bonprix.mg.		7200	IN	NS	ns2.o2switch.net.
 booking.mg.		7200	IN	NS	ns0.bkngs.com.
 booking.mg.		7200	IN	NS	ns1.bkngs.com.
 booking.mg.		7200	IN	NS	ns2.bkngs.com.
@@ -5973,8 +5969,6 @@ laverite.mg.		86400	IN	NS	ns3052532.ip-178-33-229.eu.
 laverite.mg.		86400	IN	NS	sdns2.ovh.net.
 lavieclaire.mg.		86400	IN	NS	ns1.servermada.com.
 lavieclaire.mg.		86400	IN	NS	ns2.servermada.com.
-lavigilante.mg.		86400	IN	NS	ns.dts.mg.
-lavigilante.mg.		86400	IN	NS	ns1.dts.mg.
 lazaro.mg.		86400	IN	NS	ns1.cloudns.io.
 lazaro.mg.		86400	IN	NS	ns2.cloudns.io.
 lcs.mg.			86400	IN	NS	ns1.cloudns.io.
@@ -6426,8 +6420,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -7711,8 +7705,6 @@ ober.mg.		86400	IN	NS	nsmpro1.nordnet.com.
 ober.mg.		86400	IN	NS	nsmpro2.nordnet.com.
 objectifdoctorat.mg.	86400	IN	NS	ns29.dot.mg.
 objectifdoctorat.mg.	86400	IN	NS	ns29.illi.co.mg.
-observatoire-migrations-internes.mg. 86400 IN NS ns1.da.cloudns.io.
-observatoire-migrations-internes.mg. 86400 IN NS ns2.da.cloudns.io.
 observatoire-territoire.mg. 86400 IN	NS	leland.ns.cloudflare.com.
 observatoire-territoire.mg. 86400 IN	NS	nataly.ns.cloudflare.com.
 oceane-aventure.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
@@ -9301,8 +9293,6 @@ scout-evolution.mg.	86400	IN	NS	ns.dts.mg.
 scout-evolution.mg.	86400	IN	NS	ns1.dts.mg.
 scrimad.mg.		86400	IN	NS	ns.dts.mg.
 scrimad.mg.		86400	IN	NS	ns1.dts.mg.
-scriptura.mg.		86400	IN	NS	ns1.cloudns.io.
-scriptura.mg.		86400	IN	NS	ns2.cloudns.io.
 se-koly.mg.		86400	IN	NS	ns1.afraid.org.
 se-koly.mg.		86400	IN	NS	ns2.afraid.org.
 se-koly.mg.		86400	IN	NS	ns3.afraid.org.
@@ -10827,8 +10817,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11556,4 +11546,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062304 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062307 600 3600 604800 86400
