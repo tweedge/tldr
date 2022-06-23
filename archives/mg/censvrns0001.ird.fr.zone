@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062310 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062313 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1655978446"
+mg.			7200	IN	TXT	"Generation Time: 1655989234"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -211,6 +211,8 @@ mg.			7200	IN	TXT	"Generation Time: 1655978446"
 666.mg.			7200	IN	NS	candy.ns.cloudflare.com.
 67.mg.			7200	IN	NS	ezra.ns.cloudflare.com.
 67.mg.			7200	IN	NS	lola.ns.cloudflare.com.
+6917.mg.		7200	IN	NS	ns1.dns.com.
+6917.mg.		7200	IN	NS	ns2.dns.com.
 6b.mg.			7200	IN	NS	norm.ns.cloudflare.com.
 6b.mg.			7200	IN	NS	rihana.ns.cloudflare.com.
 6c.mg.			7200	IN	NS	joselyn.ns.cloudflare.com.
@@ -4784,6 +4786,10 @@ hitako-api.mg.		86400	IN	NS	ns2.indritech.mg.
 hitako-api.mg.		86400	IN	NS	ns3.indritech.mg.
 hk-jurifisc-mada.mg.	86400	IN	NS	ns1.servermada.com.
 hk-jurifisc-mada.mg.	86400	IN	NS	ns2.servermada.com.
+hmrrcabinet-avocats.mg.	86400	IN	NS	ns1.p201.dns.oraclecloud.net.
+hmrrcabinet-avocats.mg.	86400	IN	NS	ns2.p201.dns.oraclecloud.net.
+hmrrcabinet-avocats.mg.	86400	IN	NS	ns3.p201.dns.oraclecloud.net.
+hmrrcabinet-avocats.mg.	86400	IN	NS	ns4.p201.dns.oraclecloud.net.
 hms1.mg.		86400	IN	NS	ns1.servermada.com.
 hms1.mg.		86400	IN	NS	ns2.servermada.com.
 hnjm.mg.		86400	IN	NS	dns1.indritech.biz.
@@ -4945,6 +4951,8 @@ i-politika.mg.		86400	IN	NS	ns1.da.cloudns.io.
 i-politika.mg.		86400	IN	NS	ns2.da.cloudns.io.
 i-sekoliko.mg.		86400	IN	NS	dns200.anycast.me.
 i-sekoliko.mg.		86400	IN	NS	ns200.anycast.me.
+i-tantana.mg.		86400	IN	NS	ns1.gasyweb.com.
+i-tantana.mg.		86400	IN	NS	ns2.gasyweb.com.
 i-tantsoroka.mg.	86400	IN	NS	ns1.digitalocean.com.
 i-tantsoroka.mg.	86400	IN	NS	ns2.digitalocean.com.
 i-tic.mg.		86400	IN	NS	ns.dts.mg.
@@ -11548,4 +11556,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062310 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062313 600 3600 604800 86400
