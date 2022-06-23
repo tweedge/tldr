@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062313 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062316 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1655989234"
+mg.			7200	IN	TXT	"Generation Time: 1656000040"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -9637,6 +9637,9 @@ sms.mg.			86400	IN	NS	nsb.planethoster.net.
 sms.mg.			86400	IN	NS	nsc.planethoster.net.
 smsd.mg.		86400	IN	NS	ns1-boxer.vivawebhost.com.
 smsd.mg.		86400	IN	NS	ns2-boxer.vivawebhost.com.
+smse.mg.		86400	IN	NS	ns-215-a.gandi.net.
+smse.mg.		86400	IN	NS	ns-19-b.gandi.net.
+smse.mg.		86400	IN	NS	ns-238-c.gandi.net.
 smsp.mg.		86400	IN	NS	ns1.da.cloudns.io.
 smsp.mg.		86400	IN	NS	ns2.da.cloudns.io.
 smstechnology.mg.	86400	IN	NS	ns1.cloudns.io.
@@ -11556,4 +11559,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062313 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062316 600 3600 604800 86400
