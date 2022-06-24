@@ -23,6 +23,7 @@
 * `mg` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/mg/censvrns0001.ird.fr.zone)
 * `mw` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/chambo.sdnp.org.mw.zone)
 * `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
+* `pg` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns1.tiare.net.pg.zone)
 * `sl` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/ns2.neoip.com.zone)
 * `sn` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/sn/censvrns0001.ird.fr.zone)
 * `ss` via `b.ns.tznic.or.tz.`: [Click here to view zone data.](archives/ss/b.ns.tznic.or.tz.zone)
