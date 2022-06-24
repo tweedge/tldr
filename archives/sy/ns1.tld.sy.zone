@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062417 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1656054142"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062422 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1656064931"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -7,8 +7,8 @@ sy.			86400	IN	NS	pch.anycast.tld.sy.
 00.sy.			86400	IN	NS	denver.ns.cloudflare.com.
 01.sy.			86400	IN	NS	sydns1.nobalaa.com.
 01.sy.			86400	IN	NS	sydns2.nobalaa.com.
-05.sy.			86400	IN	NS	jamie.ns.cloudflare.com.
-05.sy.			86400	IN	NS	gabriel.ns.cloudflare.com.
+05.sy.			86400	IN	NS	suspend1.tld.sy.
+05.sy.			86400	IN	NS	suspend2.tld.sy.
 06.sy.			86400	IN	NS	jamie.ns.cloudflare.com.
 06.sy.			86400	IN	NS	gabriel.ns.cloudflare.com.
 08.sy.			86400	IN	NS	tadeo.ns.cloudflare.com.
@@ -211,8 +211,8 @@ sy.			86400	IN	NS	pch.anycast.tld.sy.
 963media.sy.		86400	IN	NS	ns54.uae-dc.com.
 97.sy.			86400	IN	NS	suzanne.ns.cloudflare.com.
 97.sy.			86400	IN	NS	giancarlo.ns.cloudflare.com.
-98.sy.			86400	IN	NS	ns1.dns.com.
-98.sy.			86400	IN	NS	ns2.dns.com.
+98.sy.			86400	IN	NS	suspend1.tld.sy.
+98.sy.			86400	IN	NS	suspend2.tld.sy.
 99.sy.			86400	IN	NS	suspend1.tld.sy.
 99.sy.			86400	IN	NS	suspend2.tld.sy.
 996.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -954,8 +954,8 @@ almeer.sy.		86400	IN	NS	ns1.scs-net.org.
 almeer.sy.		86400	IN	NS	ns2.scs-net.sy.
 almeer.sy.		86400	IN	NS	ns2.scs-net.org.
 almeer.sy.		86400	IN	NS	ns6.scs-net.sy.
-almeree-tn.sy.		86400	IN	NS	ns1.waveshost.sy.
-almeree-tn.sy.		86400	IN	NS	ns2.waveshost.sy.
+almeree-tn.sy.		86400	IN	NS	suspend1.tld.sy.
+almeree-tn.sy.		86400	IN	NS	suspend2.tld.sy.
 almhemid-bros.sy.	86400	IN	NS	suspend1.tld.sy.
 almhemid-bros.sy.	86400	IN	NS	suspend2.tld.sy.
 almhra.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -3983,8 +3983,8 @@ jelaticone.sy.		86400	IN	NS	ns237.ucg.ltd.
 jelaticone.sy.		86400	IN	NS	ns2237.ucg.ltd.
 jewelco.sy.		86400	IN	NS	suspend1.tld.sy.
 jewelco.sy.		86400	IN	NS	suspend2.tld.sy.
-jhanaharakataval.sy.	86400	IN	NS	ns3.tld.sy.
-jhanaharakataval.sy.	86400	IN	NS	ns4.tld.sy.
+jhanaharakataval.sy.	86400	IN	NS	suspend1.tld.sy.
+jhanaharakataval.sy.	86400	IN	NS	suspend2.tld.sy.
 jiang.sy.		86400	IN	NS	ns1.entornodns.com.
 jiang.sy.		86400	IN	NS	ns2.entornodns.com.
 jinsha.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -4792,10 +4792,10 @@ medpocket.sy.		86400	IN	NS	ns1.pronet.sy.
 medpocket.sy.		86400	IN	NS	ns2.pronet.sy.
 medsyr.sy.		86400	IN	NS	ns1.monster.sy.
 medsyr.sy.		86400	IN	NS	ns2.monster.sy.
-melad-belals.sy.	86400	IN	NS	ns1.waveshost.sy.
-melad-belals.sy.	86400	IN	NS	ns2.waveshost.sy.
-melad-rawifqs.sy.	86400	IN	NS	ns1.waveshost.sy.
-melad-rawifqs.sy.	86400	IN	NS	ns2.waveshost.sy.
+melad-belals.sy.	86400	IN	NS	suspend1.tld.sy.
+melad-belals.sy.	86400	IN	NS	suspend2.tld.sy.
+melad-rawifqs.sy.	86400	IN	NS	suspend1.tld.sy.
+melad-rawifqs.sy.	86400	IN	NS	suspend2.tld.sy.
 melodyfm.sy.		86400	IN	NS	suspend1.tld.sy.
 melodyfm.sy.		86400	IN	NS	suspend2.tld.sy.
 melqart-llc.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -4885,8 +4885,8 @@ milestone.sy.		86400	IN	NS	ns1.flexsolutiondomains.com.
 milestone.sy.		86400	IN	NS	ns2.flexsolutiondomains.com.
 milkman.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 milkman.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
-millia-bara.sy.		86400	IN	NS	ns16.samamax.com.
-millia-bara.sy.		86400	IN	NS	ns17.samamax.com.
+millia-bara.sy.		86400	IN	NS	suspend1.tld.sy.
+millia-bara.sy.		86400	IN	NS	suspend2.tld.sy.
 mindray.sy.		86400	IN	NS	ns1.ourhost.org.
 mindray.sy.		86400	IN	NS	ns2.ourhost.org.
 miro.sy.		86400	IN	NS	ns1.damashost.com.
@@ -6155,8 +6155,8 @@ scabal-syria.sy.	86400	IN	NS	suspend1.tld.sy.
 scabal-syria.sy.	86400	IN	NS	suspend2.tld.sy.
 scbc.sy.		86400	IN	NS	ns1.imtyaz.sy.
 scbc.sy.		86400	IN	NS	ns2.imtyaz.sy.
-scc.sy.			86400	IN	NS	ns3.tld.sy.
-scc.sy.			86400	IN	NS	ns4.tld.sy.
+scc.sy.			86400	IN	NS	suspend1.tld.sy.
+scc.sy.			86400	IN	NS	suspend2.tld.sy.
 scdc.sy.		86400	IN	NS	ns3.tld.sy.
 scdc.sy.		86400	IN	NS	ns4.tld.sy.
 scfms.sy.		86400	IN	NS	ns1.syrianmonster.com.sy.
@@ -7894,4 +7894,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062417 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062422 3600 3600 2592000 3600
