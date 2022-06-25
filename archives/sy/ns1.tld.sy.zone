@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062517 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1656140537"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062522 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1656151345"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -910,8 +910,8 @@ almajd-co.sy.		86400	IN	NS	suspend1.tld.sy.
 almajd-co.sy.		86400	IN	NS	suspend2.tld.sy.
 almajd-food.sy.		86400	IN	NS	suspend1.tld.sy.
 almajd-food.sy.		86400	IN	NS	suspend2.tld.sy.
-almajen.sy.		86400	IN	NS	ns1.waveshost.sy.
-almajen.sy.		86400	IN	NS	ns2.waveshost.sy.
+almajen.sy.		86400	IN	NS	suspend1.tld.sy.
+almajen.sy.		86400	IN	NS	suspend2.tld.sy.
 almajzoub-son.sy.	86400	IN	NS	suspend1.tld.sy.
 almajzoub-son.sy.	86400	IN	NS	suspend2.tld.sy.
 almakshuf.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -2271,8 +2271,8 @@ cute.sy.		86400	IN	NS	suspend1.tld.sy.
 cute.sy.		86400	IN	NS	suspend2.tld.sy.
 cv.sy.			86400	IN	NS	suspend1.tld.sy.
 cv.sy.			86400	IN	NS	suspend2.tld.sy.
-d2d.sy.			86400	IN	NS	dns319.doteasy.com.
-d2d.sy.			86400	IN	NS	dns320.doteasy.com.
+d2d.sy.			86400	IN	NS	suspend1.tld.sy.
+d2d.sy.			86400	IN	NS	suspend2.tld.sy.
 d2m-co.sy.		86400	IN	NS	ns16.samamax.com.
 d2m-co.sy.		86400	IN	NS	ns17.samamax.com.
 daamcard.sy.		86400	IN	NS	ns3.tld.sy.
@@ -3850,8 +3850,8 @@ intracom.sy.		86400	IN	NS	ns2.scs-net.sy.
 intracom.sy.		86400	IN	NS	ns2.scs-net.org.
 intsmartsys.sy.		86400	IN	NS	ns1.damashost.com.
 intsmartsys.sy.		86400	IN	NS	ns2.damashost.com.
-investinsyria.sy.	86400	IN	NS	ns1.shamcenter.com.
-investinsyria.sy.	86400	IN	NS	ns2.shamcenter.com.
+investinsyria.sy.	86400	IN	NS	suspend1.tld.sy.
+investinsyria.sy.	86400	IN	NS	suspend2.tld.sy.
 investn.sy.		86400	IN	NS	ns1.shamcenter.com.
 investn.sy.		86400	IN	NS	ns2.shamcenter.com.
 io.sy.			86400	IN	NS	ns41.infomaniak.com.
@@ -6277,11 +6277,11 @@ sfs-edu.sy.		86400	IN	NS	suspend1.tld.sy.
 sfs-edu.sy.		86400	IN	NS	suspend2.tld.sy.
 sgb.sy.			86400	IN	NS	ns11.inet.sy.
 sgb.sy.			86400	IN	NS	ns12.inet.sy.
-sh.sy.			86400	IN	NS	ns1.ucg-core.com.
-sh.sy.			86400	IN	NS	ns4.ucg-core.com.
-sh.sy.			86400	IN	NS	ns11.ucg-core.com.
-sh.sy.			86400	IN	NS	ns51.uae-dc.com.
-sh.sy.			86400	IN	NS	ns54.uae-dc.com.
+sh.sy.			86400	IN	NS	ns1.scs-net.sy.
+sh.sy.			86400	IN	NS	ns1.scs-net.org.
+sh.sy.			86400	IN	NS	ns2.scs-net.sy.
+sh.sy.			86400	IN	NS	ns2.scs-net.org.
+sh.sy.			86400	IN	NS	ns6.scs-net.sy.
 shabablink.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 shabablink.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
 shababplus.sy.		86400	IN	NS	dns1.freehostia.com.
@@ -7894,4 +7894,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062517 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062522 3600 3600 2592000 3600
