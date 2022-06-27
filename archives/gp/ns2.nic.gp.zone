@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022062305 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022062715 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -1275,6 +1275,9 @@ datumclaro.gp.		86400	IN	NS	dns01.amigokit.com.
 datumclaro.gp.		86400	IN	NS	dns1i.itelcel.com.
 david.gp.		86400	IN	NS	1.ns.dog.
 david.gp.		86400	IN	NS	2.ns.dog.
+db.gp.			86400	IN	NS	ns1.netim.net.
+db.gp.			86400	IN	NS	ns2.netim.net.
+db.gp.			86400	IN	NS	ns3.netim.net.
 dbet.gp.		86400	IN	NS	ns1.nameisp.info.
 dbet.gp.		86400	IN	NS	ns2.nameisp.info.
 de.gp.			86400	IN	NS	ns1.subdomain.net.
@@ -3553,6 +3556,8 @@ nexthotels.gp.		86400	IN	NS	3.dnsservers.de.
 nexthotels.gp.		86400	IN	NS	4.dns-servers.eu.
 nfi.gp.			86400	IN	NS	ns103.ovh.net.
 nfi.gp.			86400	IN	NS	dns103.ovh.net.
+nft.gp.			86400	IN	NS	ns1.dns.com.
+nft.gp.			86400	IN	NS	ns2.dns.com.
 nftart.gp.		86400	IN	NS	ns1.francedns.com.
 nftart.gp.		86400	IN	NS	ns2.francedns.com.
 nftart.gp.		86400	IN	NS	ns3.francedns.com.
@@ -3683,8 +3688,8 @@ ofracosmetics.gp.	86400	IN	NS	ns4.inwx.com.
 ofracosmetics.gp.	86400	IN	NS	ns5.inwx.net.
 oli.gp.			86400	IN	NS	ns1.magiiic.com.
 oli.gp.			86400	IN	NS	ns2.magiiic.com.
-omega.gp.		86400	IN	NS	mira.ns.cloudflare.com.
-omega.gp.		86400	IN	NS	austin.ns.cloudflare.com.
+omega.gp.		86400	IN	NS	ns1.syd6.hostingplatform.net.au.
+omega.gp.		86400	IN	NS	ns2.syd6.hostingplatform.net.au.
 omni.gp.		86400	IN	NS	dns1.omnigroup.com.
 omni.gp.		86400	IN	NS	dns2.omnigroup.com.
 on.gp.			86400	IN	NS	ns1.subdomain.net.
@@ -4893,6 +4898,8 @@ trade.gp.		86400	IN	NS	ns1.undeveloped.com.
 trade.gp.		86400	IN	NS	ns2.undeveloped.com.
 trading.gp.		86400	IN	NS	ns1.undeveloped.com.
 trading.gp.		86400	IN	NS	ns2.undeveloped.com.
+traditour.gp.		86400	IN	NS	ns2.francedns.com.
+traditour.gp.		86400	IN	NS	cloudf03.francedns.com.
 transitech.gp.		86400	IN	NS	ns1045.ui-dns.de.
 transitech.gp.		86400	IN	NS	ns1045.ui-dns.biz.
 transitech.gp.		86400	IN	NS	ns1045.ui-dns.com.
@@ -5371,4 +5378,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022062305 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022062715 86400 7200 2592000 345600
