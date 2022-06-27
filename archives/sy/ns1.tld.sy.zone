@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062713 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1656311533"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062717 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1656320539"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -81,8 +81,8 @@ sy.			86400	IN	NS	pch.anycast.tld.sy.
 365.sy.			86400	IN	NS	candy.ns.cloudflare.com.
 38.sy.			86400	IN	NS	brodie.ns.cloudflare.com.
 38.sy.			86400	IN	NS	annabel.ns.cloudflare.com.
-39.sy.			86400	IN	NS	suzanne.ns.cloudflare.com.
-39.sy.			86400	IN	NS	giancarlo.ns.cloudflare.com.
+39.sy.			86400	IN	NS	suspend1.tld.sy.
+39.sy.			86400	IN	NS	suspend2.tld.sy.
 3d.sy.			86400	IN	NS	ns1.alanqaa.com.
 3d.sy.			86400	IN	NS	ns2.alanqaa.com.
 3dgate.sy.		86400	IN	NS	dns1.namecheaphosting.com.
@@ -179,8 +179,8 @@ sy.			86400	IN	NS	pch.anycast.tld.sy.
 82.sy.			86400	IN	NS	ursula.ns.cloudflare.com.
 857.sy.			86400	IN	NS	suspend1.tld.sy.
 857.sy.			86400	IN	NS	suspend2.tld.sy.
-86.sy.			86400	IN	NS	suzanne.ns.cloudflare.com.
-86.sy.			86400	IN	NS	giancarlo.ns.cloudflare.com.
+86.sy.			86400	IN	NS	suspend1.tld.sy.
+86.sy.			86400	IN	NS	suspend2.tld.sy.
 88.sy.			86400	IN	NS	pam.ns.cloudflare.com.
 88.sy.			86400	IN	NS	lakas.ns.cloudflare.com.
 888.sy.			86400	IN	NS	adam.ns.cloudflare.com.
@@ -7897,4 +7897,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062713 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062717 3600 3600 2592000 3600
