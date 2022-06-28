@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450521 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450542 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220824061930 20220625060003 17389 sn. sP4l55JjuwwfjcipMw69nktaNlRGSpVmspaa7GCpCXuyGHPCDpN7aGCL ndEYXYbSvFOeopBiMrxX4iTzE+hfUw==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220727201301 20220528200832 37490 sn. FXQaaPpMC+ytPS/yXbHg2fGs2RX+tm/tMFviIK++yMzZ74pyRUC9lkfO WOvtUTyDvjR+NCRO0XKz2++xv9CLjg==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220808031029 20220628121002 17389 sn. jVGqFhXFwrEE6ZUROytrRXckGUro0VBX+I6eM67UMGHbCqeeYemjnHd9 M5LH9Sfzjkhm2VMQnwWzD+yYJ+61Jw==
-sn.			172800	IN	TXT	"No RRs processed [28/06/2022 15H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220724164953 20220628151003 17389 sn. RNqdRyR4C9Kh975EeZAZgsY2OYwDRSMzZK5JcF3WtGTnvsmmLrOd1Nlr wtANrtHynCphlRsb98MpY8SYlskAaQ==
+sn.			172800	IN	TXT	"4 RRs processed [28/06/2022 18H10:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220720154248 20220521150127 17389 sn. NYLvvbbtaaNsMrlL5vklp94cmNEGNsxZHwdFagPZ6sb6DkQnNbLvpy6V DmRoMqv636RbQ2+/7H/FZMG/w/xjIQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220827131002 20220628121002 17389 sn. /k5ydgZ52fddvdhRcGxhRrZW1HdoWvA7agnaixXD1XWYbX+7WmNakviF 6XpvOq8B0dYjGEnZFr96yCA2QHnQ3w==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220827161003 20220628151003 17389 sn. iuxYdTEInU52LdY7EjxjykhLaXrsqRu00bLtjRzl3v7tDAHyuCslBD+4 gLxdtreJXX+M8/2VFYNjDXuHezQqZg==
 000.sn.			172800	IN	NS	vip7.alidns.com.
 000.sn.			172800	IN	NS	vip8.alidns.com.
 0000.sn.		172800	IN	NS	vip7.alidns.com.
@@ -1753,6 +1753,10 @@ apecsy.sn.		172800	IN	NS	ns3.kheweul.net.
 apecsy.sn.		172800	IN	NS	ns4.kheweul.net.
 apex.sn.		43200	IN	NS	ns1.brandcloudns.com.
 apex.sn.		43200	IN	NS	ns2.brandcloudns.com.
+apex-varriwa.sn.	172800	IN	NS	ns3.wanekoohost.com.
+apex-varriwa.sn.	172800	IN	NS	ns4.wanekoohost.com.
+apex-varriwa.sn.	172800	IN	NS	ns5.wanekoohost.com.
+apex-varriwa.sn.	172800	IN	NS	ns6.wanekoohost.com.
 aphia.sn.		43200	IN	NS	ns1.caurys.net.
 aphia.sn.		43200	IN	NS	ns2.caurys.net.
 api.sn.			43200	IN	NS	ns1.kheweul.net.
@@ -6417,7 +6421,7 @@ districhim.sn.		172800	IN	NS	ns112.ovh.net.
 districhim.sn.		172800	IN	NS	dns112.ovh.net.
 distrisen.sn.		43200	IN	NS	ns19.ovh.net.
 distrisen.sn.		43200	IN	NS	dns19.ovh.net.
-dit.sn.			172800	IN	RRSIG	DS 13 2 172800 20220712145224 20220605220002 17389 sn. rcQWxagTyN0dqz0MWRKf2sNuPYz0kO1iVVi3CO4BgdZuKfh2Ptnbh4b4 FpDHKunWMaJ34/EIi/2avoQTrJCh+A==
+dit.sn.			172800	IN	RRSIG	DS 13 2 172800 20220827141737 20220628135224 17389 sn. 70TdvgxvcwhZrc406+bV9xMFgxRG7yqH43xKHIYXkcf+nOlSQ+7qNzHi kbQyCGgSgAtiiUyCEAdgjQ4VFQJKZA==
 dit.sn.			172800	IN	DS	59464 8 2 B69F429E8CDABF62E9B394B6DE15F96C94C15E9F16F64E5912296461 5D3498AB
 dit.sn.			43200	IN	NS	ns109.ovh.net.
 dit.sn.			43200	IN	NS	dns109.ovh.net.
@@ -7996,6 +8000,10 @@ exponentielle.sn.	43200	IN	NS	ns105.ovh.net.
 exponentielle.sn.	43200	IN	NS	dns105.ovh.net.
 expressautogg.sn.	43200	IN	NS	ns2.francedns.com.
 expressautogg.sn.	43200	IN	NS	cloudf03.francedns.com.
+expressbuilding.sn.	172800	IN	NS	ns1.afrowebmaster.com.
+expressbuilding.sn.	172800	IN	NS	ns2.afrowebmaster.com.
+expressbuilding.sn.	172800	IN	NS	ns3.afrowebmaster.com.
+expressbuilding.sn.	172800	IN	NS	ns4.afrowebmaster.com.
 expresso.sn.		43200	IN	NS	ns1.expresso.sn.
 expresso.sn.		43200	IN	NS	vpn.expresso.sn.
 expresso.sn.		43200	IN	NS	wap.expresso.sn.
@@ -11449,7 +11457,7 @@ jemengage.sn.		43200	IN	NS	ns107.ovh.net.
 jemengage.sn.		43200	IN	NS	dns107.ovh.net.
 jena.sn.		43200	IN	NS	eisdns1.expertis.sn.
 jena.sn.		43200	IN	NS	eisdns2.expertis.sn.
-jendalma.sn.		43200	IN	RRSIG	DS 13 2 43200 20220712141401 20220513140505 17389 sn. DAuuG2AogYBaeHljszcvq10rranc7pjE9HXUzeD3ErWH8dNOFocVnmWf UVuP8yHDcSHu+sGbETbeYywLiks3Aw==
+jendalma.sn.		43200	IN	RRSIG	DS 13 2 43200 20220827132852 20220628131401 17389 sn. oKW0Qc3xHlf+V2xzy7fGYJrqJ7at3yjFQDMu9kaKvj7ABKsmMopLUNL4 SAgD94Ed+ed61YjnGI7Rydfe8nh/6A==
 jendalma.sn.		43200	IN	DS	62587 8 2 728939DC62E7B6A54AAF209A2653695275A2024CF0638AACD9141D6E 4723E60B
 jendalma.sn.		43200	IN	NS	ns13.ovh.net.
 jendalma.sn.		43200	IN	NS	dns13.ovh.net.
@@ -18626,8 +18634,8 @@ senebid.sn.		43200	IN	NS	ns1.snterra.com.
 senebid.sn.		43200	IN	NS	ns2.snterra.com.
 senecare.sn.		43200	IN	NS	ns105.ovh.net.
 senecare.sn.		43200	IN	NS	dns105.ovh.net.
-senecartours.sn.	172800	IN	RRSIG	DS 13 2 172800 20220821064046 20220622054416 17389 sn. LV/jAV29fjUGIA/WSQQOCTuMhan64GZOpdu+VHujyTJpibUtjMXLsY+n s/K5Bjjps2spfx1avGvv/uwb1+MG4A==
-senecartours.sn.	172800	IN	DS	21712 8 2 41BC2292E0315CA95DDA53913C56A86EDB2B7B1688D2E1EC11F0E668 6EB193FB
+senecartours.sn.	172800	IN	RRSIG	DS 13 2 172800 20220725182207 20220628140002 17389 sn. CqrEZretdm/EaOL6mmSgKqA1F7+fnU2gn4etHM93Y/j0vPg9qj29bqxl DCJEd1AbSUVXNsNOKZGdEd3hNBj3KA==
+senecartours.sn.	172800	IN	DS	52954 8 2 EB79CFC64B68ABCF3B39A0BE41DACFEA2A7A086CF89AC51A06CE963D D9AB95B6
 senecartours.sn.	172800	IN	NS	ns112.ovh.net.
 senecartours.sn.	172800	IN	NS	dns112.ovh.net.
 senecera.sn.		172800	IN	NS	ns111.ovh.net.
@@ -19815,7 +19823,7 @@ socam.sn.		43200	IN	NS	ns3.dinahosting.com.
 socam.sn.		43200	IN	NS	ns4.dinahosting.com.
 socar.sn.		43200	IN	NS	ns.sonatel.sn.
 socar.sn.		43200	IN	NS	ns2.sonatel.sn.
-socatral.sn.		43200	IN	RRSIG	DS 13 2 43200 20220712155729 20220513154812 17389 sn. srFv9UYtXLpCIsBaXwwSREroNUjCT9Uj1r2nNA2MueSXcEd4yVhRGcMR msmyu5Gq8VixMroxM8/KaYxNCy996A==
+socatral.sn.		43200	IN	RRSIG	DS 13 2 43200 20220827151649 20220628145729 17389 sn. 4vH/mroB/LoL+gyI4Z4hovBxKzqdZhFwHwVzUp+E4WIPa0x76f4EM6d1 TTnT4EBkhJc5u3EJ4btOHPOt6ZoX/g==
 socatral.sn.		43200	IN	DS	11599 8 2 AF0F0618B5CDB44CE411CC52DB7C7B40EBE53F217D6B15E96E54AAD7 9FAD7330
 socatral.sn.		43200	IN	NS	ns20.ovh.net.
 socatral.sn.		43200	IN	NS	dns20.ovh.net.
@@ -22323,6 +22331,10 @@ vh1.sn.			43200	IN	NS	pdns3.ultradns.org.
 vh1.sn.			43200	IN	NS	pdns4.ultradns.org.
 vh1.sn.			43200	IN	NS	pdns5.ultradns.info.
 vh1.sn.			43200	IN	NS	pdns6.ultradns.co.uk.
+via.sn.			172800	IN	NS	ns1.kheweul.net.
+via.sn.			172800	IN	NS	ns2.kheweul.net.
+via.sn.			172800	IN	NS	ns3.kheweul.net.
+via.sn.			172800	IN	NS	ns4.kheweul.net.
 viap.sn.		43200	IN	NS	rns1.rightsdns.com.
 viap.sn.		43200	IN	NS	rns2.rightsdns.com.
 viaplay.sn.		43200	IN	NS	ns1.zaccodns.com.
@@ -25551,4 +25563,4 @@ VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022081509390
 VUO3Q7NOMJR4QAK4HOGH17L36K3OS2FG.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 VV3IDF84ISCK271NU3M3JSCE5G2L69FE NS DS RRSIG
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220801214314 20220602210335 17389 sn. R/ez97QVrc7ty9kiiLhlFITWW1/QINceK/uAMEZXVXITJpbd5y/vv3jr qf1My7l4dGK2xxwmmwzxAeeR+kcG3A==
 VV3IDF84ISCK271NU3M3JSCE5G2L69FE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 03E795UMJJIEBB4O5SBJU6BL20OBLSJS NS DS RRSIG
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450521 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450542 3600 1800 3600000 5400
