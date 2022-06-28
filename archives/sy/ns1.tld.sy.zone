@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062810 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1656388940"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062815 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1656399730"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2720,6 +2720,8 @@ ecc.sy.			86400	IN	NS	ns3.tld.sy.
 ecc.sy.			86400	IN	NS	ns4.tld.sy.
 eccs.sy.		86400	IN	NS	suspend1.tld.sy.
 eccs.sy.		86400	IN	NS	suspend2.tld.sy.
+eccu.sy.		86400	IN	NS	monika.ns.cloudflare.com.
+eccu.sy.		86400	IN	NS	tanner.ns.cloudflare.com.
 ecsc-expat.sy.		86400	IN	NS	ns3.tld.sy.
 ecsc-expat.sy.		86400	IN	NS	ns4.tld.sy.
 ecsta.sy.		86400	IN	NS	ns1.dan.com.
@@ -7903,4 +7905,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062810 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062815 3600 3600 2592000 3600
