@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062910 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062913 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1656496834"
+mg.			7200	IN	TXT	"Generation Time: 1656507637"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -209,6 +209,8 @@ mg.			7200	IN	TXT	"Generation Time: 1656496834"
 6202.mg.		7200	IN	NS	v1s2.xundns.com.
 6277.mg.		7200	IN	NS	ns1.dns.com.
 6277.mg.		7200	IN	NS	ns2.dns.com.
+6547.mg.		7200	IN	NS	ns1.dns.com.
+6547.mg.		7200	IN	NS	ns2.dns.com.
 66.mg.			7200	IN	NS	hunts.ns.cloudflare.com.
 66.mg.			7200	IN	NS	jill.ns.cloudflare.com.
 666.mg.			7200	IN	NS	adam.ns.cloudflare.com.
@@ -6422,8 +6424,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -6670,6 +6672,8 @@ marcelalban.mg.		86400	IN	NS	ns1-boxer.vivawebhost.com.
 marcelalban.mg.		86400	IN	NS	ns2-boxer.vivawebhost.com.
 mariage.mg.		86400	IN	NS	ns1.cloudns.io.
 mariage.mg.		86400	IN	NS	ns2.cloudns.io.
+mariages.mg.		86400	IN	NS	ns1.cloudns.io.
+mariages.mg.		86400	IN	NS	ns2.cloudns.io.
 mariapoly.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 mariapoly.mg.		86400	IN	NS	ns2.madanetinfo.mg.
 mariestopes.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
@@ -7574,6 +7578,8 @@ nosy-mada-tours.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 nosy-mada-tours.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
 nosybe.mg.		86400	IN	NS	ns1.da.cloudns.io.
 nosybe.mg.		86400	IN	NS	ns2.da.cloudns.io.
+nosybe-magic.mg.	86400	IN	NS	ns1.da.cloudns.io.
+nosybe-magic.mg.	86400	IN	NS	ns2.da.cloudns.io.
 nosybe-magic-tour.mg.	86400	IN	NS	ns1.da.cloudns.io.
 nosybe-magic-tour.mg.	86400	IN	NS	ns2.da.cloudns.io.
 nosysaba.mg.		86400	IN	NS	ns1.servermada.com.
@@ -11559,4 +11565,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062910 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062913 600 3600 604800 86400
