@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062917 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1656486137"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062923 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1656496933"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -4415,8 +4415,8 @@ liu.sy.			86400	IN	NS	f1g1ns1.dnspod.net.
 liu.sy.			86400	IN	NS	f1g1ns2.dnspod.net.
 live.sy.		86400	IN	NS	ns16.samamax.com.
 live.sy.		86400	IN	NS	ns17.samamax.com.
-llrbi3ll.sy.		86400	IN	NS	ns1.waveshost.sy.
-llrbi3ll.sy.		86400	IN	NS	ns2.waveshost.sy.
+llrbi3ll.sy.		86400	IN	NS	suspend1.tld.sy.
+llrbi3ll.sy.		86400	IN	NS	suspend2.tld.sy.
 lmail.sy.		86400	IN	NS	ns1.dns-parking.com.
 lmail.sy.		86400	IN	NS	ns2.dns-parking.com.
 lmo.sy.			86400	IN	NS	ns1.scs-net.sy.
@@ -7903,4 +7903,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062917 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062923 3600 3600 2592000 3600

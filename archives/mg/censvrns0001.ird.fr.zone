@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062906 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062910 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1656482443"
+mg.			7200	IN	TXT	"Generation Time: 1656496834"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -69,6 +69,8 @@ mg.			7200	IN	TXT	"Generation Time: 1656482443"
 1xbet.mg.		7200	IN	NS	pete.ns.cloudflare.com.
 1y.mg.			7200	IN	NS	norm.ns.cloudflare.com.
 1y.mg.			7200	IN	NS	rihana.ns.cloudflare.com.
+2138.mg.		7200	IN	NS	ns1.dns.com.
+2138.mg.		7200	IN	NS	ns2.dns.com.
 22bet.mg.		7200	IN	NS	daisy.ns.cloudflare.com.
 22bet.mg.		7200	IN	NS	gerald.ns.cloudflare.com.
 24.mg.			7200	IN	NS	norm.ns.cloudflare.com.
@@ -6420,8 +6422,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -8748,6 +8750,8 @@ ranitra.mg.		86400	IN	NS	ns1.cloudns.io.
 ranitra.mg.		86400	IN	NS	ns2.cloudns.io.
 raphael.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
 raphael.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
+raphiartmalagasy.mg.	86400	IN	NS	ns1.gasyweb.com.
+raphiartmalagasy.mg.	86400	IN	NS	ns2.gasyweb.com.
 rapideservice.mg.	86400	IN	NS	ns1.servermada.com.
 rapideservice.mg.	86400	IN	NS	ns2.servermada.com.
 rapido.mg.		86400	IN	NS	ns1.101domain.com.
@@ -8776,8 +8780,6 @@ rcam-lab.mg.		86400	IN	NS	ns1.cloudns.io.
 rcam-lab.mg.		86400	IN	NS	ns2.cloudns.io.
 rcce-madagascar.mg.	86400	IN	NS	expired-domain.planethoster.net.
 rcce-madagascar.mg.	86400	IN	NS	domain-expired.planethoster.net.
-rccm.mg.		86400	IN	NS	ns1.cloudns.io.
-rccm.mg.		86400	IN	NS	ns2.cloudns.io.
 rcsmada.mg.		86400	IN	NS	ns1.da.cloudns.io.
 rcsmada.mg.		86400	IN	NS	ns2.da.cloudns.io.
 rcts.mg.		86400	IN	NS	dns1.supremepanel.com.
@@ -10113,8 +10115,6 @@ tafaray.mg.		86400	IN	NS	ns2.da.cloudns.io.
 tafgourmet.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 tafgourmet.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 tafgourmet.mg.		86400	IN	NS	ns1.fr.malagasy.com.
-tafomihaavo-amoronimania.mg. 86400 IN	NS	ns29.dot.mg.
-tafomihaavo-amoronimania.mg. 86400 IN	NS	ns30.dot.mg.
 tahianacreation.mg.	86400	IN	NS	ns1.da.cloudns.io.
 tahianacreation.mg.	86400	IN	NS	ns2.da.cloudns.io.
 takalo.mg.		86400	IN	NS	ns6111.hostgator.com.
@@ -10239,8 +10239,6 @@ techdnsafrica.mg.	86400	IN	NS	ns3.hostinger.fr.
 techdnsafrica.mg.	86400	IN	NS	ns4.hostinger.fr.
 techmarine.mg.		86400	IN	NS	dns101.ovh.net.
 techmarine.mg.		86400	IN	NS	ns101.ovh.net.
-techmedia.mg.		86400	IN	NS	ns1.da.cloudns.io.
-techmedia.mg.		86400	IN	NS	ns2.da.cloudns.io.
 technibat-btp.mg.	86400	IN	NS	dns10.ovh.net.
 technibat-btp.mg.	86400	IN	NS	ns10.ovh.net.
 technihub.mg.		86400	IN	NS	dns108.ovh.net.
@@ -10500,6 +10498,8 @@ tour-guide-lovemada.mg.	86400	IN	NS	ns2.o2switch.net.
 tour-guide-lovemada.mg.	86400	IN	NS	ns1.o2switch.net.
 tourism.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
 tourism.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
+tourism-app.mg.		86400	IN	NS	ns1.serveurgasy.com.
+tourism-app.mg.		86400	IN	NS	ns2.serveurgasy.com.
 tourism-moto.mg.	86400	IN	NS	ns1.serveurgasy.com.
 tourism-moto.mg.	86400	IN	NS	ns2.serveurgasy.com.
 tourisme-aventure-madagascar.mg. 86400 IN NS	ivy.ns.cloudflare.com.
@@ -11559,4 +11559,4 @@ zuma.mg.		86400	IN	NS	ns1.da.cloudns.io.
 zuma.mg.		86400	IN	NS	ns2.da.cloudns.io.
 zurich.mg.		86400	IN	NS	dns1.cscdns.net.
 zurich.mg.		86400	IN	NS	dns2.cscdns.net.
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062906 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062910 600 3600 604800 86400
