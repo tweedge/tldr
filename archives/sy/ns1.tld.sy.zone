@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022063022 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1656581538"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022063025 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1656594131"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -4747,8 +4747,8 @@ mbv.sy.			86400	IN	NS	ns1.monster.sy.
 mbv.sy.			86400	IN	NS	ns2.monster.sy.
 mcc.sy.			86400	IN	NS	ns1.yara.sy.
 mcc.sy.			86400	IN	NS	ns2.yara.sy.
-mcc-syria.sy.		86400	IN	NS	suspend1.tld.sy.
-mcc-syria.sy.		86400	IN	NS	suspend2.tld.sy.
+mcc-syria.sy.		86400	IN	NS	ns1.pronet.sy.
+mcc-syria.sy.		86400	IN	NS	ns2.pronet.sy.
 mch.sy.			86400	IN	NS	suspend1.tld.sy.
 mch.sy.			86400	IN	NS	suspend2.tld.sy.
 mcl-sportswear.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -7905,4 +7905,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022063022 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022063025 3600 3600 2592000 3600
