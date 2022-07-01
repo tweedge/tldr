@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070115 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1656658935"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070121 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1656669743"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -173,8 +173,8 @@ sy.			86400	IN	NS	pch.anycast.tld.sy.
 78.sy.			86400	IN	NS	simon.ns.cloudflare.com.
 78comms.sy.		86400	IN	NS	suspend1.tld.sy.
 78comms.sy.		86400	IN	NS	suspend2.tld.sy.
-80.sy.			86400	IN	NS	chase.ns.cloudflare.com.
-80.sy.			86400	IN	NS	saanvi.ns.cloudflare.com.
+80.sy.			86400	IN	NS	suspend1.tld.sy.
+80.sy.			86400	IN	NS	suspend2.tld.sy.
 82.sy.			86400	IN	NS	tadeo.ns.cloudflare.com.
 82.sy.			86400	IN	NS	ursula.ns.cloudflare.com.
 857.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -1796,11 +1796,8 @@ bet.sy.			86400	IN	NS	ns1.domain.io.
 bet.sy.			86400	IN	NS	ns2.domain.io.
 bet365.sy.		86400	IN	NS	f1g1ns1.dnspod.net.
 bet365.sy.		86400	IN	NS	f1g1ns2.dnspod.net.
-beyazid.sy.		86400	IN	NS	ns1.ucg-core.com.
-beyazid.sy.		86400	IN	NS	ns4.ucg-core.com.
-beyazid.sy.		86400	IN	NS	ns11.ucg-core.com.
-beyazid.sy.		86400	IN	NS	ns51.uae-dc.com.
-beyazid.sy.		86400	IN	NS	ns54.uae-dc.com.
+beyazid.sy.		86400	IN	NS	suspend1.tld.sy.
+beyazid.sy.		86400	IN	NS	suspend2.tld.sy.
 bf.sy.			86400	IN	NS	ns10.ucg-core.com.
 bf.sy.			86400	IN	NS	ns15.ucg-core.com.
 bfcorh.sy.		86400	IN	NS	julio.ns.cloudflare.com.
@@ -5473,10 +5470,8 @@ ourfuture.sy.		86400	IN	NS	suspend1.tld.sy.
 ourfuture.sy.		86400	IN	NS	suspend2.tld.sy.
 ousos.sy.		86400	IN	NS	ns1.shamcenter.com.
 ousos.sy.		86400	IN	NS	ns2.shamcenter.com.
-outdoor.sy.		86400	IN	NS	pns101.cloudns.net.
-outdoor.sy.		86400	IN	NS	pns102.cloudns.net.
-outdoor.sy.		86400	IN	NS	pns103.cloudns.net.
-outdoor.sy.		86400	IN	NS	pns104.cloudns.net.
+outdoor.sy.		86400	IN	NS	suspend1.tld.sy.
+outdoor.sy.		86400	IN	NS	suspend2.tld.sy.
 ovaleo.sy.		86400	IN	NS	suspend1.tld.sy.
 ovaleo.sy.		86400	IN	NS	suspend2.tld.sy.
 over-land.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7547,8 +7542,8 @@ uvam.sy.		86400	IN	NS	suspend1.tld.sy.
 uvam.sy.		86400	IN	NS	suspend2.tld.sy.
 uwxkpy.sy.		86400	IN	NS	julio.ns.cloudflare.com.
 uwxkpy.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
-vatexgroup.sy.		86400	IN	NS	ns3.tld.sy.
-vatexgroup.sy.		86400	IN	NS	ns4.tld.sy.
+vatexgroup.sy.		86400	IN	NS	suspend1.tld.sy.
+vatexgroup.sy.		86400	IN	NS	suspend2.tld.sy.
 vectroclad.sy.		86400	IN	NS	ns1.brandshelter.com.
 vectroclad.sy.		86400	IN	NS	ns2.brandshelter.de.
 vhowec.sy.		86400	IN	NS	julio.ns.cloudflare.com.
@@ -7914,4 +7909,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070115 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070121 3600 3600 2592000 3600
