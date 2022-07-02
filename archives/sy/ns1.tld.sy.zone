@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070211 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1656734536"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070216 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1656745344"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -175,6 +175,8 @@ sy.			86400	IN	NS	pch.anycast.tld.sy.
 78comms.sy.		86400	IN	NS	suspend2.tld.sy.
 80.sy.			86400	IN	NS	suspend1.tld.sy.
 80.sy.			86400	IN	NS	suspend2.tld.sy.
+8058.sy.		86400	IN	NS	joel.ns.cloudflare.com.
+8058.sy.		86400	IN	NS	sierra.ns.cloudflare.com.
 82.sy.			86400	IN	NS	tadeo.ns.cloudflare.com.
 82.sy.			86400	IN	NS	ursula.ns.cloudflare.com.
 857.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -7544,6 +7546,8 @@ uwxkpy.sy.		86400	IN	NS	julio.ns.cloudflare.com.
 uwxkpy.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
 vatexgroup.sy.		86400	IN	NS	suspend1.tld.sy.
 vatexgroup.sy.		86400	IN	NS	suspend2.tld.sy.
+vcci.sy.		86400	IN	NS	monika.ns.cloudflare.com.
+vcci.sy.		86400	IN	NS	tanner.ns.cloudflare.com.
 vectroclad.sy.		86400	IN	NS	ns1.brandshelter.com.
 vectroclad.sy.		86400	IN	NS	ns2.brandshelter.de.
 vhowec.sy.		86400	IN	NS	julio.ns.cloudflare.com.
@@ -7580,6 +7584,8 @@ vr.sy.			86400	IN	NS	ns4.ucg-core.com.
 vr.sy.			86400	IN	NS	ns11.ucg-core.com.
 vr.sy.			86400	IN	NS	ns51.uae-dc.com.
 vr.sy.			86400	IN	NS	ns54.uae-dc.com.
+vuuc.sy.		86400	IN	NS	monika.ns.cloudflare.com.
+vuuc.sy.		86400	IN	NS	tanner.ns.cloudflare.com.
 wa.sy.			86400	IN	NS	suspend1.tld.sy.
 wa.sy.			86400	IN	NS	suspend2.tld.sy.
 waf.sy.			86400	IN	NS	ns11.inet.sy.
@@ -7909,4 +7915,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070211 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070216 3600 3600 2592000 3600
