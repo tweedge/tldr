@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022070113 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022070223 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -1677,6 +1677,10 @@ eset.gp.		86400	IN	NS	dns1.cloudns.net.
 eset.gp.		86400	IN	NS	dns2.cloudns.net.
 espaceautos.gp.		86400	IN	NS	ns113.ovh.net.
 espaceautos.gp.		86400	IN	NS	dns113.ovh.net.
+espaceinterieur.gp.	86400	IN	NS	sdns2.ovh.net.
+espaceinterieur.gp.	86400	IN	NS	vps-204e817f.vps.ovh.net.
+espaceocean.gp.		86400	IN	NS	dns1.cloudns.net.
+espaceocean.gp.		86400	IN	NS	dns2.cloudns.net.
 esri.gp.		86400	IN	NS	ns1-park.esri.com.
 esri.gp.		86400	IN	NS	ns2-park.esri.com.
 essec.gp.		86400	IN	NS	indom10.indomco.com.
@@ -2503,8 +2507,9 @@ initial.gp.		86400	IN	NS	ns2.markmonitor.com.
 initial.gp.		86400	IN	NS	ns3.markmonitor.com.
 initial.gp.		86400	IN	NS	ns4.markmonitor.com.
 initial.gp.		86400	IN	NS	ns5.markmonitor.com.
-initiativesfrancevictimes.gp. 86400 IN	NS	ns104.ovh.net.
-initiativesfrancevictimes.gp. 86400 IN	NS	dns104.ovh.net.
+initiativesfrancevictimes.gp. 86400 IN	NS	ns1.francedns.com.
+initiativesfrancevictimes.gp. 86400 IN	NS	ns2.francedns.com.
+initiativesfrancevictimes.gp. 86400 IN	NS	ns3.francedns.com.
 inspiredbywomen.gp.	86400	IN	NS	ns1.instradns.com.
 inspiredbywomen.gp.	86400	IN	NS	ns2.instradns.com.
 inspiredbywomen.gp.	86400	IN	NS	ns3.instradns.com.
@@ -5351,4 +5356,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022070113 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022070223 86400 7200 2592000 345600
