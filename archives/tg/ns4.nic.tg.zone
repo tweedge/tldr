@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070446 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070461 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -2437,6 +2437,8 @@ gnd.tg.			86400	IN	NS	ns1.netmaster.tg.
 gnd.tg.			86400	IN	NS	ns1.cafe.tg.
 goannonce.tg.		86400	IN	NS	rns43.webhostbox.net.
 goannonce.tg.		86400	IN	NS	rns44.webhostbox.net.
+god.tg.			86400	IN	NS	dns1.hosteur.com.
+god.tg.			86400	IN	NS	dns2.hosteur.com.
 godaddy.tg.		86400	IN	NS	cns1.secureserver.net.
 godaddy.tg.		86400	IN	NS	cns2.secureserver.net.
 goldeneye.tg.		86400	IN	NS	cpanel5.lws-hosting.com.
@@ -5104,6 +5106,9 @@ tap.tg.			86400	IN	NS	ns6.netmaster.tg.
 tata.tg.		86400	IN	NS	ns1.francedns.com.
 tata.tg.		86400	IN	NS	ns2.francedns.com.
 tata.tg.		86400	IN	NS	ns3.francedns.com.
+taxes.tg.		86400	IN	NS	ns5.netmaster.tg.
+taxes.tg.		86400	IN	NS	ns1.cafe.tg.
+taxes.tg.		86400	IN	NS	ns2.cafe.tg.
 taylorgang.tg.		86400	IN	NS	ns1.servage.net.
 taylorgang.tg.		86400	IN	NS	ns2.servage.net.
 taylorgang.tg.		86400	IN	NS	ns3.servage.net.
@@ -5136,8 +5141,6 @@ techcom.tg.		86400	IN	NS	ns1.nghcorp.info.
 techcom.tg.		86400	IN	NS	ns2.nghcorp.info.
 techexpert.tg.		86400	IN	NS	ns1.o2switch.net.
 techexpert.tg.		86400	IN	NS	ns2.o2switch.net.
-techmedia.tg.		86400	IN	NS	ns4.netmaster.tg.
-techmedia.tg.		86400	IN	NS	ns5.netmaster.tg.
 techs.tg.		86400	IN	NS	ns5.netmaster.tg.
 techs.tg.		86400	IN	NS	ns1.cafe.tg.
 techs.tg.		86400	IN	NS	ns2.cafe.tg.
@@ -5485,8 +5488,6 @@ transgendernation.tg.	86400	IN	NS	ns02.trademarkarea.com.
 transgendernation.tg.	86400	IN	NS	ns03.trademarkarea.com.
 transityioon.tg.	86400	IN	NS	ns1.netmaster.tg.
 transityioon.tg.	86400	IN	NS	ns2.netmaster.tg.
-transparence.tg.	86400	IN	NS	dns1.hosteur.com.
-transparence.tg.	86400	IN	NS	dns2.hosteur.com.
 transvie.tg.		86400	IN	NS	ns1.francedns.com.
 transvie.tg.		86400	IN	NS	ns2.francedns.com.
 transvie.tg.		86400	IN	NS	ns3.francedns.com.
@@ -5931,4 +5932,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070446 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070461 21600 3600 604800 86400
