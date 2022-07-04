@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070415 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1656918137"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070421 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1656928931"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -288,8 +288,8 @@ abpgfd.sy.		86400	IN	NS	julio.ns.cloudflare.com.
 abpgfd.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
 abratalshraa.sy.	86400	IN	NS	ns1.signal-host.com.
 abratalshraa.sy.	86400	IN	NS	ns2.signal-host.com.
-abt.sy.			86400	IN	NS	ns1.clicknetco.com.
-abt.sy.			86400	IN	NS	ns2.clicknetco.com.
+abt.sy.			86400	IN	NS	suspend1.tld.sy.
+abt.sy.			86400	IN	NS	suspend2.tld.sy.
 abualeyoun.sy.		86400	IN	NS	suspend1.tld.sy.
 abualeyoun.sy.		86400	IN	NS	suspend2.tld.sy.
 abudamaa.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -3769,8 +3769,8 @@ ideal.sy.		86400	IN	NS	ns1.alifouad91.com.
 ideal.sy.		86400	IN	NS	ns2.alifouad91.com.
 idra.sy.		86400	IN	NS	suspend1.tld.sy.
 idra.sy.		86400	IN	NS	suspend2.tld.sy.
-iets.sy.		86400	IN	NS	ns3.tld.sy.
-iets.sy.		86400	IN	NS	ns4.tld.sy.
+iets.sy.		86400	IN	NS	suspend1.tld.sy.
+iets.sy.		86400	IN	NS	suspend2.tld.sy.
 igate.sy.		86400	IN	NS	suspend1.tld.sy.
 igate.sy.		86400	IN	NS	suspend2.tld.sy.
 ihit.sy.		86400	IN	NS	ns1.sawa-host.net.
@@ -7094,8 +7094,8 @@ talaj-trading.sy.	86400	IN	NS	ns4.ucg-core.com.
 talaj-trading.sy.	86400	IN	NS	ns11.ucg-core.com.
 talaj-trading.sy.	86400	IN	NS	ns51.uae-dc.com.
 talaj-trading.sy.	86400	IN	NS	ns54.uae-dc.com.
-talalco.sy.		86400	IN	NS	ns1.waveshost.sy.
-talalco.sy.		86400	IN	NS	ns2.waveshost.sy.
+talalco.sy.		86400	IN	NS	suspend1.tld.sy.
+talalco.sy.		86400	IN	NS	suspend2.tld.sy.
 tale3aa-pr.sy.		86400	IN	NS	suspend1.tld.sy.
 tale3aa-pr.sy.		86400	IN	NS	suspend2.tld.sy.
 taleb.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7923,4 +7923,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070415 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070421 3600 3600 2592000 3600

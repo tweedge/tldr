@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1656914701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1656921901 1800 600 604800 1800
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
 mw.			18000	IN	NS	d.ext.nic.cz.
@@ -467,11 +467,11 @@ bayobab.mw.		18000	IN	NS	ns2.lexsynergy.us.
 bayobab.mw.		18000	IN	NS	ns3.lexsynergy.info.
 bba.mw.			18000	IN	NS	pdns07.domaincontrol.com.
 bba.mw.			18000	IN	NS	pdns08.domaincontrol.com.
-bbonline.mw.		18000	IN	DS	49075 8 1 456E97C18BB6218790BE3C15F9288D68EC8445EA
 bbonline.mw.		18000	IN	NS	ns1.bb-online.net.
 bbonline.mw.		18000	IN	NS	ns2.bb-online.org.
 bbonline.mw.		18000	IN	NS	ns3.bb-online.info.
 bbonline.mw.		18000	IN	NS	ns4.bb-online.biz.
+bbonline.mw.		18000	IN	DS	49075 8 1 456E97C18BB6218790BE3C15F9288D68EC8445EA
 bbva.mw.		18000	IN	NS	a1-166.akam.net.
 bbva.mw.		18000	IN	NS	a22-65.akam.net.
 bbva.mw.		18000	IN	NS	a3-66.akam.net.
@@ -1925,6 +1925,8 @@ ihg.mw.			18000	IN	NS	ns1.markmonitor.com.
 ihg.mw.			18000	IN	NS	ns3.markmonitor.com.
 ikea.mw.		18000	IN	NS	udns1.cscdns.net.
 ikea.mw.		18000	IN	NS	udns2.cscdns.uk.
+im.mw.			18000	IN	NS	bruce.ns.cloudflare.com.
+im.mw.			18000	IN	NS	kehlani.ns.cloudflare.com.
 imm.mw.			18000	IN	NS	ns1.bdsmw.com.
 imm.mw.			18000	IN	NS	ns2.bdsmw.com.
 imm.mw.			18000	IN	NS	ns3.bdsmw.com.
@@ -4489,4 +4491,4 @@ zurich.mw.		18000	IN	NS	dns1.cscdns.net.
 zurich.mw.		18000	IN	NS	dns2.cscdns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1656914701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1656921901 1800 600 604800 1800
