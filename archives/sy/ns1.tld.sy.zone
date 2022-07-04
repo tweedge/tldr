@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070409 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1656907330"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070415 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1656918137"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3683,6 +3683,11 @@ hulul.sy.		86400	IN	NS	suspend1.tld.sy.
 hulul.sy.		86400	IN	NS	suspend2.tld.sy.
 humanone.sy.		86400	IN	NS	suspend1.tld.sy.
 humanone.sy.		86400	IN	NS	suspend2.tld.sy.
+huna-syria.sy.		86400	IN	NS	ns1.ucg-core.com.
+huna-syria.sy.		86400	IN	NS	ns4.ucg-core.com.
+huna-syria.sy.		86400	IN	NS	ns11.ucg-core.com.
+huna-syria.sy.		86400	IN	NS	ns51.uae-dc.com.
+huna-syria.sy.		86400	IN	NS	ns54.uae-dc.com.
 hunter.sy.		86400	IN	NS	suspend1.tld.sy.
 hunter.sy.		86400	IN	NS	suspend2.tld.sy.
 huobi.sy.		86400	IN	NS	ns1.ucg-core.com.
@@ -7918,4 +7923,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070409 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070415 3600 3600 2592000 3600
