@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022070502 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022070515 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -2511,9 +2511,8 @@ initial.gp.		86400	IN	NS	ns2.markmonitor.com.
 initial.gp.		86400	IN	NS	ns3.markmonitor.com.
 initial.gp.		86400	IN	NS	ns4.markmonitor.com.
 initial.gp.		86400	IN	NS	ns5.markmonitor.com.
-initiativesfrancevictimes.gp. 86400 IN	NS	ns1.francedns.com.
-initiativesfrancevictimes.gp. 86400 IN	NS	ns2.francedns.com.
-initiativesfrancevictimes.gp. 86400 IN	NS	ns3.francedns.com.
+initiativesfrancevictimes.gp. 86400 IN	NS	ns104.ovh.net.
+initiativesfrancevictimes.gp. 86400 IN	NS	dns104.ovh.net.
 inspiredbywomen.gp.	86400	IN	NS	ns1.instradns.com.
 inspiredbywomen.gp.	86400	IN	NS	ns2.instradns.com.
 inspiredbywomen.gp.	86400	IN	NS	ns3.instradns.com.
@@ -5364,4 +5363,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022070502 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022070515 86400 7200 2592000 345600
