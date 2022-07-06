@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022070500 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022070602 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -679,6 +679,8 @@ branis.COM.pg.		172800	IN	NS	ns2.datec.net.pg.
 branis.COM.pg.		172800	IN	NS	ns3.datec.net.pg.
 brianbell.COM.pg.	172800	IN	NS	cloe.ns.cloudflare.com.
 brianbell.COM.pg.	172800	IN	NS	damien.ns.cloudflare.com.
+brianriches.COM.pg.	172800	IN	NS	ns.nzhost.net.nz.
+brianriches.COM.pg.	172800	IN	NS	ns2.nzhost.net.nz.
 brl.COM.pg.		172800	IN	NS	ns33.domaincontrol.com.
 brl.COM.pg.		172800	IN	NS	ns34.domaincontrol.com.
 brunel.COM.pg.		172800	IN	NS	ns1.brandshelter.com.
@@ -846,6 +848,9 @@ cjvaluers.COM.pg.	172800	IN	NS	ns2.datec.net.pg.
 cjvaluers.COM.pg.	172800	IN	NS	ns3.datec.net.pg.
 ckworks.COM.pg.		172800	IN	NS	ns1.global.net.pg.
 ckworks.COM.pg.		172800	IN	NS	ns2.global.net.pg.
+clade.COM.pg.		172800	IN	NS	ns1.pngconnect.com.
+clade.COM.pg.		172800	IN	NS	ns2.pngconnect.com.
+clade.COM.pg.		172800	IN	NS	ns3.qnetau.com.
 classic-enco.COM.pg.	172800	IN	NS	pdns07.domaincontrol.com.
 classic-enco.COM.pg.	172800	IN	NS	pdns08.domaincontrol.com.
 clime.COM.pg.		172800	IN	NS	ns19.domaincontrol.com.
@@ -2944,9 +2949,9 @@ noblecenter.COM.pg.	172800	IN	NS	ns2.qnetau.com.
 noblecenter.COM.pg.	172800	IN	NS	ns3.qnetau.com.
 normanfinance.COM.pg.	172800	IN	NS	ns1.techswitchon.com.
 normanfinance.COM.pg.	172800	IN	NS	ns2.techswitchon.com.
-northbuild.COM.pg.	172800	IN	NS	ns1.conetix.com.au.
-northbuild.COM.pg.	172800	IN	NS	ns2.conetix.com.au.
-northbuild.COM.pg.	172800	IN	NS	ns4.conetix.com.au.
+northbuild.COM.pg.	172800	IN	NS	ns1.bdm.microsoftonline.com.
+northbuild.COM.pg.	172800	IN	NS	ns2.bdm.microsoftonline.com.
+northbuild.COM.pg.	172800	IN	NS	ns3.bdm.microsoftonline.com.
 northlakes.COM.pg.	172800	IN	NS	ns6355.hostgator.com.
 northlakes.COM.pg.	172800	IN	NS	ns6356.hostgator.com.
 nortonrosefulbright.COM.pg. 172800 IN	NS	ns1.markmonitor.com.
@@ -3001,6 +3006,9 @@ oceania.COM.pg.		172800	IN	NS	ns2.datec.net.pg.
 oceania.COM.pg.		172800	IN	NS	ns3.datec.net.pg.
 oceantravel.COM.pg.	172800	IN	NS	ns1.infocom.net.pg.
 oceantravel.COM.pg.	172800	IN	NS	ns2.infocom.net.pg.
+oceanworks.COM.pg.	172800	IN	NS	pns21.cloudns.net.
+oceanworks.COM.pg.	172800	IN	NS	pns22.cloudns.net.
+oceanworks.COM.pg.	172800	IN	NS	pns23.cloudns.net.
 oclgroup.COM.pg.	172800	IN	NS	ns1.datec.net.pg.
 oclgroup.COM.pg.	172800	IN	NS	ns2.datec.net.pg.
 oclgroup.COM.pg.	172800	IN	NS	ns3.datec.net.pg.
@@ -3016,8 +3024,8 @@ officetech.COM.pg.	172800	IN	NS	ns1.daltron.com.pg.
 officetech.COM.pg.	172800	IN	NS	ns2.daltron.com.pg.
 officetrail.COM.pg.	172800	IN	NS	ns1.techswitchon.com.
 officetrail.COM.pg.	172800	IN	NS	ns2.techswitchon.com.
-ohsl.COM.pg.		172800	IN	NS	ns1.telinet.com.pg.
-ohsl.COM.pg.		172800	IN	NS	ns2.telinet.com.pg.
+ohsl.COM.pg.		172800	IN	NS	ns1.bluehost.in.
+ohsl.COM.pg.		172800	IN	NS	ns2.bluehost.in.
 oilau.COM.pg.		172800	IN	NS	ns1.telinet.com.pg.
 oilau.COM.pg.		172800	IN	NS	ns2.telinet.com.pg.
 oillabspng.COM.pg.	172800	IN	NS	ns1.global.net.pg.
@@ -3365,9 +3373,9 @@ pngchamberminpet.COM.pg. 172800	IN	NS	ns3.partnerconsole.net.
 pngcommodities.COM.pg.	172800	IN	NS	ns1.datec.net.pg.
 pngcommodities.COM.pg.	172800	IN	NS	ns2.datec.net.pg.
 pngcommodities.COM.pg.	172800	IN	NS	ns3.datec.net.pg.
-pngcoolair.COM.pg.	172800	IN	NS	ns1.ventraip.net.au.
-pngcoolair.COM.pg.	172800	IN	NS	ns2.ventraip.net.au.
-pngcoolair.COM.pg.	172800	IN	NS	ns3.ventraip.net.au.
+pngcoolair.COM.pg.	172800	IN	NS	ns1.bdm.microsoftonline.com.
+pngcoolair.COM.pg.	172800	IN	NS	ns2.bdm.microsoftonline.com.
+pngcoolair.COM.pg.	172800	IN	NS	ns3.bdm.microsoftonline.com.
 pngdataco.COM.pg.	172800	IN	NS	ns1.pngdataco.com.pg.
 pngdataco.COM.pg.	172800	IN	NS	ns2.pngdataco.com.pg.
 ns1.pngdataco.COM.pg.	172800	IN	A	103.91.115.1
@@ -5555,6 +5563,8 @@ hccsp.ORG.pg.		172800	IN	NS	ns1.giowm1191.siteground.biz.
 hccsp.ORG.pg.		172800	IN	NS	ns2.giowm1191.siteground.biz.
 hdsa.ORG.pg.		172800	IN	NS	ns1.telinet.com.pg.
 hdsa.ORG.pg.		172800	IN	NS	ns2.telinet.com.pg.
+hmtaulilrc.ORG.pg.	172800	IN	NS	ns1.domain.com.
+hmtaulilrc.ORG.pg.	172800	IN	NS	ns2.domain.com.
 hopeforpoorkidscare.ORG.pg. 172800 IN	NS	ns1.qnetau.com.
 hopeforpoorkidscare.ORG.pg. 172800 IN	NS	ns2.qnetau.com.
 hopeforpoorkidscare.ORG.pg. 172800 IN	NS	ns3.qnetau.com.
@@ -6020,4 +6030,4 @@ ywamships.ORG.pg.	172800	IN	NS	ns3.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns1.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns2.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns3.qnetau.com.
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022070500 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022070602 14400 7200 1728000 14400
