@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070665 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070733 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -896,6 +896,9 @@ bio-oil.tg.		86400	IN	NS	ns1.markmonitor.com.
 bio-oil.tg.		86400	IN	NS	ns5.markmonitor.com.
 bio-oil.tg.		86400	IN	NS	ns4.markmonitor.com.
 bio-oil.tg.		86400	IN	NS	ns3.markmonitor.com.
+bioderma.tg.		86400	IN	NS	nsa.perf1.fr.
+bioderma.tg.		86400	IN	NS	nsb.perf1.com.
+bioderma.tg.		86400	IN	NS	nsc.perf1.com.
 biohof.tg.		86400	IN	NS	ns.hostpoint.ch.
 biohof.tg.		86400	IN	NS	ns2.hostpoint.ch.
 biohof.tg.		86400	IN	NS	ns3.hostpoint.ch.
@@ -2572,10 +2575,17 @@ hdd.tg.			86400	IN	NS	oti.ids.tg.
 hdd.tg.			86400	IN	NS	mono.ids.tg.
 health.tg.		86400	IN	NS	ns1.sedoparking.com.
 health.tg.		86400	IN	NS	ns2.sedoparking.com.
+heidelberg-materials.tg. 86400	IN	NS	udns1.cscdns.net.
+heidelberg-materials.tg. 86400	IN	NS	udns2.cscdns.uk.
 heidelbergcement.tg.	86400	IN	NS	udns1.cscdns.net.
 heidelbergcement.tg.	86400	IN	NS	udns2.cscdns.uk.
 heidelbergcementtogo.tg. 86400	IN	NS	udns1.cscdns.net.
 heidelbergcementtogo.tg. 86400	IN	NS	udns2.cscdns.uk.
+heidelbergmaterials.tg.	86400	IN	NS	udns1.cscdns.net.
+heidelbergmaterials.tg.	86400	IN	NS	udns2.cscdns.uk.
+heidelbergmaterials.tg.	86400	IN	NS	ns2.cafe.tg.
+heidelbergmaterialsgroup.tg. 86400 IN	NS	udns1.cscdns.net.
+heidelbergmaterialsgroup.tg. 86400 IN	NS	udns2.cscdns.uk.
 helim.tg.		86400	IN	NS	ns1.togotelecom.tg.
 helim.tg.		86400	IN	NS	ns2.togotelecom.tg.
 ns.helim.tg.		86400	IN	A	41.207.178.38
@@ -2595,8 +2605,8 @@ heri.tg.		86400	IN	NS	ns2.regery.net.
 heri.tg.		86400	IN	NS	ns3.regery.net.
 hertz.tg.		86400	IN	NS	ns1.afrihosttg.com.
 hertz.tg.		86400	IN	NS	ns2.afrihosttg.com.
-hg0088.tg.		86400	IN	NS	f1g1ns1.dnspod.net.
-hg0088.tg.		86400	IN	NS	f1g1ns2.dnspod.net.
+hg0088.tg.		86400	IN	NS	blair.ns.cloudflare.com.
+hg0088.tg.		86400	IN	NS	kanye.ns.cloudflare.com.
 hikvision.tg.		86400	IN	NS	ns1.markmonitor.com.
 hikvision.tg.		86400	IN	NS	ns2.markmonitor.com.
 hilay.tg.		86400	IN	NS	dns1.simplecplogin.com.
@@ -3418,8 +3428,8 @@ lotto.tg.		86400	IN	NS	nsusa.comlaude.net.
 lottoland.tg.		86400	IN	NS	nsgbr.comlaude.co.uk.
 lottoland.tg.		86400	IN	NS	nssui.comlaude.ch.
 lottoland.tg.		86400	IN	NS	nsusa.comlaude.net.
-love.tg.		86400	IN	NS	hayden.dnspod.net.
-love.tg.		86400	IN	NS	andrea.dnspod.net.
+love.tg.		86400	IN	NS	ajay.ns.cloudflare.com.
+love.tg.		86400	IN	NS	nora.ns.cloudflare.com.
 lovisa.tg.		86400	IN	NS	ns01.trademarkarea.com.
 lovisa.tg.		86400	IN	NS	ns02.trademarkarea.com.
 lovisa.tg.		86400	IN	NS	ns03.trademarkarea.com.
@@ -5933,4 +5943,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070665 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070733 21600 3600 604800 86400

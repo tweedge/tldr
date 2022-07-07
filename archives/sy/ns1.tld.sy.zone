@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070718 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1657177334"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070724 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1657188143"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -551,8 +551,8 @@ alali-trade.sy.		86400	IN	NS	suspend1.tld.sy.
 alali-trade.sy.		86400	IN	NS	suspend2.tld.sy.
 alalmen-triko.sy.	86400	IN	NS	suspend1.tld.sy.
 alalmen-triko.sy.	86400	IN	NS	suspend2.tld.sy.
-alalmya.sy.		86400	IN	NS	ns1.targusme.info.
-alalmya.sy.		86400	IN	NS	ns2.targusme.info.
+alalmya.sy.		86400	IN	NS	suspend1.tld.sy.
+alalmya.sy.		86400	IN	NS	suspend2.tld.sy.
 alalo-bros.sy.		86400	IN	NS	suspend1.tld.sy.
 alalo-bros.sy.		86400	IN	NS	suspend2.tld.sy.
 alaman-com.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -5325,8 +5325,8 @@ nsr.sy.			86400	IN	NS	ns1.scs-net.sy.
 nsr.sy.			86400	IN	NS	ns1.scs-net.org.
 nsr.sy.			86400	IN	NS	ns2.scs-net.sy.
 nsr.sy.			86400	IN	NS	ns2.scs-net.org.
-nt.sy.			86400	IN	NS	ns1.dns.com.
-nt.sy.			86400	IN	NS	ns2.dns.com.
+nt.sy.			86400	IN	NS	suspend1.tld.sy.
+nt.sy.			86400	IN	NS	suspend2.tld.sy.
 nuss.sy.		86400	IN	NS	ns23.ich-7.com.
 nuss.sy.		86400	IN	NS	ns24.ich-7.com.
 nuss-shi.sy.		86400	IN	NS	ns3.tld.sy.
@@ -6009,8 +6009,8 @@ sahabti.sy.		86400	IN	NS	ns3.tld.sy.
 sahabti.sy.		86400	IN	NS	ns4.tld.sy.
 sahabty.sy.		86400	IN	NS	ns3.tld.sy.
 sahabty.sy.		86400	IN	NS	ns4.tld.sy.
-sahar-alkallasco.sy.	86400	IN	NS	ns1.lazernet.sy.
-sahar-alkallasco.sy.	86400	IN	NS	ns2.lazernet.sy.
+sahar-alkallasco.sy.	86400	IN	NS	suspend1.tld.sy.
+sahar-alkallasco.sy.	86400	IN	NS	suspend2.tld.sy.
 sahloul.sy.		86400	IN	NS	suspend1.tld.sy.
 sahloul.sy.		86400	IN	NS	suspend2.tld.sy.
 sahloultrans.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -7397,8 +7397,8 @@ trriple.sy.		86400	IN	NS	suspend1.tld.sy.
 trriple.sy.		86400	IN	NS	suspend2.tld.sy.
 truenet.sy.		86400	IN	NS	ns1.bitakat.sy.
 truenet.sy.		86400	IN	NS	ns2.bitakat.sy.
-trust.sy.		86400	IN	NS	ns16.samamax.com.
-trust.sy.		86400	IN	NS	ns17.samamax.com.
+trust.sy.		86400	IN	NS	suspend1.tld.sy.
+trust.sy.		86400	IN	NS	suspend2.tld.sy.
 trzian.sy.		86400	IN	NS	suspend1.tld.sy.
 trzian.sy.		86400	IN	NS	suspend2.tld.sy.
 tsd-daraa.sy.		86400	IN	NS	ns1.syrianmonster.sy.
@@ -7931,4 +7931,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070718 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070724 3600 3600 2592000 3600
