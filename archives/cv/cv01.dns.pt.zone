@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022070601 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022070701 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	cv01.dns.pt.
@@ -364,8 +364,8 @@ amicachi.cv.		28800	IN	NS	ns1.gov.cv.
 amicachi.cv.		28800	IN	NS	ns2.gov.cv.
 amicv.cv.		28800	IN	NS	ns1000.mochahost.com.
 amicv.cv.		28800	IN	NS	ns2000.mochahost.com.
-amordedeus.cv.		28800	IN	NS	ns5.metacampinformatica.com.br.
-amordedeus.cv.		28800	IN	NS	ns6.metacampinformatica.com.br.
+amordedeus.cv.		28800	IN	NS	ns1.arede.center.
+amordedeus.cv.		28800	IN	NS	ns2.arede.center.
 amp.cv.			28800	IN	NS	ns1.aguianet.com.
 amp.cv.			28800	IN	NS	ns2.aguianet.com.
 amp.cv.			28800	IN	NS	ns293.websitewelcome.com.
@@ -1861,10 +1861,10 @@ ares.com.cv.		28800	IN	NS	ns2.hostingpanel2.com.
 mail.ares.com.cv.	28800	IN	A	188.165.205.162
 arquipelago.com.cv.	28800	IN	NS	ns1.mydnspt.net.
 arquipelago.com.cv.	28800	IN	NS	ns2.mydnspt.net.
-artefaktos.com.cv.	28800	IN	NS	ns1.ipage.com.
-artefaktos.com.cv.	28800	IN	NS	ns2.ipage.com.
 artefaktos.com.cv.	28800	IN	A	66.96.142.162
 artefaktos.com.cv.	28800	IN	A	66.96.142.163
+artefaktos.com.cv.	28800	IN	NS	ns1.ipage.com.
+artefaktos.com.cv.	28800	IN	NS	ns2.ipage.com.
 atlantico.com.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
 atlantico.com.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
 atlantico.com.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
@@ -1975,12 +1975,12 @@ citydia.com.cv.		28800	IN	NS	ns1.entornodns.com.
 citydia.com.cv.		28800	IN	NS	ns2.entornodns.com.
 citydia.com.cv.		28800	IN	AAAA	::195.77.116.8
 citydia.com.cv.		28800	IN	AAAA	2a01:1c8:1001:2:be30:5bff:fedf:67ee
+cloud.com.cv.		28800	IN	A	213.13.28.116
+cloud.com.cv.		28800	IN	A	213.13.30.116
 cloud.com.cv.		28800	IN	NS	ns.sapo.pt.
 cloud.com.cv.		28800	IN	NS	ns2.sapo.pt.
 cloud.com.cv.		28800	IN	NS	dns01.sapo.pt.
 cloud.com.cv.		28800	IN	NS	dns02.sapo.pt.
-cloud.com.cv.		28800	IN	A	213.13.28.116
-cloud.com.cv.		28800	IN	A	213.13.30.116
 cloudpt.com.cv.		28800	IN	A	213.13.28.116
 cloudpt.com.cv.		28800	IN	A	213.13.30.116
 cloudpt.com.cv.		28800	IN	NS	ns.sapo.pt.
@@ -2295,6 +2295,9 @@ lojaoac.com.cv.		28800	IN	NS	ns3.dreamhost.com.
 lotto.com.cv.		28800	IN	NS	nsgbr.comlaude.co.uk.
 lotto.com.cv.		28800	IN	NS	nssui.comlaude.ch.
 lotto.com.cv.		28800	IN	NS	nsusa.comlaude.net.
+lottoland.com.cv.	28800	IN	NS	nsgbr.comlaude.co.uk.
+lottoland.com.cv.	28800	IN	NS	nssui.comlaude.ch.
+lottoland.com.cv.	28800	IN	NS	nsusa.comlaude.net.
 lpc.com.cv.		28800	IN	NS	ns1.ampro4.fcomet.com.
 lpc.com.cv.		28800	IN	NS	ns2.ampro4.fcomet.com.
 lumiarte.com.cv.	28800	IN	NS	ns1.machighway.com.
@@ -2456,11 +2459,11 @@ nosmarka.com.cv.	28800	IN	NS	ns2.cvtelecom.cv.
 nport.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS5.101DOMAIN.COM.
+nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
+nrg4.com.cv.		28800	IN	A	85.159.233.17
 nrg4.com.cv.		28800	IN	NS	ns01.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns02.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns03.trademarkarea.com.
-nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
-nrg4.com.cv.		28800	IN	A	85.159.233.17
 nubai.com.cv.		28800	IN	NS	ns1.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns2.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns3.cloudns.net.
@@ -6476,12 +6479,12 @@ smartcity.org.cv.	28800	IN	NS	ns2.dreamhost.com.
 smartcity.org.cv.	28800	IN	NS	ns3.dreamhost.com.
 soldifogo.org.cv.	28800	IN	NS	1.nshub.com.
 soldifogo.org.cv.	28800	IN	NS	2.nshub.com.
+solp.org.cv.		28800	IN	A	45.154.66.253
+solp.org.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 solp.org.cv.		28800	IN	NS	ns1.nameresolve.com.
 solp.org.cv.		28800	IN	NS	ns2.nameresolve.com.
 solp.org.cv.		28800	IN	NS	ns3.nameresolve.com.
 solp.org.cv.		28800	IN	NS	ns4.nameresolve.com.
-solp.org.cv.		28800	IN	A	45.154.66.253
-solp.org.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 soscaboverde.org.cv.	28800	IN	NS	ns1.wtservers.com.
 soscaboverde.org.cv.	28800	IN	NS	ns2.wtservers.com.
 soscaboverde.org.cv.	28800	IN	NS	ns3.wtservers.com.
@@ -8084,6 +8087,10 @@ tecla.cv.		28800	IN	NS	ns1.hostinger.com.br.
 tecla.cv.		28800	IN	NS	ns2.hostinger.com.br.
 tecla.cv.		28800	IN	NS	ns3.hostinger.com.br.
 tecla.cv.		28800	IN	NS	ns4.hostinger.com.br.
+tecnicil.cv.		28800	IN	NS	ns45.worldnic.com.
+tecnicil.cv.		28800	IN	NS	ns46.worldnic.com.
+tecnicilindustria.cv.	28800	IN	NS	ns51.worldnic.com.
+tecnicilindustria.cv.	28800	IN	NS	ns52.worldnic.com.
 tecnocenter.cv.		28800	IN	A	217.182.171.109
 tecnocenter.cv.		28800	IN	AAAA	2604:9a00:2100:af02:4::dc
 tecnocenter.cv.		28800	IN	AAAA	2a03:6420::abcd:ef01
@@ -8149,9 +8156,8 @@ textoeditores.cv.	28800	IN	NS	ns-36.awsdns-04.com.
 textoeditores.cv.	28800	IN	NS	ns-933.awsdns-52.net.
 textoeditores.cv.	28800	IN	NS	ns-1455.awsdns-53.org.
 textoeditores.cv.	28800	IN	NS	ns-1871.awsdns-41.co.uk.
-thclothes.cv.		28800	IN	NS	ns01.trademarkarea.com.
-thclothes.cv.		28800	IN	NS	ns02.trademarkarea.com.
-thclothes.cv.		28800	IN	NS	ns03.trademarkarea.com.
+thclothes.cv.		28800	IN	NS	pdns03.domaincontrol.com.
+thclothes.cv.		28800	IN	NS	pdns04.domaincontrol.com.
 thebluebananagroup.cv.	28800	IN	NS	ns1.ptwebserv.net.
 thebluebananagroup.cv.	28800	IN	NS	ns2.ptwebserv.net.
 thebluebananagroup.cv.	28800	IN	NS	ns3.ptwebserv.net.
@@ -8724,11 +8730,11 @@ working4u.cv.		28800	IN	NS	ns2.arvixeshared.com.
 wow.cv.			28800	IN	NS	ns01.trademarkarea.com.
 wow.cv.			28800	IN	NS	ns02.trademarkarea.com.
 wow.cv.			28800	IN	NS	ns03.trademarkarea.com.
-xdconsultoria.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
-xdconsultoria.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
 xdconsultoria.cv.	28800	IN	NS	ns1.dreamhost.com.
 xdconsultoria.cv.	28800	IN	NS	ns2.dreamhost.com.
 xdconsultoria.cv.	28800	IN	NS	ns3.dreamhost.com.
+xdconsultoria.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
+xdconsultoria.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
 xintidu.cv.		28800	IN	NS	ns1.dns-parking.com.
 xintidu.cv.		28800	IN	NS	ns2.dns-parking.com.
 xmatika.cv.		28800	IN	NS	a.host-services.com.
@@ -8777,4 +8783,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022070601 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022070701 86400 7200 2592000 300
