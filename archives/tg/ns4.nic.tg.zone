@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070733 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070759 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -2868,8 +2868,9 @@ ingep.tg.		86400	IN	NS	ns2.cafe.tg.
 inger.tg.		86400	IN	NS	ns4.netmaster.tg.
 inger.tg.		86400	IN	NS	ns1.cafe.tg.
 inger.tg.		86400	IN	NS	ns2.cafe.tg.
-inh.tg.			86400	IN	NS	ns1.gouv.tg.
-inh.tg.			86400	IN	NS	ns2.gouv.tg.
+inh.tg.			86400	IN	NS	ns5.netmaster.tg.
+inh.tg.			86400	IN	NS	ns2.cafe.tg.
+inh.tg.			86400	IN	NS	ns1.cafe.tg.
 innoveclair.tg.		86400	IN	NS	ns1.francedns.com.
 innoveclair.tg.		86400	IN	NS	ns2.francedns.com.
 innoveclair.tg.		86400	IN	NS	ns3.francedns.com.
@@ -4955,8 +4956,8 @@ sprintradio.tg.		86400	IN	NS	ns532.dnsserverboot.com.
 sproca.tg.		86400	IN	NS	ns4.netmaster.tg.
 sproca.tg.		86400	IN	NS	ns1.cafe.tg.
 sproca.tg.		86400	IN	NS	ns2.cafe.tg.
-ssa.tg.			86400	IN	NS	dns1.e-c.com.
-ssa.tg.			86400	IN	NS	dns2.e-c.com.
+ssa.tg.			86400	IN	NS	dns1.namecheaphosting.com.
+ssa.tg.			86400	IN	NS	dns2.namecheaphosting.com.
 ssbet.tg.		86400	IN	NS	ns1-02.azure-dns.com.
 ssbet.tg.		86400	IN	NS	ns2-02.azure-dns.net.
 ssbet.tg.		86400	IN	NS	ns3-02.azure-dns.org.
@@ -5943,4 +5944,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070733 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070759 21600 3600 604800 86400
