@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070800 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1657227740"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070806 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1657242135"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3164,8 +3164,8 @@ future.sy.		86400	IN	NS	ns3.tld.sy.
 future.sy.		86400	IN	NS	ns4.tld.sy.
 futureeducation.sy.	86400	IN	NS	suspend1.tld.sy.
 futureeducation.sy.	86400	IN	NS	suspend2.tld.sy.
-fx.sy.			86400	IN	NS	andrea.dnspod.net.
-fx.sy.			86400	IN	NS	hayden.dnspod.net.
+fx.sy.			86400	IN	NS	damon.ns.cloudflare.com.
+fx.sy.			86400	IN	NS	itzel.ns.cloudflare.com.
 gaia.sy.		86400	IN	NS	ns3.gaia-group.co.
 gaia.sy.		86400	IN	NS	ns4.gaia-group.co.
 gaiagroup.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -3994,8 +3994,8 @@ jazmaty.sy.		86400	IN	NS	suspend1.tld.sy.
 jazmaty.sy.		86400	IN	NS	suspend2.tld.sy.
 jba.sy.			86400	IN	NS	ns1.dns-parking.com.
 jba.sy.			86400	IN	NS	ns2.dns-parking.com.
-jd.sy.			86400	IN	NS	grace.ns.cloudflare.com.
-jd.sy.			86400	IN	NS	thomas.ns.cloudflare.com.
+jd.sy.			86400	IN	NS	damon.ns.cloudflare.com.
+jd.sy.			86400	IN	NS	itzel.ns.cloudflare.com.
 jeesy-co.sy.		86400	IN	NS	suspend1.tld.sy.
 jeesy-co.sy.		86400	IN	NS	suspend2.tld.sy.
 jelaticone.sy.		86400	IN	NS	ns237.ucg.ltd.
@@ -7931,4 +7931,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070800 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070806 3600 3600 2592000 3600
