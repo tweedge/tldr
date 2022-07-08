@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070810 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1657252943"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070815 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1657263735"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -288,8 +288,8 @@ abpgfd.sy.		86400	IN	NS	julio.ns.cloudflare.com.
 abpgfd.sy.		86400	IN	NS	tricia.ns.cloudflare.com.
 abratalshraa.sy.	86400	IN	NS	ns1.signal-host.com.
 abratalshraa.sy.	86400	IN	NS	ns2.signal-host.com.
-abt.sy.			86400	IN	NS	suspend1.tld.sy.
-abt.sy.			86400	IN	NS	suspend2.tld.sy.
+abt.sy.			86400	IN	NS	ns1.clicknetco.com.
+abt.sy.			86400	IN	NS	ns2.clicknetco.com.
 abualeyoun.sy.		86400	IN	NS	suspend1.tld.sy.
 abualeyoun.sy.		86400	IN	NS	suspend2.tld.sy.
 abudamaa.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7698,6 +7698,8 @@ wolflubes.sy.		86400	IN	NS	dns1.novagraaf-dns.com.
 wolflubes.sy.		86400	IN	NS	dns2.novagraaf-dns.net.
 wolflubes.sy.		86400	IN	NS	dns3.novagraaf-dns.nl.
 wolflubes.sy.		86400	IN	NS	dns4.novagraaf-dns.eu.
+wooden-touch.sy.	86400	IN	NS	ns1.aldrtech.sy.
+wooden-touch.sy.	86400	IN	NS	ns2.aldrtech.sy.
 woodexpo.sy.		86400	IN	NS	suspend1.tld.sy.
 woodexpo.sy.		86400	IN	NS	suspend2.tld.sy.
 wptigroup.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7931,4 +7933,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070810 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070815 3600 3600 2592000 3600
