@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070759 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070833 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1187,10 +1187,8 @@ cda.tg.			86400	IN	NS	ns1.nic.tg.
 cda.tg.			86400	IN	NS	tld.cafe.tg.
 cdiscount.tg.		86400	IN	NS	dns1.cscdns.net.
 cdiscount.tg.		86400	IN	NS	dns2.cscdns.net.
-cdn.tg.			86400	IN	NS	ns1.huaweicloud-dns.com.
-cdn.tg.			86400	IN	NS	ns1.huaweicloud-dns.cn.
-cdn.tg.			86400	IN	NS	ns1.huaweicloud-dns.net.
-cdn.tg.			86400	IN	NS	ns1.huaweicloud-dns.org.
+cdn.tg.			86400	IN	NS	mizar.dnspod.net.
+cdn.tg.			86400	IN	NS	shell.dnspod.net.
 cebmexpert.tg.		86400	IN	NS	ns5.netmaster.tg.
 cebmexpert.tg.		86400	IN	NS	ns1.cafe.tg.
 cebmexpert.tg.		86400	IN	NS	ns2.cafe.tg.
@@ -2869,8 +2867,8 @@ inger.tg.		86400	IN	NS	ns4.netmaster.tg.
 inger.tg.		86400	IN	NS	ns1.cafe.tg.
 inger.tg.		86400	IN	NS	ns2.cafe.tg.
 inh.tg.			86400	IN	NS	ns5.netmaster.tg.
-inh.tg.			86400	IN	NS	ns2.cafe.tg.
 inh.tg.			86400	IN	NS	ns1.cafe.tg.
+inh.tg.			86400	IN	NS	ns2.cafe.tg.
 innoveclair.tg.		86400	IN	NS	ns1.francedns.com.
 innoveclair.tg.		86400	IN	NS	ns2.francedns.com.
 innoveclair.tg.		86400	IN	NS	ns3.francedns.com.
@@ -5944,4 +5942,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070759 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070833 21600 3600 604800 86400

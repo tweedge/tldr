@@ -1,6 +1,7 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022070701 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022070801 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
+cv.			28800	IN	NS	anyc.dnsnode.net.
 cv.			28800	IN	NS	cv01.dns.pt.
 cv.			28800	IN	NS	NS-EXT.ISC.ORG.
 cv.			28800	IN	TXT	"Cabo Verde"
@@ -406,11 +407,11 @@ anjosinvest.cv.		28800	IN	NS	ns101.cloudns.net.
 anjosinvest.cv.		28800	IN	NS	ns102.cloudns.net.
 anjosinvest.cv.		28800	IN	NS	ns103.cloudns.net.
 anjosinvest.cv.		28800	IN	NS	ns104.cloudns.net.
+anmcv.cv.		28800	IN	A	45.154.66.253
+anmcv.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 anmcv.cv.		28800	IN	NS	ns1.wtservers.com.
 anmcv.cv.		28800	IN	NS	ns2.wtservers.com.
 anmcv.cv.		28800	IN	NS	ns3.wtservers.com.
-anmcv.cv.		28800	IN	A	45.154.66.253
-anmcv.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 ansa.cv.		28800	IN	NS	ns1.gov.cv.
 ansa.cv.		28800	IN	NS	ns2.gov.cv.
 anuncios.cv.		28800	IN	NS	ns1.anuncios.cv.
@@ -584,8 +585,8 @@ mx.assistec.cv.		28800	IN	A	66.96.140.136
 mx.assistec.cv.		28800	IN	A	66.96.140.137
 associativismojuvenil.cv. 28800	IN	NS	ns1.designtudo.com.
 associativismojuvenil.cv. 28800	IN	NS	ns2.hans.hosteurope.de.
-mail.associativismojuvenil.cv. 28800 IN	A	91.250.103.216
 mail.associativismojuvenil.cv. 28800 IN	AAAA	2a01:488:66:1000:5bfa:67d8:0:1
+mail.associativismojuvenil.cv. 28800 IN	A	91.250.103.216
 atc.cv.			28800	IN	NS	ns1.bluehost.com.
 atc.cv.			28800	IN	NS	ns2.bluehost.com.
 mail.atc.cv.		28800	IN	A	50.87.248.169
@@ -1645,10 +1646,10 @@ cloudtechnology.cv.	28800	IN	NS	ns1.isone.cv.
 cloudtechnology.cv.	28800	IN	NS	ns2.isone.cv.
 cloudz.cv.		28800	IN	NS	karl.ns.cloudflare.com.
 cloudz.cv.		28800	IN	NS	alina.ns.cloudflare.com.
-club-cabo-verde.cv.	28800	IN	AAAA	2600:2000:1000::7
-club-cabo-verde.cv.	28800	IN	AAAA	2600:2000:1001::7
 club-cabo-verde.cv.	28800	IN	NS	ns01.brandshelter.com.
 club-cabo-verde.cv.	28800	IN	NS	ns02.brandshelter.net.
+club-cabo-verde.cv.	28800	IN	AAAA	2600:2000:1000::7
+club-cabo-verde.cv.	28800	IN	AAAA	2600:2000:1001::7
 club-caboverde.cv.	28800	IN	AAAA	2600:2000:1000::7
 club-caboverde.cv.	28800	IN	AAAA	2600:2000:1001::7
 club-caboverde.cv.	28800	IN	NS	ns01.brandshelter.com.
@@ -1971,10 +1972,10 @@ chsi.com.cv.		28800	IN	NS	NS5.101DOMAIN.COM.
 cipd.com.cv.		28800	IN	NS	dns1.idp365.net.
 cipd.com.cv.		28800	IN	NS	dns2.idp365.net.
 cipd.com.cv.		28800	IN	NS	dns3.idp365.net.
-citydia.com.cv.		28800	IN	NS	ns1.entornodns.com.
-citydia.com.cv.		28800	IN	NS	ns2.entornodns.com.
 citydia.com.cv.		28800	IN	AAAA	::195.77.116.8
 citydia.com.cv.		28800	IN	AAAA	2a01:1c8:1001:2:be30:5bff:fedf:67ee
+citydia.com.cv.		28800	IN	NS	ns1.entornodns.com.
+citydia.com.cv.		28800	IN	NS	ns2.entornodns.com.
 cloud.com.cv.		28800	IN	A	213.13.28.116
 cloud.com.cv.		28800	IN	A	213.13.30.116
 cloud.com.cv.		28800	IN	NS	ns.sapo.pt.
@@ -5695,8 +5696,8 @@ micotecnica.cv.		28800	IN	NS	ns7.mydnspt.net.
 micotecnica.cv.		28800	IN	NS	ns8.mydnspt.net.
 micromat.cv.		28800	IN	NS	ns1.alojamentos2.com.
 micromat.cv.		28800	IN	NS	ns2.alojamentos2.com.
-microtecnica.cv.	86400	IN	NS	ns1.webs24h.com.
-microtecnica.cv.	86400	IN	NS	ns2.webs24h.com.
+microtecnica.cv.	28800	IN	NS	ns1.webs24h.com.
+microtecnica.cv.	28800	IN	NS	ns2.webs24h.com.
 midi.cv.		28800	IN	NS	ns1.hyp.net.
 midi.cv.		28800	IN	NS	ns2.hyp.net.
 midi.cv.		28800	IN	NS	ns3.hyp.net.
@@ -7881,11 +7882,11 @@ squad.cv.		28800	IN	NS	ns2.digitalocean.com.
 squad.cv.		28800	IN	NS	ns3.digitalocean.com.
 square.cv.		28800	IN	NS	ns1.siteground263.com.
 square.cv.		28800	IN	NS	ns2.siteground263.com.
-src.cv.			28800	IN	NS	ns1.webs24h.com.
-src.cv.			28800	IN	NS	ns2.webs24h.com.
 src.cv.			28800	IN	AAAA	2001:4cc0:3:a::6dfe
 src.cv.			28800	IN	AAAA	2001:4cc0:4:10::5
 src.cv.			28800	IN	A	91.198.47.1
+src.cv.			86400	IN	NS	ns1.webs24h.com.
+src.cv.			86400	IN	NS	ns2.webs24h.com.
 ssaadvogados.cv.	28800	IN	NS	dns1.host-redirect.com.
 ssaadvogados.cv.	28800	IN	NS	dns2.host-redirect.com.
 ssaadvogados.cv.	28800	IN	NS	dns3.host-redirect.com.
@@ -8783,4 +8784,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022070701 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022070801 86400 7200 2592000 300
