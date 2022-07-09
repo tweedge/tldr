@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070919 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1657350142"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070923 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1657359132"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1287,8 +1287,8 @@ amangroup.sy.		86400	IN	NS	suspend1.tld.sy.
 amangroup.sy.		86400	IN	NS	suspend2.tld.sy.
 amangroupco.sy.		86400	IN	NS	suspend1.tld.sy.
 amangroupco.sy.		86400	IN	NS	suspend2.tld.sy.
-amanholding.sy.		86400	IN	NS	ns1.lazernet.sy.
-amanholding.sy.		86400	IN	NS	ns2.lazernet.sy.
+amanholding.sy.		86400	IN	NS	suspend1.tld.sy.
+amanholding.sy.		86400	IN	NS	suspend2.tld.sy.
 amanmills.sy.		86400	IN	NS	suspend1.tld.sy.
 amanmills.sy.		86400	IN	NS	suspend2.tld.sy.
 amatco.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -2818,8 +2818,8 @@ elotto.sy.		86400	IN	NS	ns3.tld.sy.
 elotto.sy.		86400	IN	NS	ns4.tld.sy.
 elton-trade.sy.		86400	IN	NS	suspend1.tld.sy.
 elton-trade.sy.		86400	IN	NS	suspend2.tld.sy.
-emadabdelhai.sy.	86400	IN	NS	ns1.waveshost.sy.
-emadabdelhai.sy.	86400	IN	NS	ns2.waveshost.sy.
+emadabdelhai.sy.	86400	IN	NS	suspend1.tld.sy.
+emadabdelhai.sy.	86400	IN	NS	suspend2.tld.sy.
 email.sy.		86400	IN	NS	javon.ns.cloudflare.com.
 email.sy.		86400	IN	NS	grannbo.ns.cloudflare.com.
 emall.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
@@ -4151,8 +4151,8 @@ ke.sy.			86400	IN	NS	hayes.ns.cloudflare.com.
 kea.sy.			86400	IN	NS	ns.inwx.de.
 kea.sy.			86400	IN	NS	ns2.inwx.de.
 kea.sy.			86400	IN	NS	ns3.inwx.eu.
-kelshimall.sy.		86400	IN	NS	dell.ns.cloudflare.com.
-kelshimall.sy.		86400	IN	NS	arnold.ns.cloudflare.com.
+kelshimall.sy.		86400	IN	NS	suspend1.tld.sy.
+kelshimall.sy.		86400	IN	NS	suspend2.tld.sy.
 kerosenetech.sy.	86400	IN	NS	ns1.monster.sy.
 kerosenetech.sy.	86400	IN	NS	ns2.monster.sy.
 kh.sy.			86400	IN	NS	ns1.damashost.com.
@@ -5180,8 +5180,8 @@ ncro.sy.		86400	IN	NS	ns3.tld.sy.
 ncro.sy.		86400	IN	NS	ns4.tld.sy.
 ncsr.sy.		86400	IN	NS	suspend1.tld.sy.
 ncsr.sy.		86400	IN	NS	suspend2.tld.sy.
-nct.sy.			86400	IN	NS	ns1.boulevardme.com.
-nct.sy.			86400	IN	NS	ns2.boulevardme.com.
+nct.sy.			86400	IN	NS	suspend1.tld.sy.
+nct.sy.			86400	IN	NS	suspend2.tld.sy.
 ncva.sy.		86400	IN	NS	eva.ns.cloudflare.com.
 ncva.sy.		86400	IN	NS	drew.ns.cloudflare.com.
 ne.sy.			86400	IN	NS	ns1.idvdns.com.
@@ -5625,8 +5625,8 @@ pits.sy.		86400	IN	NS	suspend1.tld.sy.
 pits.sy.		86400	IN	NS	suspend2.tld.sy.
 plansters.sy.		86400	IN	NS	dns3.aya.sy.
 plansters.sy.		86400	IN	NS	dns4.aya.sy.
-platinum.sy.		86400	IN	NS	ns7.platinum-global.net.
-platinum.sy.		86400	IN	NS	ns8.platinum-global.net.
+platinum.sy.		86400	IN	NS	suspend1.tld.sy.
+platinum.sy.		86400	IN	NS	suspend2.tld.sy.
 play.sy.		86400	IN	NS	sydns1.nobalaa.com.
 play.sy.		86400	IN	NS	sydns2.nobalaa.com.
 plwhm.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7440,16 +7440,16 @@ tyc.sy.			86400	IN	NS	cody.ns.cloudflare.com.
 tyc.sy.			86400	IN	NS	dolly.ns.cloudflare.com.
 tzkrti.sy.		86400	IN	NS	cdns1.main-hosting.eu.
 tzkrti.sy.		86400	IN	NS	cdns2.main-hosting.eu.
-u-p-s.sy.		86400	IN	NS	ns1.lazernet.sy.
-u-p-s.sy.		86400	IN	NS	ns2.lazernet.sy.
-u-t-c.sy.		86400	IN	NS	ns1.lazernet.sy.
-u-t-c.sy.		86400	IN	NS	ns2.lazernet.sy.
+u-p-s.sy.		86400	IN	NS	suspend1.tld.sy.
+u-p-s.sy.		86400	IN	NS	suspend2.tld.sy.
+u-t-c.sy.		86400	IN	NS	suspend1.tld.sy.
+u-t-c.sy.		86400	IN	NS	suspend2.tld.sy.
 uberha.sy.		86400	IN	NS	ns1.pronet.sy.
 uberha.sy.		86400	IN	NS	ns2.pronet.sy.
 uc.sy.			86400	IN	NS	hal.ns.cloudflare.com.
 uc.sy.			86400	IN	NS	melinda.ns.cloudflare.com.
-ucc.sy.			86400	IN	NS	ns1.lazernet.sy.
-ucc.sy.			86400	IN	NS	ns2.lazernet.sy.
+ucc.sy.			86400	IN	NS	suspend1.tld.sy.
+ucc.sy.			86400	IN	NS	suspend2.tld.sy.
 ucg.sy.			86400	IN	NS	ns230.ucg.ltd.
 ucg.sy.			86400	IN	NS	ns2230.ucg.ltd.
 ucs.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -7933,4 +7933,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070919 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070923 3600 3600 2592000 3600
