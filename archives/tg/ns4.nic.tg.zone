@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070862 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070873 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -3118,9 +3118,9 @@ kido.tg.		86400	IN	NS	ns4.netmaster.tg.
 kingmakers.tg.		86400	IN	NS	dns1.safenames.com.
 kingmakers.tg.		86400	IN	NS	dns2.safenames.net.
 kingmakers.tg.		86400	IN	NS	dns3.safenames.org.
-kingoo.tg.		86400	IN	NS	ns5.netmaster.tg.
-kingoo.tg.		86400	IN	NS	ns1.cafe.tg.
-kingoo.tg.		86400	IN	NS	ns2.cafe.tg.
+kingoo.tg.		86400	IN	NS	ns1.ex2.com.
+kingoo.tg.		86400	IN	NS	ns2.ex2.com.
+kingoo.tg.		86400	IN	NS	ns3.ex2.com.
 klm.tg.			86400	IN	NS	ns.klm.nl.
 klm.tg.			86400	IN	NS	nss.klm.nl.
 klm.tg.			86400	IN	NS	ns2.kpn.net.
@@ -5326,6 +5326,9 @@ togodigital.tg.		86400	IN	NS	ns1.gouv.tg.
 togodigital.tg.		86400	IN	NS	ns2.gouv.tg.
 togodigitalawards.tg.	86400	IN	NS	cpanel15.lws-hosting.com.
 togodigitalawards.tg.	86400	IN	NS	cpanel16.lws-hosting.com.
+togoevent.tg.		86400	IN	NS	ns5.netmaster.tg.
+togoevent.tg.		86400	IN	NS	ns1.cafe.tg.
+togoevent.tg.		86400	IN	NS	ns2.cafe.tg.
 togoevents.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
 togoevents.tg.		86400	IN	NS	ns1.togoevents.tg.
 togoevents.tg.		86400	IN	NS	ns2.togoevents.tg.
@@ -5946,4 +5949,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070862 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070873 21600 3600 604800 86400
