@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071015 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1657436542"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071018 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1657447334"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -243,8 +243,8 @@ aamd.sy.		86400	IN	NS	suspend1.tld.sy.
 aamd.sy.		86400	IN	NS	suspend2.tld.sy.
 aameira.sy.		86400	IN	NS	suspend1.tld.sy.
 aameira.sy.		86400	IN	NS	suspend2.tld.sy.
-aarkoshtrading.sy.	86400	IN	NS	ns1.waveshost.sy.
-aarkoshtrading.sy.	86400	IN	NS	ns2.waveshost.sy.
+aarkoshtrading.sy.	86400	IN	NS	suspend1.tld.sy.
+aarkoshtrading.sy.	86400	IN	NS	suspend2.tld.sy.
 abb.sy.			86400	IN	NS	nse1.abb.com.
 abb.sy.			86400	IN	NS	nse2.abb.com.
 abb.sy.			86400	IN	NS	nse3.abb.com.
@@ -5148,8 +5148,8 @@ nanomedica.sy.		86400	IN	NS	suspend1.tld.sy.
 nanomedica.sy.		86400	IN	NS	suspend2.tld.sy.
 naqel.sy.		86400	IN	NS	suspend1.tld.sy.
 naqel.sy.		86400	IN	NS	suspend2.tld.sy.
-naramtrading.sy.	86400	IN	NS	ns1.waveshost.sy.
-naramtrading.sy.	86400	IN	NS	ns2.waveshost.sy.
+naramtrading.sy.	86400	IN	NS	suspend1.tld.sy.
+naramtrading.sy.	86400	IN	NS	suspend2.tld.sy.
 nart.sy.		86400	IN	NS	ns1.signal-host.com.
 nart.sy.		86400	IN	NS	ns2.signal-host.con.
 nas.sy.			86400	IN	NS	ns1.nas.sy.
@@ -5676,8 +5676,8 @@ prodealco.sy.		86400	IN	NS	suspend1.tld.sy.
 prodealco.sy.		86400	IN	NS	suspend2.tld.sy.
 proffer.sy.		86400	IN	NS	ns5.takamol.sy.
 proffer.sy.		86400	IN	NS	ns6.takamol.sy.
-profilenews.sy.		86400	IN	NS	ns1.pronet.sy.
-profilenews.sy.		86400	IN	NS	ns2.pronet.sy.
+profilenews.sy.		86400	IN	NS	suspend1.tld.sy.
+profilenews.sy.		86400	IN	NS	suspend2.tld.sy.
 profit.sy.		86400	IN	NS	gene.ns.cloudflare.com.
 profit.sy.		86400	IN	NS	aiden.ns.cloudflare.com.
 proguard.sy.		86400	IN	NS	ns205.canadianwebhosting.com.
@@ -6938,8 +6938,8 @@ ns1.syrianhost.sy.	86400	IN	A	212.11.196.153
 ns2.syrianhost.sy.	86400	IN	A	212.11.196.153
 syrianhousebook.sy.	86400	IN	NS	suspend1.tld.sy.
 syrianhousebook.sy.	86400	IN	NS	suspend2.tld.sy.
-syrianlaptops.sy.	86400	IN	NS	ns16.samamax.com.
-syrianlaptops.sy.	86400	IN	NS	ns17.samamax.com.
+syrianlaptops.sy.	86400	IN	NS	suspend1.tld.sy.
+syrianlaptops.sy.	86400	IN	NS	suspend2.tld.sy.
 syrianmanufacturing.sy.	86400	IN	NS	ns1.alanqaa.com.
 syrianmanufacturing.sy.	86400	IN	NS	ns2.alanqaa.com.
 syrianmonster.sy.	86400	IN	NS	ns1.syrianmonster.sy.
@@ -7933,4 +7933,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071015 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071018 3600 3600 2592000 3600
