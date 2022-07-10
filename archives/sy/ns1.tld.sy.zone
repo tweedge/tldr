@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071018 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1657447334"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071022 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1657458142"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -5354,8 +5354,8 @@ oiqryzpmga.sy.		86400	IN	NS	suspend1.tld.sy.
 oiqryzpmga.sy.		86400	IN	NS	suspend2.tld.sy.
 ois.sy.			86400	IN	NS	suspend1.tld.sy.
 ois.sy.			86400	IN	NS	suspend2.tld.sy.
-ok.sy.			86400	IN	NS	grace.ns.cloudflare.com.
-ok.sy.			86400	IN	NS	thomas.ns.cloudflare.com.
+ok.sy.			86400	IN	NS	ns01.serverspace.io.
+ok.sy.			86400	IN	NS	ns02.serverspace.io.
 okdeh.sy.		86400	IN	NS	ns4.ucg-core.com.
 okdeh.sy.		86400	IN	NS	ns8.ucg-core.com.
 oki.sy.			86400	IN	NS	rns1.rightsdns.com.
@@ -7933,4 +7933,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071018 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071022 3600 3600 2592000 3600
