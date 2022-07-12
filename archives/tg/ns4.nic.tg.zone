@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071237 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071256 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -2593,9 +2593,8 @@ ns.helim.tg.		86400	IN	A	41.207.178.38
 ns1.helim.tg.		86400	IN	A	41.207.188.82
 ns11.helim.tg.		86400	IN	A	41.207.177.18
 ns2.helim.tg.		86400	IN	A	196.168.88.82
-heliumtech.tg.		86400	IN	NS	ns5.netmaster.tg.
-heliumtech.tg.		86400	IN	NS	ns1.cafe.tg.
-heliumtech.tg.		86400	IN	NS	ns2.cafe.tg.
+heliumtech.tg.		86400	IN	NS	ns1.o2switch.net.
+heliumtech.tg.		86400	IN	NS	ns2.o2switch.net.
 helloinvest.tg.		86400	IN	NS	nsa.planethoster.net.
 helloinvest.tg.		86400	IN	NS	nsb.planethoster.net.
 helloinvest.tg.		86400	IN	NS	nsc.planethoster.net.
@@ -5964,4 +5963,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071237 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071256 21600 3600 604800 86400
