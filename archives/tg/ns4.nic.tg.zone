@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071272 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071345 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -3904,9 +3904,10 @@ notairepouwi.tg.	86400	IN	NS	ns2.o2switch.net.
 notebook12.tg.		86400	IN	NS	ns1.reserve.ch.
 noti.tg.		86400	IN	NS	igor.ns.cloudflare.com.
 noti.tg.		86400	IN	NS	olga.ns.cloudflare.com.
-notiss.tg.		86400	IN	NS	ns5.netmaster.tg.
-notiss.tg.		86400	IN	NS	ns1.cafe.tg.
-notiss.tg.		86400	IN	NS	ns2.cafe.tg.
+notiss.tg.		86400	IN	NS	ns1045.ui-dns.org.
+notiss.tg.		86400	IN	NS	ns1045.ui-dns.de.
+notiss.tg.		86400	IN	NS	ns1045.ui-dns.biz.
+notiss.tg.		86400	IN	NS	ns1045.ui-dns.com.
 nouvelles.tg.		86400	IN	NS	ns1.francedns.com.
 nouvelles.tg.		86400	IN	NS	ns2.francedns.com.
 nouvelles.tg.		86400	IN	NS	ns3.francedns.com.
@@ -5967,4 +5968,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071272 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071345 21600 3600 604800 86400
