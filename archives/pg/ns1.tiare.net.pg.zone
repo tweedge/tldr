@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022071205 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022071400 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -1531,6 +1531,9 @@ goreaccountants.COM.pg.	172800	IN	NS	ns3.datec.net.pg.
 goreprojectservices.COM.pg. 172800 IN	NS	ns1.datec.net.pg.
 goreprojectservices.COM.pg. 172800 IN	NS	ns2.datec.net.pg.
 goreprojectservices.COM.pg. 172800 IN	NS	ns3.datec.net.pg.
+gotopup.COM.pg.		172800	IN	NS	ns1.datec.net.pg.
+gotopup.COM.pg.		172800	IN	NS	ns2.datec.net.pg.
+gotopup.COM.pg.		172800	IN	NS	ns3.datec.net.pg.
 gpm.COM.pg.		172800	IN	NS	ns1.siteground.net.
 gpm.COM.pg.		172800	IN	NS	ns2.siteground.net.
 gpsagency.COM.pg.	172800	IN	NS	ns1.datec.net.pg.
@@ -3620,6 +3623,8 @@ qantas.COM.pg.		172800	IN	NS	dns14.domainnetwork.com.
 qantas.COM.pg.		172800	IN	NS	dns15.domainnetwork.com.
 qedrill.COM.pg.		172800	IN	NS	ns1.kumulhost.com.
 qedrill.COM.pg.		172800	IN	NS	ns2.kumulhost.com.
+qualityglassaluminium.COM.pg. 172800 IN	NS	ns1.agentpoint.com.au.
+qualityglassaluminium.COM.pg. 172800 IN	NS	ns2.agentpoint.com.au.
 qualitygroup.COM.pg.	172800	IN	NS	ns1.datec.net.pg.
 qualitygroup.COM.pg.	172800	IN	NS	ns2.datec.net.pg.
 qualitygroup.COM.pg.	172800	IN	NS	ns3.datec.net.pg.
@@ -6040,4 +6045,4 @@ ywamships.ORG.pg.	172800	IN	NS	ns3.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns1.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns2.qnetau.com.
 ywcapng.ORG.pg.		172800	IN	NS	ns3.qnetau.com.
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022071205 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022071400 14400 7200 1728000 14400
