@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071345 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071450 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -300,6 +300,9 @@ agou.tg.		86400	IN	NS	ns4.netmaster.tg.
 agri-torch.tg.		86400	IN	NS	ns5.netmaster.tg.
 agri-torch.tg.		86400	IN	NS	ns1.cafe.tg.
 agri-torch.tg.		86400	IN	NS	ns2.cafe.tg.
+agrims.tg.		86400	IN	NS	dns1.digitalocean.com.
+agrims.tg.		86400	IN	NS	dns2.digitalocean.com.
+agrims.tg.		86400	IN	NS	dns3.digitalocean.com.
 agroferme.tg.		86400	IN	NS	dns1.p08.nsone.net.
 agroferme.tg.		86400	IN	NS	dns2.p08.nsone.net.
 agroferme.tg.		86400	IN	NS	dns3.p08.nsone.net.
@@ -2611,6 +2614,9 @@ hertz.tg.		86400	IN	NS	ns1.afrihosttg.com.
 hertz.tg.		86400	IN	NS	ns2.afrihosttg.com.
 hg0088.tg.		86400	IN	NS	blair.ns.cloudflare.com.
 hg0088.tg.		86400	IN	NS	kanye.ns.cloudflare.com.
+highfiveuniversity.tg.	86400	IN	NS	ns-249-a.gandi.net.
+highfiveuniversity.tg.	86400	IN	NS	ns-166-b.gandi.net.
+highfiveuniversity.tg.	86400	IN	NS	ns-218-c.gandi.net.
 hikvision.tg.		86400	IN	NS	ns1.markmonitor.com.
 hikvision.tg.		86400	IN	NS	ns2.markmonitor.com.
 hilay.tg.		86400	IN	NS	dns1.simplecplogin.com.
@@ -5835,9 +5841,8 @@ wine.tg.		86400	IN	NS	ns100.hostwhitelabel.com.
 wine.tg.		86400	IN	NS	ns200.hostwhitelabel.com.
 wingsconsulting.tg.	86400	IN	NS	cpanel21.lws-hosting.com.
 wingsconsulting.tg.	86400	IN	NS	cpanel22.lws-hosting.com.
-winifarms.tg.		86400	IN	NS	ns5.lwsdns.com.
-winifarms.tg.		86400	IN	NS	ns6.lwsdns.com.
-winifarms.tg.		86400	IN	NS	ns7.lwsdns.com.
+winifarms.tg.		86400	IN	NS	cpanel17.lws-hosting.com.
+winifarms.tg.		86400	IN	NS	cpanel18.lws-hosting.com.
 winland.tg.		86400	IN	NS	dns1.hosteur.com.
 winland.tg.		86400	IN	NS	dns2.hosteur.com.
 woena.tg.		86400	IN	NS	oti.ids.tg.
@@ -5968,4 +5973,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071345 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071450 21600 3600 604800 86400
