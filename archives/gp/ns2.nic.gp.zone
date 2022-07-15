@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022071501 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022071514 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -825,6 +825,9 @@ burjalarab.gp.		86400	IN	NS	h4.nstld.com.
 burjalarab.gp.		86400	IN	NS	j4.nstld.com.
 busmaintenance.gp.	86400	IN	NS	ns12.ovh.net.
 busmaintenance.gp.	86400	IN	NS	dns12.ovh.net.
+butterfly.gp.		86400	IN	NS	ns1.francedns.com.
+butterfly.gp.		86400	IN	NS	ns2.francedns.com.
+butterfly.gp.		86400	IN	NS	ns3.francedns.com.
 bvglr.gp.		86400	IN	NS	ns1.netim.net.
 bvglr.gp.		86400	IN	NS	ns2.netim.net.
 bvglr.gp.		86400	IN	NS	ns3.netim.net.
@@ -3942,6 +3945,9 @@ pneumologue.gp.		86400	IN	NS	ns3.kinamo.be.
 pneupascher.gp.		86400	IN	NS	ns1.francedns.com.
 pneupascher.gp.		86400	IN	NS	ns2.francedns.com.
 pneupascher.gp.		86400	IN	NS	ns3.francedns.com.
+pneuscash.gp.		86400	IN	NS	ns-12-c.gandi.net.
+pneuscash.gp.		86400	IN	NS	ns-83-b.gandi.net.
+pneuscash.gp.		86400	IN	NS	ns-170-a.gandi.net.
 pneusgom.gp.		86400	IN	NS	ryleigh.ns.cloudflare.com.
 pneusgom.gp.		86400	IN	NS	giancarlo.ns.cloudflare.com.
 pointeapitre.gp.	86400	IN	NS	ns1.gandi.net.
@@ -5377,4 +5383,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022071501 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022071514 86400 7200 2592000 345600
