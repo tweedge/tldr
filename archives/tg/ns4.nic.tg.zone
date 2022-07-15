@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071450 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071473 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1236,9 +1236,8 @@ certum.tg.		86400	IN	NS	ns1.cafe.tg.
 certum.tg.		86400	IN	NS	ns2.cafe.tg.
 cestom.tg.		86400	IN	NS	ns1.dns-parking.com.
 cestom.tg.		86400	IN	NS	ns2.dns-parking.com.
-cet.tg.			86400	IN	NS	ns5.netmaster.tg.
-cet.tg.			86400	IN	NS	ns1.cafe.tg.
-cet.tg.			86400	IN	NS	ns2.cafe.tg.
+cet.tg.			86400	IN	NS	algin.ns.cloudflare.com.
+cet.tg.			86400	IN	NS	dawn.ns.cloudflare.com.
 ns1.cet.tg.		86400	IN	A	41.207.186.243
 cetef.tg.		86400	IN	NS	ns1.bluehost.com.
 cetef.tg.		86400	IN	NS	ns2.bluehost.com.
@@ -5973,4 +5972,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071450 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071473 21600 3600 604800 86400
