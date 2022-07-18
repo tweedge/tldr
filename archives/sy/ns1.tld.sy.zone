@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071820 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1658127737"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071826 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1658138535"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1628,8 +1628,6 @@ babili.sy.		86400	IN	NS	suspend1.tld.sy.
 babili.sy.		86400	IN	NS	suspend2.tld.sy.
 babylon-travel.sy.	86400	IN	NS	suspend1.tld.sy.
 babylon-travel.sy.	86400	IN	NS	suspend2.tld.sy.
-backtosyria.sy.		86400	IN	NS	ns1.ibaaco.sy.
-backtosyria.sy.		86400	IN	NS	ns2.ibaaco.sy.
 badr-aldin.sy.		86400	IN	NS	suspend1.tld.sy.
 badr-aldin.sy.		86400	IN	NS	suspend2.tld.sy.
 bahimotors.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -2671,8 +2669,8 @@ e-lcom.sy.		86400	IN	NS	ns1.e-lcom.sy.
 e-lcom.sy.		86400	IN	NS	ns2.e-lcom.sy.
 ns1.e-lcom.sy.		86400	IN	A	185.4.87.37
 ns2.e-lcom.sy.		86400	IN	A	185.4.87.40
-e-lotto.sy.		86400	IN	NS	suspend1.tld.sy.
-e-lotto.sy.		86400	IN	NS	suspend2.tld.sy.
+e-lotto.sy.		86400	IN	NS	ns3.tld.sy.
+e-lotto.sy.		86400	IN	NS	ns4.tld.sy.
 e-mail.sy.		86400	IN	NS	ns1.nameself.com.
 e-mail.sy.		86400	IN	NS	ns2.nameself.com.
 e-mall.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
@@ -3727,10 +3725,6 @@ iamthechef.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 iamthechef.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
 ibaa.sy.		86400	IN	NS	suspend1.tld.sy.
 ibaa.sy.		86400	IN	NS	suspend2.tld.sy.
-ibaaco.sy.		86400	IN	NS	ns1.ibaaco.sy.
-ibaaco.sy.		86400	IN	NS	ns2.ibaaco.sy.
-ns1.ibaaco.sy.		86400	IN	A	185.92.88.14
-ns2.ibaaco.sy.		86400	IN	A	185.92.88.15
 ibank.sy.		86400	IN	NS	ns3.tld.sy.
 ibank.sy.		86400	IN	NS	ns4.tld.sy.
 ibdaa.sy.		86400	IN	NS	dns1.namecheaphosting.com.
@@ -3905,6 +3899,8 @@ isawi.sy.		86400	IN	NS	suspend1.tld.sy.
 isawi.sy.		86400	IN	NS	suspend2.tld.sy.
 isc.sy.			86400	IN	NS	suspend1.tld.sy.
 isc.sy.			86400	IN	NS	suspend2.tld.sy.
+isceit.sy.		86400	IN	NS	ns1.tld.sy.
+isceit.sy.		86400	IN	NS	ns2.tld.sy.
 isdin.sy.		86400	IN	NS	ns1.linode.com.
 isdin.sy.		86400	IN	NS	ns2.linode.com.
 isdin.sy.		86400	IN	NS	ns3.linode.com.
@@ -7525,8 +7521,8 @@ unlimited.sy.		86400	IN	NS	ns1.shamcenter.com.
 unlimited.sy.		86400	IN	NS	ns2.shamcenter.com.
 uok.sy.			86400	IN	NS	ns3.tld.sy.
 uok.sy.			86400	IN	NS	ns4.tld.sy.
-upay.sy.		86400	IN	NS	suspend1.tld.sy.
-upay.sy.		86400	IN	NS	suspend2.tld.sy.
+upay.sy.		86400	IN	NS	ns1.scltd.sy.
+upay.sy.		86400	IN	NS	ns2.scltd.sy.
 upco.sy.		86400	IN	NS	suspend1.tld.sy.
 upco.sy.		86400	IN	NS	suspend2.tld.sy.
 upwork.sy.		86400	IN	NS	sydns1.nobalaa.com.
@@ -7933,4 +7929,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071820 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071826 3600 3600 2592000 3600
