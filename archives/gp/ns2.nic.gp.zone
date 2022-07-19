@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022071818 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022071902 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -2420,6 +2420,8 @@ hotelstonight.gp.	86400	IN	NS	3.dnsservers.de.
 hotelstonight.gp.	86400	IN	NS	4.dns-servers.eu.
 hotfrog.gp.		86400	IN	NS	ns0.telstra.net.
 hotfrog.gp.		86400	IN	NS	ns1.telstra.net.
+housesbys.gp.		86400	IN	NS	ns1.ikoula.fr.
+housesbys.gp.		86400	IN	NS	ns2.ikoula.fr.
 housingagent.gp.	86400	IN	NS	ns1.hostnet.nl.
 housingagent.gp.	86400	IN	NS	ns2.hostnetbv.com.
 housingagent.gp.	86400	IN	NS	ns3.hostnetbv.nl.
@@ -5388,4 +5390,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022071818 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022071902 86400 7200 2592000 345600
