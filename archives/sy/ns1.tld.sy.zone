@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072023 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1658311343"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072026 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1658322135"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2832,6 +2832,8 @@ emec-syria.sy.		86400	IN	NS	ns2.scs-net.sy.
 emec-syria.sy.		86400	IN	NS	ns2.scs-net.org.
 emeg.sy.		86400	IN	NS	ns1.alanqaa.com.
 emeg.sy.		86400	IN	NS	ns2.alanqaa.com.
+emeralds-star.sy.	86400	IN	NS	ns1.syrianhost.sy.
+emeralds-star.sy.	86400	IN	NS	ns2.syrianhost.sy.
 emessalabs.sy.		86400	IN	NS	suspend1.tld.sy.
 emessalabs.sy.		86400	IN	NS	suspend2.tld.sy.
 emg.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -7924,4 +7926,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072023 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072026 3600 3600 2592000 3600
