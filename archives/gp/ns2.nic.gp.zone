@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022071914 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022072100 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -996,6 +996,8 @@ chiro.gp.		86400	IN	NS	dns2.cloudns.net.
 christofle.gp.		86400	IN	NS	ns2.observatoiredesmarques.fr.
 christofle.gp.		86400	IN	NS	ns3.nameshield.net.
 christofle.gp.		86400	IN	NS	obs.ns1.fr.
+chronofit.gp.		86400	IN	NS	ns1.p68.dns.oraclecloud.net.
+chronofit.gp.		86400	IN	NS	ns2.p68.dns.oraclecloud.net.
 chronopei.gp.		86400	IN	NS	a.ns.domainoo.fr.
 chronopei.gp.		86400	IN	NS	b.ns.domainoo.fr.
 chronopei.gp.		86400	IN	NS	c.ns.domainoo.fr.
@@ -4041,8 +4043,6 @@ promos.gp.		86400	IN	NS	ns2.francedns.com.
 promos.gp.		86400	IN	NS	ns3.francedns.com.
 prontopizza.gp.		86400	IN	NS	ns14.ovh.net.
 prontopizza.gp.		86400	IN	NS	dns14.ovh.net.
-prospectus.gp.		86400	IN	NS	trey.ns.cloudflare.com.
-prospectus.gp.		86400	IN	NS	elaine.ns.cloudflare.com.
 prosport.gp.		86400	IN	NS	ns1.101domain.com.
 prosport.gp.		86400	IN	NS	ns2.101domain.com.
 prost.gp.		86400	IN	NS	ns113.ovh.net.
@@ -5398,4 +5398,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022071914 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022072100 86400 7200 2592000 345600
