@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072117 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1658385142"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072121 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1658397742"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3457,12 +3457,12 @@ happy-land.sy.		86400	IN	NS	suspend1.tld.sy.
 happy-land.sy.		86400	IN	NS	suspend2.tld.sy.
 haramexchang.sy.	86400	IN	NS	suspend1.tld.sy.
 haramexchang.sy.	86400	IN	NS	suspend2.tld.sy.
-haramexchange.sy.	86400	IN	NS	ns1.shamcenter.com.
-haramexchange.sy.	86400	IN	NS	ns2.shamcenter.com.
-haramgroup.sy.		86400	IN	NS	ns1.shamcenter.com.
-haramgroup.sy.		86400	IN	NS	ns2.shamcenter.com.
-haramtransfer.sy.	86400	IN	NS	ns1.shamcenter.com.
-haramtransfer.sy.	86400	IN	NS	ns2.shamcenter.com.
+haramexchange.sy.	86400	IN	NS	suspend1.tld.sy.
+haramexchange.sy.	86400	IN	NS	suspend2.tld.sy.
+haramgroup.sy.		86400	IN	NS	suspend1.tld.sy.
+haramgroup.sy.		86400	IN	NS	suspend2.tld.sy.
+haramtransfer.sy.	86400	IN	NS	suspend1.tld.sy.
+haramtransfer.sy.	86400	IN	NS	suspend2.tld.sy.
 harba.sy.		86400	IN	NS	suspend1.tld.sy.
 harba.sy.		86400	IN	NS	suspend2.tld.sy.
 harbuk.sy.		86400	IN	NS	ns1.ucg-core.com.
@@ -4151,6 +4151,8 @@ kelshimall.sy.		86400	IN	NS	suspend1.tld.sy.
 kelshimall.sy.		86400	IN	NS	suspend2.tld.sy.
 kerosenetech.sy.	86400	IN	NS	ns1.monster.sy.
 kerosenetech.sy.	86400	IN	NS	ns2.monster.sy.
+keyfinder.sy.		86400	IN	NS	ns1.monster.sy.
+keyfinder.sy.		86400	IN	NS	ns2.monster.sy.
 kh.sy.			86400	IN	NS	ns1.damashost.com.
 kh.sy.			86400	IN	NS	ns2.damashost.com.
 kh-gd.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -4440,8 +4442,8 @@ lna.sy.			86400	IN	NS	suspend1.tld.sy.
 lna.sy.			86400	IN	NS	suspend2.tld.sy.
 local.sy.		86400	IN	NS	suspend1.tld.sy.
 local.sy.		86400	IN	NS	suspend2.tld.sy.
-localsearch.sy.		86400	IN	NS	ns1.inmotionhosting.com.
-localsearch.sy.		86400	IN	NS	ns2.inmotionhosting.com.
+localsearch.sy.		86400	IN	NS	suspend1.tld.sy.
+localsearch.sy.		86400	IN	NS	suspend2.tld.sy.
 lol.sy.			86400	IN	NS	sneh.ns.cloudflare.com.
 lol.sy.			86400	IN	NS	matias.ns.cloudflare.com.
 loli.sy.		86400	IN	NS	ns1.dan.com.
@@ -6909,8 +6911,8 @@ syrianairlines.sy.	86400	IN	NS	ns2.aspnix.com.
 syrianairlines.sy.	86400	IN	NS	ns3.aspnix.com.
 syrianarabairlines.sy.	86400	IN	NS	ns4.dnsserver8.com.
 syrianarabairlines.sy.	86400	IN	NS	ns5.dnsserver8.com.
-syrianboard.sy.		86400	IN	NS	suspend1.tld.sy.
-syrianboard.sy.		86400	IN	NS	suspend2.tld.sy.
+syrianboard.sy.		86400	IN	NS	ns3.tld.sy.
+syrianboard.sy.		86400	IN	NS	ns4.tld.sy.
 syriancoast.sy.		86400	IN	NS	suspend1.tld.sy.
 syriancoast.sy.		86400	IN	NS	suspend2.tld.sy.
 syriandays.sy.		86400	IN	NS	ns1.sahratna.com.
@@ -7926,4 +7928,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072117 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072121 3600 3600 2592000 3600

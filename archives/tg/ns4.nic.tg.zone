@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072062 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072134 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -819,6 +819,9 @@ bem.tg.			86400	IN	NS	ns2.francedns.com.
 bem.tg.			86400	IN	NS	ns3.francedns.com.
 bem.tg.			86400	IN	NS	ns4.francedns.com.
 bem.tg.			86400	IN	NS	ns5.francedns.com.
+ben.tg.			86400	IN	NS	ns1.netim.net.
+ben.tg.			86400	IN	NS	ns2.netim.net.
+ben.tg.			86400	IN	NS	ns3.netim.net.
 beneficial-life.tg.	86400	IN	NS	ns-us.1and1-dns.com.
 beneficial-life.tg.	86400	IN	NS	ns-us.1and1-dns.us.
 beneficial-life.tg.	86400	IN	NS	ns-us.1and1-dns.de.
@@ -1966,6 +1969,9 @@ elissar.tg.		86400	IN	NS	ns2.wixdns.net.
 elissar.tg.		86400	IN	NS	ns3.wixdns.net.
 elle.tg.		86400	IN	NS	oti.ids.tg.
 elle.tg.		86400	IN	NS	mono.ids.tg.
+elliot.tg.		86400	IN	NS	ns1.netim.net.
+elliot.tg.		86400	IN	NS	ns2.netim.net.
+elliot.tg.		86400	IN	NS	ns3.netim.net.
 email.tg.		86400	IN	NS	ns-2027.awsdns-61.co.uk.
 email.tg.		86400	IN	NS	ns-1356.awsdns-41.org.
 email.tg.		86400	IN	NS	ns-129.awsdns-16.com.
@@ -4231,9 +4237,10 @@ plexus.tg.		86400	IN	NS	ns-1285.awsdns-32.org.
 plexus.tg.		86400	IN	NS	ns-331.awsdns-41.com.
 plexus.tg.		86400	IN	NS	ns-2043.awsdns-63.co.uk.
 plexus.tg.		86400	IN	NS	ns-1012.awsdns-62.net.
-plv.tg.			86400	IN	NS	ns5.netmaster.tg.
-plv.tg.			86400	IN	NS	ns1.cafe.tg.
-plv.tg.			86400	IN	NS	ns2.cafe.tg.
+plv.tg.			86400	IN	NS	ns1.afraid.org.
+plv.tg.			86400	IN	NS	ns2.afraid.org.
+plv.tg.			86400	IN	NS	ns3.afraid.org.
+plv.tg.			86400	IN	NS	ns4.afraid.org.
 pneus.tg.		86400	IN	NS	dns.voerde.globvill.de.
 pneus.tg.		86400	IN	NS	dns.globvill.de.
 pneus.tg.		86400	IN	NS	dns.globvill.ruhr.
@@ -5996,4 +6003,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072062 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072134 21600 3600 604800 86400
