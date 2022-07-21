@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072121 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1658397742"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072127 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1658408535"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3496,8 +3496,8 @@ hawasly.sy.		86400	IN	NS	beth.ns.cloudflare.com.
 hawasly.sy.		86400	IN	NS	major.ns.cloudflare.com.
 hb.sy.			86400	IN	NS	suspend1.tld.sy.
 hb.sy.			86400	IN	NS	suspend2.tld.sy.
-hcifz.sy.		86400	IN	NS	suspend1.tld.sy.
-hcifz.sy.		86400	IN	NS	suspend2.tld.sy.
+hcifz.sy.		86400	IN	NS	ns1.clicknetco.com.
+hcifz.sy.		86400	IN	NS	ns2.clicknetco.com.
 hcs.sy.			86400	IN	NS	ns1.aldrtech.sy.
 hcs.sy.			86400	IN	NS	ns2.aldrtech.sy.
 hd.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -5014,8 +5014,8 @@ moveit.sy.		86400	IN	NS	ns1.lazernet.sy.
 moveit.sy.		86400	IN	NS	ns2.lazernet.sy.
 mowared.sy.		86400	IN	NS	ns1.mandoubi.sy.
 mowared.sy.		86400	IN	NS	ns2.mandoubi.sy.
-mp.sy.			86400	IN	NS	suspend1.tld.sy.
-mp.sy.			86400	IN	NS	suspend2.tld.sy.
+mp.sy.			86400	IN	NS	ns1.shamcenter.com.
+mp.sy.			86400	IN	NS	ns2.shamcenter.com.
 mpay.sy.		86400	IN	NS	ns1.pronet.sy.
 mpay.sy.		86400	IN	NS	ns2.pronet.sy.
 mpmsyria.sy.		86400	IN	NS	ns1.shamcenter.com.
@@ -7132,6 +7132,8 @@ tarassul.sy.		86400	IN	NS	ns3.tarassul.sy.
 ns1.tarassul.sy.	86400	IN	A	82.137.200.18
 ns2.tarassul.sy.	86400	IN	A	82.137.200.19
 ns3.tarassul.sy.	86400	IN	A	82.137.200.20
+tareeq.sy.		86400	IN	NS	ns3.tld.sy.
+tareeq.sy.		86400	IN	NS	ns4.tld.sy.
 tarif-akhras.sy.	86400	IN	NS	suspend1.tld.sy.
 tarif-akhras.sy.	86400	IN	NS	suspend2.tld.sy.
 taroulsi.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7245,8 +7247,8 @@ telecom.sy.		86400	IN	NS	ns3.tld.sy.
 telecom.sy.		86400	IN	NS	ns4.tld.sy.
 telekor.sy.		86400	IN	NS	ns1.alanqaa.com.
 telekor.sy.		86400	IN	NS	ns2.alanqaa.com.
-telescopesyria.sy.	86400	IN	NS	suspend1.tld.sy.
-telescopesyria.sy.	86400	IN	NS	suspend2.tld.sy.
+telescopesyria.sy.	86400	IN	NS	ns1.syriaserv.com.
+telescopesyria.sy.	86400	IN	NS	ns2.syriaserv.com.
 tello-llc.sy.		86400	IN	NS	suspend1.tld.sy.
 tello-llc.sy.		86400	IN	NS	suspend2.tld.sy.
 telsa-mat.sy.		86400	IN	NS	ns1.waveshost.sy.
@@ -7750,8 +7752,8 @@ yara.sy.		86400	IN	NS	ns1.yara.sy.
 yara.sy.		86400	IN	NS	ns2.yara.sy.
 ns1.yara.sy.		86400	IN	A	185.162.164.17
 ns2.yara.sy.		86400	IN	A	185.162.164.18
-yashfeen.sy.		86400	IN	NS	suspend1.tld.sy.
-yashfeen.sy.		86400	IN	NS	suspend2.tld.sy.
+yashfeen.sy.		86400	IN	NS	ns1.clicknetco.com.
+yashfeen.sy.		86400	IN	NS	ns2.clicknetco.com.
 yasinorganization.sy.	86400	IN	NS	suspend1.tld.sy.
 yasinorganization.sy.	86400	IN	NS	suspend2.tld.sy.
 yaskawa.sy.		86400	IN	NS	ns1.webhosting.jp.
@@ -7928,4 +7930,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072121 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072127 3600 3600 2592000 3600
