@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072134 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072144 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -4472,8 +4472,6 @@ rental.tg.		86400	IN	NS	ns6.kasserver.com.
 reperesdafrique.tg.	86400	IN	NS	ns5.netmaster.tg.
 reperesdafrique.tg.	86400	IN	NS	ns1.cafe.tg.
 reperesdafrique.tg.	86400	IN	NS	ns2.cafe.tg.
-reprotogo.tg.		86400	IN	NS	cpanel15.lws-hosting.com.
-reprotogo.tg.		86400	IN	NS	cpanel16.lws-hosting.com.
 republiquetogolaise.tg.	86400	IN	NS	ns1.netmaster.tg.
 republiquetogolaise.tg.	86400	IN	NS	ns5.netmaster.tg.
 republiquetogolaise.tg.	86400	IN	NS	ns4.netmaster.tg.
@@ -4840,9 +4838,8 @@ smartpub.tg.		86400	IN	NS	oti.ids.tg.
 smartpub.tg.		86400	IN	NS	mono.ids.tg.
 smastogo.tg.		86400	IN	NS	ns17.lwsdns.com.
 smastogo.tg.		86400	IN	NS	ns18.lwsdns.com.
-smatogo.tg.		86400	IN	NS	ns5.netmaster.tg.
-smatogo.tg.		86400	IN	NS	ns1.cafe.tg.
-smatogo.tg.		86400	IN	NS	ns2.cafe.tg.
+smatogo.tg.		86400	IN	NS	ns1.contabo.net.
+smatogo.tg.		86400	IN	NS	ns2.contabo.net.
 sms.tg.			86400	IN	NS	dns1.hosteur.com.
 sms.tg.			86400	IN	NS	dns2.hosteur.com.
 smspro.tg.		86400	IN	NS	nsa.planethoster.net.
@@ -6003,4 +6000,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072134 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072144 21600 3600 604800 86400
