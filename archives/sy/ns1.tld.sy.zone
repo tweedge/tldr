@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072214 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1658471532"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072220 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1658484142"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2028,6 +2028,8 @@ cali.sy.		86400	IN	NS	suspend1.tld.sy.
 cali.sy.		86400	IN	NS	suspend2.tld.sy.
 can.sy.			86400	IN	NS	ns1.monster.sy.
 can.sy.			86400	IN	NS	ns2.monster.sy.
+car-for.sy.		86400	IN	NS	ns1.hifi.sy.
+car-for.sy.		86400	IN	NS	ns2.hifi.sy.
 car-one.sy.		86400	IN	NS	suspend1.tld.sy.
 car-one.sy.		86400	IN	NS	suspend2.tld.sy.
 caraj.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7930,4 +7932,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072214 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072220 3600 3600 2592000 3600
