@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072264 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072532 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -603,6 +603,9 @@ asics.tg.		86400	IN	NS	rns2.rightsdns.com.
 asjd.tg.		86400	IN	NS	ns1.contabo.net.
 asjd.tg.		86400	IN	NS	ns2.contabo.net.
 asjd.tg.		86400	IN	NS	ns3.contabo.net.
+askari.tg.		86400	IN	NS	ns1.francedns.com.
+askari.tg.		86400	IN	NS	ns2.francedns.com.
+askari.tg.		86400	IN	NS	ns3.francedns.com.
 askodekara.tg.		86400	IN	NS	dns1.plusproche.org.
 askodekara.tg.		86400	IN	NS	dns2.plusproche.org.
 askodekara.tg.		86400	IN	NS	dns3.supremepanel.com.
@@ -1179,6 +1182,8 @@ casino.tg.		86400	IN	NS	ns1.alidns.com.
 casino.tg.		86400	IN	NS	ns2.alidns.com.
 casinocity.tg.		86400	IN	NS	dilbert.ns.cloudflare.com.
 casinocity.tg.		86400	IN	NS	tegan.ns.cloudflare.com.
+casparcas.tg.		86400	IN	NS	cpanel5.lws-hosting.com.
+casparcas.tg.		86400	IN	NS	cpanel6.lws-hosting.com.
 castel.tg.		86400	IN	NS	ns01.trademarkarea.com.
 castel.tg.		86400	IN	NS	ns02.trademarkarea.com.
 castel.tg.		86400	IN	NS	ns03.trademarkarea.com.
@@ -2946,8 +2951,10 @@ istqb.tg.		86400	IN	NS	ns5.netmaster.tg.
 istqb.tg.		86400	IN	NS	ns4.netmaster.tg.
 istqb.tg.		86400	IN	NS	ns1.cafe.tg.
 istqb.tg.		86400	IN	NS	ns2.cafe.tg.
-it-admin.tg.		86400	IN	NS	ns1.atspace.me.
-it-admin.tg.		86400	IN	NS	ns.2atspace.me.
+it-admin.tg.		86400	IN	NS	ns1.cemaservers.com.
+it-admin.tg.		86400	IN	NS	ns2.cemaservers.com.
+it-admin.tg.		86400	IN	NS	ns3.cemaservers.com.
+it-admin.tg.		86400	IN	NS	ns4.cemaservers.com.
 it-land.tg.		86400	IN	NS	ns1.whc.ca.
 it-land.tg.		86400	IN	NS	ns2.whc.ca.
 it-land.tg.		86400	IN	NS	ns3.whc.ca.
@@ -6004,4 +6011,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072264 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072532 21600 3600 604800 86400

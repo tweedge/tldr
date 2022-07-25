@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072518 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1658732540"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072523 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1658743332"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -768,8 +768,8 @@ alhaderest.sy.		86400	IN	NS	ns1.supercp.com.
 alhaderest.sy.		86400	IN	NS	ns2.supercp.com.
 alhaderest.sy.		86400	IN	NS	ns3.supercp.com.
 alhaderest.sy.		86400	IN	NS	ns4.supercp.com.
-alhadi.sy.		86400	IN	NS	ns1.imtyaz.sy.
-alhadi.sy.		86400	IN	NS	ns2.imtyaz.sy.
+alhadi.sy.		86400	IN	NS	suspend1.tld.sy.
+alhadi.sy.		86400	IN	NS	suspend2.tld.sy.
 alhafez.sy.		86400	IN	NS	suspend1.tld.sy.
 alhafez.sy.		86400	IN	NS	suspend2.tld.sy.
 alhafi-zaidan.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -1538,10 +1538,8 @@ aust.sy.		86400	IN	NS	suspend1.tld.sy.
 aust.sy.		86400	IN	NS	suspend2.tld.sy.
 auto.sy.		86400	IN	NS	ns1.miob.sk.
 auto.sy.		86400	IN	NS	ns2.miob.sk.
-autodoor.sy.		86400	IN	NS	ns1.scs-net.sy.
-autodoor.sy.		86400	IN	NS	ns1.scs-net.org.
-autodoor.sy.		86400	IN	NS	ns2.scs-net.sy.
-autodoor.sy.		86400	IN	NS	ns2.scs-net.org.
+autodoor.sy.		86400	IN	NS	suspend1.tld.sy.
+autodoor.sy.		86400	IN	NS	suspend2.tld.sy.
 av.sy.			86400	IN	NS	suspend1.tld.sy.
 av.sy.			86400	IN	NS	suspend2.tld.sy.
 avice.sy.		86400	IN	NS	ns1.hostinger.com.
@@ -7934,4 +7932,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072518 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072523 3600 3600 2592000 3600
