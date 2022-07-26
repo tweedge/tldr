@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072612 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1658815334"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072617 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1658829744"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2350,8 +2350,8 @@ damasuniv.sy.		86400	IN	NS	ns1.damasuniv.edu.sy.
 damasuniv.sy.		86400	IN	NS	ns2.damasuniv.edu.sy.
 damazzle.sy.		86400	IN	NS	ns1.pronet.sy.
 damazzle.sy.		86400	IN	NS	ns2.pronet.sy.
-damworkers.sy.		86400	IN	NS	suspend1.tld.sy.
-damworkers.sy.		86400	IN	NS	suspend2.tld.sy.
+damworkers.sy.		86400	IN	NS	ns3.tld.sy.
+damworkers.sy.		86400	IN	NS	ns4.tld.sy.
 danacol.sy.		86400	IN	NS	a4.nstld.com.
 danacol.sy.		86400	IN	NS	f4.nstld.com.
 danacol.sy.		86400	IN	NS	g4.nstld.com.
@@ -3457,12 +3457,12 @@ happy-land.sy.		86400	IN	NS	suspend1.tld.sy.
 happy-land.sy.		86400	IN	NS	suspend2.tld.sy.
 haramexchang.sy.	86400	IN	NS	suspend1.tld.sy.
 haramexchang.sy.	86400	IN	NS	suspend2.tld.sy.
-haramexchange.sy.	86400	IN	NS	suspend1.tld.sy.
-haramexchange.sy.	86400	IN	NS	suspend2.tld.sy.
-haramgroup.sy.		86400	IN	NS	suspend1.tld.sy.
-haramgroup.sy.		86400	IN	NS	suspend2.tld.sy.
-haramtransfer.sy.	86400	IN	NS	suspend1.tld.sy.
-haramtransfer.sy.	86400	IN	NS	suspend2.tld.sy.
+haramexchange.sy.	86400	IN	NS	ns1.shamcenter.com.
+haramexchange.sy.	86400	IN	NS	ns2.shamcenter.com.
+haramgroup.sy.		86400	IN	NS	ns1.shamcenter.com.
+haramgroup.sy.		86400	IN	NS	ns2.shamcenter.com.
+haramtransfer.sy.	86400	IN	NS	ns1.shamcenter.com.
+haramtransfer.sy.	86400	IN	NS	ns2.shamcenter.com.
 harba.sy.		86400	IN	NS	suspend1.tld.sy.
 harba.sy.		86400	IN	NS	suspend2.tld.sy.
 harbuk.sy.		86400	IN	NS	ns1.ucg-core.com.
@@ -7932,4 +7932,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072612 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072617 3600 3600 2592000 3600
