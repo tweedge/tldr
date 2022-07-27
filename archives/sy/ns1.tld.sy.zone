@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072718 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1658905338"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072722 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1658916132"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2036,6 +2036,8 @@ carecard.sy.		86400	IN	NS	ns1.scs-net.sy.
 carecard.sy.		86400	IN	NS	ns1.scs-net.org.
 carecard.sy.		86400	IN	NS	ns2.scs-net.sy.
 carecard.sy.		86400	IN	NS	ns2.scs-net.org.
+career.sy.		86400	IN	NS	ns1.waveshost.sy.
+career.sy.		86400	IN	NS	ns2.waveshost.sy.
 caritas.sy.		86400	IN	NS	ns3.tld.sy.
 caritas.sy.		86400	IN	NS	ns4.tld.sy.
 cars.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
@@ -3081,6 +3083,14 @@ flaha.sy.		86400	IN	NS	suspend1.tld.sy.
 flaha.sy.		86400	IN	NS	suspend2.tld.sy.
 flashupdelivery.sy.	86400	IN	NS	ns1.shamcenter.com.
 flashupdelivery.sy.	86400	IN	NS	ns2.shamcenter.com.
+fleet.sy.		86400	IN	NS	ns3.tld.sy.
+fleet.sy.		86400	IN	NS	ns4.tld.sy.
+fleetapp.sy.		86400	IN	NS	ns3.tld.sy.
+fleetapp.sy.		86400	IN	NS	ns4.tld.sy.
+fleetride.sy.		86400	IN	NS	ns3.tld.sy.
+fleetride.sy.		86400	IN	NS	ns4.tld.sy.
+fleettaxi.sy.		86400	IN	NS	ns3.tld.sy.
+fleettaxi.sy.		86400	IN	NS	ns4.tld.sy.
 flex.sy.		86400	IN	NS	beau.ns.cloudflare.com.
 flex.sy.		86400	IN	NS	dawn.ns.cloudflare.com.
 flexapackcenter.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -5809,6 +5819,8 @@ ramico.sy.		86400	IN	NS	suspend1.tld.sy.
 ramico.sy.		86400	IN	NS	suspend2.tld.sy.
 ramifrend.sy.		86400	IN	NS	suspend1.tld.sy.
 ramifrend.sy.		86400	IN	NS	suspend2.tld.sy.
+ramo.sy.		86400	IN	NS	ns3.tld.sy.
+ramo.sy.		86400	IN	NS	ns4.tld.sy.
 rand.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 rand.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
 ranin.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6436,6 +6448,8 @@ shop4job.sy.		86400	IN	NS	suspend1.tld.sy.
 shop4job.sy.		86400	IN	NS	suspend2.tld.sy.
 shopify.sy.		86400	IN	NS	suspend1.tld.sy.
 shopify.sy.		86400	IN	NS	suspend2.tld.sy.
+shopping.sy.		86400	IN	NS	ns3.tld.sy.
+shopping.sy.		86400	IN	NS	ns4.tld.sy.
 showeky.sy.		86400	IN	NS	suspend1.tld.sy.
 showeky.sy.		86400	IN	NS	suspend2.tld.sy.
 shsr-co.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7934,4 +7948,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072718 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072722 3600 3600 2592000 3600
