@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072818 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1658991736"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072823 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1659002530"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1098,8 +1098,8 @@ alreda-trading.sy.	86400	IN	NS	suspend1.tld.sy.
 alreda-trading.sy.	86400	IN	NS	suspend2.tld.sy.
 alresalagroup.sy.	86400	IN	NS	suspend1.tld.sy.
 alresalagroup.sy.	86400	IN	NS	suspend2.tld.sy.
-alresalah.sy.		86400	IN	NS	helium.ns.hetzner.de.
-alresalah.sy.		86400	IN	NS	hydrogen.ns.hetzner.com.
+alresalah.sy.		86400	IN	NS	suspend1.tld.sy.
+alresalah.sy.		86400	IN	NS	suspend2.tld.sy.
 alritaj.sy.		86400	IN	NS	suspend1.tld.sy.
 alritaj.sy.		86400	IN	NS	suspend2.tld.sy.
 alruaa.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -3581,6 +3581,8 @@ hijazi-part.sy.		86400	IN	NS	suspend1.tld.sy.
 hijazi-part.sy.		86400	IN	NS	suspend2.tld.sy.
 hilal.sy.		86400	IN	NS	ns207.canadianwebhosting.com.
 hilal.sy.		86400	IN	NS	ns208.canadianwebhosting.com.
+himart.sy.		86400	IN	NS	ns3.tld.sy.
+himart.sy.		86400	IN	NS	ns4.tld.sy.
 hiro-health.sy.		86400	IN	NS	ns5.nameserverservice.de.
 hiro-health.sy.		86400	IN	NS	ns6.nameserverservice.de.
 hiro-healthy.sy.	86400	IN	NS	ns5.nameserverservice.de.
@@ -6538,10 +6540,8 @@ smartemessa.sy.		86400	IN	NS	suspend1.tld.sy.
 smartemessa.sy.		86400	IN	NS	suspend2.tld.sy.
 smartfuture.sy.		86400	IN	NS	suspend1.tld.sy.
 smartfuture.sy.		86400	IN	NS	suspend2.tld.sy.
-smartgroup.sy.		86400	IN	NS	ns1.scs-net.sy.
-smartgroup.sy.		86400	IN	NS	ns1.scs-net.org.
-smartgroup.sy.		86400	IN	NS	ns2.scs-net.sy.
-smartgroup.sy.		86400	IN	NS	ns2.scs-net.org.
+smartgroup.sy.		86400	IN	NS	suspend1.tld.sy.
+smartgroup.sy.		86400	IN	NS	suspend2.tld.sy.
 smartmoney.sy.		86400	IN	NS	adam.ns.cloudflare.com.
 smartmoney.sy.		86400	IN	NS	brenna.ns.cloudflare.com.
 smartsoft.sy.		86400	IN	NS	ns3.tld.sy.
@@ -6823,8 +6823,8 @@ sybro.sy.		86400	IN	NS	suspend1.tld.sy.
 sybro.sy.		86400	IN	NS	suspend2.tld.sy.
 syc.sy.			86400	IN	NS	ns1.sourceahosting.com.
 syc.sy.			86400	IN	NS	ns2.sourceahosting.com.
-syenvas.sy.		86400	IN	NS	ns16.samamax.com.
-syenvas.sy.		86400	IN	NS	ns17.samamax.com.
+syenvas.sy.		86400	IN	NS	suspend1.tld.sy.
+syenvas.sy.		86400	IN	NS	suspend2.tld.sy.
 symap.sy.		86400	IN	NS	suspend1.tld.sy.
 symap.sy.		86400	IN	NS	suspend2.tld.sy.
 synog.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7948,4 +7948,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072818 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072823 3600 3600 2592000 3600
