@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072835 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072861 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -71,6 +71,8 @@ tg.			86400	IN	NS	ns4.nic.tg.
 22bet.tg.		86400	IN	NS	ns01.trademarkarea.com.
 22bet.tg.		86400	IN	NS	ns02.trademarkarea.com.
 22bet.tg.		86400	IN	NS	ns03.trademarkarea.com.
+258.tg.			86400	IN	NS	dns1.hosteur.com.
+258.tg.			86400	IN	NS	dns2.hosteur.com.
 2afoot.tg.		86400	IN	NS	dns1.hosteur.com.
 2afoot.tg.		86400	IN	NS	dns2.hosteur.com.
 2asconseil.tg.		86400	IN	NS	oti.ids.tg.
@@ -1202,9 +1204,10 @@ ccit.tg.		86400	IN	NS	mail.ccit.tg.
 ccit.tg.		86400	IN	NS	togocham.ccit.tg.
 ccit.tg.		86400	IN	NS	crm.ccit.tg.
 ccit.tg.		86400	IN	NS	ccit.tg.
+ccit.tg.		86400	IN	A	92.222.121.235
 crm.ccit.tg.		86400	IN	A	92.222.121.232
-loccit.ccit.tg.		86400	IN	A	41.207.186.114
-mail.ccit.tg.		86400	IN	A	92.222.121.234
+mail.ccit.tg.		86400	IN	A	92.222.121.233
+togocham.ccit.tg.	86400	IN	A	92.222.121.236
 cda.tg.			86400	IN	NS	ns1.gouv.tg.
 cda.tg.			86400	IN	NS	ns2.gouv.tg.
 cda.tg.			86400	IN	NS	ns1.nic.tg.
@@ -1507,8 +1510,8 @@ ns1.cparti.tg.		86400	IN	A	78.46.185.137
 cpla.tg.		86400	IN	NS	ns5.netmaster.tg.
 cpla.tg.		86400	IN	NS	ns1.cafe.tg.
 cpla.tg.		86400	IN	NS	ns2.cafe.tg.
-cr.tg.			86400	IN	NS	ns1.laposte.tg.
 cr.tg.			86400	IN	NS	ns2.laposte.tg.
+loccit.cr.tg.		86400	IN	NS	ns1.laposte.tg.
 cread.tg.		86400	IN	NS	dns1.plusproche.org.
 cread.tg.		86400	IN	NS	dns2.plusproche.org.
 cread.tg.		86400	IN	NS	dns3.supremepanel.com.
@@ -4083,9 +4086,8 @@ ong-togo.tg.		86400	IN	NS	mono.ids.tg.
 ongcongaticb.tg.	86400	IN	NS	ns5.netmaster.tg.
 ongcongaticb.tg.	86400	IN	NS	ns1.cafe.tg.
 ongcongaticb.tg.	86400	IN	NS	ns2.cafe.tg.
-onion.tg.		86400	IN	NS	ns1.regery.net.
-onion.tg.		86400	IN	NS	ns2.regery.net.
-onion.tg.		86400	IN	NS	ns3.regery.net.
+onion.tg.		86400	IN	NS	kara.ns.cloudflare.com.
+onion.tg.		86400	IN	NS	memphis.ns.cloudflare.com.
 onit.tg.		86400	IN	NS	cpanel19.lws-hosting.com.
 onit.tg.		86400	IN	NS	cpanel20.lws-hosting.com.
 onitsukatiger.tg.	86400	IN	NS	rns1.rightsdns.com.
@@ -4301,6 +4303,9 @@ poly.tg.		86400	IN	NS	dns2.cscdns.net.
 polywork.tg.		86400	IN	NS	ns01.trademarkarea.com.
 polywork.tg.		86400	IN	NS	ns02.trademarkarea.com.
 polywork.tg.		86400	IN	NS	ns03.trademarkarea.com.
+pooltpv.tg.		86400	IN	NS	ns5.netmaster.tg.
+pooltpv.tg.		86400	IN	NS	ns1.cafe.tg.
+pooltpv.tg.		86400	IN	NS	ns2.cafe.tg.
 pop.tg.			86400	IN	NS	aldo.ns.cloudflare.com.
 pop.tg.			86400	IN	NS	olivia.ns.cloudflare.com.
 porn.tg.		86400	IN	NS	julio.ns.cloudflare.com.
@@ -6043,4 +6048,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072835 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072861 21600 3600 604800 86400
