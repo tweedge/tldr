@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072751 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072835 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1199,6 +1199,9 @@ catalog.tg.		86400	IN	NS	elle.ns.cloudflare.com.
 cbd.tg.			86400	IN	NS	ns1.dan.com.
 cbd.tg.			86400	IN	NS	ns2.dan.com.
 ccit.tg.		86400	IN	NS	mail.ccit.tg.
+ccit.tg.		86400	IN	NS	togocham.ccit.tg.
+ccit.tg.		86400	IN	NS	crm.ccit.tg.
+ccit.tg.		86400	IN	NS	ccit.tg.
 crm.ccit.tg.		86400	IN	A	92.222.121.232
 loccit.ccit.tg.		86400	IN	A	41.207.186.114
 mail.ccit.tg.		86400	IN	A	92.222.121.234
@@ -2119,6 +2122,8 @@ ets-afeesco.tg.		86400	IN	NS	dns1.hosteur.com.
 ets-afeesco.tg.		86400	IN	NS	dns2.hosteur.com.
 ets-laparole.tg.	86400	IN	NS	dns1.hosteur.com.
 ets-laparole.tg.	86400	IN	NS	dns2.hosteur.com.
+ets-schneider.tg.	86400	IN	NS	dns1.hosteur.com.
+ets-schneider.tg.	86400	IN	NS	dns2.hosteur.com.
 etsheros.tg.		86400	IN	NS	ns5.netmaster.tg.
 etsheros.tg.		86400	IN	NS	ns4.netmaster.tg.
 etudiant.tg.		86400	IN	NS	dns1.hosteur.com.
@@ -6038,4 +6043,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072751 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072835 21600 3600 604800 86400
