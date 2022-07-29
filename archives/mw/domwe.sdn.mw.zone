@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1659081901 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1659096301 1800 600 604800 1800
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
 mw.			18000	IN	NS	d.ext.nic.cz.
@@ -764,6 +764,8 @@ casinocity.mw.		18000	IN	NS	tegan.ns.cloudflare.com.
 castel.mw.		18000	IN	NS	ns01.trademarkarea.com.
 castel.mw.		18000	IN	NS	ns02.trademarkarea.com.
 castel.mw.		18000	IN	NS	ns03.trademarkarea.com.
+castrocommercial.mw.	18000	IN	NS	proxy2.africa-online.net.
+castrocommercial.mw.	18000	IN	NS	proxy3.africa-online.net.
 catalogue.mw.		18000	IN	NS	domwe.sdn.mw.
 catalogue.mw.		18000	IN	NS	nyala.sdnp.org.mw.
 cbholdings.mw.		18000	IN	NS	ns1.nzathu.website.
@@ -3452,8 +3454,6 @@ regdelivery.mw.		18000	IN	NS	ns5.afriregister.co.ke.
 regdelivery.mw.		18000	IN	NS	ns6.afriregister.co.ke.
 regdocument.mw.		18000	IN	NS	ns5.afriregister.co.ke.
 regdocument.mw.		18000	IN	NS	ns6.afriregister.co.ke.
-regemail.mw.		18000	IN	NS	ns5.afriregister.co.ke.
-regemail.mw.		18000	IN	NS	ns6.afriregister.co.ke.
 regestatements.mw.	18000	IN	NS	ns5.afriregister.co.ke.
 regestatements.mw.	18000	IN	NS	ns6.afriregister.co.ke.
 reginvoice.mw.		18000	IN	NS	ns5.afriregister.co.ke.
@@ -3475,18 +3475,12 @@ registeredcontracts.mw.	18000	IN	NS	ns5.afriregister.co.ke.
 registeredcontracts.mw.	18000	IN	NS	ns6.afriregister.co.ke.
 registereddocuments.mw.	18000	IN	NS	ns5.afriregister.co.ke.
 registereddocuments.mw.	18000	IN	NS	ns6.afriregister.co.ke.
-registeredemail.mw.	18000	IN	NS	ns5.afriregister.co.ke.
-registeredemail.mw.	18000	IN	NS	ns6.afriregister.co.ke.
 registeredestatements.mw. 18000	IN	NS	ns5.afriregister.co.ke.
 registeredestatements.mw. 18000	IN	NS	ns6.afriregister.co.ke.
-registeredinvoice.mw.	18000	IN	NS	ns5.afriregister.co.ke.
-registeredinvoice.mw.	18000	IN	NS	ns6.afriregister.co.ke.
 registeredpobox.mw.	18000	IN	NS	ns5.afriregister.co.ke.
 registeredpobox.mw.	18000	IN	NS	ns6.afriregister.co.ke.
 registeredpost.mw.	18000	IN	NS	ns5.afriregister.co.ke.
 registeredpost.mw.	18000	IN	NS	ns6.afriregister.co.ke.
-registeredsms.mw.	18000	IN	NS	ns5.afriregister.co.ke.
-registeredsms.mw.	18000	IN	NS	ns6.afriregister.co.ke.
 registrar.mw.		18000	IN	NS	chambo.sdnp.org.mw.
 registrar.mw.		18000	IN	NS	domwe.sdn.mw.
 registrar.mw.		18000	IN	NS	mw.cctld.authdns.ripe.net.
@@ -4568,4 +4562,4 @@ zurich.mw.		18000	IN	NS	dns1.cscdns.net.
 zurich.mw.		18000	IN	NS	dns2.cscdns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1659081901 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1659096301 1800 600 604800 1800
