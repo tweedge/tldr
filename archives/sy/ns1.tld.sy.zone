@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022073113 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1659240137"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022073119 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1659250931"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -5512,8 +5512,8 @@ p-items.sy.		86400	IN	NS	ns1.shamcenter.com.
 p-items.sy.		86400	IN	NS	ns2.shamcenter.com.
 pac.sy.			86400	IN	NS	suspend1.tld.sy.
 pac.sy.			86400	IN	NS	suspend2.tld.sy.
-padvish.sy.		86400	IN	NS	ns1.hosting.reg.ru.
-padvish.sy.		86400	IN	NS	ns2.hosting.reg.ru.
+padvish.sy.		86400	IN	NS	ns3.tld.sy.
+padvish.sy.		86400	IN	NS	ns4.tld.sy.
 palmeracloud.sy.	86400	IN	NS	ns1.veesp.com.
 palmeracloud.sy.	86400	IN	NS	ns2.veesp.com.
 palmyra.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6697,8 +6697,8 @@ ssnp.sy.		86400	IN	NS	ns2.scs-net.sy.
 ssnp.sy.		86400	IN	NS	ns2.scs-net.org.
 sso.sy.			86400	IN	NS	freedns1.registrar-servers.com.
 sso.sy.			86400	IN	NS	freedns2.registrar-servers.com.
-sss.sy.			86400	IN	NS	ns1.hosting.reg.ru.
-sss.sy.			86400	IN	NS	ns2.hosting.reg.ru.
+sss.sy.			86400	IN	NS	ns3.tld.sy.
+sss.sy.			86400	IN	NS	ns4.tld.sy.
 ssseee.sy.		86400	IN	NS	suspend1.tld.sy.
 ssseee.sy.		86400	IN	NS	suspend2.tld.sy.
 sst.sy.			86400	IN	NS	dns1.pexahost.com.
@@ -7948,4 +7948,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022073113 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022073119 3600 3600 2592000 3600
