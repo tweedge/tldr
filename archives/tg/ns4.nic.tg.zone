@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072968 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080147 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -4597,6 +4597,8 @@ rondo-orchester.tg.	86400	IN	NS	ns2.cyon.ch.
 rondo-orchester.tg.	86400	IN	NS	ns3.cyon.ch.
 ruralinfos.tg.		86400	IN	NS	ns1.o2switch.net.
 ruralinfos.tg.		86400	IN	NS	ns2.o2switch.net.
+s12.tg.			86400	IN	NS	clayton.ns.cloudflare.com.
+s12.tg.			86400	IN	NS	dolly.ns.cloudflare.com.
 saatgut.tg.		86400	IN	NS	ns.hostpoint.ch.
 saatgut.tg.		86400	IN	NS	ns2.hostpoint.ch.
 saatgut.tg.		86400	IN	NS	ns3.hostpoint.ch.
@@ -5359,6 +5361,9 @@ together.tg.		86400	IN	NS	ns2.101domain.com.
 togo-2030-valeur-sure.tg. 86400	IN	NS	ns1.netmaster.tg.
 togo-2030-valeur-sure.tg. 86400	IN	NS	ns5.netmaster.tg.
 togo-2030-valeur-sure.tg. 86400	IN	NS	ns4.netmaster.tg.
+togo-economie.tg.	86400	IN	NS	ns1.francedns.com.
+togo-economie.tg.	86400	IN	NS	ns2.francedns.com.
+togo-economie.tg.	86400	IN	NS	ns3.francedns.com.
 togo-elections.tg.	86400	IN	NS	ns1.gouvernement.tg.
 togo-elections.tg.	86400	IN	NS	ns5.netmaster.tg.
 togo-holding.tg.	86400	IN	NS	ns1.netmaster.tg.
@@ -6052,4 +6057,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072968 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080147 21600 3600 604800 86400
