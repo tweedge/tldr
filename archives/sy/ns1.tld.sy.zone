@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080415 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1659594736"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080420 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1659607336"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -6571,8 +6571,8 @@ sms-co.sy.		86400	IN	NS	suspend1.tld.sy.
 sms-co.sy.		86400	IN	NS	suspend2.tld.sy.
 sms-syria.sy.		86400	IN	NS	ns1.damashost.com.
 sms-syria.sy.		86400	IN	NS	ns2.damashost.com.
-sms1.sy.		86400	IN	NS	sydns1.nobalaa.com.
-sms1.sy.		86400	IN	NS	sydns2.nobalaa.com.
+sms1.sy.		86400	IN	NS	suspend1.tld.sy.
+sms1.sy.		86400	IN	NS	suspend2.tld.sy.
 snacktural.sy.		86400	IN	NS	suspend1.tld.sy.
 snacktural.sy.		86400	IN	NS	suspend2.tld.sy.
 snc.sy.			86400	IN	NS	ns3.tld.sy.
@@ -7608,8 +7608,8 @@ vortex.sy.		86400	IN	NS	ns1.shamcenter.com.
 vortex.sy.		86400	IN	NS	ns2.shamcenter.com.
 vpn.sy.			86400	IN	NS	ns1.nameself.com.
 vpn.sy.			86400	IN	NS	ns2.nameself.com.
-vps.sy.			86400	IN	NS	sydns1.nobalaa.com.
-vps.sy.			86400	IN	NS	sydns2.nobalaa.com.
+vps.sy.			86400	IN	NS	suspend1.tld.sy.
+vps.sy.			86400	IN	NS	suspend2.tld.sy.
 vr.sy.			86400	IN	NS	ns1.ucg-core.com.
 vr.sy.			86400	IN	NS	ns4.ucg-core.com.
 vr.sy.			86400	IN	NS	ns11.ucg-core.com.
@@ -7948,4 +7948,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080415 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080420 3600 3600 2592000 3600
