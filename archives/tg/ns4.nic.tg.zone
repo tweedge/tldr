@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080368 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080449 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1966,6 +1966,9 @@ el-elyon-network.tg.	86400	IN	NS	dns1.namecheaphosting.com.
 el-elyon-network.tg.	86400	IN	NS	dns2.namecheaphosting.com.
 elangroup.tg.		86400	IN	NS	ns1.1xpax.com.
 elangroup.tg.		86400	IN	NS	ns2.1xpax.com.
+elda-cg.tg.		86400	IN	NS	ns5.netmaster.tg.
+elda-cg.tg.		86400	IN	NS	ns1.cafe.tg.
+elda-cg.tg.		86400	IN	NS	ns2.cafe.tg.
 elephone.tg.		86400	IN	NS	ns01.trademarkarea.com.
 elephone.tg.		86400	IN	NS	ns02.trademarkarea.com.
 elephone.tg.		86400	IN	NS	ns03.trademarkarea.com.
@@ -2182,6 +2185,8 @@ exxonmobil.tg.		86400	IN	NS	a18-64.akam.net.
 f2s.tg.			86400	IN	NS	ns5.netmaster.tg.
 f2s.tg.			86400	IN	NS	ns1.cafe.tg.
 f2s.tg.			86400	IN	NS	ns2.cafe.tg.
+f36h.tg.		86400	IN	NS	porter.ns.cloudflare.com.
+f36h.tg.		86400	IN	NS	sneh.ns.cloudflare.com.
 ns1.fa2f.tg.		86400	IN	A	206.48.17.53
 fabricantsdejoie.tg.	86400	IN	NS	dns1.hosteur.com.
 fabricantsdejoie.tg.	86400	IN	NS	dns2.hosteur.com.
@@ -2581,6 +2586,10 @@ h-cem.tg.		86400	IN	NS	ns2.cafe.tg.
 h-ecem.tg.		86400	IN	NS	ns5.netmaster.tg.
 h-ecem.tg.		86400	IN	NS	ns1.cafe.tg.
 h-ecem.tg.		86400	IN	NS	ns2.cafe.tg.
+h-materials.tg.		86400	IN	NS	udns1.cscdns.net.
+h-materials.tg.		86400	IN	NS	udns2.cscdns.uk.
+h54e.tg.		86400	IN	NS	irena.ns.cloudflare.com.
+h54e.tg.		86400	IN	NS	renan.ns.cloudflare.com.
 haactogo.tg.		86400	IN	NS	ns5.netmaster.tg.
 haactogo.tg.		86400	IN	NS	ns1.cafe.tg.
 haactogo.tg.		86400	IN	NS	ns2.cafe.tg.
@@ -3794,8 +3803,6 @@ mtechsa.tg.		86400	IN	NS	ns2.cafe.tg.
 mtg.tg.			86400	IN	NS	ns3176354.ip-37-59-35.eu.
 mtg.tg.			86400	IN	NS	ns1.mtg.tg.
 mtg.tg.			86400	IN	NS	ns2.mtg.tg.
-multiview.tg.		86400	IN	NS	ns1.mweb.co.za.
-multiview.tg.		86400	IN	NS	ns2.mweb.co.za.
 mun.tg.			86400	IN	NS	ns1.francedns.com.
 mun.tg.			86400	IN	NS	ns2.francedns.com.
 mun.tg.			86400	IN	NS	ns3.francedns.com.
@@ -4455,9 +4462,8 @@ radiolome.tg.		86400	IN	NS	ns1.1xpax.com.
 radiolome.tg.		86400	IN	NS	ns2.1xpax.com.
 radiomaria.tg.		86400	IN	NS	ns4.netmaster.tg.
 radiomaria.tg.		86400	IN	NS	ns5.netmaster.tg.
-radiomishaelle.tg.	86400	IN	NS	ns5.netmaster.tg.
-radiomishaelle.tg.	86400	IN	NS	ns1.cafe.tg.
-radiomishaelle.tg.	86400	IN	NS	ns2.cafe.tg.
+radiomishaelle.tg.	86400	IN	NS	dns1.namecheaphosting.com.
+radiomishaelle.tg.	86400	IN	NS	dns2.namecheaphosting.com.
 radiomokpokpo.tg.	86400	IN	NS	ns1.netmaster.tg.
 radiosportfm.tg.	86400	IN	NS	ns1.netmaster.tg.
 radiosportfm.tg.	86400	IN	NS	ns5.netmaster.tg.
@@ -6062,4 +6068,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080368 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080449 21600 3600 604800 86400
