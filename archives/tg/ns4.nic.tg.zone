@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080536 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080547 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -754,6 +754,10 @@ ayewouadan.tg.		86400	IN	NS	ns1.bluehost.com.
 ayewouadan.tg.		86400	IN	NS	ns2.bluehost.com.
 ayx.tg.			86400	IN	NS	amalia.ns.cloudflare.com.
 ayx.tg.			86400	IN	NS	ganz.ns.cloudflare.com.
+baal.tg.		86400	IN	NS	ns1.baal.tg.
+baal.tg.		86400	IN	NS	ns2.baal.tg.
+ns1.baal.tg.		86400	IN	A	41.207.168.210
+ns2.baal.tg.		86400	IN	A	160.242.199.195
 babyrecre.tg.		86400	IN	NS	dns1.namecheaphosting.com.
 babyrecre.tg.		86400	IN	NS	dns2.namecheaphosting.com.
 baco.tg.		86400	IN	NS	cluster020.hosting.ovh.net.
@@ -2129,6 +2133,9 @@ ets-schneider.tg.	86400	IN	NS	dns1.hosteur.com.
 ets-schneider.tg.	86400	IN	NS	dns2.hosteur.com.
 etsheros.tg.		86400	IN	NS	ns5.netmaster.tg.
 etsheros.tg.		86400	IN	NS	ns4.netmaster.tg.
+etudemaitrekouevi.tg.	86400	IN	NS	ns5.netmaster.tg.
+etudemaitrekouevi.tg.	86400	IN	NS	ns1.cafe.tg.
+etudemaitrekouevi.tg.	86400	IN	NS	ns2.cafe.tg.
 etudiant.tg.		86400	IN	NS	dns1.hosteur.com.
 etudiant.tg.		86400	IN	NS	dns2.hosteur.com.
 evanckgroup.tg.		86400	IN	NS	oti.ids.tg.
@@ -2365,6 +2372,9 @@ fw-paris.tg.		86400	IN	NS	nadia.ns.cloudflare.com.
 fxcm.tg.		86400	IN	NS	dns1.idp365.net.
 fxcm.tg.		86400	IN	NS	dns2.idp365.net.
 g-agbessi.tg.		86400	IN	NS	oti.ids.tg.
+g2m.tg.			86400	IN	NS	ns1.whc.ca.
+g2m.tg.			86400	IN	NS	ns2.whc.ca.
+g2m.tg.			86400	IN	NS	ns3.whc.ca.
 g4s.tg.			86400	IN	NS	pdns1.safenames.net.
 g4s.tg.			86400	IN	NS	pdns2.safenames.net.
 g4s.tg.			86400	IN	NS	pdns3.safenames.org.
@@ -6067,4 +6077,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080536 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080547 21600 3600 604800 86400

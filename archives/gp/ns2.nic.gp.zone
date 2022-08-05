@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022080321 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022080514 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -237,6 +237,8 @@ aeropix.gp.		86400	IN	NS	dns101.ovh.net.
 aeroport.gp.		86400	IN	NS	ns15.ovh.net.
 aeroport.gp.		86400	IN	NS	dns15.ovh.net.
 cci-web.aeroport.gp.	86400	IN	A	194.250.235.92
+afi.gp.			86400	IN	NS	ns20.ovh.net.
+afi.gp.			86400	IN	NS	dns20.ovh.net.
 afnic.gp.		86400	IN	NS	a.ns.mailclub.fr.
 afnic.gp.		86400	IN	NS	b.ns.mailclub.eu.
 afnic.gp.		86400	IN	NS	c.ns.mailclub.com.
@@ -2002,6 +2004,8 @@ ns2.geek.gp.		86400	IN	A	62.210.13.163
 gemo.gp.		86400	IN	NS	a.ns.mailclub.fr.
 gemo.gp.		86400	IN	NS	b.ns.mailclub.eu.
 gemo.gp.		86400	IN	NS	c.ns.mailclub.com.
+gender.gp.		86400	IN	NS	ns1.namecity.com.
+gender.gp.		86400	IN	NS	ns2.namecity.com.
 generale-des-eaux.gp.	86400	IN	NS	ns1.iptwins.net.
 generale-des-eaux.gp.	86400	IN	NS	ns2.iptwins.net.
 generale-des-eaux.gp.	86400	IN	NS	ns3.iptwins.com.
@@ -5377,4 +5381,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022080321 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022080514 86400 7200 2592000 345600
