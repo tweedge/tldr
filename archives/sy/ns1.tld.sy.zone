@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080720 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1659866541"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080725 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1659877333"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -4385,6 +4385,8 @@ lema.sy.		86400	IN	NS	ns1.lema.sy.
 lema.sy.		86400	IN	NS	ns2.lema.sy.
 ns1.lema.sy.		86400	IN	A	185.84.236.7
 ns2.lema.sy.		86400	IN	A	185.84.236.8
+lets.sy.		86400	IN	NS	ns1.beth.ns.cloudflare.com.
+lets.sy.		86400	IN	NS	ns2.major.ns.cloudflare.com.
 levant.sy.		86400	IN	NS	ns1.dns-parking.com.
 levant.sy.		86400	IN	NS	ns2.dns-parking.com.
 levant-h.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6666,6 +6668,8 @@ specialolympics-sy.sy.	86400	IN	NS	dns3.aya.sy.
 specialolympics-sy.sy.	86400	IN	NS	dns4.aya.sy.
 speed.sy.		86400	IN	NS	suspend1.tld.sy.
 speed.sy.		86400	IN	NS	suspend2.tld.sy.
+spon.sy.		86400	IN	NS	ns1.beth.ns.cloudflare.com.
+spon.sy.		86400	IN	NS	ns2.major.ns.cloudflare.com.
 sport.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 sport.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
 sportdirect.sy.		86400	IN	NS	nsgbr.comlaude.co.uk.
@@ -7965,4 +7969,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080720 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080725 3600 3600 2592000 3600
