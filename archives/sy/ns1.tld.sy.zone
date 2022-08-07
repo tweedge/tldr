@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080714 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1659855736"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080720 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1659866541"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2480,8 +2480,8 @@ deltafoods.sy.		86400	IN	NS	dns11.aya.sy.
 deltafoods.sy.		86400	IN	NS	dns12.aya.sy.
 deltalab.sy.		86400	IN	NS	suspend1.tld.sy.
 deltalab.sy.		86400	IN	NS	suspend2.tld.sy.
-demeu.sy.		86400	IN	NS	dahlia.ns.cloudflare.com.
-demeu.sy.		86400	IN	NS	donald.ns.cloudflare.com.
+demeu.sy.		86400	IN	NS	suspend1.tld.sy.
+demeu.sy.		86400	IN	NS	suspend2.tld.sy.
 demo.sy.		86400	IN	NS	isla.ns.cloudflare.com.
 demo.sy.		86400	IN	NS	rustam.ns.cloudflare.com.
 dentalcare.sy.		86400	IN	NS	ns1.dentalcare.sy.
@@ -2610,7 +2610,8 @@ domo.sy.		86400	IN	NS	suspend1.tld.sy.
 domo.sy.		86400	IN	NS	suspend2.tld.sy.
 dora-love.sy.		86400	IN	NS	suspend1.tld.sy.
 dora-love.sy.		86400	IN	NS	suspend2.tld.sy.
-doremi.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
+doremi.sy.		86400	IN	NS	suspend1.tld.sy.
+doremi.sy.		86400	IN	NS	suspend2.tld.sy.
 dot.sy.			86400	IN	NS	ns237.ucg.ltd.
 dot.sy.			86400	IN	NS	ns2237.ucg.ltd.
 dotsy.sy.		86400	IN	NS	ns237.ucg.ltd.
@@ -2946,8 +2947,8 @@ esyria.sy.		86400	IN	NS	ns2.scs-net.sy.
 esyria.sy.		86400	IN	NS	ns2.scs-net.org.
 et.sy.			86400	IN	NS	suspend1.tld.sy.
 et.sy.			86400	IN	NS	suspend2.tld.sy.
-etakamol.sy.		86400	IN	NS	ns3.takamol.sy.
-etakamol.sy.		86400	IN	NS	ns4.takamol.sy.
+etakamol.sy.		86400	IN	NS	suspend1.tld.sy.
+etakamol.sy.		86400	IN	NS	suspend2.tld.sy.
 eth.sy.			86400	IN	NS	ns1.dan.com.
 eth.sy.			86400	IN	NS	ns2.dan.com.
 etloob.sy.		86400	IN	NS	ns3.tld.sy.
@@ -4705,8 +4706,8 @@ masar-souq.sy.		86400	IN	NS	suspend1.tld.sy.
 masar-souq.sy.		86400	IN	NS	suspend2.tld.sy.
 masar-syria.sy.		86400	IN	NS	ns3.tld.sy.
 masar-syria.sy.		86400	IN	NS	ns4.tld.sy.
-masar-tec.sy.		86400	IN	NS	ns1.sawa-host.net.
-masar-tec.sy.		86400	IN	NS	ns2.sawa-host.net.
+masar-tec.sy.		86400	IN	NS	suspend1.tld.sy.
+masar-tec.sy.		86400	IN	NS	suspend2.tld.sy.
 masdar.sy.		86400	IN	NS	ns1.masdar.sy.
 masdar.sy.		86400	IN	NS	ns2.masdar.sy.
 ns1.masdar.sy.		86400	IN	A	185.216.132.119
@@ -7500,8 +7501,8 @@ ufuq.sy.		86400	IN	NS	suspend1.tld.sy.
 ufuq.sy.		86400	IN	NS	suspend2.tld.sy.
 ugarit-pharma.sy.	86400	IN	NS	suspend1.tld.sy.
 ugarit-pharma.sy.	86400	IN	NS	suspend2.tld.sy.
-ugarite.sy.		86400	IN	NS	ns1.sawa-host.com.
-ugarite.sy.		86400	IN	NS	ns2.sawa-host.com.
+ugarite.sy.		86400	IN	NS	suspend1.tld.sy.
+ugarite.sy.		86400	IN	NS	suspend2.tld.sy.
 uiic-group.sy.		86400	IN	NS	ns3.bocme.net.
 uiic-group.sy.		86400	IN	NS	ns4.bocme.net.
 uit.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -7964,4 +7965,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080714 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080720 3600 3600 2592000 3600
