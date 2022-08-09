@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080920 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1660039336"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080924 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1660046539"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -4676,8 +4676,8 @@ marcom.sy.		86400	IN	NS	adam.ns.cloudflare.com.
 marcom.sy.		86400	IN	NS	brenna.ns.cloudflare.com.
 marinabayvillage.sy.	86400	IN	NS	ns1.monster.sy.
 marinabayvillage.sy.	86400	IN	NS	ns2.monster.sy.
-markazalwahdeh.sy.	86400	IN	NS	suspend1.tld.sy.
-markazalwahdeh.sy.	86400	IN	NS	suspend2.tld.sy.
+markazalwahdeh.sy.	86400	IN	NS	ns1.pronet.sy.
+markazalwahdeh.sy.	86400	IN	NS	ns2.pronet.sy.
 market.sy.		86400	IN	NS	ns3.tld.sy.
 market.sy.		86400	IN	NS	ns4.tld.sy.
 marketing.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
@@ -7971,4 +7971,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080920 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080924 3600 3600 2592000 3600
