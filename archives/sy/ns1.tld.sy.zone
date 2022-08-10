@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081019 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1660114942"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081024 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1660125736"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3310,8 +3310,8 @@ go.sy.			86400	IN	NS	lily.ns.cloudflare.com.
 go.sy.			86400	IN	NS	oswald.ns.cloudflare.com.
 goee.sy.		86400	IN	NS	ns1.shamcenter.com.
 goee.sy.		86400	IN	NS	ns2.shamcenter.com.
-goff.sy.		86400	IN	NS	ns3.tld.sy.
-goff.sy.		86400	IN	NS	ns4.tld.sy.
+goff.sy.		86400	IN	NS	suspend1.tld.sy.
+goff.sy.		86400	IN	NS	suspend2.tld.sy.
 gogreensyria.sy.	86400	IN	NS	suspend1.tld.sy.
 gogreensyria.sy.	86400	IN	NS	suspend2.tld.sy.
 goish-company.sy.	86400	IN	NS	ns1.ucg-core.com.
@@ -3746,8 +3746,8 @@ iamthechef.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 iamthechef.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
 ibaa.sy.		86400	IN	NS	suspend1.tld.sy.
 ibaa.sy.		86400	IN	NS	suspend2.tld.sy.
-ibank.sy.		86400	IN	NS	ns3.tld.sy.
-ibank.sy.		86400	IN	NS	ns4.tld.sy.
+ibank.sy.		86400	IN	NS	suspend1.tld.sy.
+ibank.sy.		86400	IN	NS	suspend2.tld.sy.
 ibdaa.sy.		86400	IN	NS	dns1.namecheaphosting.com.
 ibdaa.sy.		86400	IN	NS	dns2.namecheaphosting.com.
 ibn-alhaytham.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -4163,8 +4163,8 @@ kcc.sy.			86400	IN	NS	ns1.hostens.com.
 kcc.sy.			86400	IN	NS	ns2.hostens.com.
 kdergham.sy.		86400	IN	NS	suspend1.tld.sy.
 kdergham.sy.		86400	IN	NS	suspend2.tld.sy.
-ke.sy.			86400	IN	NS	kate.ns.cloudflare.com.
-ke.sy.			86400	IN	NS	hayes.ns.cloudflare.com.
+ke.sy.			86400	IN	NS	suspend1.tld.sy.
+ke.sy.			86400	IN	NS	suspend2.tld.sy.
 kea.sy.			86400	IN	NS	ns.inwx.de.
 kea.sy.			86400	IN	NS	ns2.inwx.de.
 kea.sy.			86400	IN	NS	ns3.inwx.eu.
@@ -5511,8 +5511,8 @@ ousos.sy.		86400	IN	NS	ns1.shamcenter.com.
 ousos.sy.		86400	IN	NS	ns2.shamcenter.com.
 outdoor.sy.		86400	IN	NS	suspend1.tld.sy.
 outdoor.sy.		86400	IN	NS	suspend2.tld.sy.
-ovaleo.sy.		86400	IN	NS	suspend1.tld.sy.
-ovaleo.sy.		86400	IN	NS	suspend2.tld.sy.
+ovaleo.sy.		86400	IN	NS	ns1.waveshost.sy.
+ovaleo.sy.		86400	IN	NS	ns2.waveshost.sy.
 over-land.sy.		86400	IN	NS	suspend1.tld.sy.
 over-land.sy.		86400	IN	NS	suspend2.tld.sy.
 overdose.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7779,6 +7779,11 @@ yabo.sy.		86400	IN	NS	suspend1.tld.sy.
 yabo.sy.		86400	IN	NS	suspend2.tld.sy.
 yafa-global.sy.		86400	IN	NS	suspend1.tld.sy.
 yafa-global.sy.		86400	IN	NS	suspend2.tld.sy.
+yahalatalabat.sy.	86400	IN	NS	ns1.ucg-core.com.
+yahalatalabat.sy.	86400	IN	NS	ns4.ucg-core.com.
+yahalatalabat.sy.	86400	IN	NS	ns11.ucg-core.com.
+yahalatalabat.sy.	86400	IN	NS	ns51.uae-dc.com.
+yahalatalabat.sy.	86400	IN	NS	ns54.uae-dc.com.
 yalla.sy.		86400	IN	NS	suspend1.tld.sy.
 yalla.sy.		86400	IN	NS	suspend2.tld.sy.
 yallago.sy.		86400	IN	NS	ns1.syrianhost.sy.
@@ -7971,4 +7976,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081019 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081024 3600 3600 2592000 3600
