@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081116 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1660201341"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081122 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1660212134"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -4278,8 +4278,8 @@ kinz.sy.		86400	IN	NS	suspend1.tld.sy.
 kinz.sy.		86400	IN	NS	suspend2.tld.sy.
 kiwan.sy.		86400	IN	NS	ns1.flexsolutiondomains.com.
 kiwan.sy.		86400	IN	NS	ns2.flexsolutiondomains.com.
-kk.sy.			86400	IN	NS	gavin.dnspod.net.
-kk.sy.			86400	IN	NS	veromca.dnspod.net.
+kk.sy.			86400	IN	NS	suspend1.tld.sy.
+kk.sy.			86400	IN	NS	suspend2.tld.sy.
 kmdlpoert.sy.		86400	IN	NS	suspend1.tld.sy.
 kmdlpoert.sy.		86400	IN	NS	suspend2.tld.sy.
 koala-polish.sy.	86400	IN	NS	dns3.aya.sy.
@@ -7775,8 +7775,8 @@ xvision.sy.		86400	IN	NS	ns2.inwx.de.
 xvision.sy.		86400	IN	NS	ns3.inwx.eu.
 xw.sy.			86400	IN	NS	jule.ns.cloudflare.com.
 xw.sy.			86400	IN	NS	albert.ns.cloudflare.com.
-xx.sy.			86400	IN	NS	gavin.dnspod.net.
-xx.sy.			86400	IN	NS	veromca.dnspod.net.
+xx.sy.			86400	IN	NS	suspend1.tld.sy.
+xx.sy.			86400	IN	NS	suspend2.tld.sy.
 yabo.sy.		86400	IN	NS	suspend1.tld.sy.
 yabo.sy.		86400	IN	NS	suspend2.tld.sy.
 yafa-global.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7978,4 +7978,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081116 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081122 3600 3600 2592000 3600
