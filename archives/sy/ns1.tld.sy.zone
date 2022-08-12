@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081217 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1660287733"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081223 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1660298538"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2905,12 +2905,12 @@ enter.sy.		86400	IN	NS	ns506.canadianwebhosting.com.
 enter.sy.		86400	IN	NS	ns507.canadianwebhosting.com.
 env-hama.sy.		86400	IN	NS	ns3.tld.sy.
 env-hama.sy.		86400	IN	NS	ns4.tld.sy.
-epay.sy.		86400	IN	NS	ns5.takamol.sy.
-epay.sy.		86400	IN	NS	ns6.takamol.sy.
-epayment.sy.		86400	IN	NS	ns5.takamol.sy.
-epayment.sy.		86400	IN	NS	ns6.takamol.sy.
-eproffer.sy.		86400	IN	NS	ns5.takamol.sy.
-eproffer.sy.		86400	IN	NS	ns6.takamol.sy.
+epay.sy.		86400	IN	NS	suspend1.tld.sy.
+epay.sy.		86400	IN	NS	suspend2.tld.sy.
+epayment.sy.		86400	IN	NS	suspend1.tld.sy.
+epayment.sy.		86400	IN	NS	suspend2.tld.sy.
+eproffer.sy.		86400	IN	NS	suspend1.tld.sy.
+eproffer.sy.		86400	IN	NS	suspend2.tld.sy.
 eq.sy.			86400	IN	NS	suspend1.tld.sy.
 eq.sy.			86400	IN	NS	suspend2.tld.sy.
 erthsyria.sy.		86400	IN	NS	ns16.samamax.com.
@@ -2983,8 +2983,8 @@ evolve.sy.		86400	IN	NS	suspend1.tld.sy.
 evolve.sy.		86400	IN	NS	suspend2.tld.sy.
 evvoli.sy.		86400	IN	NS	beth.ns.cloudflare.com.
 evvoli.sy.		86400	IN	NS	major.ns.cloudflare.com.
-ewallet.sy.		86400	IN	NS	ns5.takamol.sy.
-ewallet.sy.		86400	IN	NS	ns6.takamol.sy.
+ewallet.sy.		86400	IN	NS	suspend1.tld.sy.
+ewallet.sy.		86400	IN	NS	suspend2.tld.sy.
 ewg.sy.			86400	IN	NS	suspend1.tld.sy.
 ewg.sy.			86400	IN	NS	suspend2.tld.sy.
 exa.sy.			86400	IN	NS	ns31.cloudns.net.
@@ -3509,10 +3509,8 @@ hawai.sy.		86400	IN	NS	ns1.alanqaa.com.
 hawai.sy.		86400	IN	NS	ns2.alanqaa.com.
 hawarispices.sy.	86400	IN	NS	suspend1.tld.sy.
 hawarispices.sy.	86400	IN	NS	suspend2.tld.sy.
-hawary.sy.		86400	IN	NS	ns1.supercp.com.
-hawary.sy.		86400	IN	NS	ns2.supercp.com.
-hawary.sy.		86400	IN	NS	ns3.supercp.com.
-hawary.sy.		86400	IN	NS	ns4.supercp.com.
+hawary.sy.		86400	IN	NS	suspend1.tld.sy.
+hawary.sy.		86400	IN	NS	suspend2.tld.sy.
 hawasly.sy.		86400	IN	NS	beth.ns.cloudflare.com.
 hawasly.sy.		86400	IN	NS	major.ns.cloudflare.com.
 hb.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -5567,8 +5565,8 @@ pastelpix.sy.		86400	IN	NS	ns1.alanqaa.com.
 pastelpix.sy.		86400	IN	NS	ns2.alanqaa.com.
 pay.sy.			86400	IN	NS	suspend1.tld.sy.
 pay.sy.			86400	IN	NS	suspend2.tld.sy.
-payway.sy.		86400	IN	NS	ns5.takamol.sy.
-payway.sy.		86400	IN	NS	ns6.takamol.sy.
+payway.sy.		86400	IN	NS	suspend1.tld.sy.
+payway.sy.		86400	IN	NS	suspend2.tld.sy.
 pc.sy.			86400	IN	NS	suspend1.tld.sy.
 pc.sy.			86400	IN	NS	suspend2.tld.sy.
 pcb-bank.sy.		86400	IN	NS	ns3.tld.sy.
@@ -5698,8 +5696,8 @@ privacy.sy.		86400	IN	NS	ns1.nameself.com.
 privacy.sy.		86400	IN	NS	ns2.nameself.com.
 prodealco.sy.		86400	IN	NS	suspend1.tld.sy.
 prodealco.sy.		86400	IN	NS	suspend2.tld.sy.
-proffer.sy.		86400	IN	NS	ns5.takamol.sy.
-proffer.sy.		86400	IN	NS	ns6.takamol.sy.
+proffer.sy.		86400	IN	NS	suspend1.tld.sy.
+proffer.sy.		86400	IN	NS	suspend2.tld.sy.
 profilenews.sy.		86400	IN	NS	suspend1.tld.sy.
 profilenews.sy.		86400	IN	NS	suspend2.tld.sy.
 profit.sy.		86400	IN	NS	gene.ns.cloudflare.com.
@@ -7978,4 +7976,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081217 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081223 3600 3600 2592000 3600
