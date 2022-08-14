@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081416 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1660460532"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081420 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1660467737"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3228,10 +3228,8 @@ geg-me.sy.		86400	IN	NS	ns1.monster.sy.
 geg-me.sy.		86400	IN	NS	ns2.monster.sy.
 gemini.sy.		86400	IN	NS	ns1.alanqaa.com.
 gemini.sy.		86400	IN	NS	ns2.alanqaa.com.
-general.sy.		86400	IN	NS	ns1.byet.org.
-general.sy.		86400	IN	NS	ns2.byet.org.
-general.sy.		86400	IN	NS	ns3.byet.org.
-general.sy.		86400	IN	NS	ns4.byet.org.
+general.sy.		86400	IN	NS	ns231.ucg.ltd.
+general.sy.		86400	IN	NS	ns2231.ucg.ltd.
 generalgalaxy.sy.	86400	IN	NS	suspend1.tld.sy.
 generalgalaxy.sy.	86400	IN	NS	suspend2.tld.sy.
 geosystem.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7978,4 +7976,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081416 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081420 3600 3600 2592000 3600
