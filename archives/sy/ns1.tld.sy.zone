@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081420 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1660467737"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081424 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1660482135"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2352,6 +2352,8 @@ damasgate-agri.sy.	86400	IN	NS	suspend1.tld.sy.
 damasgate-agri.sy.	86400	IN	NS	suspend2.tld.sy.
 damasindustry.sy.	86400	IN	NS	ns1061.websiteservername.com.
 damasindustry.sy.	86400	IN	NS	ns1062.websiteservername.com.
+damask.sy.		86400	IN	NS	ns203.canadianwebhosting.com.
+damask.sy.		86400	IN	NS	ns204.canadianwebhosting.com.
 damaspharmacy.sy.	86400	IN	NS	ns3.tld.sy.
 damaspharmacy.sy.	86400	IN	NS	ns4.tld.sy.
 damasuniv.sy.		86400	IN	NS	ns1.damasuniv.edu.sy.
@@ -3746,8 +3748,8 @@ iamthechef.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 iamthechef.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
 ibaa.sy.		86400	IN	NS	suspend1.tld.sy.
 ibaa.sy.		86400	IN	NS	suspend2.tld.sy.
-ibank.sy.		86400	IN	NS	suspend1.tld.sy.
-ibank.sy.		86400	IN	NS	suspend2.tld.sy.
+ibank.sy.		86400	IN	NS	ns3.tld.sy.
+ibank.sy.		86400	IN	NS	ns4.tld.sy.
 ibdaa.sy.		86400	IN	NS	dns1.namecheaphosting.com.
 ibdaa.sy.		86400	IN	NS	dns2.namecheaphosting.com.
 ibn-alhaytham.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -5373,6 +5375,8 @@ odoo.sy.		86400	IN	NS	suspend1.tld.sy.
 odoo.sy.		86400	IN	NS	suspend2.tld.sy.
 odyssey.sy.		86400	IN	NS	ns1.alanqaa.com.
 odyssey.sy.		86400	IN	NS	ns2.alanqaa.com.
+offerlak.sy.		86400	IN	NS	ns3.tld.sy.
+offerlak.sy.		86400	IN	NS	ns4.tld.sy.
 oilex.sy.		86400	IN	NS	ns207.canadianwebhosting.com.
 oilex.sy.		86400	IN	NS	ns208.canadianwebhosting.com.
 oiqryzpmga.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6709,6 +6713,8 @@ sscc.sy.		86400	IN	NS	ns1.alanqaa.com.
 sscc.sy.		86400	IN	NS	ns2.alanqaa.com.
 sscsyr.sy.		86400	IN	NS	ns1.bluehost.com.
 sscsyr.sy.		86400	IN	NS	ns2.bluehost.com.
+ssd-sy.sy.		86400	IN	NS	ns3.tld.sy.
+ssd-sy.sy.		86400	IN	NS	ns4.tld.sy.
 ssge.sy.		86400	IN	NS	suspend1.tld.sy.
 ssge.sy.		86400	IN	NS	suspend2.tld.sy.
 ssnp.sy.		86400	IN	NS	ns1.scs-net.sy.
@@ -7976,4 +7982,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081420 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022081424 3600 3600 2592000 3600
