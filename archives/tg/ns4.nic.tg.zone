@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081268 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081637 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1528,6 +1528,9 @@ cpla.tg.		86400	IN	NS	ns1.cafe.tg.
 cpla.tg.		86400	IN	NS	ns2.cafe.tg.
 cr.tg.			86400	IN	NS	ns2.laposte.tg.
 loccit.cr.tg.		86400	IN	NS	ns1.laposte.tg.
+cracken.tg.		86400	IN	NS	ns1.netim.net.
+cracken.tg.		86400	IN	NS	ns2.netim.net.
+cracken.tg.		86400	IN	NS	ns3.netim.net.
 cread.tg.		86400	IN	NS	dns1.plusproche.org.
 cread.tg.		86400	IN	NS	dns2.plusproche.org.
 cread.tg.		86400	IN	NS	dns3.supremepanel.com.
@@ -2662,6 +2665,8 @@ heidelbergcement.tg.	86400	IN	NS	udns1.cscdns.net.
 heidelbergcement.tg.	86400	IN	NS	udns2.cscdns.uk.
 heidelbergcementtogo.tg. 86400	IN	NS	udns1.cscdns.net.
 heidelbergcementtogo.tg. 86400	IN	NS	udns2.cscdns.uk.
+heidelbergmaterial.tg.	86400	IN	NS	udns1.cscdns.net.
+heidelbergmaterial.tg.	86400	IN	NS	udns2.cscdns.uk.
 heidelbergmaterials.tg.	86400	IN	NS	udns1.cscdns.net.
 heidelbergmaterials.tg.	86400	IN	NS	udns2.cscdns.uk.
 heidelbergmaterialsgroup.tg. 86400 IN	NS	udns1.cscdns.net.
@@ -5559,8 +5564,8 @@ togotourisme.tg.	86400	IN	NS	dns1.hosteur.com.
 togotourisme.tg.	86400	IN	NS	dns2.hosteur.com.
 togozik.tg.		86400	IN	NS	oti.ids.tg.
 togozik.tg.		86400	IN	NS	mono.ids.tg.
-toietmoi.tg.		86400	IN	NS	ns2.nghcorp.info.
-toietmoi.tg.		86400	IN	NS	ns1.nghcorp.info.
+toietmoi.tg.		86400	IN	NS	ns2.nghcorp.net.
+toietmoi.tg.		86400	IN	NS	ns1.nghcorp.net.
 token.tg.		86400	IN	NS	ns1.sedoparking.com.
 token.tg.		86400	IN	NS	ns2.sedoparking.com.
 tom.tg.			86400	IN	NS	ns100.hostwhitelabel.com.
@@ -5573,7 +5578,7 @@ tone.tg.		86400	IN	NS	ns5.netmaster.tg.
 tone.tg.		86400	IN	NS	ns4.netmaster.tg.
 tonege.tg.		86400	IN	NS	cpanel3.lws-hosting.com.
 tonege.tg.		86400	IN	NS	cpanel4.lws-hosting.com.
-tootogo.tg.		86400	IN	NS	my.lomnava.com.
+tootogo.tg.		86400	IN	NS	server.lomnava.com.
 tootogo.tg.		86400	IN	NS	sdns2.ovh.net.
 tootogo.tg.		86400	IN	NS	ns5.netmaster.tg.
 tootogo.tg.		86400	IN	NS	ns1.cafe.tg.
@@ -5672,8 +5677,8 @@ truniagen.tg.		86400	IN	NS	ns03.trademarkarea.com.
 trvn.tg.		86400	IN	NS	ns1.bb-online.net.
 trvn.tg.		86400	IN	NS	ns2.bb-online.net.
 trvn.tg.		86400	IN	NS	brain.bb-online.co.uk.
-tse.tg.			86400	IN	NS	ns1.nghcorp.info.
-tse.tg.			86400	IN	NS	ns2.nghcorp.info.
+tse.tg.			86400	IN	NS	ns1.nghcorp.net.
+tse.tg.			86400	IN	NS	ns2.nghcorp.net.
 tsg.tg.			86400	IN	NS	dilbert.ns.cloudflare.com.
 tsg.tg.			86400	IN	NS	mimi.ns.cloudflare.com.
 tsm.tg.			86400	IN	NS	abby.ns.cloudflare.com.
@@ -6103,4 +6108,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081268 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081637 21600 3600 604800 86400
