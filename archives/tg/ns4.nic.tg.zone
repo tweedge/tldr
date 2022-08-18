@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081768 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081867 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1211,8 +1211,9 @@ casino.tg.		86400	IN	NS	ns1.alidns.com.
 casino.tg.		86400	IN	NS	ns2.alidns.com.
 casinocity.tg.		86400	IN	NS	dilbert.ns.cloudflare.com.
 casinocity.tg.		86400	IN	NS	tegan.ns.cloudflare.com.
-casparcas.tg.		86400	IN	NS	cpanel5.lws-hosting.com.
-casparcas.tg.		86400	IN	NS	cpanel6.lws-hosting.com.
+casparcas.tg.		86400	IN	NS	ns5.netmaster.tg.
+casparcas.tg.		86400	IN	NS	ns1.cafe.tg.
+casparcas.tg.		86400	IN	NS	ns2.cafe.tg.
 castel.tg.		86400	IN	NS	ns01.trademarkarea.com.
 castel.tg.		86400	IN	NS	ns02.trademarkarea.com.
 castel.tg.		86400	IN	NS	ns03.trademarkarea.com.
@@ -1531,9 +1532,8 @@ cpla.tg.		86400	IN	NS	ns1.cafe.tg.
 cpla.tg.		86400	IN	NS	ns2.cafe.tg.
 cr.tg.			86400	IN	NS	ns2.laposte.tg.
 loccit.cr.tg.		86400	IN	NS	ns1.laposte.tg.
-cracken.tg.		86400	IN	NS	ns1.netim.net.
-cracken.tg.		86400	IN	NS	ns2.netim.net.
-cracken.tg.		86400	IN	NS	ns3.netim.net.
+cracken.tg.		86400	IN	NS	dana.ns.cloudflare.com.
+cracken.tg.		86400	IN	NS	michael.ns.cloudflare.com.
 cread.tg.		86400	IN	NS	dns1.plusproche.org.
 cread.tg.		86400	IN	NS	dns2.plusproche.org.
 cread.tg.		86400	IN	NS	dns3.supremepanel.com.
@@ -3611,8 +3611,6 @@ marketplace.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
 marketplace.tg.		86400	IN	NS	sdns2.ovh.net.
 markmonitor.tg.		86400	IN	NS	dns-ns1.wistee.fr.
 markmonitor.tg.		86400	IN	NS	dns-ns11.wistee.fr.
-marmolux.tg.		86400	IN	NS	dns1.namecheaphosting.com.
-marmolux.tg.		86400	IN	NS	dns2.namecheaphosting.com.
 martin.tg.		86400	IN	NS	ns.hostpoint.ch.
 martin.tg.		86400	IN	NS	ns2.hostpoint.ch.
 martin.tg.		86400	IN	NS	ns3.hostpoint.ch.
@@ -3862,6 +3860,8 @@ musix.tg.		86400	IN	NS	ns5.netim.net.
 mustela.tg.		86400	IN	NS	nsa.perf1.fr.
 mustela.tg.		86400	IN	NS	nsb.perf1.com.
 mustela.tg.		86400	IN	NS	nsc.perf1.com.
+mutuelleakwaba.tg.	86400	IN	NS	oti.ids.tg.
+mutuelleakwaba.tg.	86400	IN	NS	mono.ids.tg.
 muzikplus.tg.		86400	IN	NS	ns1.netmaster.tg.
 muzikplus.tg.		86400	IN	NS	ns5.netmaster.tg.
 muzikplus.tg.		86400	IN	NS	ns4.netmaster.tg.
@@ -4807,6 +4807,9 @@ servier.tg.		86400	IN	NS	ns1.markmonitor.com.
 servier.tg.		86400	IN	NS	ns2.markmonitor.com.
 servier.tg.		86400	IN	NS	ns3.markmonitor.com.
 servier.tg.		86400	IN	NS	ns4.markmonitor.com.
+sesame.tg.		86400	IN	NS	ns1.francedns.com.
+sesame.tg.		86400	IN	NS	ns2.francedns.com.
+sesame.tg.		86400	IN	NS	ns3.francedns.com.
 seva.tg.		86400	IN	NS	ns1.hostinger.lt.
 seva.tg.		86400	IN	NS	ns2.hostinger.lt.
 seva.tg.		86400	IN	NS	ns3.hostinger.lt.
@@ -6117,4 +6120,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081768 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081867 21600 3600 604800 86400
