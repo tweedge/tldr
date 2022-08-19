@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081945 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081964 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -71,8 +71,8 @@ tg.			86400	IN	NS	ns4.nic.tg.
 22bet.tg.		86400	IN	NS	ns01.trademarkarea.com.
 22bet.tg.		86400	IN	NS	ns02.trademarkarea.com.
 22bet.tg.		86400	IN	NS	ns03.trademarkarea.com.
-258.tg.			86400	IN	NS	ns1.regery.net.
-258.tg.			86400	IN	NS	ns2.regery.net.
+258.tg.			86400	IN	NS	olof.ns.cloudflare.com.
+258.tg.			86400	IN	NS	peaches.ns.cloudflare.com.
 258.tg.			86400	IN	NS	ns3.regery.net.
 2afoot.tg.		86400	IN	NS	dns1.hosteur.com.
 2afoot.tg.		86400	IN	NS	dns2.hosteur.com.
@@ -3610,9 +3610,8 @@ marketplace.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
 marketplace.tg.		86400	IN	NS	sdns2.ovh.net.
 markmonitor.tg.		86400	IN	NS	dns-ns1.wistee.fr.
 markmonitor.tg.		86400	IN	NS	dns-ns11.wistee.fr.
-marmolux.tg.		86400	IN	NS	ns1.site4now.net.
-marmolux.tg.		86400	IN	NS	ns2.site4now.net.
-marmolux.tg.		86400	IN	NS	ns3.site4now.net.
+marmolux.tg.		86400	IN	NS	dns1.namecheaphosting.com.
+marmolux.tg.		86400	IN	NS	dns2.namecheaphosting.com.
 martin.tg.		86400	IN	NS	ns.hostpoint.ch.
 martin.tg.		86400	IN	NS	ns2.hostpoint.ch.
 martin.tg.		86400	IN	NS	ns3.hostpoint.ch.
@@ -6123,4 +6122,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081945 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081964 21600 3600 604800 86400
