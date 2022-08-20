@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022081904 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022082014 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -4373,6 +4373,9 @@ sara.gp.		86400	IN	NS	ns4.ikoula.com.
 sara.gp.		86400	IN	NS	ns5.ikoula.com.
 scavolini.gp.		86400	IN	NS	ns1.register.it.
 scavolini.gp.		86400	IN	NS	ns2.register.it.
+scg.gp.			86400	IN	NS	ns1.francedns.com.
+scg.gp.			86400	IN	NS	ns2.francedns.com.
+scg.gp.			86400	IN	NS	ns3.francedns.com.
 schneider-electric.gp.	86400	IN	NS	ns2.observatoiredesmarques.fr.
 schneider-electric.gp.	86400	IN	NS	ns3.nameshield.net.
 schneider-electric.gp.	86400	IN	NS	obs.ns1.fr.
@@ -5390,4 +5393,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022081904 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022082014 86400 7200 2592000 345600
