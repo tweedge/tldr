@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082015 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1660978937"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082021 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1660989744"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3369,8 +3369,8 @@ green-wing.sy.		86400	IN	NS	suspend1.tld.sy.
 green-wing.sy.		86400	IN	NS	suspend2.tld.sy.
 grohe.sy.		86400	IN	NS	ns1.lemarit.de.
 grohe.sy.		86400	IN	NS	ns2.lemarit.de.
-group.sy.		86400	IN	NS	beth.ns.cloudflare.com.
-group.sy.		86400	IN	NS	james.ns.cloudflare.com.
+group.sy.		86400	IN	NS	suspend1.tld.sy.
+group.sy.		86400	IN	NS	suspend2.tld.sy.
 gs.sy.			86400	IN	NS	suspend1.tld.sy.
 gs.sy.			86400	IN	NS	suspend2.tld.sy.
 gsc-lat.sy.		86400	IN	NS	ns3.tld.sy.
@@ -3756,8 +3756,8 @@ ibn-alhaytham.sy.	86400	IN	NS	suspend1.tld.sy.
 ibn-alhaytham.sy.	86400	IN	NS	suspend2.tld.sy.
 ibn-alwaleed.sy.	86400	IN	NS	suspend1.tld.sy.
 ibn-alwaleed.sy.	86400	IN	NS	suspend2.tld.sy.
-ibnarabi.sy.		86400	IN	NS	ns1.shamcenter.com.
-ibnarabi.sy.		86400	IN	NS	ns2.shamcenter.com.
+ibnarabi.sy.		86400	IN	NS	suspend1.tld.sy.
+ibnarabi.sy.		86400	IN	NS	suspend2.tld.sy.
 ibnroshed.sy.		86400	IN	NS	suspend1.tld.sy.
 ibnroshed.sy.		86400	IN	NS	suspend2.tld.sy.
 ibnsina.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7982,4 +7982,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082015 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082021 3600 3600 2592000 3600
