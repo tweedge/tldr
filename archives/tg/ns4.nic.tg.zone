@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081964 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022082236 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -517,6 +517,8 @@ anybunny.tg.		86400	IN	NS	ns2.parkingcrew.net.
 apdtogo.tg.		86400	IN	NS	ns1.reserv.sky.
 apex.tg.		86400	IN	NS	ns1.brandcloudns.com.
 apex.tg.		86400	IN	NS	ns2.brandcloudns.com.
+aphtalcisse.tg.		86400	IN	NS	dns1.e-c.com.
+aphtalcisse.tg.		86400	IN	NS	dns2.e-c.com.
 api.tg.			86400	IN	NS	pns101.cloudns.net.
 api.tg.			86400	IN	NS	pns102.cloudns.net.
 api.tg.			86400	IN	NS	pns103.cloudns.net.
@@ -699,6 +701,8 @@ atlasservices.tg.	86400	IN	NS	ns2.o2switch.net.
 atms.tg.		86400	IN	NS	ns5.netmaster.tg.
 atms.tg.		86400	IN	NS	ns1.cafe.tg.
 atms.tg.		86400	IN	NS	ns2.cafe.tg.
+atop.tg.		86400	IN	NS	ns1.o2switch.net.
+atop.tg.		86400	IN	NS	ns2.o2switch.net.
 atoppel.tg.		86400	IN	NS	dns1.simplecplogin.com.
 atoppel.tg.		86400	IN	NS	dns2.simplecplogin.com.
 ats.tg.			86400	IN	NS	dilbert.ns.cloudflare.com.
@@ -1525,11 +1529,17 @@ covestro.tg.		86400	IN	NS	pdns1.cscdns.net.
 covestro.tg.		86400	IN	NS	pdns2.cscdns.net.
 covidwatch.tg.		86400	IN	NS	ns1.digitalocean.com.
 covidwatch.tg.		86400	IN	NS	ns2.digitalocean.com.
+cpak.tg.		86400	IN	NS	ns1.francedns.com.
+cpak.tg.		86400	IN	NS	ns2.francedns.com.
+cpak.tg.		86400	IN	NS	ns3.francedns.com.
 cparti.tg.		86400	IN	NS	ns1.cparti.tg.
 ns1.cparti.tg.		86400	IN	A	78.46.185.137
 cpla.tg.		86400	IN	NS	ns5.netmaster.tg.
 cpla.tg.		86400	IN	NS	ns1.cafe.tg.
 cpla.tg.		86400	IN	NS	ns2.cafe.tg.
+cplt.tg.		86400	IN	NS	ns1.francedns.com.
+cplt.tg.		86400	IN	NS	ns2.francedns.com.
+cplt.tg.		86400	IN	NS	ns3.francedns.com.
 cr.tg.			86400	IN	NS	ns2.laposte.tg.
 loccit.cr.tg.		86400	IN	NS	ns1.laposte.tg.
 cracken.tg.		86400	IN	NS	dana.ns.cloudflare.com.
@@ -6122,4 +6132,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081964 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022082236 21600 3600 604800 86400
