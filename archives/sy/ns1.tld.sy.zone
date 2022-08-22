@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082218 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1661151743"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082221 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1661162530"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -300,6 +300,8 @@ aburas-co.sy.		86400	IN	NS	suspend1.tld.sy.
 aburas-co.sy.		86400	IN	NS	suspend2.tld.sy.
 abusaada-co.sy.		86400	IN	NS	suspend1.tld.sy.
 abusaada-co.sy.		86400	IN	NS	suspend2.tld.sy.
+abusharar-ins.sy.	86400	IN	NS	ns3.tld.sy.
+abusharar-ins.sy.	86400	IN	NS	ns4.tld.sy.
 abuzayedcompany.sy.	86400	IN	NS	suspend1.tld.sy.
 abuzayedcompany.sy.	86400	IN	NS	suspend2.tld.sy.
 ac.sy.			86400	IN	NS	ns3.tld.sy.
@@ -3215,6 +3217,8 @@ gcb.sy.			86400	IN	NS	ns1.syrianmonster.com.sy.
 gcb.sy.			86400	IN	NS	ns2.syrianmonster.com.sy.
 gcbc.sy.		86400	IN	NS	ns3.tld.sy.
 gcbc.sy.		86400	IN	NS	ns4.tld.sy.
+gccs-latakia.sy.	86400	IN	NS	ns1.ksa.onl.
+gccs-latakia.sy.	86400	IN	NS	ns2.ksa.onl.
 gces.sy.		86400	IN	NS	ns1.shamcenter.com.
 gces.sy.		86400	IN	NS	ns2.shamcenter.com.
 gcwb.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -4599,6 +4603,8 @@ maint-ser.sy.		86400	IN	NS	suspend1.tld.sy.
 maint-ser.sy.		86400	IN	NS	suspend2.tld.sy.
 majd-abdelkarim.sy.	86400	IN	NS	suspend1.tld.sy.
 majd-abdelkarim.sy.	86400	IN	NS	suspend2.tld.sy.
+majd-altafwq.sy.	86400	IN	NS	ns3.tld.sy.
+majd-altafwq.sy.	86400	IN	NS	ns4.tld.sy.
 majestynews.sy.		86400	IN	NS	suspend1.tld.sy.
 majestynews.sy.		86400	IN	NS	suspend2.tld.sy.
 majidalfuttaimpropertiessyria.sy. 86400	IN NS	ns1.alanqaa.com.
@@ -4975,6 +4981,8 @@ mnajjar.sy.		86400	IN	NS	ns4.ucg-core.com.
 mnajjar.sy.		86400	IN	NS	ns11.ucg-core.com.
 mnajjar.sy.		86400	IN	NS	ns51.uae-dc.com.
 mnajjar.sy.		86400	IN	NS	ns54.uae-dc.com.
+moalaakh.sy.		86400	IN	NS	ns3.tld.sy.
+moalaakh.sy.		86400	IN	NS	ns4.tld.sy.
 mobifone.sy.		86400	IN	NS	suspend1.tld.sy.
 mobifone.sy.		86400	IN	NS	suspend2.tld.sy.
 mobile.sy.		86400	IN	NS	ns1.nobalaa.biz.
@@ -7982,4 +7990,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082218 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082221 3600 3600 2592000 3600
