@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082309 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1661227343"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082313 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1661238135"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -5634,8 +5634,8 @@ pharmart.sy.		86400	IN	NS	ns3.tld.sy.
 pharmart.sy.		86400	IN	NS	ns4.tld.sy.
 pharmashop.sy.		86400	IN	NS	ns3.tld.sy.
 pharmashop.sy.		86400	IN	NS	ns4.tld.sy.
-pharmaway.sy.		86400	IN	NS	suspend1.tld.sy.
-pharmaway.sy.		86400	IN	NS	suspend2.tld.sy.
+pharmaway.sy.		86400	IN	NS	ns1.syrianmonster.com.sy.
+pharmaway.sy.		86400	IN	NS	ns2.syrianmonster.com.sy.
 pharmomedica.sy.	86400	IN	NS	suspend1.tld.sy.
 pharmomedica.sy.	86400	IN	NS	suspend2.tld.sy.
 philips.sy.		86400	IN	NS	ns1.ext.philips.com.
@@ -8000,4 +8000,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082309 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082313 3600 3600 2592000 3600
