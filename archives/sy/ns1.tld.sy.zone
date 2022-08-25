@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082516 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1661410941"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082520 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1661421733"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -6233,6 +6233,8 @@ schwarzkopf.sy.		86400	IN	NS	udns1.cscdns.net.
 schwarzkopf.sy.		86400	IN	NS	udns2.cscdns.uk.
 schwarzkopf-professional.sy. 86400 IN	NS	udns1.cscdns.net.
 schwarzkopf-professional.sy. 86400 IN	NS	udns2.cscdns.uk.
+sci-fact.sy.		86400	IN	NS	ns3.tld.sy.
+sci-fact.sy.		86400	IN	NS	ns4.tld.sy.
 scit.sy.		86400	IN	NS	ns3.tld.sy.
 scit.sy.		86400	IN	NS	ns4.tld.sy.
 scitcoo.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6412,11 +6414,11 @@ sharafto.sy.		86400	IN	NS	ns4.ucg-core.com.
 sharafto.sy.		86400	IN	NS	ns11.ucg-core.com.
 sharafto.sy.		86400	IN	NS	ns51.uae-dc.com.
 sharafto.sy.		86400	IN	NS	ns54.uae-dc.com.
-sharfto.sy.		86400	IN	NS	ns1.ucg-core.com.
-sharfto.sy.		86400	IN	NS	ns4.ucg-core.com.
-sharfto.sy.		86400	IN	NS	ns11.ucg-core.com.
-sharfto.sy.		86400	IN	NS	ns51.uae-dc.com.
-sharfto.sy.		86400	IN	NS	ns54.uae-dc.com.
+sharfto.sy.		86400	IN	NS	ns1.scs-net.sy.
+sharfto.sy.		86400	IN	NS	ns1.scs-net.org.
+sharfto.sy.		86400	IN	NS	ns2.scs-net.sy.
+sharfto.sy.		86400	IN	NS	ns2.scs-net.org.
+sharfto.sy.		86400	IN	NS	ns6.scs-net.sy.
 sharp.sy.		86400	IN	NS	suspend1.tld.sy.
 sharp.sy.		86400	IN	NS	suspend2.tld.sy.
 shash.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7797,11 +7799,11 @@ yabo.sy.		86400	IN	NS	suspend1.tld.sy.
 yabo.sy.		86400	IN	NS	suspend2.tld.sy.
 yafa-global.sy.		86400	IN	NS	suspend1.tld.sy.
 yafa-global.sy.		86400	IN	NS	suspend2.tld.sy.
-yahala.sy.		86400	IN	NS	ns1.ucg-core.com.
-yahala.sy.		86400	IN	NS	ns4.ucg-core.com.
-yahala.sy.		86400	IN	NS	ns11.ucg-core.com.
-yahala.sy.		86400	IN	NS	ns51.uae-dc.com.
-yahala.sy.		86400	IN	NS	ns54.uae-dc.com.
+yahala.sy.		86400	IN	NS	ns1.scs-net.sy.
+yahala.sy.		86400	IN	NS	ns1.scs-net.org.
+yahala.sy.		86400	IN	NS	ns2.scs-net.sy.
+yahala.sy.		86400	IN	NS	ns2.scs-net.org.
+yahala.sy.		86400	IN	NS	ns6.scs-net.sy.
 yahalatalabat.sy.	86400	IN	NS	ns1.scs-net.sy.
 yahalatalabat.sy.	86400	IN	NS	ns1.scs-net.org.
 yahalatalabat.sy.	86400	IN	NS	ns2.scs-net.sy.
@@ -7999,4 +8001,4 @@ zx.sy.			86400	IN	NS	suspend1.tld.sy.
 zx.sy.			86400	IN	NS	suspend2.tld.sy.
 zz.sy.			86400	IN	NS	suspend1.tld.sy.
 zz.sy.			86400	IN	NS	suspend2.tld.sy.
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082516 3600 3600 2592000 3600
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022082520 3600 3600 2592000 3600
