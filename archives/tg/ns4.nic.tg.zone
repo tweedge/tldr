@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022082632 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022082639 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1458,6 +1458,9 @@ contentsquare.tg.	86400	IN	NS	ns4.markmonitor.com.
 contentsquare.tg.	86400	IN	NS	ns5.markmonitor.com.
 conviction.tg.		86400	IN	NS	170.ns1.above.com.
 conviction.tg.		86400	IN	NS	170.ns2.above.com.
+coo.tg.			86400	IN	NS	ns5.netmaster.tg.
+coo.tg.			86400	IN	NS	ns1.cafe.tg.
+coo.tg.			86400	IN	NS	ns2.cafe.tg.
 coop.tg.		86400	IN	NS	ns1.contabo.net.
 coop.tg.		86400	IN	NS	ns2.contabo.net.
 coop.tg.		86400	IN	NS	ns3.contabo.net.
@@ -1956,9 +1959,8 @@ efogerc.tg.		86400	IN	NS	cpanel22.lws-hosting.com.
 egect.tg.		86400	IN	NS	nsa.planethoster.net.
 egect.tg.		86400	IN	NS	nsb.planethoster.net.
 egect.tg.		86400	IN	NS	nsc.planethoster.net.
-egliseapostolique.tg.	86400	IN	NS	ns1.francedns.com.
-egliseapostolique.tg.	86400	IN	NS	ns2.francedns.com.
-egliseapostolique.tg.	86400	IN	NS	ns3.francedns.com.
+egliseapostolique.tg.	86400	IN	NS	cpanel19.lws-hosting.com.
+egliseapostolique.tg.	86400	IN	NS	cpanel20.lws-hosting.com.
 eichholtz.tg.		86400	IN	NS	ns1.netim.net.
 eichholtz.tg.		86400	IN	NS	ns2.netim.net.
 eichholtz.tg.		86400	IN	NS	ns3.netim.net.
@@ -6113,4 +6115,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022082632 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022082639 21600 3600 604800 86400
