@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022082667 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022082953 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -739,8 +739,8 @@ ayewouadan.tg.		86400	IN	NS	ns1.bluehost.com.
 ayewouadan.tg.		86400	IN	NS	ns2.bluehost.com.
 ayx.tg.			86400	IN	NS	amalia.ns.cloudflare.com.
 ayx.tg.			86400	IN	NS	ganz.ns.cloudflare.com.
-baal.tg.		86400	IN	NS	ns1.baal.tg.
 baal.tg.		86400	IN	NS	ns2.baal.tg.
+baal.tg.		86400	IN	NS	ns1.baal.tg.
 ns1.baal.tg.		86400	IN	A	41.207.168.210
 ns2.baal.tg.		86400	IN	A	160.242.199.195
 babyrecre.tg.		86400	IN	NS	dns1.namecheaphosting.com.
@@ -786,9 +786,9 @@ bca.tg.			86400	IN	NS	ns17.ovh.net.
 bca.tg.			86400	IN	NS	dns17.ovh.net.
 bcloud.tg.		86400	IN	NS	wanda.ns.cloudflare.com.
 bcloud.tg.		86400	IN	NS	nash.ns.cloudflare.com.
-bearingpoint.tg.	86400	IN	NS	dns1.infonova.at.
-bearingpoint.tg.	86400	IN	NS	dns2.infonova.at.
-bearingpoint.tg.	86400	IN	NS	dns3.infonova.at.
+bearingpoint.tg.	86400	IN	NS	dns3.bearingpoint.com.
+bearingpoint.tg.	86400	IN	NS	dns1.bearingpoint.com.
+bearingpoint.tg.	86400	IN	NS	dns2.bearingpoint.com.
 beaute.tg.		86400	IN	NS	cpanel12.lws-hosting.com.
 beaute.tg.		86400	IN	NS	cpanel11.lws-hosting.com.
 beautybay.tg.		86400	IN	NS	ns1.101domain.com.
@@ -1461,9 +1461,9 @@ contentsquare.tg.	86400	IN	NS	ns4.markmonitor.com.
 contentsquare.tg.	86400	IN	NS	ns5.markmonitor.com.
 conviction.tg.		86400	IN	NS	170.ns1.above.com.
 conviction.tg.		86400	IN	NS	170.ns2.above.com.
-coo.tg.			86400	IN	NS	ns5.netmaster.tg.
-coo.tg.			86400	IN	NS	ns1.cafe.tg.
-coo.tg.			86400	IN	NS	ns2.cafe.tg.
+coo.tg.			86400	IN	NS	ns1.contabo.net.
+coo.tg.			86400	IN	NS	ns2.contabo.net.
+coo.tg.			86400	IN	NS	ns3.contabo.net.
 coop.tg.		86400	IN	NS	ns1.contabo.net.
 coop.tg.		86400	IN	NS	ns2.contabo.net.
 coop.tg.		86400	IN	NS	ns3.contabo.net.
@@ -2313,6 +2313,9 @@ fordtrucks.tg.		86400	IN	NS	dns2.idp365.net.
 fordtrucks.tg.		86400	IN	NS	dns3.idp365.net.
 forex.tg.		86400	IN	NS	ns100.hostwhitelabel.com.
 forex.tg.		86400	IN	NS	ns200.hostwhitelabel.com.
+formapro.tg.		86400	IN	NS	ns1.francedns.com.
+formapro.tg.		86400	IN	NS	ns2.francedns.com.
+formapro.tg.		86400	IN	NS	ns3.francedns.com.
 formatec.tg.		86400	IN	NS	dns1.ex2-r9.com.
 formatec.tg.		86400	IN	NS	dns2.ex2-r9.com.
 formationsagricoles.tg.	86400	IN	NS	ns5.netmaster.tg.
@@ -6121,4 +6124,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022082667 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022082953 21600 3600 604800 86400
