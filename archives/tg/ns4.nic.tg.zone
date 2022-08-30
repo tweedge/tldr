@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022083043 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022083069 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -287,6 +287,9 @@ agoa.tg.		86400	IN	NS	ns1.agoa.tg.
 agoa.tg.		86400	IN	NS	ns2.agoa.tg.
 ns1.agoa.tg.		86400	IN	A	37.59.35.20
 ns2.agoa.tg.		86400	IN	A	37.59.35.20
+agoa-togo.tg.		86400	IN	NS	ns1.regery.net.
+agoa-togo.tg.		86400	IN	NS	ns2.regery.net.
+agoa-togo.tg.		86400	IN	NS	ns3.regery.net.
 agou.tg.		86400	IN	NS	ns1.netmaster.tg.
 agou.tg.		86400	IN	NS	ns5.netmaster.tg.
 agou.tg.		86400	IN	NS	ns4.netmaster.tg.
@@ -2007,6 +2010,8 @@ elle.tg.		86400	IN	NS	mono.ids.tg.
 elliot.tg.		86400	IN	NS	ns1.netim.net.
 elliot.tg.		86400	IN	NS	ns2.netim.net.
 elliot.tg.		86400	IN	NS	ns3.netim.net.
+elohimtv.tg.		86400	IN	NS	oti.ids.tg.
+elohimtv.tg.		86400	IN	NS	mono.ids.tg.
 email.tg.		86400	IN	NS	ns-1512.awsdns-61.org.
 email.tg.		86400	IN	NS	ns-526.awsdns-01.net.
 email.tg.		86400	IN	NS	ns-127.awsdns-15.com.
@@ -3601,8 +3606,9 @@ marketplace.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
 marketplace.tg.		86400	IN	NS	sdns2.ovh.net.
 markmonitor.tg.		86400	IN	NS	dns-ns1.wistee.fr.
 markmonitor.tg.		86400	IN	NS	dns-ns11.wistee.fr.
-marmolux.tg.		86400	IN	NS	dns1.namecheaphosting.com.
-marmolux.tg.		86400	IN	NS	dns2.namecheaphosting.com.
+marmolux.tg.		86400	IN	NS	ns1.site4now.net.
+marmolux.tg.		86400	IN	NS	ns2.site4now.net.
+marmolux.tg.		86400	IN	NS	ns3.site4now.net.
 martin.tg.		86400	IN	NS	ns.hostpoint.ch.
 martin.tg.		86400	IN	NS	ns2.hostpoint.ch.
 martin.tg.		86400	IN	NS	ns3.hostpoint.ch.
@@ -6124,4 +6130,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022083043 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022083069 21600 3600 604800 86400
