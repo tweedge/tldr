@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022082921 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022082923 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -789,6 +789,10 @@ brawny.gp.		86400	IN	NS	nssui.comlaude.ch.
 brawny.gp.		86400	IN	NS	nsusa.comlaude.net.
 broker.gp.		86400	IN	NS	f1g1ns1.dnspod.net.
 broker.gp.		86400	IN	NS	f1g1ns2.dnspod.net.
+broomfield.gp.		86400	IN	NS	dns1.cloudns.net.
+broomfield.gp.		86400	IN	NS	dns2.cloudns.net.
+broomfield.gp.		86400	IN	NS	dns5.cloudns.net.
+broomfield.gp.		86400	IN	NS	dns6.cloudns.net.
 btpdiscount.gp.		86400	IN	NS	ns1.francedns.com.
 btpdiscount.gp.		86400	IN	NS	ns2.francedns.com.
 btpdiscount.gp.		86400	IN	NS	ns3.francedns.com.
@@ -5405,4 +5409,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022082921 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022082923 86400 7200 2592000 345600
