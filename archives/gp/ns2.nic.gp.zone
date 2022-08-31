@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022083017 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022083102 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -1556,6 +1556,8 @@ edf-agirplus.gp.	86400	IN	NS	ns1.edf.fr.
 edf-agirplus.gp.	86400	IN	NS	ns2.edf.fr.
 edfagirplus.gp.		86400	IN	NS	ns1.edf.fr.
 edfagirplus.gp.		86400	IN	NS	ns2.edf.fr.
+edifice.gp.		86400	IN	NS	parking1.ovh.net.
+edifice.gp.		86400	IN	NS	parking2.ovh.net.
 edu.gp.			86400	IN	NS	ns1.nic.gp.
 edu.gp.			86400	IN	NS	ns-gp.nic.fr.
 eeg.gp.			86400	IN	NS	pns1.cloudns.net.
@@ -5420,4 +5422,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022083017 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022083102 86400 7200 2592000 345600
