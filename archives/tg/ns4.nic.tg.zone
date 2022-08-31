@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022083069 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022083139 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1454,9 +1454,9 @@ confortis.tg.		86400	IN	NS	ns4.netmaster.tg.
 confortis.tg.		86400	IN	NS	ns5.netmaster.tg.
 connect.tg.		86400	IN	NS	ns1.arvixeshared.com.
 connect.tg.		86400	IN	NS	ns2.arvixeshared.com.
-consommonslocal.tg.	86400	IN	NS	ns5.netmaster.tg.
-consommonslocal.tg.	86400	IN	NS	ns1.cafe.tg.
-consommonslocal.tg.	86400	IN	NS	ns2.cafe.tg.
+consommonslocal.tg.	86400	IN	NS	nsa.n0c.com.
+consommonslocal.tg.	86400	IN	NS	nsb.n0c.com.
+consommonslocal.tg.	86400	IN	NS	nsc.n0c.com.
 contentsquare.tg.	86400	IN	NS	ns1.markmonitor.com.
 contentsquare.tg.	86400	IN	NS	ns2.markmonitor.com.
 contentsquare.tg.	86400	IN	NS	ns3.markmonitor.com.
@@ -1726,6 +1726,9 @@ digiket.tg.		86400	IN	NS	ns2.digitalocean.com.
 digiket.tg.		86400	IN	NS	ns3.digitalocean.com.
 digital.tg.		86400	IN	NS	ns100.hostwhitelabel.com.
 digital.tg.		86400	IN	NS	ns200.hostwhitelabel.com.
+digital-rh.tg.		86400	IN	NS	ns1.francedns.com.
+digital-rh.tg.		86400	IN	NS	ns2.francedns.com.
+digital-rh.tg.		86400	IN	NS	ns3.francedns.com.
 digitalubuntu.tg.	86400	IN	NS	ns1.dns-parking.com.
 digitalubuntu.tg.	86400	IN	NS	ns2.dns-parking.com.
 dignite-humaine.tg.	86400	IN	NS	ns1.webhostinghub.com.
@@ -5326,8 +5329,9 @@ teetimeadventuresgame.tg. 86400	IN	NS	ns1.markmonitor.com.
 telecom.tg.		86400	IN	NS	ns1.cafe.tg.
 telegram.tg.		86400	IN	NS	noah.ns.cloudflare.com.
 telegram.tg.		86400	IN	NS	lila.ns.cloudflare.com.
-telegramme228.tg.	86400	IN	NS	algin.ns.cloudflare.com.
-telegramme228.tg.	86400	IN	NS	dawn.ns.cloudflare.com.
+telegramme228.tg.	86400	IN	NS	ns5.netmaster.tg.
+telegramme228.tg.	86400	IN	NS	ns1.cafe.tg.
+telegramme228.tg.	86400	IN	NS	ns2.cafe.tg.
 telemedchucampus.tg.	86400	IN	NS	nsa.planethoster.net.
 telemedchucampus.tg.	86400	IN	NS	nsb.planethoster.net.
 telemedchucampus.tg.	86400	IN	NS	nsc.planethoster.net.
@@ -6002,6 +6006,9 @@ winland.tg.		86400	IN	NS	ns8.mywaas.host.
 winland.tg.		86400	IN	NS	ns9.mywaas.host.
 woena.tg.		86400	IN	NS	oti.ids.tg.
 woena.tg.		86400	IN	NS	mono.ids.tg.
+woezon.tg.		86400	IN	NS	ns1.woezon.net.
+woezon.tg.		86400	IN	NS	ns2.woezon.net.
+woezon.tg.		86400	IN	NS	ns2.cafe.tg.
 wood.tg.		86400	IN	NS	ns100.hostwhitelabel.com.
 wood.tg.		86400	IN	NS	ns200.hostwhitelabel.com.
 workersfood.tg.		86400	IN	NS	oti.ids.tg.
@@ -6130,4 +6137,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022083069 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022083139 21600 3600 604800 86400
