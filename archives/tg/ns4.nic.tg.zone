@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090257 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090275 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -132,6 +132,8 @@ a2pl.tg.		86400	IN	NS	ns1.o2switch.net.
 a2pl.tg.		86400	IN	NS	ns2.o2switch.net.
 abayoco.tg.		86400	IN	NS	ns1.1xpax.com.
 abayoco.tg.		86400	IN	NS	ns2.1xpax.com.
+abayocosa.tg.		86400	IN	NS	dns1.oweb-hosting.com.
+abayocosa.tg.		86400	IN	NS	ns1.1xpax.com.
 abbe.tg.		86400	IN	NS	ns1.above.com.
 abbe.tg.		86400	IN	NS	ns2.above.com.
 abc.tg.			86400	IN	NS	corey.ns.cloudflare.com.
@@ -567,6 +569,9 @@ askodekara.tg.		86400	IN	NS	dns3.supremepanel.com.
 askodekara.tg.		86400	IN	NS	dns4.supremepanel.com.
 asnato.tg.		86400	IN	NS	dns1.hosteur.com.
 asnato.tg.		86400	IN	NS	dns2.hosteur.com.
+aspamnews.tg.		86400	IN	NS	ns5.netmaster.tg.
+aspamnews.tg.		86400	IN	NS	ns1.cafe.tg.
+aspamnews.tg.		86400	IN	NS	ns2.cafe.tg.
 assaft.tg.		86400	IN	NS	ns531.dnsserverboot.com.
 assaft.tg.		86400	IN	NS	ns532.dnsserverboot.com.
 asseco.tg.		86400	IN	NS	nsa.whogohost.com.
@@ -593,8 +598,8 @@ associationfaure.tg.	86400	IN	NS	ns1.netmaster.tg.
 assoli.tg.		86400	IN	NS	ns1.netmaster.tg.
 assoli.tg.		86400	IN	NS	ns5.netmaster.tg.
 assoli.tg.		86400	IN	NS	ns4.netmaster.tg.
-assooh.tg.		86400	IN	NS	ns1.ghoseku.org.
-assooh.tg.		86400	IN	NS	ns2.ghoseku.org.
+assooh.tg.		86400	IN	NS	dns1.namecheaphosting.com.
+assooh.tg.		86400	IN	NS	dns2.namecheaphosting.com.
 at2er.tg.		86400	IN	NS	nsa.planethoster.net.
 at2er.tg.		86400	IN	NS	nsb.planethoster.net.
 at2er.tg.		86400	IN	NS	nsc.planethoster.net.
@@ -952,6 +957,8 @@ bourseria.tg.		86400	IN	NS	ns1.cafe.tg.
 bourseria.tg.		86400	IN	NS	ns2.cafe.tg.
 boursesagricoles.tg.	86400	IN	NS	ns1.boursesagricoles.tg.
 ns1.boursesagricoles.tg. 86400	IN	A	160.242.193.8
+box.tg.			86400	IN	NS	ns1.1xpax.com.
+box.tg.			86400	IN	NS	dns1.oweb-hosting.com.
 boxoffice.tg.		86400	IN	NS	ns1.mweb.co.za.
 boxoffice.tg.		86400	IN	NS	ns2.mweb.co.za.
 bpec.tg.		86400	IN	NS	ns2.bpec.tg.
@@ -3351,6 +3358,9 @@ megogo.tg.		86400	IN	NS	ns5.101domain.com.
 megogo.tg.		86400	IN	NS	ns2.101domain.com.
 mela.tg.		86400	IN	NS	170.ns1.above.com.
 mela.tg.		86400	IN	NS	170.ns2.above.com.
+melbet.tg.		86400	IN	NS	dns1.safenames.com.
+melbet.tg.		86400	IN	NS	dns2.safenames.net.
+melbet.tg.		86400	IN	NS	dns3.safenames.org.
 meme.tg.		86400	IN	NS	ns100.hostwhitelabel.com.
 meme.tg.		86400	IN	NS	ns200.hostwhitelabel.com.
 meow.tg.		86400	IN	NS	cloe.ns.cloudflare.com.
@@ -5628,4 +5638,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090257 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090275 21600 3600 604800 86400
