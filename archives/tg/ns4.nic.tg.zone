@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090163 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090239 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -609,6 +609,8 @@ atfstogo.tg.		86400	IN	NS	ns2.cafe.tg.
 atg.tg.			86400	IN	NS	ns3176354.ip-37-59-35.eu.
 atg.tg.			86400	IN	NS	ns1.atg.tg.
 atg.tg.			86400	IN	NS	ns2.atg.tg.
+atgconsulting.tg.	86400	IN	NS	ns6331.hostgator.com.
+atgconsulting.tg.	86400	IN	NS	ns6332.hostgator.com.
 atgrh.tg.		86400	IN	NS	ns4.netmaster.tg.
 atgrh.tg.		86400	IN	NS	ns1.cafe.tg.
 atgrh.tg.		86400	IN	NS	ns2.cafe.tg.
@@ -958,6 +960,8 @@ branch.tg.		86400	IN	NS	ns5.netmaster.tg.
 branch.tg.		86400	IN	NS	ns4.netmaster.tg.
 brandschutz.tg.		86400	IN	NS	ns1.cyon.ch.
 brandschutz.tg.		86400	IN	NS	ns2.cyon.ch.
+braves.tg.		86400	IN	NS	dns1.hosteur.com.
+braves.tg.		86400	IN	NS	dns2.hosteur.com.
 brenni.tg.		86400	IN	NS	ns1.jimdo.com.
 brenni.tg.		86400	IN	NS	ns2.jimdo.com.
 bridgestone.tg.		86400	IN	NS	rns1.rightsdns.com.
@@ -1102,6 +1106,8 @@ cashpay.tg.		86400	IN	NS	ns-8.awsdns-01.com.
 casierjudiciaire.tg.	86400	IN	NS	ns5.netmaster.tg.
 casierjudiciaire.tg.	86400	IN	NS	ns1.cafe.tg.
 casierjudiciaire.tg.	86400	IN	NS	ns2.cafe.tg.
+casino.tg.		86400	IN	NS	albert.ns.cloudflare.com.
+casino.tg.		86400	IN	NS	chloe.ns.cloudflare.com.
 casinocity.tg.		86400	IN	NS	dilbert.ns.cloudflare.com.
 casinocity.tg.		86400	IN	NS	tegan.ns.cloudflare.com.
 casparcas.tg.		86400	IN	NS	ns5.netmaster.tg.
@@ -1670,6 +1676,9 @@ dreplo.tg.		86400	IN	NS	cpanel3.lws-hosting.com.
 dreplo.tg.		86400	IN	NS	cpanel4.lws-hosting.com.
 dreyer.tg.		86400	IN	NS	ns01.hostfactory.ch.
 dreyer.tg.		86400	IN	NS	ns02.hostfactory.ch.
+droitsdelhomme.tg.	86400	IN	NS	ns5.netmaster.tg.
+droitsdelhomme.tg.	86400	IN	NS	ns1.cafe.tg.
+droitsdelhomme.tg.	86400	IN	NS	ns2.cafe.tg.
 ns1.dsidmaeh.tg.	86400	IN	A	160.242.193.5
 dstvondemand.tg.	86400	IN	NS	ns1.mweb.co.za.
 dstvondemand.tg.	86400	IN	NS	ns2.mweb.co.za.
@@ -2367,6 +2376,8 @@ gservauto.tg.		86400	IN	NS	ns1.gservauto.tg.
 gservauto.tg.		86400	IN	NS	ns2.gservauto.tg.
 ns1.gservauto.tg.	86400	IN	A	160.153.251.82
 ns2.gservauto.tg.	86400	IN	A	160.153.251.82
+gtaassurancesvie.tg.	86400	IN	NS	athena.ns.cloudflare.com.
+gtaassurancesvie.tg.	86400	IN	NS	kurt.ns.cloudflare.com.
 gubler.tg.		86400	IN	NS	ns1.cyon.ch.
 gubler.tg.		86400	IN	NS	ns2.cyon.ch.
 gucci.tg.		86400	IN	NS	dns1.comlaude-dns.com.
@@ -2625,6 +2636,9 @@ illico.tg.		86400	IN	NS	serveur1.illico.tg.
 serveur1.illico.tg.	86400	IN	A	41.207.172.153
 illighausen.tg.		86400	IN	NS	ns1.unaxus.net.
 illighausen.tg.		86400	IN	NS	ns2.unaxus.net.
+imago.tg.		86400	IN	NS	ns1.netim.net.
+imago.tg.		86400	IN	NS	ns2.netim.net.
+imago.tg.		86400	IN	NS	ns3.netim.net.
 imast.tg.		86400	IN	NS	ns1.francedns.com.
 imast.tg.		86400	IN	NS	ns2.francedns.com.
 imast.tg.		86400	IN	NS	ns3.francedns.com.
@@ -2639,6 +2653,9 @@ imkerei.tg.		86400	IN	NS	ns2.hoststar.hosting.
 immersive.tg.		86400	IN	NS	ns1.netim.net.
 immersive.tg.		86400	IN	NS	ns2.netim.net.
 immersive.tg.		86400	IN	NS	ns3.netim.net.
+immo.tg.		86400	IN	NS	ns5.netmaster.tg.
+immo.tg.		86400	IN	NS	ns1.cafe.tg.
+immo.tg.		86400	IN	NS	ns2.cafe.tg.
 immobilier.tg.		86400	IN	NS	nsa.n0c.com.
 immobilier.tg.		86400	IN	NS	nsb.n0c.com.
 immobilier.tg.		86400	IN	NS	nsc.n0c.com.
@@ -2826,6 +2843,10 @@ julaya.tg.		86400	IN	NS	ns2.francedns.com.
 julaya.tg.		86400	IN	NS	ns3.francedns.com.
 julaya.tg.		86400	IN	NS	ns4.francedns.com.
 julaya.tg.		86400	IN	NS	ns5.francedns.com.
+jumia.tg.		86400	IN	NS	ns-294.awsdns-36.com.
+jumia.tg.		86400	IN	NS	ns-654.awsdns-17.net.
+jumia.tg.		86400	IN	NS	ns-1374.awsdns-43.org.
+jumia.tg.		86400	IN	NS	ns-1735.awsdns-24.co.uk.
 jump-lab-orione.tg.	86400	IN	NS	ns1.o2switch.net.
 jump-lab-orione.tg.	86400	IN	NS	ns2.o2switch.net.
 jungle.tg.		86400	IN	NS	ns1.1xpax.com.
@@ -4299,7 +4320,7 @@ sandbox.tg.		86400	IN	NS	ns2.dns-parking.com.
 sanlam.tg.		86400	IN	NS	ns1.lexsynergy.net.
 sanlam.tg.		86400	IN	NS	ns2.lexsynergy.us.
 sanlam.tg.		86400	IN	NS	ns3.lexsynergy.info.
-sante-education.tg.	86400	IN	NS	ns5.netmaster.tg.
+sante-education.tg.	86400	IN	NS	ns4.netmaster.tg.
 sante-education.tg.	86400	IN	NS	ns1.cafe.tg.
 sante-education.tg.	86400	IN	NS	ns2.cafe.tg.
 santemousso.tg.		86400	IN	NS	a.dns.cloud4africa.net.
@@ -5266,6 +5287,8 @@ ueengineering.tg.	86400	IN	NS	ns2.netim.net.
 ueengineering.tg.	86400	IN	NS	ns3.netim.net.
 ugraceprod.tg.		86400	IN	NS	oti.ids.tg.
 ugraceprod.tg.		86400	IN	NS	mono.ids.tg.
+umat.tg.		86400	IN	NS	ns1.server299.com.
+umat.tg.		86400	IN	NS	ns2.server299.com.
 umecto.tg.		86400	IN	NS	oti.ids.tg.
 umecto.tg.		86400	IN	NS	mono.ids.tg.
 union-vpn.tg.		86400	IN	NS	ns1.mchost.ru.
@@ -5602,4 +5625,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090163 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090239 21600 3600 604800 86400
