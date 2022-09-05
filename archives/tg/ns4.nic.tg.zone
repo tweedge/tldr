@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090545 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090569 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -413,6 +413,9 @@ amouzoucoop.tg.		86400	IN	NS	ns2.francedns.com.
 amouzoucoop.tg.		86400	IN	NS	ns3.francedns.com.
 amyl.tg.		86400	IN	NS	amber.ns.cloudflare.com.
 amyl.tg.		86400	IN	NS	rodney.ns.cloudflare.com.
+anac.tg.		86400	IN	NS	ns5.netmaster.tg.
+anac.tg.		86400	IN	NS	ns1.cafe.tg.
+anac.tg.		86400	IN	NS	ns2.cafe.tg.
 anac-togo.tg.		86400	IN	NS	ns1.bluehost.com.
 anac-togo.tg.		86400	IN	NS	ns2.bluehost.com.
 anac-togo.tg.		86400	IN	NS	ns3.bluehost.com.
@@ -2015,6 +2018,8 @@ exclusiviteinfo.tg.	86400	IN	NS	ns1.netmaster.tg.
 expertelectric.tg.	86400	IN	NS	ns4.netmaster.tg.
 expertelectric.tg.	86400	IN	NS	ns1.cafe.tg.
 expertelectric.tg.	86400	IN	NS	ns2.cafe.tg.
+express.tg.		86400	IN	NS	dns1.hosteur.com.
+express.tg.		86400	IN	NS	dns2.hosteur.com.
 express-industries.tg.	86400	IN	NS	ns5.netmaster.tg.
 express-industries.tg.	86400	IN	NS	ns1.cafe.tg.
 express-industries.tg.	86400	IN	NS	ns2.cafe.tg.
@@ -2738,6 +2743,8 @@ investintogo.tg.	86400	IN	NS	ns11.domaincontrol.com.
 investintogo.tg.	86400	IN	NS	ns12.domaincontrol.com.
 investirautogo.tg.	86400	IN	NS	ns03.domaincontrol.com.
 investirautogo.tg.	86400	IN	NS	ns04.domaincontrol.com.
+investirtogo.tg.	86400	IN	NS	ns55.domaincontrol.com.
+investirtogo.tg.	86400	IN	NS	ns56.domaincontrol.com.
 investwithconfidence.tg. 86400	IN	NS	edns1.ultradns.com.
 investwithconfidence.tg. 86400	IN	NS	edns1.ultradns.net.
 investwithconfidence.tg. 86400	IN	NS	edns1.ultradns.biz.
@@ -5647,4 +5654,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090545 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090569 21600 3600 604800 86400
