@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090275 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090543 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -569,9 +569,8 @@ askodekara.tg.		86400	IN	NS	dns3.supremepanel.com.
 askodekara.tg.		86400	IN	NS	dns4.supremepanel.com.
 asnato.tg.		86400	IN	NS	dns1.hosteur.com.
 asnato.tg.		86400	IN	NS	dns2.hosteur.com.
-aspamnews.tg.		86400	IN	NS	ns5.netmaster.tg.
-aspamnews.tg.		86400	IN	NS	ns1.cafe.tg.
-aspamnews.tg.		86400	IN	NS	ns2.cafe.tg.
+aspamnews.tg.		86400	IN	NS	algin.ns.cloudflare.com.
+aspamnews.tg.		86400	IN	NS	dawn.ns.cloudflare.com.
 assaft.tg.		86400	IN	NS	ns531.dnsserverboot.com.
 assaft.tg.		86400	IN	NS	ns532.dnsserverboot.com.
 asseco.tg.		86400	IN	NS	nsa.whogohost.com.
@@ -967,8 +966,8 @@ branch.tg.		86400	IN	NS	ns5.netmaster.tg.
 branch.tg.		86400	IN	NS	ns4.netmaster.tg.
 brandschutz.tg.		86400	IN	NS	ns1.cyon.ch.
 brandschutz.tg.		86400	IN	NS	ns2.cyon.ch.
-braves.tg.		86400	IN	NS	dns1.hosteur.com.
-braves.tg.		86400	IN	NS	dns2.hosteur.com.
+braves.tg.		86400	IN	NS	ns1.dns-parking.com.
+braves.tg.		86400	IN	NS	ns2.dns-parking.com.
 brenni.tg.		86400	IN	NS	ns1.jimdo.com.
 brenni.tg.		86400	IN	NS	ns2.jimdo.com.
 bridgestone.tg.		86400	IN	NS	rns1.rightsdns.com.
@@ -1178,6 +1177,8 @@ certum.tg.		86400	IN	NS	ns1.cafe.tg.
 certum.tg.		86400	IN	NS	ns2.cafe.tg.
 cestom.tg.		86400	IN	NS	ns1.dns-parking.com.
 cestom.tg.		86400	IN	NS	ns2.dns-parking.com.
+cet.tg.			86400	IN	NS	algin.ns.cloudflare.com.
+cet.tg.			86400	IN	NS	dawn.ns.cloudflare.com.
 ns1.cet.tg.		86400	IN	A	41.207.186.243
 cetef.tg.		86400	IN	NS	ns1.bluehost.com.
 cetef.tg.		86400	IN	NS	ns2.bluehost.com.
@@ -1434,6 +1435,8 @@ croixrouge-togo.tg.	86400	IN	NS	ns3.digitalocean.com.
 crowe.tg.		86400	IN	NS	ns5.netmaster.tg.
 crowe.tg.		86400	IN	NS	ns1.cafe.tg.
 crowe.tg.		86400	IN	NS	ns2.cafe.tg.
+crypto.tg.		86400	IN	NS	ns1.dan.com.
+crypto.tg.		86400	IN	NS	ns2.dan.com.
 csirt.tg.		86400	IN	NS	holly.ns.cloudflare.com.
 csirt.tg.		86400	IN	NS	lars.ns.cloudflare.com.
 csportsinfos.tg.	86400	IN	NS	nsa.n0c.com.
@@ -1530,6 +1533,9 @@ dekryger.tg.		86400	IN	NS	ns1.francedns.com.
 dekryger.tg.		86400	IN	NS	ns2.francedns.com.
 dekryger.tg.		86400	IN	NS	ns3.francedns.com.
 delicesdaneho.tg.	86400	IN	NS	ns1.netmaster.tg.
+dell.tg.		86400	IN	NS	ns1.netim.net.
+dell.tg.		86400	IN	NS	ns2.netim.net.
+dell.tg.		86400	IN	NS	ns3.netim.net.
 deloitte.tg.		86400	IN	NS	ns0.ordipat.fr.
 deloitte.tg.		86400	IN	NS	ns2.ordipat.fr.
 deloitte.tg.		86400	IN	NS	ns3.ordipat.fr.
@@ -2239,6 +2245,8 @@ gay.tg.			86400	IN	NS	freedns2.registrar-servers.com.
 gay.tg.			86400	IN	NS	freedns3.registrar-servers.com.
 gay.tg.			86400	IN	NS	freedns4.registrar-servers.com.
 gay.tg.			86400	IN	NS	freedns5.registrar-servers.com.
+gazelleinfos.tg.	86400	IN	NS	ns1.o2switch.net.
+gazelleinfos.tg.	86400	IN	NS	ns2.o2switch.net.
 gca.tg.			86400	IN	NS	ns4.netmaster.tg.
 gca.tg.			86400	IN	NS	ns1.cafe.tg.
 gca.tg.			86400	IN	NS	ns2.cafe.tg.
@@ -2581,6 +2589,8 @@ hydra.tg.		86400	IN	NS	kara.ns.cloudflare.com.
 hydra.tg.		86400	IN	NS	memphis.ns.cloudflare.com.
 hygienistes.tg.		86400	IN	NS	dns1.hosteur.com.
 hygienistes.tg.		86400	IN	NS	dns2.hosteur.com.
+hyundai.tg.		86400	IN	NS	ns2.ipage.com.
+hyundai.tg.		86400	IN	NS	ns1.ipage.com.
 iaec-university.tg.	86400	IN	NS	ns1.bluehost.com.
 iaec-university.tg.	86400	IN	NS	ns2.bluehost.com.
 iaeim.tg.		86400	IN	NS	ns-82-a.gandi.net.
@@ -2727,8 +2737,6 @@ investimedia.tg.	86400	IN	NS	ns1.cafe.tg.
 investimedia.tg.	86400	IN	NS	ns2.cafe.tg.
 investintogo.tg.	86400	IN	NS	ns11.domaincontrol.com.
 investintogo.tg.	86400	IN	NS	ns12.domaincontrol.com.
-investir.tg.		86400	IN	NS	oti.ids.tg.
-investir.tg.		86400	IN	NS	mono.ids.tg.
 investirautogo.tg.	86400	IN	NS	ns03.domaincontrol.com.
 investirautogo.tg.	86400	IN	NS	ns04.domaincontrol.com.
 investwithconfidence.tg. 86400	IN	NS	edns1.ultradns.com.
@@ -3183,6 +3191,8 @@ liveydream.tg.		86400	IN	NS	mono.ids.tg.
 localexperts.tg.	86400	IN	NS	ns1.francedns.com.
 localexperts.tg.	86400	IN	NS	ns2.francedns.com.
 localexperts.tg.	86400	IN	NS	ns3.francedns.com.
+loeildafrique.tg.	86400	IN	NS	ns1.o2switch.net.
+loeildafrique.tg.	86400	IN	NS	ns2.o2switch.net.
 log.tg.			86400	IN	NS	ns1.francedns.com.
 log.tg.			86400	IN	NS	ns2.francedns.com.
 log.tg.			86400	IN	NS	ns3.francedns.com.
@@ -3783,9 +3793,8 @@ olianedistribution.tg.	86400	IN	NS	ns1.cafe.tg.
 olianedistribution.tg.	86400	IN	NS	ns2.cafe.tg.
 oluxuryrentalcar.tg.	86400	IN	NS	ns4019.hostgator.com.
 oluxuryrentalcar.tg.	86400	IN	NS	ns4020.hostgator.com.
-oluxuryrentalcars.tg.	86400	IN	NS	burt.ns.cloudflare.com.
-oluxuryrentalcars.tg.	86400	IN	NS	vida.ns.cloudflare.com.
-oluxuryrentalcars.tg.	86400	IN	NS	ns1.oluxuryrentalcars.tg.
+oluxuryrentalcars.tg.	86400	IN	NS	ns1.dns-parking.com.
+oluxuryrentalcars.tg.	86400	IN	NS	ns2.dns-parking.com.
 omcatogo.tg.		86400	IN	NS	ns6443.hostgator.com.
 omcatogo.tg.		86400	IN	NS	ns6444.hostgator.com.
 ome.tg.			86400	IN	NS	dns1.hosteur.com.
@@ -4414,6 +4423,8 @@ semoa.tg.		86400	IN	NS	ns-1052.awsdns-03.org.
 semoa.tg.		86400	IN	NS	ns-579.awsdns-08.net.
 semoa.tg.		86400	IN	NS	ns-176.awsdns-22.com.
 semoa.tg.		86400	IN	NS	ns-1760.awsdns-28.co.uk.
+seo.tg.			86400	IN	NS	dayana.ns.cloudflare.com.
+seo.tg.			86400	IN	NS	yoxall.ns.cloudflare.com.
 sepenya.tg.		86400	IN	NS	ns1.francedns.com.
 sepenya.tg.		86400	IN	NS	ns2.francedns.com.
 sepenya.tg.		86400	IN	NS	ns3.francedns.com.
@@ -4554,8 +4565,6 @@ smart.tg.		86400	IN	NS	ns1.corpinter.de.
 smart.tg.		86400	IN	NS	ns2.corpinter.de.
 smart.tg.		86400	IN	NS	ns3.corpinter.de.
 smart.tg.		86400	IN	NS	ns4.corpinter.de.
-smartpub.tg.		86400	IN	NS	oti.ids.tg.
-smartpub.tg.		86400	IN	NS	mono.ids.tg.
 smastogo.tg.		86400	IN	NS	ns17.lwsdns.com.
 smastogo.tg.		86400	IN	NS	ns18.lwsdns.com.
 smatogo.tg.		86400	IN	NS	ns1.contabo.net.
@@ -4667,6 +4676,9 @@ sothis.tg.		86400	IN	NS	ns2.101domain.com.
 sothis.tg.		86400	IN	NS	ns5.101domain.com.
 sotohgeed.tg.		86400	IN	NS	oti.ids.tg.
 sotohgeed.tg.		86400	IN	NS	mono.ids.tg.
+sotorl.tg.		86400	IN	NS	ns5.netmaster.tg.
+sotorl.tg.		86400	IN	NS	ns1.cafe.tg.
+sotorl.tg.		86400	IN	NS	ns2.cafe.tg.
 sotosur.tg.		86400	IN	NS	dns107.ovh.net.
 sotosur.tg.		86400	IN	NS	ns107.ovh.net.
 sotouboua.tg.		86400	IN	NS	ns1.netmaster.tg.
@@ -5083,8 +5095,6 @@ togoinfo.tg.		86400	IN	NS	cruz.ns.cloudflare.com.
 togoinfo.tg.		86400	IN	NS	tim.ns.cloudflare.com.
 togoinvest.tg.		86400	IN	NS	dilbert.ns.cloudflare.com.
 togoinvest.tg.		86400	IN	NS	mimi.ns.cloudflare.com.
-togolaisdumonde.tg.	86400	IN	NS	oti.ids.tg.
-togolaisdumonde.tg.	86400	IN	NS	mono.ids.tg.
 togolegal.tg.		86400	IN	NS	ns1.digitalocean.com.
 togolegal.tg.		86400	IN	NS	ns2.digitalocean.com.
 togomarket.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
@@ -5638,4 +5648,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090275 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090543 21600 3600 604800 86400
