@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090569 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090647 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1872,6 +1872,9 @@ emirates.tg.		86400	IN	NS	pdns124.ultradns.net.
 emirates.tg.		86400	IN	NS	pdns124.ultradns.org.
 emploi.tg.		86400	IN	NS	dns19.ovh.net.
 emploi.tg.		86400	IN	NS	ns19.ovh.net.
+empreintenews.tg.	86400	IN	NS	ns5.netmaster.tg.
+empreintenews.tg.	86400	IN	NS	ns2.cafe.tg.
+empreintenews.tg.	86400	IN	NS	ns1.cafe.tg.
 ems.tg.			86400	IN	NS	ns1.laposte.tg.
 ems.tg.			86400	IN	NS	ns2.laposte.tg.
 ems-togo.tg.		86400	IN	NS	ns1.laposte.tg.
@@ -2771,6 +2774,9 @@ istqb.tg.		86400	IN	NS	ns1.cafe.tg.
 istqb.tg.		86400	IN	NS	ns2.cafe.tg.
 it-admin.tg.		86400	IN	NS	ns1.ifastnet11.org.
 it-admin.tg.		86400	IN	NS	ns2.ifastnet11.org.
+it-land.tg.		86400	IN	NS	ns1.whc.ca.
+it-land.tg.		86400	IN	NS	ns2.whc.ca.
+it-land.tg.		86400	IN	NS	ns3.whc.ca.
 italia.tg.		86400	IN	NS	ns1.francedns.com.
 italia.tg.		86400	IN	NS	ns2.francedns.com.
 italia.tg.		86400	IN	NS	ns3.francedns.com.
@@ -3164,6 +3170,9 @@ liksoft.tg.		86400	IN	NS	dilbert.ns.cloudflare.com.
 liksoft.tg.		86400	IN	NS	mimi.ns.cloudflare.com.
 linde.tg.		86400	IN	NS	udns2.cscdns.uk.
 linde.tg.		86400	IN	NS	udns1.cscdns.net.
+link.tg.		86400	IN	NS	ns.inwx.de.
+link.tg.		86400	IN	NS	ns2.inwx.de.
+link.tg.		86400	IN	NS	ns3.inwx.eu.
 linvestigateurafricain.tg. 86400 IN	NS	oti.ids.tg.
 linvestigateurafricain.tg. 86400 IN	NS	mono.ids.tg.
 lipidol.tg.		86400	IN	NS	ns2.markmonitor.com.
@@ -5654,4 +5663,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090569 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090647 21600 3600 604800 86400
