@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090647 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090671 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -3170,9 +3170,10 @@ liksoft.tg.		86400	IN	NS	dilbert.ns.cloudflare.com.
 liksoft.tg.		86400	IN	NS	mimi.ns.cloudflare.com.
 linde.tg.		86400	IN	NS	udns2.cscdns.uk.
 linde.tg.		86400	IN	NS	udns1.cscdns.net.
-link.tg.		86400	IN	NS	ns.inwx.de.
-link.tg.		86400	IN	NS	ns2.inwx.de.
-link.tg.		86400	IN	NS	ns3.inwx.eu.
+link.tg.		86400	IN	NS	ns1.enhostdns.com.
+link.tg.		86400	IN	NS	ns2.enhostdns.com.
+link.tg.		86400	IN	NS	ns3.enhostdns.com.
+link.tg.		86400	IN	NS	ns4.enhostdns.com.
 linvestigateurafricain.tg. 86400 IN	NS	oti.ids.tg.
 linvestigateurafricain.tg. 86400 IN	NS	mono.ids.tg.
 lipidol.tg.		86400	IN	NS	ns2.markmonitor.com.
@@ -3740,6 +3741,8 @@ ns2.nouvellesototoles.tg. 86400	IN	A	62.56.190.227
 nsct.tg.		86400	IN	NS	ns5.netmaster.tg.
 nsct.tg.		86400	IN	NS	ns1.cafe.tg.
 nsct.tg.		86400	IN	NS	ns2.cafe.tg.
+nsiabanque.tg.		86400	IN	NS	oti.ids.tg.
+nsiabanque.tg.		86400	IN	NS	mono.ids.
 nsiachapchap.tg.	86400	IN	NS	dns0.vename.com.
 nsiachapchap.tg.	86400	IN	NS	dns1.vename.com.
 nsiadirect.tg.		86400	IN	NS	ns1.digitalocean.com.
@@ -5248,6 +5251,8 @@ travelport-partner.tg.	86400	IN	NS	dns2.cscdns.net.
 travelwings.tg.		86400	IN	NS	ns01.trademarkarea.com.
 travelwings.tg.		86400	IN	NS	ns02.trademarkarea.com.
 travelwings.tg.		86400	IN	NS	ns03.trademarkarea.com.
+tri-kom.tg.		86400	IN	NS	ns1.nghcorp.net.
+tri-kom.tg.		86400	IN	NS	ns2.nghcorp.net.
 tribunaldecommercedelome.tg. 86400 IN	NS	ns5.netmaster.tg.
 tribunaldecommercedelome.tg. 86400 IN	NS	ns4.netmaster.tg.
 tribunaldecommercedelome.tg. 86400 IN	NS	ns1.cafe.tg.
@@ -5663,4 +5668,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090647 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090671 21600 3600 604800 86400

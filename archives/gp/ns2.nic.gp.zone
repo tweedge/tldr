@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022090520 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022090617 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -485,9 +485,11 @@ atemp.gp.		86400	IN	NS	art.ns.cloudflare.com.
 atemp.gp.		86400	IN	NS	coco.ns.cloudflare.com.
 au.gp.			86400	IN	NS	ns1.website.org.
 au.gp.			86400	IN	NS	ns2.website.org.
-aubade.gp.		86400	IN	NS	ns-130-a.gandi.net.
-aubade.gp.		86400	IN	NS	ns-208-b.gandi.net.
-aubade.gp.		86400	IN	NS	ns-230-c.gandi.net.
+aubade.gp.		86400	IN	NS	ns1.brandshelter.com.
+aubade.gp.		86400	IN	NS	ns2.brandshelter.de.
+aubade.gp.		86400	IN	NS	ns3.brandshelter.info.
+aubade.gp.		86400	IN	NS	ns4.brandshelter.net.
+aubade.gp.		86400	IN	NS	ns5.brandshelter.us.
 auboncoin.gp.		86400	IN	NS	ns-302.awsdns-37.com.
 auboncoin.gp.		86400	IN	NS	ns-988.awsdns-59.net.
 audi.gp.		86400	IN	NS	ns2.audi.de.
@@ -5394,4 +5396,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022090520 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022090617 86400 7200 2592000 345600
