@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022090704 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022090715 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -3460,6 +3460,9 @@ my.gp.			86400	IN	NS	ns1.website.org.
 my.gp.			86400	IN	NS	ns2.website.org.
 mybc-online.gp.		86400	IN	NS	dns1.cscdns.net.
 mybc-online.gp.		86400	IN	NS	dns2.cscdns.net.
+mycartecado.gp.		86400	IN	NS	ns1.netim.net.
+mycartecado.gp.		86400	IN	NS	ns2.netim.net.
+mycartecado.gp.		86400	IN	NS	ns3.netim.net.
 mydecathlon.gp.		86400	IN	NS	ns-181-a.gandi.net.
 mydecathlon.gp.		86400	IN	NS	ns-220-b.gandi.net.
 mydecathlon.gp.		86400	IN	NS	ns-240-c.gandi.net.
@@ -5400,4 +5403,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022090704 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022090715 86400 7200 2592000 345600
