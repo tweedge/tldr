@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090835 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090854 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1286,8 +1286,6 @@ cnej.tg.		86400	IN	NS	ns1.o2switch.net.
 cnej.tg.		86400	IN	NS	ns2.o2switch.net.
 cnft.tg.		86400	IN	NS	ns1.afrihosttg.org.
 cnft.tg.		86400	IN	NS	ns2.afrihosttg.org.
-cniosp.tg.		86400	IN	NS	oti.ids.tg.
-cniosp.tg.		86400	IN	NS	mono.ids.tg.
 cnscsyced.tg.		86400	IN	NS	ns1.netmaster.tg.
 cnss.tg.		86400	IN	NS	anirban.ns.cloudflare.com.
 cnss.tg.		86400	IN	NS	elma.ns.cloudflare.com.
@@ -1707,8 +1705,6 @@ dtrfpaie.tg.		86400	IN	NS	ns2.he.net.
 dtrfpaie.tg.		86400	IN	NS	ns3.he.net.
 dwz.tg.			86400	IN	NS	austin.ns.cloudflare.com.
 dwz.tg.			86400	IN	NS	cruz.ns.cloudflare.com.
-dylservices.tg.		86400	IN	NS	oti.ids.tg.
-dylservices.tg.		86400	IN	NS	mono.ids.tg.
 e-agribusiness.tg.	86400	IN	NS	ns1.francedns.com.
 e-agribusiness.tg.	86400	IN	NS	ns2.francedns.com.
 e-agribusiness.tg.	86400	IN	NS	ns3.francedns.com.
@@ -2946,8 +2942,6 @@ keller.tg.		86400	IN	NS	ns2.hostpoint.ch.
 keran.tg.		86400	IN	NS	ns1.netmaster.tg.
 keran.tg.		86400	IN	NS	ns5.netmaster.tg.
 keran.tg.		86400	IN	NS	ns4.netmaster.tg.
-keygroup.tg.		86400	IN	NS	oti.ids.tg.
-keygroup.tg.		86400	IN	NS	mono.ids.tg.
 kg-one.tg.		86400	IN	NS	ns.kg-one.tg.
 ns.kg-one.tg.		86400	IN	A	41.207.181.102
 kia.tg.			86400	IN	NS	dns3.cloudns.net.
@@ -3148,6 +3142,8 @@ letoileblanche.tg.	86400	IN	NS	oti.ids.tg.
 letoileblanche.tg.	86400	IN	NS	mono.ids.tg.
 letutoriel.tg.		86400	IN	NS	dns1.hosteur.com.
 letutoriel.tg.		86400	IN	NS	dns2.hosteur.com.
+leveil.tg.		86400	IN	NS	algin.ns.cloudflare.com.
+leveil.tg.		86400	IN	NS	dawn.ns.cloudflare.com.
 leverdant.tg.		86400	IN	NS	ns1.digitalocean.com.
 leverdant.tg.		86400	IN	NS	ns2.digitalocean.com.
 leverdant.tg.		86400	IN	NS	ns3.digitalocean.com.
@@ -3940,6 +3936,8 @@ pagesjaunes.tg.		86400	IN	NS	ns2.pagesjaunes.tg.
 painjerusalem.tg.	86400	IN	NS	nsa.planethoster.net.
 painjerusalem.tg.	86400	IN	NS	nsb.planethoster.net.
 painjerusalem.tg.	86400	IN	NS	nsc.planethoster.net.
+pales.tg.		86400	IN	NS	dns1.hosteur.com.
+pales.tg.		86400	IN	NS	dns2.hosteur.com.
 panasonic.tg.		86400	IN	NS	rns1.rightsdns.com.
 panasonic.tg.		86400	IN	NS	rns2.rightsdns.com.
 parifoot.tg.		86400	IN	NS	ns1.101domain.com.
@@ -5133,6 +5131,9 @@ togomatin.tg.		86400	IN	NS	grace.ns.cloudflare.com.
 togomode.tg.		86400	IN	NS	oti.ids.tg.
 togomode.tg.		86400	IN	NS	mono.ids.tg.
 ns1.togonavy.tg.	86400	IN	A	41.207.174.138
+togonog.tg.		86400	IN	NS	ns5.netmaster.tg.
+togonog.tg.		86400	IN	NS	ns1.cafe.tg.
+togonog.tg.		86400	IN	NS	ns2.cafe.tg.
 togonyigba.tg.		86400	IN	NS	ns5.netmaster.tg.
 togonyigba.tg.		86400	IN	NS	ns1.cafe.tg.
 togonyigba.tg.		86400	IN	NS	ns2.cafe.tg.
@@ -5345,6 +5346,9 @@ umat.tg.		86400	IN	NS	ns1.server299.com.
 umat.tg.		86400	IN	NS	ns2.server299.com.
 umecto.tg.		86400	IN	NS	oti.ids.tg.
 umecto.tg.		86400	IN	NS	mono.ids.tg.
+unesco-cfit.tg.		86400	IN	NS	ns5.netmaster.tg.
+unesco-cfit.tg.		86400	IN	NS	ns1.cafe.tg.
+unesco-cfit.tg.		86400	IN	NS	ns2.cafe.tg.
 union-vpn.tg.		86400	IN	NS	ns1.mchost.ru.
 union-vpn.tg.		86400	IN	NS	ns2.mchost.ru.
 unir.tg.		86400	IN	NS	ns1.o2switch.net.
@@ -5679,4 +5683,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090835 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090854 21600 3600 604800 86400
