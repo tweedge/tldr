@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090865 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090938 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -46,10 +46,10 @@ tg.			86400	IN	NS	ns4.nic.tg.
 228beha.tg.		86400	IN	NS	ns1.cafe.tg.
 228corps.tg.		86400	IN	NS	dax.ns.cloudflare.com.
 228corps.tg.		86400	IN	NS	teresa.ns.cloudflare.com.
-228foot.tg.		86400	IN	NS	dns1.plusproche.org.
-228foot.tg.		86400	IN	NS	dns2.plusproche.org.
-228foot.tg.		86400	IN	NS	dns3.supremepanel.com.
-228foot.tg.		86400	IN	NS	dns4.supremepanel.com.
+228foot.tg.		86400	IN	NS	dns1.supremedns.com.
+228foot.tg.		86400	IN	NS	dns2.supremedns.com.
+228foot.tg.		86400	IN	NS	dns3.supremedns.com.
+228foot.tg.		86400	IN	NS	dns4.supremedns.com.
 228mixdj.tg.		86400	IN	NS	cpanel7.lws-hosting.com.
 228mixdj.tg.		86400	IN	NS	cpanel8.lws-hosting.com.
 22bet.tg.		86400	IN	NS	ns01.trademarkarea.com.
@@ -3619,6 +3619,9 @@ nafeg.tg.		86400	IN	NS	ns2.cafe.tg.
 nam.tg.			86400	IN	NS	ns1.101domain.com.
 nam.tg.			86400	IN	NS	ns5.101domain.com.
 nam.tg.			86400	IN	NS	ns2.101domain.com.
+namasia.tg.		86400	IN	NS	ns1.francedns.com.
+namasia.tg.		86400	IN	NS	ns2.francedns.com.
+namasia.tg.		86400	IN	NS	ns3.francedns.com.
 namassia.tg.		86400	IN	NS	ns1.francedns.com.
 namassia.tg.		86400	IN	NS	ns2.francedns.com.
 namassia.tg.		86400	IN	NS	ns3.francedns.com.
@@ -3941,9 +3944,9 @@ pagesjaunes.tg.		86400	IN	NS	ns2.pagesjaunes.tg.
 painjerusalem.tg.	86400	IN	NS	nsa.planethoster.net.
 painjerusalem.tg.	86400	IN	NS	nsb.planethoster.net.
 painjerusalem.tg.	86400	IN	NS	nsc.planethoster.net.
-pales.tg.		86400	IN	NS	ns118.inhostedns.com.
-pales.tg.		86400	IN	NS	ns218.inhostedns.com.
-pales.tg.		86400	IN	NS	ns318.inhostedns.com.
+pales.tg.		86400	IN	NS	ns18.inhostedns.com.
+pales.tg.		86400	IN	NS	ns28.inhostedns.net.
+pales.tg.		86400	IN	NS	ns38.inhostedns.org.
 panasonic.tg.		86400	IN	NS	rns1.rightsdns.com.
 panasonic.tg.		86400	IN	NS	rns2.rightsdns.com.
 parifoot.tg.		86400	IN	NS	ns1.101domain.com.
@@ -4000,8 +4003,10 @@ pintadededapaong.tg.	86400	IN	NS	oti.ids.tg.
 pintadededapaong.tg.	86400	IN	NS	mono.ids.tg.
 pinterest.tg.		86400	IN	NS	ns1.markmonitor.com.
 pinterest.tg.		86400	IN	NS	ns3.markmonitor.com.
-pixel.tg.		86400	IN	NS	dns1.hosteur.com.
-pixel.tg.		86400	IN	NS	dns2.hosteur.com.
+pixel.tg.		86400	IN	NS	ns1.linode.com.
+pixel.tg.		86400	IN	NS	ns2.linode.com.
+pixel.tg.		86400	IN	NS	ns3.linode.com.
+pixel.tg.		86400	IN	NS	ns4.linode.com.
 pizza.tg.		86400	IN	NS	ns100.hostwhitelabel.com.
 pizza.tg.		86400	IN	NS	ns200.hostwhitelabel.com.
 pizzabonici.tg.		86400	IN	NS	ns1.netim.net.
@@ -5688,4 +5693,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090865 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090938 21600 3600 604800 86400
