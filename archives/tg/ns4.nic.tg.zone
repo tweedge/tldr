@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090964 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091241 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -692,8 +692,10 @@ avatclaims.tg.		86400	IN	NS	ns-187-c.gandi.net.
 ave.tg.			86400	IN	NS	ns1.netmaster.tg.
 ave.tg.			86400	IN	NS	ns1.cafe.tg.
 ave.tg.			86400	IN	NS	ns2.cafe.tg.
-avr.tg.			86400	IN	NS	dns1.hosteur.com.
-avr.tg.			86400	IN	NS	dns2.hosteur.com.
+avr.tg.			86400	IN	NS	ns1.linode.com.
+avr.tg.			86400	IN	NS	ns2.linode.com.
+avr.tg.			86400	IN	NS	ns3.linode.com.
+avr.tg.			86400	IN	NS	ns4.linode.com.
 awa.tg.			86400	IN	NS	ns1.o2switch.net.
 awa.tg.			86400	IN	NS	ns2.o2switch.net.
 aweptogo.tg.		86400	IN	NS	cpanel15.lws-hosting.com.
@@ -786,6 +788,9 @@ bespoke.tg.		86400	IN	NS	ns-952.awsdns-55.net.
 bestcom.tg.		86400	IN	NS	nsa.planethoster.net.
 bestcom.tg.		86400	IN	NS	nsb.planethoster.net.
 bestcom.tg.		86400	IN	NS	nsc.planethoster.net.
+bet.tg.			86400	IN	NS	ns1.netim.net.
+bet.tg.			86400	IN	NS	ns2.netim.net.
+bet.tg.			86400	IN	NS	ns3.netim.net.
 bet138.tg.		86400	IN	NS	ns6.netmaster.tg.
 bet365.tg.		86400	IN	NS	albert.ns.cloudflare.com.
 bet365.tg.		86400	IN	NS	chloe.ns.cloudflare.com.
@@ -868,9 +873,9 @@ bioderma.tg.		86400	IN	NS	nsc.perf1.com.
 biohof.tg.		86400	IN	NS	ns.hostpoint.ch.
 biohof.tg.		86400	IN	NS	ns2.hostpoint.ch.
 biohof.tg.		86400	IN	NS	ns3.hostpoint.ch.
-biom.tg.		86400	IN	NS	ns1.digitalocean.com.
-biom.tg.		86400	IN	NS	ns2.digitalocean.com.
-biom.tg.		86400	IN	NS	ns3.digitalocean.com.
+biom.tg.		86400	IN	NS	dns1.supremedns.com.
+biom.tg.		86400	IN	NS	dns2.supremedns.com.
+biom.tg.		86400	IN	NS	dns3.supremedns.com.
 biomerieux.tg.		86400	IN	NS	ns01.eolas.fr.
 biomerieux.tg.		86400	IN	NS	ns02.eolas.fr.
 biooil.tg.		86400	IN	NS	ns2.markmonitor.com.
@@ -1867,8 +1872,10 @@ email.tg.		86400	IN	NS	ns-1512.awsdns-61.org.
 email.tg.		86400	IN	NS	ns-526.awsdns-01.net.
 email.tg.		86400	IN	NS	ns-127.awsdns-15.com.
 email.tg.		86400	IN	NS	ns-1610.awsdns-09.co.uk.
-emanprod.tg.		86400	IN	NS	dns1.hosteur.com.
-emanprod.tg.		86400	IN	NS	dns2.hosteur.com.
+emanprod.tg.		86400	IN	NS	ns1.linode.com.
+emanprod.tg.		86400	IN	NS	ns2.linode.com.
+emanprod.tg.		86400	IN	NS	ns3.linode.com.
+emanprod.tg.		86400	IN	NS	ns4.linode.com.
 emirates.tg.		86400	IN	NS	ns3.emirates.com.
 emirates.tg.		86400	IN	NS	pdns124.ultradns.biz.
 emirates.tg.		86400	IN	NS	pdns124.ultradns.com.
@@ -2735,6 +2742,9 @@ institutjameson.tg.	86400	IN	NS	ns10.wixdns.net.
 integraale.tg.		86400	IN	NS	ns5.netmaster.tg.
 integraale.tg.		86400	IN	NS	ns1.cafe.tg.
 integraale.tg.		86400	IN	NS	ns2.cafe.tg.
+intendance.tg.		86400	IN	NS	ns5.netmaster.tg.
+intendance.tg.		86400	IN	NS	ns1.cafe.tg.
+intendance.tg.		86400	IN	NS	ns2.cafe.tg.
 interflora.tg.		86400	IN	NS	dns1.fleurop.com.
 interflora.tg.		86400	IN	NS	dns2.fleurop.com.
 internetsociety.tg.	86400	IN	NS	ns1.o2switch.net.
@@ -5693,4 +5703,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022090964 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091241 21600 3600 604800 86400
