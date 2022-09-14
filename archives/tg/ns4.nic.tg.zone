@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091433 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091459 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1412,17 +1412,20 @@ couture.tg.		86400	IN	NS	dns1.hosteur.com.
 couture.tg.		86400	IN	NS	dns2.hosteur.com.
 covestro.tg.		86400	IN	NS	pdns1.cscdns.net.
 covestro.tg.		86400	IN	NS	pdns2.cscdns.net.
-cpak.tg.		86400	IN	NS	ns1.francedns.com.
-cpak.tg.		86400	IN	NS	ns2.francedns.com.
-cpak.tg.		86400	IN	NS	ns3.francedns.com.
+cpak.tg.		86400	IN	NS	ns1.exclusivehosting.net.
+cpak.tg.		86400	IN	NS	ns2.exclusivehosting.net.
+cpak.tg.		86400	IN	NS	ns3.exclusivehosting.net.
+cpak.tg.		86400	IN	NS	ns4.exclusivehosting.net.
 cparti.tg.		86400	IN	NS	ns1.cparti.tg.
 ns1.cparti.tg.		86400	IN	A	78.46.185.137
-cpla.tg.		86400	IN	NS	ns5.netmaster.tg.
-cpla.tg.		86400	IN	NS	ns1.cafe.tg.
-cpla.tg.		86400	IN	NS	ns2.cafe.tg.
-cplt.tg.		86400	IN	NS	ns1.francedns.com.
-cplt.tg.		86400	IN	NS	ns2.francedns.com.
-cplt.tg.		86400	IN	NS	ns3.francedns.com.
+cpla.tg.		86400	IN	NS	ns1.exclusivehosting.net.
+cpla.tg.		86400	IN	NS	ns2.exclusivehosting.net.
+cpla.tg.		86400	IN	NS	ns3.exclusivehosting.net.
+cpla.tg.		86400	IN	NS	ns4.exclusivehosting.net.
+cplt.tg.		86400	IN	NS	ns1.exclusivehosting.net.
+cplt.tg.		86400	IN	NS	ns2.exclusivehosting.net.
+cplt.tg.		86400	IN	NS	ns3.exclusivehosting.net.
+cplt.tg.		86400	IN	NS	ns4.exclusivehosting.net.
 cr.tg.			86400	IN	NS	ns2.laposte.tg.
 loccit.cr.tg.		86400	IN	NS	ns1.laposte.tg.
 cracken.tg.		86400	IN	NS	dana.ns.cloudflare.com.
@@ -3803,6 +3806,8 @@ objetrama.tg.		86400	IN	NS	b.dns.gandi.net.
 objetrama.tg.		86400	IN	NS	c.dns.gandi.net.
 obstogolais.tg.		86400	IN	NS	oti.ids.tg.
 obstogolais.tg.		86400	IN	NS	mono.ids.tg.
+ocdi-caritas-togo.tg.	86400	IN	NS	ns1.o2switch.net.
+ocdi-caritas-togo.tg.	86400	IN	NS	ns2.o2switch.net.
 ocs.tg.			86400	IN	NS	oti.ids.tg.
 octa.tg.		86400	IN	NS	ns01.trademarkarea.com.
 octa.tg.		86400	IN	NS	ns02.trademarkarea.com.
@@ -5711,4 +5716,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091433 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091459 21600 3600 604800 86400
