@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091459 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091552 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1181,6 +1181,9 @@ centif.tg.		86400	IN	NS	ns4.netmaster.tg.
 centif.tg.		86400	IN	NS	ns1.cafe.tg.
 centif.tg.		86400	IN	NS	ns2.cafe.tg.
 ns1.centrobtp.tg.	86400	IN	A	41.207.174.21
+cerdi.tg.		86400	IN	NS	ns1.francedns.com.
+cerdi.tg.		86400	IN	NS	ns2.francedns.com.
+cerdi.tg.		86400	IN	NS	ns3.francedns.com.
 cert.tg.		86400	IN	NS	holly.ns.cloudflare.com.
 cert.tg.		86400	IN	NS	lars.ns.cloudflare.com.
 certum.tg.		86400	IN	NS	ns5.netmaster.tg.
@@ -1765,6 +1768,8 @@ eat-organic.tg.		86400	IN	NS	ns2.francedns.com.
 eat-organic.tg.		86400	IN	NS	ns3.francedns.com.
 eauvive.tg.		86400	IN	NS	170.ns1.above.com.
 eauvive.tg.		86400	IN	NS	170.ns2.above.com.
+ebenezer.tg.		86400	IN	NS	dns1.hosteur.com.
+ebenezer.tg.		86400	IN	NS	dns2.hosteur.com.
 ebs-imprimerie.tg.	86400	IN	NS	ns1.contabo.net.
 ebs-imprimerie.tg.	86400	IN	NS	ns2.contabo.net.
 ebs-imprimerie.tg.	86400	IN	NS	ns3.contabo.net.
@@ -2427,6 +2432,8 @@ gucci.tg.		86400	IN	NS	dns2.comlaude-dns.net.
 gucci.tg.		86400	IN	NS	dns3.comlaude-dns.co.uk.
 gucci.tg.		86400	IN	NS	dns4.comlaude-dns.eu.
 gugelgallery.tg.	86400	IN	NS	ns1.netmaster.tg.
+guillaumedjondo.tg.	86400	IN	NS	cpanel15.lws-hosting.com.
+guillaumedjondo.tg.	86400	IN	NS	cpanel16.lws-hosting.com.
 gwz.tg.			86400	IN	NS	ns.hostpoint.ch.
 gwz.tg.			86400	IN	NS	ns2.hostpoint.ch.
 gwz.tg.			86400	IN	NS	ns3.hostpoint.ch.
@@ -2848,6 +2855,9 @@ jetbrains.tg.		86400	IN	NS	ns1.markmonitor.com.
 jetbrains.tg.		86400	IN	NS	ns5.markmonitor.com.
 jetbrains.tg.		86400	IN	NS	ns4.markmonitor.com.
 jetbrains.tg.		86400	IN	NS	ns3.markmonitor.com.
+jeunestogolais.tg.	86400	IN	NS	ns5.netmaster.tg.
+jeunestogolais.tg.	86400	IN	NS	ns1.cafe.tg.
+jeunestogolais.tg.	86400	IN	NS	ns2.cafe.tg.
 jeveuxmafibre.tg.	86400	IN	NS	obs.ns1.fr.
 jeveuxmafibre.tg.	86400	IN	NS	ns3.nameshield.net.
 jeveuxmafibre.tg.	86400	IN	NS	ns2.observatoiredesmarques.fr.
@@ -3115,6 +3125,9 @@ lehrstellen.tg.		86400	IN	NS	ns1.seth.metanet.ch.
 lehrstellen.tg.		86400	IN	NS	ns2.seth.metanet.ch.
 lejournalinfo.tg.	86400	IN	NS	oti.ids.tg.
 lejournalinfo.tg.	86400	IN	NS	mono.ids.tg.
+leleng.tg.		86400	IN	NS	ns5.netmaster.tg.
+leleng.tg.		86400	IN	NS	ns1.cafe.tg.
+leleng.tg.		86400	IN	NS	ns2.cafe.tg.
 lemarche.tg.		86400	IN	NS	ns1.228host.com.
 lemarche.tg.		86400	IN	NS	ns2.228host.com.
 lemediateur.tg.		86400	IN	NS	ns1.o2switch.net.
@@ -4489,6 +4502,11 @@ septentrional.tg.	86400	IN	NS	ns2.o2switch.net.
 sermes.tg.		86400	IN	NS	a.ns.mailclub.fr.
 sermes.tg.		86400	IN	NS	b.ns.mailclub.eu.
 sermes.tg.		86400	IN	NS	c.ns.mailclub.com.
+servair.tg.		86400	IN	NS	ns11.cloudns.net.
+servair.tg.		86400	IN	NS	ns12.cloudns.net.
+servair.tg.		86400	IN	NS	pns11.cloudns.net.
+servair.tg.		86400	IN	NS	pns12.cloudns.net.
+servair.tg.		86400	IN	NS	pns14.cloudns.net.
 servairtogo.tg.		86400	IN	NS	oti.ids.tg.
 servicom.tg.		86400	IN	NS	ns4.netmaster.tg.
 servier.tg.		86400	IN	NS	ns1.markmonitor.com.
@@ -5437,6 +5455,8 @@ venoa.tg.		86400	IN	NS	ns2.netim.net.
 venoa.tg.		86400	IN	NS	ns3.netim.net.
 venoa.tg.		86400	IN	NS	ns4.netim.net.
 venoa.tg.		86400	IN	NS	ns5.netim.net.
+veolis.tg.		86400	IN	NS	oti.ids.tg.
+veolis.tg.		86400	IN	NS	mono.ids.tg.
 vezeeta.tg.		86400	IN	NS	ns4.netmaster.tg.
 vfriends.tg.		86400	IN	NS	ns1.brandcloudns.com.
 vfriends.tg.		86400	IN	NS	ns2.brandcloudns.com.
@@ -5716,4 +5736,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091459 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091552 21600 3600 604800 86400
