@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022091316 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022091517 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -680,6 +680,8 @@ bienvenue-en-guadeloupe.gp. 86400 IN	NS	dns1.cloudns.net.
 bienvenue-en-guadeloupe.gp. 86400 IN	NS	dns2.cloudns.net.
 bigmat.gp.		86400	IN	NS	ns4.ikoula.com.
 bigmat.gp.		86400	IN	NS	ns5.ikoula.com.
+bio.gp.			86400	IN	NS	ns1.ikoula.fr.
+bio.gp.			86400	IN	NS	ns2.ikoula.fr.
 bioderma.gp.		86400	IN	NS	nsa.perf1.fr.
 bioderma.gp.		86400	IN	NS	nsb.perf1.com.
 bioderma.gp.		86400	IN	NS	nsc.perf1.com.
@@ -2935,6 +2937,8 @@ leovegas.gp.		86400	IN	NS	dns04.ports.net.
 lepicerieverte.gp.	86400	IN	NS	ns1.francedns.com.
 lepicerieverte.gp.	86400	IN	NS	ns2.francedns.com.
 lepicerieverte.gp.	86400	IN	NS	ns3.francedns.com.
+leplaisancier.gp.	86400	IN	NS	dns1.cloudns.net.
+leplaisancier.gp.	86400	IN	NS	dns2.cloudns.net.
 leroy-merlin.gp.	86400	IN	NS	dns1.cscdns.net.
 leroy-merlin.gp.	86400	IN	NS	dns2.cscdns.net.
 leroymerlin.gp.		86400	IN	NS	dns1.cscdns.net.
@@ -4354,6 +4358,9 @@ sail.gp.		86400	IN	NS	ns1.p23.dynect.net.
 sail.gp.		86400	IN	NS	ns2.p23.dynect.net.
 sail.gp.		86400	IN	NS	ns3.p23.dynect.net.
 sail.gp.		86400	IN	NS	ns4.p23.dynect.net.
+saint-francois.gp.	86400	IN	NS	ns1.francedns.com.
+saint-francois.gp.	86400	IN	NS	ns2.francedns.com.
+saint-francois.gp.	86400	IN	NS	ns3.francedns.com.
 saint-gobain.gp.	86400	IN	NS	ns2.observatoiredesmarques.fr.
 saint-gobain.gp.	86400	IN	NS	ns3.nameshield.net.
 saint-gobain.gp.	86400	IN	NS	obs.ns1.fr.
@@ -5410,4 +5417,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022091316 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022091517 86400 7200 2592000 345600

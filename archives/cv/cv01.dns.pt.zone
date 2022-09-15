@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022090901 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022091501 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -2237,6 +2237,8 @@ imovirtual.com.cv.	28800	IN	NS	ns4.fixeads.com.
 imperivm.com.cv.	28800	IN	NS	NS1.101DOMAIN.COM.
 imperivm.com.cv.	28800	IN	NS	NS2.101DOMAIN.COM.
 imperivm.com.cv.	28800	IN	NS	NS5.101DOMAIN.COM.
+inalcafb.com.cv.	28800	IN	NS	ns1.register.it.
+inalcafb.com.cv.	28800	IN	NS	ns2.register.it.
 industry.com.cv.	28800	IN	NS	ns1.is-fun.net.
 industry.com.cv.	28800	IN	NS	ns2.is-fun.net.
 infinitelash.com.cv.	28800	IN	NS	NS1.101DOMAIN.COM.
@@ -5682,9 +5684,8 @@ maxim.cv.		28800	IN	NS	ns-405.awsdns-50.com.
 maxim.cv.		28800	IN	NS	ns-711.awsdns-24.net.
 maxim.cv.		28800	IN	NS	ns-1249.awsdns-28.org.
 maxim.cv.		28800	IN	NS	ns-1812.awsdns-34.co.uk.
-mayank.cv.		28800	IN	NS	ns.inwx.de.
-mayank.cv.		28800	IN	NS	ns2.inwx.de.
-mayank.cv.		28800	IN	NS	ns3.inwx.eu.
+mayank.cv.		28800	IN	NS	rosa.ns.cloudflare.com.
+mayank.cv.		28800	IN	NS	lloyd.ns.cloudflare.com.
 mbntrading.cv.		28800	IN	NS	ns1.bh-74.webhostbox.net.
 mbntrading.cv.		28800	IN	NS	ns2.bh-74.webhostbox.net.
 mca.cv.			28800	IN	NS	ns1.gov.cv.
@@ -6508,10 +6509,10 @@ educar.org.cv.		28800	IN	NS	ns2000.mochahost.com.
 famf.org.cv.		28800	IN	NS	ns1.servconfig.com.
 famf.org.cv.		28800	IN	NS	ns2.servconfig.com.
 familcarcabral.org.cv.	28800	IN	NS	dns1.prime.cv.
-famipicos.org.cv.	28800	IN	NS	ns120.truehoster.net.
-famipicos.org.cv.	28800	IN	NS	ns121.truehoster.net.
 famipicos.org.cv.	28800	IN	AAAA	2a07:5741:0:ffd::1
 famipicos.org.cv.	28800	IN	AAAA	2a07:5741:0:ffd::2
+famipicos.org.cv.	28800	IN	NS	ns120.truehoster.net.
+famipicos.org.cv.	28800	IN	NS	ns121.truehoster.net.
 fcj.org.cv.		28800	IN	NS	ns1.mydnspt.net.
 fcj.org.cv.		28800	IN	NS	ns2.mydnspt.net.
 fcs.org.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
@@ -6943,10 +6944,10 @@ pratex.cv.		28800	IN	NS	ns3.digitalocean.com.
 predio.cv.		28800	IN	NS	ns1.dreamhost.com.
 predio.cv.		28800	IN	NS	ns2.dreamhost.com.
 predio.cv.		28800	IN	NS	ns3.dreamhost.com.
-presidencia.cv.		28800	IN	A	41.221.194.233
-presidencia.cv.		28800	IN	A	41.221.194.234
 presidencia.cv.		28800	IN	NS	ns1.servconfig.com.
 presidencia.cv.		28800	IN	NS	ns2.servconfig.com.
+presidencia.cv.		28800	IN	A	41.221.194.233
+presidencia.cv.		28800	IN	A	41.221.194.234
 presidenciais2011.cv.	28800	IN	NS	ns1.gov.cv.
 presidenciais2011.cv.	28800	IN	NS	ns2.gov.cv.
 prevencaorodoviaria.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
@@ -7068,10 +7069,10 @@ psicoterapia.cv.	28800	IN	NS	ns1.dns-parking.com.
 psicoterapia.cv.	28800	IN	NS	ns2.dns-parking.com.
 anacao.publ.cv.		28800	IN	NS	ns1.weblx-0.net.
 anacao.publ.cv.		28800	IN	NS	ns2.weblx-0.net.
-asemana.publ.cv.	28800	IN	NS	ns1.efedus.com.
-asemana.publ.cv.	28800	IN	NS	ns2.efedus.com.
 asemana.publ.cv.	28800	IN	AAAA	2a01:68:100:1::2
 asemana.publ.cv.	28800	IN	A	91.121.162.16
+asemana.publ.cv.	28800	IN	NS	ns1.efedus.com.
+asemana.publ.cv.	28800	IN	NS	ns2.efedus.com.
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1819
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1827
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1981
@@ -7504,11 +7505,12 @@ sameg.cv.		28800	IN	NS	ns1.aguianet.com.
 sameg.cv.		28800	IN	NS	ns2.aguianet.com.
 sameg.cv.		28800	IN	NS	ns293.websitewelcome.com.
 sameg.cv.		28800	IN	NS	ns294.websitewelcome.com.
-san.cv.			28800	IN	AAAA	2a07:5741:0:823::1
-san.cv.			28800	IN	AAAA	2a07:5741:0:823::2
 san.cv.			28800	IN	NS	ns1.bluehost.com.
 san.cv.			28800	IN	NS	ns2.bluehost.com.
 mail.san.cv.		28800	IN	A	66.147.244.230
+sandwatch.cv.		28800	IN	AAAA	2a07:5741:0:823::1
+sandwatch.cv.		28800	IN	AAAA	2a07:5741:0:823::2
+sandwatch.cv.		28800	IN	NS	ns1.unicv.cv.
 sandymar.cv.		28800	IN	NS	ns111.truehoster.net.
 sandymar.cv.		28800	IN	NS	ns112.truehoster.net.
 santacatarinafogo.cv.	28800	IN	NS	ns.santacatarinafogo.cv.
@@ -7790,10 +7792,10 @@ sinaimobiliaria.cv.	28800	IN	NS	ns1.mydnspt.net.
 sinaimobiliaria.cv.	28800	IN	NS	ns2.mydnspt.net.
 sinaimobiliaria.cv.	28800	IN	NS	ns7.mydnspt.net.
 sinaimobiliaria.cv.	28800	IN	NS	ns8.mydnspt.net.
-sindep.cv.		28800	IN	NS	ns1.dnscpanel.com.
-sindep.cv.		28800	IN	NS	ns2.dnscpanel.com.
 sindep.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
 sindep.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
+sindep.cv.		28800	IN	NS	ns1.dnscpanel.com.
+sindep.cv.		28800	IN	NS	ns2.dnscpanel.com.
 sintonia.cv.		28800	IN	NS	ns1.dns-parking.com.
 sintonia.cv.		28800	IN	NS	ns2.dns-parking.com.
 sintonia-negocios.cv.	28800	IN	NS	ns1.brandimage.pt.
@@ -8690,11 +8692,11 @@ verdeana.cv.		28800	IN	NS	ns103.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns104.cloudns.net.
 verdeeverde.cv.		28800	IN	NS	ns1.dns-parking.com.
 verdeeverde.cv.		28800	IN	NS	ns2.dns-parking.com.
-verdefam.cv.		28800	IN	AAAA	2a02:c200:0:10::891:1
 verdefam.cv.		28800	IN	A	5.189.191.29
 verdefam.cv.		28800	IN	A	79.143.182.242
 verdefam.cv.		28800	IN	NS	ns7.securenet-server.net.
 verdefam.cv.		28800	IN	NS	ns8.securenet-server.net.
+verdefam.cv.		28800	IN	AAAA	2a02:c200:0:10::891:1
 verdelines.cv.		28800	IN	NS	ns1.contabo.net.
 verdelines.cv.		28800	IN	NS	ns2.contabo.net.
 verdelines.cv.		28800	IN	NS	ns3.contabo.net.
@@ -8935,4 +8937,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022090901 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022091501 86400 7200 2592000 300
