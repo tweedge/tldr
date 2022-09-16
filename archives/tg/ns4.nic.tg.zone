@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091644 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091668 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -274,6 +274,8 @@ agri-torch.tg.		86400	IN	NS	ns2.cafe.tg.
 agrims.tg.		86400	IN	NS	ns1.digitalocean.com.
 agrims.tg.		86400	IN	NS	ns2.digitalocean.com.
 agrims.tg.		86400	IN	NS	ns3.digitalocean.com.
+agristone.tg.		86400	IN	NS	ns1.atspace.me.
+agristone.tg.		86400	IN	NS	ns2.atspace.me.
 agroferme.tg.		86400	IN	NS	dns1.p08.nsone.net.
 agroferme.tg.		86400	IN	NS	dns2.p08.nsone.net.
 agroferme.tg.		86400	IN	NS	dns3.p08.nsone.net.
@@ -561,9 +563,8 @@ asho-engineering.tg.	86400	IN	NS	nsb.planethoster.net.
 asho-engineering.tg.	86400	IN	NS	nsc.planethoster.net.
 asics.tg.		86400	IN	NS	rns1.rightsdns.com.
 asics.tg.		86400	IN	NS	rns2.rightsdns.com.
-asjd.tg.		86400	IN	NS	ns1.contabo.net.
-asjd.tg.		86400	IN	NS	ns2.contabo.net.
-asjd.tg.		86400	IN	NS	ns3.contabo.net.
+asjd.tg.		86400	IN	NS	dns12.ovh.net.
+asjd.tg.		86400	IN	NS	ns12.ovh.net.
 askari.tg.		86400	IN	NS	ns10.wixdns.net.
 askari.tg.		86400	IN	NS	ns11.wixdns.net.
 askodekara.tg.		86400	IN	NS	dns1.plusproche.org.
@@ -5736,4 +5737,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091644 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091668 21600 3600 604800 86400
