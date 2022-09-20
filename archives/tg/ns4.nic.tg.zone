@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092046 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092065 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -2512,6 +2512,9 @@ hertz.tg.		86400	IN	NS	ns1.afrihosttg.com.
 hertz.tg.		86400	IN	NS	ns2.afrihosttg.com.
 hg0088.tg.		86400	IN	NS	blair.ns.cloudflare.com.
 hg0088.tg.		86400	IN	NS	kanye.ns.cloudflare.com.
+hi7.tg.			86400	IN	NS	ns-229-a.gandi.net.
+hi7.tg.			86400	IN	NS	ns-231-b.gandi.net.
+hi7.tg.			86400	IN	NS	ns-160-c.gandi.net.
 highfiveuniversity.tg.	86400	IN	NS	ns-249-a.gandi.net.
 highfiveuniversity.tg.	86400	IN	NS	ns-166-b.gandi.net.
 highfiveuniversity.tg.	86400	IN	NS	ns-218-c.gandi.net.
@@ -2736,6 +2739,8 @@ industry.tg.		86400	IN	NS	ns1.is-fun.net.
 industry.tg.		86400	IN	NS	ns2.is-fun.net.
 inetum.tg.		86400	IN	NS	dns1.cscdns.net.
 inetum.tg.		86400	IN	NS	dns2.cscdns.net.
+infa-tove.tg.		86400	IN	NS	cpanel5.lws-hosting.com.
+infa-tove.tg.		86400	IN	NS	cpanel6.lws-hosting.com.
 info.tg.		86400	IN	NS	ns1.nic.tg.
 info.tg.		86400	IN	NS	ns2.nic.tg.
 info.tg.		86400	IN	NS	tld.cafe.tg.
@@ -5749,4 +5754,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092046 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092065 21600 3600 604800 86400
