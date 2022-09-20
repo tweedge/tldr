@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022091915 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022092015 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -2205,6 +2205,8 @@ grandmaison.gp.		86400	IN	NS	ns1-gp.mediaserv.net.
 grandmaison.gp.		86400	IN	NS	ns1-mq.mediaserv.net.
 grandpro.gp.		86400	IN	NS	ns1-gp.mediaserv.net.
 grandpro.gp.		86400	IN	NS	ns1-mq.mediaserv.net.
+gre.gp.			86400	IN	NS	ns1.101domain.com.
+gre.gp.			86400	IN	NS	ns2.101domain.com.
 greenbydesign.gp.	86400	IN	NS	nsgbr.comlaude.co.uk.
 greenbydesign.gp.	86400	IN	NS	nssui.comlaude.ch.
 greenbydesign.gp.	86400	IN	NS	nsusa.comlaude.net.
@@ -3852,6 +3854,8 @@ paydaycasino.gp.	86400	IN	NS	dns2.idp365.net.
 paydaycasino.gp.	86400	IN	NS	dns3.idp365.net.
 paye.gp.		86400	IN	NS	pns1.cloudns.net.
 paye.gp.		86400	IN	NS	pns3.cloudns.net.
+payette.gp.		86400	IN	NS	ns1.101domain.com.
+payette.gp.		86400	IN	NS	ns2.101domain.com.
 payfort.gp.		86400	IN	NS	nsgbr.comlaude.co.uk.
 payfort.gp.		86400	IN	NS	nssui.comlaude.ch.
 payfort.gp.		86400	IN	NS	nsusa.comlaude.net.
@@ -5420,4 +5424,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022091915 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022092015 86400 7200 2592000 345600
