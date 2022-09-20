@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091961 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092046 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -603,9 +603,9 @@ assoli.tg.		86400	IN	NS	ns5.netmaster.tg.
 assoli.tg.		86400	IN	NS	ns4.netmaster.tg.
 assooh.tg.		86400	IN	NS	dns1.namecheaphosting.com.
 assooh.tg.		86400	IN	NS	dns2.namecheaphosting.com.
-at2er.tg.		86400	IN	NS	suspendu.nsa.planethoster.net.
-at2er.tg.		86400	IN	NS	suspendu.nsb.planethoster.net.
-at2er.tg.		86400	IN	NS	suspendu.nsc.planethoster.net.
+at2er.tg.		86400	IN	NS	nsa.planethoster.net.
+at2er.tg.		86400	IN	NS	nsb.planethoster.net.
+at2er.tg.		86400	IN	NS	nsc.planethoster.net.
 atakpame.tg.		86400	IN	NS	ns1.netmaster.tg.
 atakpame.tg.		86400	IN	NS	ns5.netmaster.tg.
 atakpame.tg.		86400	IN	NS	ns4.netmaster.tg.
@@ -1304,8 +1304,6 @@ cnft.tg.		86400	IN	NS	ns2.afrihosttg.org.
 cnscsyced.tg.		86400	IN	NS	ns1.netmaster.tg.
 cnss.tg.		86400	IN	NS	anirban.ns.cloudflare.com.
 cnss.tg.		86400	IN	NS	elma.ns.cloudflare.com.
-cnsstogo.tg.		86400	IN	NS	oti.ids.tg.
-cnsstogo.tg.		86400	IN	NS	mono.ids.tg.
 co.tg.			86400	IN	NS	vps584604.ovh.net.
 coca-cola.tg.		86400	IN	NS	ns1.guzelhosting.com.
 coca-cola.tg.		86400	IN	NS	ns2.guzelhosting.com.
@@ -1394,10 +1392,8 @@ cor.tg.			86400	IN	NS	170.ns1.above.com.
 cor.tg.			86400	IN	NS	170.ns2.above.com.
 cornerstone.tg.		86400	IN	NS	oti.ids.tg.
 cornerstone.tg.		86400	IN	NS	mono.ids.tg.
-corpsdiplomatique.tg.	86400	IN	NS	dnspower1.hosteur.com.
-corpsdiplomatique.tg.	86400	IN	NS	dnspower2.hosteur.com.
-corpsdiplomatique.tg.	86400	IN	NS	dnspower3.hosteur.com.
-corpsdiplomatique.tg.	86400	IN	NS	dnspower4.hosteur.com.
+corpsdiplomatique.tg.	86400	IN	NS	dns1.hosteur.com.
+corpsdiplomatique.tg.	86400	IN	NS	dns2.hosteur.com.
 corteva.tg.		86400	IN	NS	pdns216.ultradns.biz.
 corteva.tg.		86400	IN	NS	pdns216.ultradns.com.
 corteva.tg.		86400	IN	NS	pdns216.ultradns.net.
@@ -2586,7 +2582,7 @@ horizon.tg.		86400	IN	NS	ns2.netim.net.
 horizon.tg.		86400	IN	NS	ns3.netim.net.
 hosteur.tg.		86400	IN	NS	dns1.hosteur.com.
 hosteur.tg.		86400	IN	NS	dns2.hosteur.com.
-hotel.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+hotel.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 hotel.tg.		86400	IN	NS	ns1.hotel.tg.
 hotel.tg.		86400	IN	NS	ns2.hotel.tg.
 hotel-chic-palace.tg.	86400	IN	NS	oti.ids.tg.
@@ -2596,7 +2592,7 @@ hotellelactogo.tg.	86400	IN	NS	ns2.afrihosttg.org.
 hotellinksolutions.tg.	86400	IN	NS	ns55.mochahost.com.
 hotellinksolutions.tg.	86400	IN	NS	ns56.mochahost.com.
 ns1.hotelresidencemadiba.tg. 86400 IN	A	195.154.220.55
-hotels.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+hotels.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 hotels.tg.		86400	IN	NS	ns1.hotels.tg.
 hotels.tg.		86400	IN	NS	ns2.hotels.tg.
 house.tg.		86400	IN	NS	dns1.nameservernetwork.com.
@@ -2664,7 +2660,7 @@ ids01.ids.tg.		86400	IN	A	41.207.164.2
 ids02.ids.tg.		86400	IN	A	41.207.164.3
 mono.ids.tg.		86400	IN	A	80.248.71.29
 oti.ids.tg.		86400	IN	A	147.135.254.45
-idstechnologie.tg.	86400	IN	NS	oti.ids.tg.
+idstechnologie.tg.	86400	IN	NS	mono.ids.tg.
 ifad-aqua.tg.		86400	IN	NS	ns5.netmaster.tg.
 ifad-aqua.tg.		86400	IN	NS	ns1.cafe.tg.
 ifad-aqua.tg.		86400	IN	NS	ns2.cafe.tg.
@@ -4236,6 +4232,8 @@ radiolome.tg.		86400	IN	NS	ns1.1xpax.com.
 radiolome.tg.		86400	IN	NS	ns2.1xpax.com.
 radiomaria.tg.		86400	IN	NS	ns4.netmaster.tg.
 radiomaria.tg.		86400	IN	NS	ns5.netmaster.tg.
+radiomeridiensokode.tg.	86400	IN	NS	oti.ids.tg.
+radiomeridiensokode.tg.	86400	IN	NS	mono.ids.tg.
 radiomishaelle.tg.	86400	IN	NS	dns1.namecheaphosting.com.
 radiomishaelle.tg.	86400	IN	NS	dns2.namecheaphosting.com.
 radiomokpokpo.tg.	86400	IN	NS	ns1.netmaster.tg.
@@ -5144,10 +5142,10 @@ togodigital.tg.		86400	IN	NS	ns1.gouv.tg.
 togodigital.tg.		86400	IN	NS	ns2.gouv.tg.
 togodigitalawards.tg.	86400	IN	NS	cpanel21.lws-hosting.com.
 togodigitalawards.tg.	86400	IN	NS	cpanel22.lws-hosting.com.
-togoevent.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+togoevent.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 togoevent.tg.		86400	IN	NS	ns1.togoevent.tg.
 togoevent.tg.		86400	IN	NS	ns2.togoevent.tg.
-togoevents.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+togoevents.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 togoevents.tg.		86400	IN	NS	ns1.togoevents.tg.
 togoevents.tg.		86400	IN	NS	ns2.togoevents.tg.
 togoexpo.tg.		86400	IN	NS	dns1.hosteur.com.
@@ -5751,4 +5749,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022091961 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092046 21600 3600 604800 86400
