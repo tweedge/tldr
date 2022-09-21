@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092079 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092146 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -3692,6 +3692,9 @@ ndcenacle.tg.		86400	IN	NS	ns2.francedns.com.
 ndcenacle.tg.		86400	IN	NS	ns3.francedns.com.
 neo.tg.			86400	IN	NS	ns100.hostwhitelabel.com.
 neo.tg.			86400	IN	NS	ns200.hostwhitelabel.com.
+neocharging.tg.		86400	IN	NS	ns1.francedns.com.
+neocharging.tg.		86400	IN	NS	ns2.francedns.com.
+neocharging.tg.		86400	IN	NS	ns3.francedns.com.
 neovia-group.tg.	86400	IN	NS	dns1.cscdns.net.
 neovia-group.tg.	86400	IN	NS	dns2.cscdns.net.
 net.tg.			86400	IN	NS	ns1.nic.tg.
@@ -5596,6 +5599,8 @@ westernunion.tg.	86400	IN	NS	ns4.markmonitor.com.
 westernunion.tg.	86400	IN	NS	ns5.markmonitor.com.
 wetter.tg.		86400	IN	NS	ns1.freehosting.com.
 wetter.tg.		86400	IN	NS	ns2.freehosting.com.
+whieda.tg.		86400	IN	NS	ns1.icp100.net.
+whieda.tg.		86400	IN	NS	ns2.icp100.net.
 whois.tg.		86400	IN	NS	ns1.nic.tg.
 whois.tg.		86400	IN	NS	ns2.nic.tg.
 wifi.tg.		86400	IN	NS	170.ns1.above.com.
@@ -5755,4 +5760,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092079 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092146 21600 3600 604800 86400
