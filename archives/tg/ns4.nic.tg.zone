@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092146 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092164 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -2128,6 +2128,9 @@ flyingblue.tg.		86400	IN	NS	ns.klm.nl.
 flyingblue.tg.		86400	IN	NS	nss.klm.nl.
 flyingblue.tg.		86400	IN	NS	ns2.kpn.net.
 flyingblue.tg.		86400	IN	NS	ns4.kpn.net.
+fnafpp.tg.		86400	IN	NS	ns5.netmaster.tg.
+fnafpp.tg.		86400	IN	NS	ns1.cafe.tg.
+fnafpp.tg.		86400	IN	NS	ns2.cafe.tg.
 fnfi.tg.		86400	IN	NS	ns1.o2switch.net.
 fnfi.tg.		86400	IN	NS	ns2.o2switch.net.
 fngpccoopca.tg.		86400	IN	NS	ns1.host-care.com.
@@ -5760,4 +5763,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092146 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092164 21600 3600 604800 86400
