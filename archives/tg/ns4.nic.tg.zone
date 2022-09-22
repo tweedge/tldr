@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092237 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092270 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1239,6 +1239,8 @@ ns2.chuso.tg.		86400	IN	A	160.242.194.20
 cigc.tg.		86400	IN	NS	ns5.netmaster.tg.
 cigc.tg.		86400	IN	NS	ns1.cafe.tg.
 cigc.tg.		86400	IN	NS	ns2.cafe.tg.
+cik.tg.			86400	IN	NS	dns14.ovh.net.
+cik.tg.			86400	IN	NS	ns14.ovh.net.
 cim.tg.			86400	IN	NS	dns1.hosteur.com.
 cim.tg.			86400	IN	NS	dns2.hosteur.com.
 cimenttoro.tg.		86400	IN	NS	ns5.netmaster.tg.
@@ -2669,7 +2671,7 @@ ids01.ids.tg.		86400	IN	A	41.207.164.2
 ids02.ids.tg.		86400	IN	A	41.207.164.3
 mono.ids.tg.		86400	IN	A	80.248.71.29
 oti.ids.tg.		86400	IN	A	147.135.254.45
-idstechnologie.tg.	86400	IN	NS	mono.ids.tg.
+idstechnologie.tg.	86400	IN	NS	oti.ids.tg.
 ifad-aqua.tg.		86400	IN	NS	ns5.netmaster.tg.
 ifad-aqua.tg.		86400	IN	NS	ns1.cafe.tg.
 ifad-aqua.tg.		86400	IN	NS	ns2.cafe.tg.
@@ -4470,6 +4472,9 @@ schindler.tg.		86400	IN	NS	ns3.schindler.com.
 schneider-electric.tg.	86400	IN	NS	obs.ns1.fr.
 schneider-electric.tg.	86400	IN	NS	ns3.nameshield.net.
 schneider-electric.tg.	86400	IN	NS	ns2.observatoiredesmarques.fr.
+schoolfees.tg.		86400	IN	NS	ns5.netmaster.tg.
+schoolfees.tg.		86400	IN	NS	ns1.cafe.tg.
+schoolfees.tg.		86400	IN	NS	ns2.cafe.tg.
 schwager.tg.		86400	IN	NS	ns1.francedns.com.
 schwager.tg.		86400	IN	NS	ns2.francedns.com.
 schwager.tg.		86400	IN	NS	ns3.francedns.com.
@@ -5597,6 +5602,8 @@ wellcity.tg.		86400	IN	NS	ns2.netmaster.tg.
 wellcity.tg.		86400	IN	NS	ns3.netmaster.tg.
 wellcity.tg.		86400	IN	NS	ns4.netmaster.tg.
 wellcity.tg.		86400	IN	NS	ns5.netmaster.tg.
+werbung.tg.		86400	IN	NS	ns1.jimdo.com.
+werbung.tg.		86400	IN	NS	ns2.jimdo.com.
 westernunion.tg.	86400	IN	NS	ns1.markmonitor.com.
 westernunion.tg.	86400	IN	NS	ns2.markmonitor.com.
 westernunion.tg.	86400	IN	NS	ns3.markmonitor.com.
@@ -5765,4 +5772,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092237 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092270 21600 3600 604800 86400
