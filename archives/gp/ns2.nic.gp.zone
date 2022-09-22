@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022092123 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022092221 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -3175,9 +3175,8 @@ maytag.gp.		86400	IN	NS	ns2.whirlpool.com.
 mazars.gp.		86400	IN	NS	a.ns.mailclub.fr.
 mazars.gp.		86400	IN	NS	b.ns.mailclub.eu.
 mazars.gp.		86400	IN	NS	c.ns.mailclub.com.
-mb.gp.			86400	IN	NS	ns10.dnsmadeeasy.com.
-mb.gp.			86400	IN	NS	ns11.dnsmadeeasy.com.
-mb.gp.			86400	IN	NS	ns12.dnsmadeeasy.com.
+mb.gp.			86400	IN	NS	mitch.ns.cloudflare.com.
+mb.gp.			86400	IN	NS	nadia.ns.cloudflare.com.
 mc.gp.			86400	IN	NS	ns1.eurodns.com.
 mc.gp.			86400	IN	NS	ns2.eurodns.com.
 mc.gp.			86400	IN	NS	ns3.eurodns.com.
@@ -5426,4 +5425,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022092123 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022092221 86400 7200 2592000 345600
