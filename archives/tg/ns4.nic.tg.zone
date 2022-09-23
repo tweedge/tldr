@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092345 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092368 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -424,6 +424,9 @@ anac-togo.tg.		86400	IN	NS	ns3.bluehost.com.
 anamek.tg.		86400	IN	NS	ns5.netmaster.tg.
 anamek.tg.		86400	IN	NS	ns2.cafe.tg.
 anamek.tg.		86400	IN	NS	ns1.cafe.tg.
+ancy.tg.		86400	IN	NS	ns5.netmaster.tg.
+ancy.tg.		86400	IN	NS	ns1.cafe.tg.
+ancy.tg.		86400	IN	NS	ns2.cafe.tg.
 ange.tg.		86400	IN	NS	ns531.dnsserverboot.com.
 ange.tg.		86400	IN	NS	ns532.dnsserverboot.com.
 anid.tg.		86400	IN	NS	ns5.netmaster.tg.
@@ -2026,7 +2029,7 @@ event.tg.		86400	IN	NS	dns1.hosteur.com.
 event.tg.		86400	IN	NS	dns2.hosteur.com.
 eventpass.tg.		86400	IN	NS	dns1.hosteur.com.
 eventpass.tg.		86400	IN	NS	dns2.hosteur.com.
-events.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+events.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 events.tg.		86400	IN	NS	ns1.events.tg.
 events.tg.		86400	IN	NS	ns2.events.tg.
 mail.evisatogo.tg.	86400	IN	A	41.207.188.101
@@ -3901,7 +3904,7 @@ oneradio.tg.		86400	IN	NS	ns2.cafe.tg.
 onetv.tg.		86400	IN	NS	ns5.netmaster.tg.
 onetv.tg.		86400	IN	NS	ns1.cafe.tg.
 onetv.tg.		86400	IN	NS	ns2.cafe.tg.
-ong.tg.			86400	IN	NS	ns3176354.ip-37-59-35.eu.
+ong.tg.			86400	IN	NS	ns3151666.ip-51-91-61.eu.
 ong.tg.			86400	IN	NS	ns1.ong.tg.
 ong.tg.			86400	IN	NS	ns2.ong.tg.
 ns1.ong.tg.		86400	IN	A	37.59.35.20
@@ -4307,7 +4310,7 @@ reic.tg.		86400	IN	NS	mac1.rdd.tg.
 rekkotogo.tg.		86400	IN	NS	ns1.bluehost.com.
 rekkotogo.tg.		86400	IN	NS	ns2.bluehost.com.
 serveur.remigella.tg.	86400	IN	A	81.199.105.116
-renaissance.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+renaissance.tg.		86400	IN	NS	ns1.togomarket.tg.
 renaissance.tg.		86400	IN	NS	ns1.renaissance.tg.
 renaissance.tg.		86400	IN	NS	ns2.renaissance.tg.
 ns1.renaissance.tg.	86400	IN	A	37.59.35.20
@@ -4618,7 +4621,7 @@ sirius.tg.		86400	IN	NS	ns2.register.ch.
 sirius.tg.		86400	IN	NS	ns3.register.ch.
 site.tg.		86400	IN	NS	ishaan.ns.cloudflare.com.
 site.tg.		86400	IN	NS	kara.ns.cloudflare.com.
-siteweb.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+siteweb.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 siteweb.tg.		86400	IN	NS	ns1.siteweb.tg.
 siteweb.tg.		86400	IN	NS	ns2.siteweb.tg.
 sitewebofficiel.tg.	86400	IN	NS	ns5.netmaster.tg.
@@ -4790,6 +4793,9 @@ sotouboua.tg.		86400	IN	NS	ns5.netmaster.tg.
 sotouboua.tg.		86400	IN	NS	ns4.netmaster.tg.
 soussoutech.tg.		86400	IN	NS	cloudf03.francedns.com.
 soussoutech.tg.		86400	IN	NS	ns2.francedns.com.
+sp-eau.tg.		86400	IN	NS	ns5.netmaster.tg.
+sp-eau.tg.		86400	IN	NS	ns1.cafe.tg.
+sp-eau.tg.		86400	IN	NS	ns2.cafe.tg.
 space.tg.		86400	IN	NS	ns100.hostwhitelabel.com.
 space.tg.		86400	IN	NS	ns200.hostwhitelabel.com.
 speedycard.tg.		86400	IN	NS	ns1.cafe.tg.
@@ -5205,8 +5211,9 @@ togoinvest.tg.		86400	IN	NS	dilbert.ns.cloudflare.com.
 togoinvest.tg.		86400	IN	NS	mimi.ns.cloudflare.com.
 togolegal.tg.		86400	IN	NS	ns1.digitalocean.com.
 togolegal.tg.		86400	IN	NS	ns2.digitalocean.com.
-togomarket.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
-togomarket.tg.		86400	IN	NS	sdns2.ovh.net.
+togomarket.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
+togomarket.tg.		86400	IN	NS	ns1.togomarket.tg.
+togomarket.tg.		86400	IN	NS	ns2.togomarket.tg.
 togomatin.tg.		86400	IN	NS	david.ns.cloudflare.com.
 togomatin.tg.		86400	IN	NS	grace.ns.cloudflare.com.
 togomode.tg.		86400	IN	NS	oti.ids.tg.
@@ -5592,7 +5599,7 @@ web.tg.			86400	IN	NS	dayana.ns.cloudflare.com.
 web.tg.			86400	IN	NS	yoxall.ns.cloudflare.com.
 web3.tg.		86400	IN	NS	ns1.dan.com.
 web3.tg.		86400	IN	NS	ns2.dan.com.
-website.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+website.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 website.tg.		86400	IN	NS	ns1.website.tg.
 website.tg.		86400	IN	NS	ns2.website.tg.
 wefund.tg.		86400	IN	NS	ns5.netmaster.tg.
@@ -5773,4 +5780,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092345 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092368 21600 3600 604800 86400
