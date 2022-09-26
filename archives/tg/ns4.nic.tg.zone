@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092368 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092649 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -432,18 +432,18 @@ ange.tg.		86400	IN	NS	ns532.dnsserverboot.com.
 anid.tg.		86400	IN	NS	ns5.netmaster.tg.
 anid.tg.		86400	IN	NS	ns1.cafe.tg.
 anid.tg.		86400	IN	NS	ns2.cafe.tg.
-annonce.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+annonce.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 annonce.tg.		86400	IN	NS	ns1.annonce.tg.
 annonce.tg.		86400	IN	NS	ns2.annonce.tg.
-annonces.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+annonces.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 annonces.tg.		86400	IN	NS	ns1.annonces.tg.
 annonces.tg.		86400	IN	NS	ns2.annonces.tg.
-annuaire.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+annuaire.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 annuaire.tg.		86400	IN	NS	ns1.annuaire.tg.
 annuaire.tg.		86400	IN	NS	ns2.annuaire.tg.
 ns1.annuaire.tg.	86400	IN	A	37.59.35.20
 ns2.annuaire.tg.	86400	IN	A	37.59.35.20
-annuaires.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+annuaires.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 annuaires.tg.		86400	IN	NS	ns1.annuaires.tg.
 annuaires.tg.		86400	IN	NS	ns2.annuaires.tg.
 ns1.annuaires.tg.	86400	IN	A	37.59.35.20
@@ -617,7 +617,7 @@ atbad.tg.		86400	IN	NS	mimi.ns.cloudflare.com.
 atfstogo.tg.		86400	IN	NS	ns5.netmaster.tg.
 atfstogo.tg.		86400	IN	NS	ns1.cafe.tg.
 atfstogo.tg.		86400	IN	NS	ns2.cafe.tg.
-atg.tg.			86400	IN	NS	ns3176354.ip-37-59-35.eu.
+atg.tg.			86400	IN	NS	ns3151666.ip-51-91-61.eu.
 atg.tg.			86400	IN	NS	ns1.atg.tg.
 atg.tg.			86400	IN	NS	ns2.atg.tg.
 atgconsulting.tg.	86400	IN	NS	ns6331.hostgator.com.
@@ -1453,6 +1453,8 @@ creva.tg.		86400	IN	NS	ns2.cafe.tg.
 croixrouge-togo.tg.	86400	IN	NS	ns1.digitalocean.com.
 croixrouge-togo.tg.	86400	IN	NS	ns2.digitalocean.com.
 croixrouge-togo.tg.	86400	IN	NS	ns3.digitalocean.com.
+cropesdi.tg.		86400	IN	NS	ns1.o2switch.net.
+cropesdi.tg.		86400	IN	NS	ns2.o2switch.net.
 crowe.tg.		86400	IN	NS	ns5.netmaster.tg.
 crowe.tg.		86400	IN	NS	ns1.cafe.tg.
 crowe.tg.		86400	IN	NS	ns2.cafe.tg.
@@ -3108,7 +3110,7 @@ ns1.laposte.tg.		86400	IN	A	41.207.186.38
 ns2.laposte.tg.		86400	IN	A	41.207.186.37
 ns3.laposte.tg.		86400	IN	A	41.207.165.243
 ns4.laposte.tg.		86400	IN	A	41.207.165.242
-larenaissance.tg.	86400	IN	NS	ns3176354.ip-37-59-35.eu.
+larenaissance.tg.	86400	IN	NS	ns3151666.ip-51-91-61.eu.
 larenaissance.tg.	86400	IN	NS	ns1.larenaissance.tg.
 larenaissance.tg.	86400	IN	NS	ns2.larenaissance.tg.
 ns1.larenaissance.tg.	86400	IN	A	37.59.35.20
@@ -3380,8 +3382,8 @@ market.tg.		86400	IN	NS	dns1.hosteur.com.
 market.tg.		86400	IN	NS	dns2.hosteur.com.
 marketing.tg.		86400	IN	NS	ns1.dns-parking.com.
 marketing.tg.		86400	IN	NS	ns2.dns-parking.com.
-marketplace.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
-marketplace.tg.		86400	IN	NS	sdns2.ovh.net.
+marketplace.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
+marketplace.tg.		86400	IN	NS	ns1.marketplace.tg.
 markmonitor.tg.		86400	IN	NS	dns-ns1.wistee.fr.
 markmonitor.tg.		86400	IN	NS	dns-ns11.wistee.fr.
 marmolux.tg.		86400	IN	NS	ns1.site4now.net.
@@ -3615,7 +3617,7 @@ mrk.tg.			86400	IN	NS	ns-1959.awsdns-52.co.uk.
 mtechsa.tg.		86400	IN	NS	ns5.netmaster.tg.
 mtechsa.tg.		86400	IN	NS	ns1.cafe.tg.
 mtechsa.tg.		86400	IN	NS	ns2.cafe.tg.
-mtg.tg.			86400	IN	NS	ns3176354.ip-37-59-35.eu.
+mtg.tg.			86400	IN	NS	ns3151666.ip-51-91-61.eu.
 mtg.tg.			86400	IN	NS	ns1.mtg.tg.
 mtg.tg.			86400	IN	NS	ns2.mtg.tg.
 mun.tg.			86400	IN	NS	ns1.francedns.com.
@@ -4044,6 +4046,8 @@ petronas.tg.		86400	IN	NS	ns2.petronas.com.my.
 peugeot.tg.		86400	IN	NS	ns5.netmaster.tg.
 peugeot.tg.		86400	IN	NS	ns1.cafe.tg.
 peugeot.tg.		86400	IN	NS	ns2.cafe.tg.
+pflege-engel.tg.	86400	IN	NS	ns1.cyon.ch.
+pflege-engel.tg.	86400	IN	NS	ns2.cyon.ch.
 pgatogo.tg.		86400	IN	NS	ns.pgatogo.tg.
 pgatogo.tg.		86400	IN	NS	www.pgatogo.tg.
 ns.pgatogo.tg.		86400	IN	A	41.207.172.94
@@ -4337,6 +4341,9 @@ rev.tg.			86400	IN	NS	170.ns2.above.com.
 ns1.revel.tg.		86400	IN	A	206.48.17.130
 reyaservice.tg.		86400	IN	NS	dns1.hosteur.com.
 reyaservice.tg.		86400	IN	NS	dns2.hosteur.com.
+rgph5-togo.tg.		86400	IN	NS	ns5.netmaster.tg.
+rgph5-togo.tg.		86400	IN	NS	ns1.cafe.tg.
+rgph5-togo.tg.		86400	IN	NS	ns2.cafe.tg.
 rho.tg.			86400	IN	NS	ns10.dnsmadeeasy.com.
 rho.tg.			86400	IN	NS	ns11.dnsmadeeasy.com.
 rho.tg.			86400	IN	NS	ns12.dnsmadeeasy.com.
@@ -5118,7 +5125,7 @@ togo-holding.tg.	86400	IN	NS	ns2.cafe.tg.
 togo-immo.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
 togo-immo.tg.		86400	IN	NS	ns1.togo-immo.tg.
 togo-immo.tg.		86400	IN	NS	ns2.togo-immo.tg.
-togo-immobilier.tg.	86400	IN	NS	ns3176354.ip-37-59-35.eu.
+togo-immobilier.tg.	86400	IN	NS	ns3151666.ip-51-91-61.eu.
 togo-immobilier.tg.	86400	IN	NS	ns1.togo-immobilier.tg.
 togo-immobilier.tg.	86400	IN	NS	ns2.togo-immobilier.tg.
 ns1.togo-immobilier.tg.	86400	IN	A	37.59.35.20
@@ -5196,13 +5203,13 @@ togogamesweek.tg.	86400	IN	NS	oti.ids.tg.
 togogamesweek.tg.	86400	IN	NS	mono.ids.tg.
 togogoal.tg.		86400	IN	NS	ns1.o2switch.net.
 togogoal.tg.		86400	IN	NS	ns2.o2switch.net.
-togohome.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+togohome.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 togohome.tg.		86400	IN	NS	ns1.togohome.tg.
 togohome.tg.		86400	IN	NS	ns2.togohome.tg.
-togoimmo.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+togoimmo.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 togoimmo.tg.		86400	IN	NS	ns1.togoimmo.tg.
 togoimmo.tg.		86400	IN	NS	ns2.togoimmo.tg.
-togoimmobilier.tg.	86400	IN	NS	ns3176354.ip-37-59-35.eu.
+togoimmobilier.tg.	86400	IN	NS	ns3151666.ip-51-91-61.eu.
 togoimmobilier.tg.	86400	IN	NS	ns1.togoimmobilier.tg.
 togoimmobilier.tg.	86400	IN	NS	ns2.togoimmobilier.tg.
 togoinfo.tg.		86400	IN	NS	cruz.ns.cloudflare.com.
@@ -5239,9 +5246,9 @@ togorer.tg.		86400	IN	NS	ns2.cafe.tg.
 rer.togorer.tg.		86400	IN	A	41.207.188.19
 togosime.tg.		86400	IN	NS	ns5.netmaster.tg.
 togosime.tg.		86400	IN	NS	ns1.cafe.tg.
-togosports.tg.		86400	IN	NS	ns5.netmaster.tg.
-togosports.tg.		86400	IN	NS	ns1.cafe.tg.
-togosports.tg.		86400	IN	NS	ns2.cafe.tg.
+togosports.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
+togosports.tg.		86400	IN	NS	ns1.togosports.tg.
+togosports.tg.		86400	IN	NS	ns2.togosports.tg.
 ns1.togotel.tg.		86400	IN	A	41.207.177.77
 ns2.togotel.tg.		86400	IN	A	41.207.177.66
 togotelecom.tg.		86400	IN	NS	ns1.togotelecom.tg.
@@ -5780,4 +5787,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092368 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092649 21600 3600 604800 86400
