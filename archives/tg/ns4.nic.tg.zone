@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092649 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092668 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1213,6 +1213,9 @@ cfmi.tg.		86400	IN	NS	ns1.cafe.tg.
 cfpa.tg.		86400	IN	NS	dns1.hosteur.com.
 cfpa.tg.		86400	IN	NS	dns2.hosteur.com.
 cfpj.tg.		86400	IN	NS	ns5.netmaster.tg.
+cgdpc.tg.		86400	IN	NS	ns1.francedns.com.
+cgdpc.tg.		86400	IN	NS	ns2.francedns.com.
+cgdpc.tg.		86400	IN	NS	ns3.francedns.com.
 chacunsaroute.tg.	86400	IN	NS	ns1.francedns.com.
 chacunsaroute.tg.	86400	IN	NS	ns2.francedns.com.
 chacunsaroute.tg.	86400	IN	NS	ns3.francedns.com.
@@ -5122,7 +5125,7 @@ togo-elections.tg.	86400	IN	NS	ns5.netmaster.tg.
 togo-holding.tg.	86400	IN	NS	ns1.netmaster.tg.
 togo-holding.tg.	86400	IN	NS	ns1.cafe.tg.
 togo-holding.tg.	86400	IN	NS	ns2.cafe.tg.
-togo-immo.tg.		86400	IN	NS	ns3176354.ip-37-59-35.eu.
+togo-immo.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 togo-immo.tg.		86400	IN	NS	ns1.togo-immo.tg.
 togo-immo.tg.		86400	IN	NS	ns2.togo-immo.tg.
 togo-immobilier.tg.	86400	IN	NS	ns3151666.ip-51-91-61.eu.
@@ -5398,6 +5401,8 @@ tudorwatch.tg.		86400	IN	NS	dns1.p02.nsone.net.
 tudorwatch.tg.		86400	IN	NS	dns2.p02.nsone.net.
 tudorwatch.tg.		86400	IN	NS	dns3.p02.nsone.net.
 tudorwatch.tg.		86400	IN	NS	dns4.p02.nsone.net.
+tv7.tg.			86400	IN	NS	dns1.hosteur.com.
+tv7.tg.			86400	IN	NS	dns2.hosteur.com.
 tvdeltasante.tg.	86400	IN	NS	ns5.netmaster.tg.
 tvt.tg.			86400	IN	NS	anuj.ns.cloudflare.com.
 tvt.tg.			86400	IN	NS	melissa.ns.cloudflare.com.
@@ -5787,4 +5792,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092649 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092668 21600 3600 604800 86400
