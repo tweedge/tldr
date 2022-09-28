@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022092301 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022092801 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -2919,9 +2919,9 @@ create.cv.		28800	IN	NS	chad.ns.cloudflare.com.
 create.cv.		28800	IN	NS	sasha.ns.cloudflare.com.
 creation.cv.		28800	IN	NS	ns1.ptempresas.pt.
 creation.cv.		28800	IN	NS	ns2.ptempresas.pt.
-creator.cv.		28800	IN	NS	ns01.trademarkarea.com.
-creator.cv.		28800	IN	NS	ns02.trademarkarea.com.
-creator.cv.		28800	IN	NS	ns03.trademarkarea.com.
+creator.cv.		28800	IN	NS	ns1.digitalocean.com.
+creator.cv.		28800	IN	NS	ns2.digitalocean.com.
+creator.cv.		28800	IN	NS	ns3.digitalocean.com.
 creditinfo.cv.		28800	IN	A	82.100.6.2
 creditinfo.cv.		28800	IN	A	88.146.119.2
 creditinfo.cv.		28800	IN	A	91.239.200.243
@@ -4445,6 +4445,8 @@ greenshipping.cv.	28800	IN	NS	ns2.isone.cv.
 greg.cv.		28800	IN	NS	ns01.trademarkarea.com.
 greg.cv.		28800	IN	NS	ns02.trademarkarea.com.
 greg.cv.		28800	IN	NS	ns03.trademarkarea.com.
+grinercvc.cv.		28800	IN	NS	ns1.siteground.net.
+grinercvc.cv.		28800	IN	NS	ns2.siteground.net.
 grp.cv.			28800	IN	NS	ns7.securenet-server.net.
 grp.cv.			28800	IN	NS	ns8.securenet-server.net.
 grupofigueiredo.cv.	28800	IN	NS	ns1.aguianet.com.
@@ -4608,15 +4610,15 @@ hlimobiliaria.cv.	28800	IN	NS	dns1.ibername.com.
 hlimobiliaria.cv.	28800	IN	NS	dns2.ibername.com.
 hlimobiliaria.cv.	28800	IN	NS	dns3.ibername.net.
 hlimobiliaria.cv.	28800	IN	NS	dns4.ibername.net.
-hoal.cv.		28800	IN	A	216.66.1.2
-hoal.cv.		28800	IN	A	216.66.80.18
-hoal.cv.		28800	IN	A	216.218.131.2
-hoal.cv.		28800	IN	A	216.218.132.2
 hoal.cv.		28800	IN	NS	ns1.he.net.
 hoal.cv.		28800	IN	NS	ns2.he.net.
 hoal.cv.		28800	IN	NS	ns3.he.net.
 hoal.cv.		28800	IN	NS	ns4.he.net.
 hoal.cv.		28800	IN	NS	ns5.he.net.
+hoal.cv.		28800	IN	A	216.66.1.2
+hoal.cv.		28800	IN	A	216.66.80.18
+hoal.cv.		28800	IN	A	216.218.131.2
+hoal.cv.		28800	IN	A	216.218.132.2
 hoovers.cv.		28800	IN	NS	dns1.idp365.net.
 hoovers.cv.		28800	IN	NS	dns2.idp365.net.
 hoovers.cv.		28800	IN	NS	dns3.idp365.net.
@@ -4849,11 +4851,11 @@ ilhas.cv.		28800	IN	NS	cdns2.interserver.net.
 ilhas.cv.		28800	IN	NS	cdns3.interserver.net.
 ilidiocruzeassociados.cv. 28800	IN	NS	ns53.domaincontrol.com.
 ilidiocruzeassociados.cv. 28800	IN	NS	ns54.domaincontrol.com.
+iloja.cv.		28800	IN	A	45.154.66.253
+iloja.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 iloja.cv.		28800	IN	NS	ns1.wtservers.com.
 iloja.cv.		28800	IN	NS	ns2.wtservers.com.
 iloja.cv.		28800	IN	NS	ns3.wtservers.com.
-iloja.cv.		28800	IN	A	45.154.66.253
-iloja.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 ilumineomundo.cv.	28800	IN	NS	ns1.intellectualreserveinc.org.
 ilumineomundo.cv.	28800	IN	NS	ns2.intellectualreserveinc.org.
 ilumineomundo.cv.	28800	IN	NS	ns31.intellectualreserveinc.org.
@@ -4880,6 +4882,10 @@ imenu.cv.		28800	IN	NS	ns3.wtservers.com.
 img.cv.			28800	IN	NS	ns01.trademarkarea.com.
 img.cv.			28800	IN	NS	ns02.trademarkarea.com.
 img.cv.			28800	IN	NS	ns03.trademarkarea.com.
+imobiliaria.cv.		28800	IN	NS	ns1.interna.me.
+imobiliaria.cv.		28800	IN	NS	ns2.interna.me.
+imobiliaria.cv.		28800	IN	NS	ns3.interna.me.
+imobiliaria.cv.		28800	IN	NS	ns4.interna.me.
 imobiliariaglobal.cv.	28800	IN	NS	ns1.mysecurecloudhost.com.
 imobiliariaglobal.cv.	28800	IN	NS	ns2.mysecurecloudhost.com.
 imobiliariaglobal.cv.	28800	IN	NS	ns3.mysecurecloudhost.com.
@@ -6505,11 +6511,11 @@ ciiclaa.org.cv.		28800	IN	NS	ns1.webhostingpad.com.
 ciiclaa.org.cv.		28800	IN	NS	ns2.webhostingpad.com.
 cndhc.org.cv.		28800	IN	NS	ns7.securenet-server.net.
 cndhc.org.cv.		28800	IN	NS	ns8.securenet-server.net.
+colmeiaapa.org.cv.	28800	IN	A	45.154.66.253
+colmeiaapa.org.cv.	28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 colmeiaapa.org.cv.	28800	IN	NS	ns1.wtservers.com.
 colmeiaapa.org.cv.	28800	IN	NS	ns2.wtservers.com.
 colmeiaapa.org.cv.	28800	IN	NS	ns3.wtservers.com.
-colmeiaapa.org.cv.	28800	IN	A	45.154.66.253
-colmeiaapa.org.cv.	28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 condominioatlantico2.org.cv. 28800 IN	NS	ns1000.mochahost.com.
 condominioatlantico2.org.cv. 28800 IN	NS	ns2000.mochahost.com.
 cruzvermelha.org.cv.	28800	IN	NS	ns1.a2hosting.com.
@@ -6614,12 +6620,12 @@ smartcity.org.cv.	28800	IN	NS	ns2.dreamhost.com.
 smartcity.org.cv.	28800	IN	NS	ns3.dreamhost.com.
 soldifogo.org.cv.	28800	IN	NS	1.nshub.com.
 soldifogo.org.cv.	28800	IN	NS	2.nshub.com.
-solp.org.cv.		28800	IN	A	45.154.66.253
-solp.org.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 solp.org.cv.		28800	IN	NS	ns1.nameresolve.com.
 solp.org.cv.		28800	IN	NS	ns2.nameresolve.com.
 solp.org.cv.		28800	IN	NS	ns3.nameresolve.com.
 solp.org.cv.		28800	IN	NS	ns4.nameresolve.com.
+solp.org.cv.		28800	IN	A	45.154.66.253
+solp.org.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 soscaboverde.org.cv.	28800	IN	NS	ns1.wtservers.com.
 soscaboverde.org.cv.	28800	IN	NS	ns2.wtservers.com.
 soscaboverde.org.cv.	28800	IN	NS	ns3.wtservers.com.
@@ -6824,11 +6830,11 @@ phcsoftware.cv.		28800	IN	NS	ns02.trademarkarea.com.
 phcsoftware.cv.		28800	IN	NS	ns03.trademarkarea.com.
 photogira.cv.		86400	IN	NS	ns1.webs24h.com.
 photogira.cv.		86400	IN	NS	ns2.webs24h.com.
+physios.cv.		28800	IN	NS	ns7.securenet-server.net.
+physios.cv.		28800	IN	NS	ns8.securenet-server.net.
 physios.cv.		28800	IN	AAAA	2001:67c:1bc::104
 physios.cv.		28800	IN	AAAA	2001:67c:10b8::104
 physios.cv.		28800	IN	AAAA	2a01:4f8:222:b03::2
-physios.cv.		28800	IN	NS	ns7.securenet-server.net.
-physios.cv.		28800	IN	NS	ns8.securenet-server.net.
 piers.cv.		28800	IN	NS	ns.inwx.de.
 piers.cv.		28800	IN	NS	ns2.inwx.de.
 piers.cv.		28800	IN	NS	ns3.inwx.eu.
@@ -7611,13 +7617,13 @@ sdtibm.cv.		28800	IN	NS	ns59.domaincontrol.com.
 sdtibm.cv.		28800	IN	NS	ns60.domaincontrol.com.
 seafood.cv.		28800	IN	NS	ns1.cabohosting.com.
 seafood.cv.		28800	IN	NS	ns2.cabohosting.com.
-seat.cv.		28800	IN	NS	ns1.entornodns.com.
-seat.cv.		28800	IN	NS	ns2.entornodns.com.
 seat.cv.		28800	IN	AAAA	::195.77.116.8
 seat.cv.		28800	IN	AAAA	2620:0:2e64::53
 seat.cv.		28800	IN	AAAA	2a07:dc00:180::53
 seat.cv.		28800	IN	AAAA	2a07:dc00:1810::53
 seat.cv.		28800	IN	AAAA	2a07:dc00:2550::53
+seat.cv.		28800	IN	NS	ns1.entornodns.com.
+seat.cv.		28800	IN	NS	ns2.entornodns.com.
 seatuna.cv.		28800	IN	NS	ns1.no-ip.com.
 seatuna.cv.		28800	IN	NS	ns2.no-ip.com.
 seatuna.cv.		28800	IN	NS	ns3.no-ip.com.
@@ -7850,12 +7856,12 @@ sitech.cv.		28800	IN	NS	ns1.sitechcv.com.
 sitech.cv.		28800	IN	NS	ns2.sitechcv.com.
 sitech.cv.		28800	IN	NS	ns3.sitechcv.com.
 sitech.cv.		28800	IN	NS	ns4.sitechcv.com.
-skinalda.cv.		28800	IN	AAAA	2620:115:c00f::c000:4a09
-skinalda.cv.		28800	IN	AAAA	2a04:fa87:ffff::c6b5:7409
-skinalda.cv.		28800	IN	AAAA	2a04:fa87:ffff::c6b5:7509
 skinalda.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
 skinalda.cv.		28800	IN	NS	ns2.nosiwebhosting.com.
 skinalda.cv.		28800	IN	NS	ns3.nosiwebhosting.com.
+skinalda.cv.		28800	IN	AAAA	2620:115:c00f::c000:4a09
+skinalda.cv.		28800	IN	AAAA	2a04:fa87:ffff::c6b5:7409
+skinalda.cv.		28800	IN	AAAA	2a04:fa87:ffff::c6b5:7509
 skribi.cv.		28800	IN	NS	ns1.wordpress.COM.
 skribi.cv.		28800	IN	NS	ns2.wordpress.COM.
 skribi.cv.		28800	IN	NS	ns3.wordpress.COM.
@@ -8330,11 +8336,11 @@ thebluebananagroup.cv.	28800	IN	NS	ns2.ptwebserv.net.
 thebluebananagroup.cv.	28800	IN	NS	ns3.ptwebserv.net.
 thechameleon.cv.	28800	IN	NS	ns1.dnscpanel.com.
 thechameleon.cv.	28800	IN	NS	ns2.dnscpanel.com.
+thefactory.cv.		28800	IN	A	85.17.199.26
 thefactory.cv.		28800	IN	AAAA	2001:4801:7818:6:94c2:71bb:ff10:7bc1
 thefactory.cv.		28800	IN	NS	ns1.dnscpanel.com.
 thefactory.cv.		28800	IN	NS	ns2.dnscpanel.com.
 thefactory.cv.		28800	IN	NS	ns3.dnscpanel.com.
-thefactory.cv.		28800	IN	A	85.17.199.26
 thetravellers.cv.	28800	IN	AAAA	2001:67c:1bc::104
 thetravellers.cv.	28800	IN	AAAA	2001:67c:10b8::104
 thetravellers.cv.	28800	IN	AAAA	2a01:4f8:222:b03::2
@@ -8509,10 +8515,10 @@ tui-capeverde.cv.	28800	IN	AAAA	2600:2000:1000::7
 tui-capeverde.cv.	28800	IN	AAAA	2600:2000:1001::7
 tui-capeverde.cv.	28800	IN	NS	ns01.brandshelter.com.
 tui-capeverde.cv.	28800	IN	NS	ns02.brandshelter.net.
-tuiblue.cv.		28800	IN	AAAA	2600:2000:1000::7
-tuiblue.cv.		28800	IN	AAAA	2600:2000:1001::7
 tuiblue.cv.		28800	IN	NS	ns01.brandshelter.com.
 tuiblue.cv.		28800	IN	NS	ns02.brandshelter.net.
+tuiblue.cv.		28800	IN	AAAA	2600:2000:1000::7
+tuiblue.cv.		28800	IN	AAAA	2600:2000:1001::7
 tuiblue-santamaria.cv.	28800	IN	AAAA	2600:2000:1000::7
 tuiblue-santamaria.cv.	28800	IN	AAAA	2600:2000:1001::7
 tuiblue-santamaria.cv.	28800	IN	NS	ns01.brandshelter.com.
@@ -8699,12 +8705,12 @@ vendus.cv.		28800	IN	NS	ns1.vendus.com.
 vendus.cv.		28800	IN	NS	ns2.vendus.com.
 vendus.cv.		28800	IN	NS	ns3.vendus.com.
 vendus.cv.		28800	IN	NS	ns4.vendus.com.
+verdeana.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
+verdeana.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
 verdeana.cv.		28800	IN	NS	ns101.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns102.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns103.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns104.cloudns.net.
-verdeana.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
-verdeana.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
 verdeeverde.cv.		28800	IN	NS	ns1.dns-parking.com.
 verdeeverde.cv.		28800	IN	NS	ns2.dns-parking.com.
 verdefam.cv.		28800	IN	AAAA	2a02:c200:0:10::891:1
@@ -8879,9 +8885,9 @@ wedo.cv.		28800	IN	NS	ns3.inwx.eu.
 wetrust.cv.		28800	IN	NS	ns1.pipedns.com.
 wetrust.cv.		28800	IN	NS	ns2.pipedns.com.
 wetrust.cv.		28800	IN	NS	ns3.pipedns.com.
-wifianywhere.cv.	28800	IN	AAAA	2001:41d0:8:3730::
 wifianywhere.cv.	28800	IN	NS	ns1.inmotionhosting.com.
 wifianywhere.cv.	28800	IN	NS	ns2.inmotionhosting.com.
+wifianywhere.cv.	28800	IN	AAAA	2001:41d0:8:3730::
 wine.cv.		28800	IN	NS	ns1.ptservidor.net.
 wine.cv.		28800	IN	NS	ns2.ptservidor.net.
 wine.cv.		28800	IN	NS	ns3.ptservidor.net.
@@ -8952,4 +8958,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022092301 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022092801 86400 7200 2592000 300
