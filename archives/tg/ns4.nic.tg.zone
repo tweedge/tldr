@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092840 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092870 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -439,8 +439,8 @@ annonces.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
 annonces.tg.		86400	IN	NS	ns1.annonces.tg.
 annonces.tg.		86400	IN	NS	ns2.annonces.tg.
 annuaire.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
-annuaire.tg.		86400	IN	NS	ns1.annuaire.tg.
-annuaire.tg.		86400	IN	NS	ns2.annuaire.tg.
+annuaire.tg.		86400	IN	NS	ns1.annuare.tg.
+annuaire.tg.		86400	IN	NS	ns2.annuare.tg.
 ns1.annuaire.tg.	86400	IN	A	37.59.35.20
 ns2.annuaire.tg.	86400	IN	A	37.59.35.20
 annuaires.tg.		86400	IN	NS	ns3151666.ip-51-91-61.eu.
@@ -4030,6 +4030,9 @@ pastis51.tg.		86400	IN	NS	dns1.cscdns.net.
 pastis51.tg.		86400	IN	NS	dns2.cscdns.net.
 pay.tg.			86400	IN	NS	albert.ns.cloudflare.com.
 pay.tg.			86400	IN	NS	irma.ns.cloudflare.com.
+pay-people.tg.		86400	IN	NS	ns5.netmaster.tg.
+pay-people.tg.		86400	IN	NS	ns1.cafe.tg.
+pay-people.tg.		86400	IN	NS	ns2.cafe.tg.
 paydaycasino.tg.	86400	IN	NS	dns1.idp365.net.
 paydaycasino.tg.	86400	IN	NS	dns2.idp365.net.
 paydaycasino.tg.	86400	IN	NS	dns3.idp365.net.
@@ -5799,4 +5802,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092840 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092870 21600 3600 604800 86400
