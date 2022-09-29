@@ -1,4 +1,4 @@
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092957 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092973 21600 3600 604800 86400
 tg.			86400	IN	NS	tld.cafe.tg.
 tg.			86400	IN	NS	ns3.admin.net.
 tg.			86400	IN	NS	ns4.admin.net.
@@ -1315,6 +1315,8 @@ cnss.tg.		86400	IN	NS	elma.ns.cloudflare.com.
 co.tg.			86400	IN	NS	vps584604.ovh.net.
 coca-cola.tg.		86400	IN	NS	ns1.guzelhosting.com.
 coca-cola.tg.		86400	IN	NS	ns2.guzelhosting.com.
+cochon.tg.		86400	IN	NS	dns1.hosteur.com.
+cochon.tg.		86400	IN	NS	dns2.hosteur.com.
 cocoa.tg.		86400	IN	NS	ns100.hostwhitelabel.com.
 cocoa.tg.		86400	IN	NS	ns200.hostwhitelabel.com.
 cocobeach.tg.		86400	IN	NS	mac1.netcom.tg.
@@ -5802,4 +5804,4 @@ zurich.tg.		86400	IN	NS	dns1.cscdns.net.
 zurich.tg.		86400	IN	NS	dns2.cscdns.net.
 zzz.tg.			86400	IN	NS	amanda.ns.cloudflare.com.
 zzz.tg.			86400	IN	NS	doug.ns.cloudflare.com.
-tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092957 21600 3600 604800 86400
+tg.			86400	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022092973 21600 3600 604800 86400
