@@ -20,7 +20,6 @@
 * `mw` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/chambo.sdnp.org.mw.zone)
 * `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
 * `sl` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/ns2.neoip.com.zone)
-* `ss` via `b.ns.tznic.or.tz.`: [Click here to view zone data.](archives/ss/b.ns.tznic.or.tz.zone)
 * `xn--mgbai9azgqp6j` via `ns.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns.ntc.net.pk.zone)
 * `xn--mgbai9azgqp6j` via `ns1.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns1.ntc.net.pk.zone)
 * `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
