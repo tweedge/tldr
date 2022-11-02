@@ -3,6 +3,7 @@
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `f.root-servers.net.`: [Click here to view zone data.](archives/root/f.root-servers.net.zone)
 * `.` via `g.root-servers.net.`: [Click here to view zone data.](archives/root/g.root-servers.net.zone)
+* `.` via `k.root-servers.net.`: [Click here to view zone data.](archives/root/k.root-servers.net.zone)
 * `arpa` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/b.ns.arpa.zone)
 * `arpa` via `c.ns.arpa.`: [Click here to view zone data.](archives/arpa/c.ns.arpa.zone)
 * `arpa` via `d.ns.arpa.`: [Click here to view zone data.](archives/arpa/d.ns.arpa.zone)
