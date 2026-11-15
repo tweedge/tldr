@@ -17,11 +17,11 @@ chrono = { version = "0.4", default-features = false, features = ["clock", "std"
 clap = { version = "4.5", features = ["derive"] }
 hickory-proto = { version = "0.26", features = ["dnssec-ring"] }
 hickory-resolver = { version = "0.26", default-features = false, features = ["tokio", "https-ring", "webpki-roots"] }
-reqwest = { version = "0.12", default-features = false, features = ["rustls-tls", "json"] }
+pushover-rs = { version = "0.3.23", default-features = false, features = ["rustls-tls"] }
+reqwest = { version = "0.12", default-features = false, features = ["rustls-tls"] }
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 tokio = { version = "1", features = ["macros", "net", "rt-multi-thread", "signal", "sync", "time", "fs", "io-util"] }
-tokio-socks = "0.5"
 toml = "1"
 tracing = "0.1"
 tracing-subscriber = { version = "0.3", features = ["env-filter"] }

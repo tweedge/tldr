@@ -1,21 +1,17 @@
 [archive]
-path = "/home/tweedge/tldr-deploy/data/archive"
+path = "/home/ubuntu/tldr-deploy/data/archive"
 retention_days = 30
 compression_level = 19
 
 [scan]
-# A single SSH SOCKS tunnel is the bottleneck here. Concurrency bounds in-flight
-# transfers; pacing is left at 0 because it serializes the spawn loop. Fewer
-# servers per zone keeps a full sweep bounded.
-concurrency = 8
-timeout_secs = 12
+# cybersecurity.theater has a clean path to port 53, so transfers go direct.
+# Concurrency is bounded to be polite to authoritative servers; pacing is 0
+# because it serializes the spawn loop.
+concurrency = 12
+timeout_secs = 20
 pacing_ms = 0
-max_servers_per_zone = 2
+max_servers_per_zone = 6
 include_root = true
-# This LAN intercepts all port-53 traffic, so AXFR must egress via the tunnel
-# provided by tldr-tunnel.service (ssh -N -D 127.0.0.1:1080).
-socks5_proxy = "127.0.0.1:1080"
-transport = "socks5"
 
 [diff]
 notify_floor = "high"
@@ -25,9 +21,10 @@ enabled = true
 app_token_env = "PUSHOVER_APP_TOKEN"
 user_token_env = "PUSHOVER_USER_TOKEN"
 title = "TLDR"
-priority = 0
+# device = "phone"          # optional: target a single Pushover device
+# priority = 0              # optional: -2..=2; unset uses the app default
 message_max_chars = 1000
 dry_run = false
 
 [report]
-zones_md = "/home/tweedge/tldr-deploy/data/ZONES.md"
+zones_md = "/home/ubuntu/tldr-deploy/data/ZONES.md"

@@ -7,7 +7,7 @@ use std::time::Duration;
 use anyhow::{Context, Result};
 use chrono::{DateTime, Utc};
 use tldr_core::archive::{Archive, SnapshotEntry};
-use tldr_core::axfr::{transfer_axfr, TransferOutcome, Transport};
+use tldr_core::axfr::{transfer_axfr, TransferOutcome};
 use tldr_core::diff::{diff, DiffPolicy, Significance, ZoneDiff};
 use tldr_core::discovery::{doh_resolver, fetch_iana_tlds, lookup_addresses, lookup_nameservers};
 use tldr_core::zone::{fqdn, Zone};
@@ -85,20 +85,6 @@ impl RunReport {
     }
 }
 
-fn transport_for(config: &Config) -> Transport {
-    match config.scan.transport.as_str() {
-        "socks5" | "auto" => {
-            if let Some(proxy) = &config.scan.socks5_proxy {
-                if let Ok(addr) = proxy.parse() {
-                    return Transport::Socks5 { addr };
-                }
-            }
-            Transport::Direct
-        }
-        _ => Transport::Direct,
-    }
-}
-
 /// Run one full scan cycle.
 pub async fn run(config: &Config) -> Result<RunReport> {
     let started = Utc::now();
@@ -150,18 +136,6 @@ pub async fn run(config: &Config) -> Result<RunReport> {
 
     // Limit total concurrency across all zones.
     let semaphore = Arc::new(Semaphore::new(config.scan.concurrency.max(1)));
-    let transport = transport_for(config);
-    if let Transport::Socks5 { addr } = transport {
-        match tokio::time::timeout(Duration::from_secs(5), tokio::net::TcpStream::connect(addr))
-            .await
-        {
-            Ok(Ok(_)) => tracing::info!(%addr, "SOCKS5 proxy reachable"),
-            Ok(Err(error)) => {
-                tracing::warn!(%addr, %error, "SOCKS5 proxy unreachable; transfers will fail until the tunnel is up")
-            }
-            Err(_) => tracing::warn!(%addr, "SOCKS5 proxy connection timed out"),
-        }
-    }
     let timeout = Duration::from_secs(config.scan.timeout_secs.max(1));
     let pacing = Duration::from_millis(config.scan.pacing_ms);
 
@@ -313,7 +287,6 @@ pub async fn run(config: &Config) -> Result<RunReport> {
         let ips = server_ips.get(server).cloned().unwrap_or_default();
         let origin = origin.clone();
         let server = server.clone();
-        let transport = transport.clone();
         let handle = tokio::spawn(async move {
             let _permit = permit;
             if ips.is_empty() {
@@ -326,7 +299,7 @@ pub async fn run(config: &Config) -> Result<RunReport> {
             // Try each address until one answers.
             let mut last = TransferOutcome::Failed("no addresses for server".to_string());
             for ip in ips {
-                let outcome = transfer_axfr(&origin, ip, &transport, timeout).await;
+                let outcome = transfer_axfr(&origin, ip, timeout).await;
                 let done = matches!(
                     outcome,
                     TransferOutcome::Success(_) | TransferOutcome::Refused
@@ -450,7 +423,12 @@ pub async fn run(config: &Config) -> Result<RunReport> {
     // Notify. Notification failures must never discard a completed scan or its
     // archive: log and continue so the next cycle (or a manual read) still works.
     match notify::deliver(config, &mut report, floor).await {
-        Ok(notified) => report.notifications_sent = notified,
+        Ok(delivery) => {
+            report.notifications_sent = delivery.sent;
+            for error in &delivery.errors {
+                tracing::error!(%error, "notification delivery error");
+            }
+        }
         Err(error) => tracing::error!(%error, "notification delivery failed"),
     }
 

@@ -1,10 +1,10 @@
-//! Zone transfer client: AXFR over direct TCP or a SOCKS5 proxy.
+//! Zone transfer (AXFR) client.
 //!
-//! Port 53 is frequently transparently intercepted by consumer/enterprise
-//! networks, which makes zone transfers silently fail with injected REFUSED
-//! responses. The transfer client therefore supports an optional SOCKS5 proxy
-//! (for example an SSH dynamic forward) so a clean egress path can be used for
-//! AXFR while NS discovery still uses DNS-over-HTTPS.
+//! TLDR must run on a network with unfiltered DNS egress. Some networks
+//! transparently intercept TCP/UDP port 53 and answer AXFR with an injected
+//! `REFUSED`, which looks like "the zone is not transferable" when in fact the
+//! transfer never reached the authoritative server. There is no in-process
+//! workaround for that; deploy TLDR somewhere with a clean path to port 53.
 
 use std::net::{IpAddr, SocketAddr};
 use std::sync::atomic::{AtomicU16, Ordering};
@@ -13,7 +13,7 @@ use std::time::Duration;
 use anyhow::{anyhow, bail, Context, Result};
 use hickory_proto::op::{Message, MessageType, OpCode, Query, ResponseCode};
 use hickory_proto::rr::{Name, Record, RecordType};
-use tokio::io::{AsyncRead, AsyncReadExt, AsyncWrite, AsyncWriteExt};
+use tokio::io::{AsyncReadExt, AsyncWriteExt};
 use tokio::net::TcpStream;
 
 use crate::zone::Zone;
@@ -22,16 +22,6 @@ static NEXT_ID: AtomicU16 = AtomicU16::new(1);
 
 fn next_id() -> u16 {
     NEXT_ID.fetch_add(1, Ordering::Relaxed)
-}
-
-/// How to reach an authoritative server's TCP port 53.
-#[derive(Debug, Clone, Default)]
-pub enum Transport {
-    /// Connect directly to the server.
-    #[default]
-    Direct,
-    /// Connect through a SOCKS5 proxy.
-    Socks5 { addr: SocketAddr },
 }
 
 /// Outcome of a single zone-transfer attempt.
@@ -46,13 +36,8 @@ pub enum TransferOutcome {
 }
 
 /// Attempt an AXFR for `origin` against `server` and return a parsed zone.
-pub async fn transfer_axfr(
-    origin: &str,
-    server: IpAddr,
-    transport: &Transport,
-    timeout: Duration,
-) -> TransferOutcome {
-    match tokio::time::timeout(timeout, axfr_inner(origin, server, transport)).await {
+pub async fn transfer_axfr(origin: &str, server: IpAddr, timeout: Duration) -> TransferOutcome {
+    match tokio::time::timeout(timeout, axfr_inner(origin, server)).await {
         Ok(Ok(zone)) => TransferOutcome::Success(zone),
         Ok(Err(AxfrError::Refused(code))) => {
             tracing::debug!(%origin, %server, ?code, "zone transfer refused");
@@ -80,77 +65,7 @@ impl std::fmt::Display for AxfrError {
 
 impl std::error::Error for AxfrError {}
 
-#[derive(Debug)]
-enum Stream {
-    Tcp(TcpStream),
-    Socks(tokio_socks::tcp::Socks5Stream<TcpStream>),
-}
-
-impl Stream {
-    async fn connect(server: IpAddr, transport: &Transport) -> Result<Self> {
-        let target = SocketAddr::new(server, 53);
-        match transport {
-            Transport::Direct => Ok(Stream::Tcp(
-                TcpStream::connect(target)
-                    .await
-                    .with_context(|| format!("connecting to {target}"))?,
-            )),
-            Transport::Socks5 { addr } => Ok(Stream::Socks(
-                tokio_socks::tcp::Socks5Stream::connect(*addr, target)
-                    .await
-                    .with_context(|| format!("connecting to {target} via SOCKS5 {addr}"))?,
-            )),
-        }
-    }
-}
-
-impl AsyncRead for Stream {
-    fn poll_read(
-        self: std::pin::Pin<&mut Self>,
-        cx: &mut std::task::Context<'_>,
-        buf: &mut tokio::io::ReadBuf<'_>,
-    ) -> std::task::Poll<std::io::Result<()>> {
-        match self.get_mut() {
-            Stream::Tcp(stream) => std::pin::Pin::new(stream).poll_read(cx, buf),
-            Stream::Socks(stream) => std::pin::Pin::new(stream).poll_read(cx, buf),
-        }
-    }
-}
-
-impl AsyncWrite for Stream {
-    fn poll_write(
-        self: std::pin::Pin<&mut Self>,
-        cx: &mut std::task::Context<'_>,
-        buf: &[u8],
-    ) -> std::task::Poll<std::io::Result<usize>> {
-        match self.get_mut() {
-            Stream::Tcp(stream) => std::pin::Pin::new(stream).poll_write(cx, buf),
-            Stream::Socks(stream) => std::pin::Pin::new(stream).poll_write(cx, buf),
-        }
-    }
-
-    fn poll_flush(
-        self: std::pin::Pin<&mut Self>,
-        cx: &mut std::task::Context<'_>,
-    ) -> std::task::Poll<std::io::Result<()>> {
-        match self.get_mut() {
-            Stream::Tcp(stream) => std::pin::Pin::new(stream).poll_flush(cx),
-            Stream::Socks(stream) => std::pin::Pin::new(stream).poll_flush(cx),
-        }
-    }
-
-    fn poll_shutdown(
-        self: std::pin::Pin<&mut Self>,
-        cx: &mut std::task::Context<'_>,
-    ) -> std::task::Poll<std::io::Result<()>> {
-        match self.get_mut() {
-            Stream::Tcp(stream) => std::pin::Pin::new(stream).poll_shutdown(cx),
-            Stream::Socks(stream) => std::pin::Pin::new(stream).poll_shutdown(cx),
-        }
-    }
-}
-
-async fn read_message(stream: &mut Stream) -> std::result::Result<Message, AxfrError> {
+async fn read_message(stream: &mut TcpStream) -> std::result::Result<Message, AxfrError> {
     let mut length = [0u8; 2];
     stream
         .read_exact(&mut length)
@@ -170,17 +85,13 @@ async fn read_message(stream: &mut Stream) -> std::result::Result<Message, AxfrE
     Ok(message)
 }
 
-async fn axfr_inner(
-    origin: &str,
-    server: IpAddr,
-    transport: &Transport,
-) -> std::result::Result<Zone, AxfrError> {
+async fn axfr_inner(origin: &str, server: IpAddr) -> std::result::Result<Zone, AxfrError> {
     let name = Name::from_ascii(crate::zone::fqdn(origin))
         .map_err(|e| AxfrError::Other(format!("invalid zone name: {e}")))?;
-
-    let mut stream = Stream::connect(server, transport)
+    let target = SocketAddr::new(server, 53);
+    let mut stream = TcpStream::connect(target)
         .await
-        .map_err(|e| AxfrError::Other(e.to_string()))?;
+        .map_err(|e| AxfrError::Other(format!("connecting to {target}: {e}")))?;
 
     let mut request = Message::new(next_id(), MessageType::Query, OpCode::Query);
     request.metadata.recursion_desired = false;
@@ -234,15 +145,10 @@ async fn axfr_inner(
     Zone::from_records(origin, &records).map_err(|e| AxfrError::Other(e.to_string()))
 }
 
-/// Resolve a hostname to IP addresses using the system resolver, filtering to
-/// usable addresses. Used for authoritative server lookups when DoH is not used.
+/// Resolve a hostname to IP addresses using the system resolver.
 pub async fn resolve_host(host: &str) -> Result<Vec<IpAddr>> {
-    let target = if host.ends_with('.') {
-        host.to_string()
-    } else {
-        format!("{host}.")
-    };
-    let addrs = tokio::net::lookup_host((target.trim_end_matches('.'), 53))
+    let target = host.trim_end_matches('.');
+    let addrs = tokio::net::lookup_host((target, 53))
         .await
         .with_context(|| format!("resolving {host}"))?
         .map(|addr| addr.ip())

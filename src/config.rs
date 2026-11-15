@@ -52,10 +52,6 @@ pub struct ScanConfig {
     pub include_root: bool,
     /// Optional override of the IANA TLD list (for deterministic testing).
     pub tlds: Option<Vec<String>>,
-    /// SOCKS5 proxy for AXFR, e.g. "127.0.0.1:1080". Empty means direct.
-    pub socks5_proxy: Option<String>,
-    /// Transport selection: "auto", "direct", or "socks5".
-    pub transport: String,
     /// Do not transfer these zones.
     pub exclude: Vec<String>,
     /// Discover zones and nameservers but skip all transfers (dry run).
@@ -71,8 +67,6 @@ impl Default for ScanConfig {
             max_servers_per_zone: 6,
             include_root: true,
             tlds: None,
-            socks5_proxy: None,
-            transport: "auto".to_string(),
             exclude: Vec::new(),
             discovery_only: false,
         }
@@ -117,7 +111,10 @@ pub struct NotifyConfig {
     pub app_token_env: String,
     pub user_token_env: String,
     pub title: String,
-    pub priority: i8,
+    /// Optional Pushover device name to target a single device.
+    pub device: Option<String>,
+    /// Optional Pushover priority (-2..=2). Unset uses the app default (0).
+    pub priority: Option<i8>,
     /// Maximum characters per Pushover message before splitting.
     pub message_max_chars: usize,
     /// Suppress all notifications for a dry run.
@@ -131,7 +128,8 @@ impl Default for NotifyConfig {
             app_token_env: "PUSHOVER_APP_TOKEN".to_string(),
             user_token_env: "PUSHOVER_USER_TOKEN".to_string(),
             title: "TLDR".to_string(),
-            priority: 0,
+            device: None,
+            priority: None,
             message_max_chars: 1000,
             dry_run: false,
         }

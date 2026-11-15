@@ -16,7 +16,6 @@ serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 sha2 = "0.10"
 tokio = { version = "1", features = ["net", "io-util", "time", "sync", "rt", "fs"] }
-tokio-socks = "0.5"
 tracing = "0.1"
 zstd = "0.13"
 

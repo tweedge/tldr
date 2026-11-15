@@ -7,18 +7,9 @@ compression_level = 19
 [scan]
 concurrency = 12
 timeout_secs = 20
-pacing_ms = 150
+pacing_ms = 0
+max_servers_per_zone = 6
 include_root = true
-
-# SDNS/BIND-style AXFR is transparently intercepted on many consumer and
-# enterprise networks (all port-53 traffic is answered by a local forwarder,
-# which returns REFUSED for AXFR). Set a SOCKS5 proxy here to force AXFR over a
-# clean egress path, e.g. an SSH dynamic forward: `ssh -N -D 1080 user@host`.
-# Leave unset (or transport = "direct") when the host has unfiltered port 53.
-# socks5_proxy = "127.0.0.1:1080"
-transport = "auto"
-
-# [scan]
 # tlds = ["arpa", "fj", "gp"]   # optional fixed list instead of IANA's
 exclude = []
 
@@ -38,7 +29,8 @@ enabled = false
 app_token_env = "PUSHOVER_APP_TOKEN"
 user_token_env = "PUSHOVER_USER_TOKEN"
 title = "TLDR"
-priority = 0
+# device = "phone"          # optional: target a single Pushover device
+# priority = 0              # optional: -2..=2; unset uses the app default
 message_max_chars = 1000
 dry_run = false
 

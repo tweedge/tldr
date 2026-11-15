@@ -13,10 +13,9 @@ This is classic TLDR AXFR only; zone walks are intentionally out of scope.
 ## What it does
 
 - **Discovers** the current TLD list from IANA and resolves authoritative
-  nameservers with DNS-over-HTTPS (so discovery works even where port 53 is
-  filtered).
-- **Transfers** each root/TLD zone over TCP port 53, directly or through a
-  SOCKS5 proxy.
+  nameservers with DNS-over-HTTPS.
+- **Transfers** each root/TLD zone over direct TCP port 53. TLDR must run on a
+  network with an unfiltered port 53 (see Deployment).
 - **Archives** every successful transfer into a content-addressed, zstd-
   compressed store with a JSON manifest and per-day summaries. Identical zones
   deduplicate to a single blob; 30 days are retained by default.
@@ -40,10 +39,12 @@ Key design choices:
 
 - **hickory-proto** for DNS wire encoding/decoding and record types.
 - **hickory-resolver** with DoH for all discovery (never port 53).
-- A hand-rolled AXFR client because port 53 may be intercepted; it supports a
-  SOCKS5 transport for a clean-egress path.
+- A hand-rolled AXFR client over direct TCP, since AXFR framing and multi-message
+  reassembly are simple and avoid a heavier dependency.
 - **zstd** content-addressed blobs + SHA-256, so re-transfers of unchanged
   zones cost nothing on disk.
+- **pushover-rs** for notifications, checking the response body (a 200 can still
+  carry a rejection) and chunking long change lists under the message limit.
 
 ## Configuration
 
@@ -57,8 +58,7 @@ retention_days = 30
 [scan]
 concurrency = 12
 timeout_secs = 20
-# socks5_proxy = "127.0.0.1:1080"   # for networks that filter port 53
-transport = "auto"
+max_servers_per_zone = 6
 
 [diff]
 notify_floor = "high"                # none | low | medium | high
@@ -78,15 +78,15 @@ tldr --config config.toml --dry-run         # discovery only
 tldr --config config.toml --once --json     # machine-readable report
 ```
 
-## Docker
+## Deployment
 
-```sh
-docker build -t tldr .
-docker compose up -d        # uses ./config.toml and ./data
-```
+TLDR must run somewhere with a **clean, unfiltered path to port 53**; filtered
+networks silently break AXFR. The current target is `cybersecurity.theater`
+(aarch64, native build, systemd user service); see `deploy/README.md`.
 
-The archive lives under the mounted `/data` directory and is append-only
-except for retention pruning.
+A `Dockerfile` and `compose.yaml` are provided for hosts that prefer containers;
+the archive lives under the mounted `/data` directory and is append-only except
+for retention pruning.
 
 ## Development
 
