@@ -30,7 +30,6 @@ pub struct ZoneResult {
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub enum Outcome {
     Transferred,
-    Refused,
     Failed(String),
 }
 
@@ -72,7 +71,6 @@ impl RunReport {
                 "server": r.server,
                 "outcome": match &r.outcome {
                     Outcome::Transferred => "transferred".to_string(),
-                    Outcome::Refused => "refused".to_string(),
                     Outcome::Failed(e) => format!("failed: {e}"),
                 },
                 "records": r.entry.as_ref().map(|e| e.records),
@@ -359,15 +357,9 @@ pub async fn run(config: &Config) -> Result<RunReport> {
                 results.push((origin, server, Some(zone)));
             }
             TransferOutcome::Refused => {
+                // Most servers refuse AXFR; recording each one would bloat the
+                // report without adding signal. The count is sufficient.
                 report.zones_refused += 1;
-                report.executed.push(ZoneResult {
-                    origin: origin.clone(),
-                    server: server.clone(),
-                    outcome: Outcome::Refused,
-                    significance: Significance::None,
-                    diff: None,
-                    entry: None,
-                });
             }
             TransferOutcome::Failed(error) => {
                 report.zones_failed += 1;
