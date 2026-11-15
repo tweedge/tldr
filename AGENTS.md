@@ -61,7 +61,8 @@ cargo test --workspace
 cargo clippy --workspace --all-targets --all-features -- -D warnings
 cargo run -- --config config.toml --dry-run            # discovery only
 cargo run -- --config config.toml --once --json        # one cycle
-cargo run -- --config config.toml --daemon             # continuous
+cargo run -- --config config.toml --daemon             # continuous (hourly)
+cargo run -- --config config.toml --test-notification   # verify Pushover
 cargo run --example legacy_report -- archives <new-archive>
 ```
 

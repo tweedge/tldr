@@ -96,6 +96,31 @@ pub async fn deliver(
     Ok(result)
 }
 
+/// Send a single test message so delivery can be verified without waiting for a
+/// real change. Returns a human-readable description of what happened.
+pub async fn send_test(settings: &NotifyConfig) -> Result<String> {
+    if settings.dry_run {
+        return Ok("dry run: would send a test notification".to_string());
+    }
+    if !settings.enabled {
+        return Ok("notifications are disabled in config; nothing sent".to_string());
+    }
+    let Some((app_token, user_token)) = pushover_tokens(settings)? else {
+        return Ok("Pushover credentials missing; nothing sent".to_string());
+    };
+    let notifier = Notifier {
+        app_token,
+        user_token,
+        settings: settings.clone(),
+    };
+    let message =
+        "TLDR test notification. If you received this, alerts from TLDR are wired up correctly.";
+    notifier
+        .send_one(&format!("{} test", settings.title), message)
+        .await?;
+    Ok("test notification sent".to_string())
+}
+
 fn pushover_tokens(settings: &NotifyConfig) -> Result<Option<(String, String)>> {
     let app_token = match std::env::var(&settings.app_token_env) {
         Ok(value) if !value.trim().is_empty() => value,

@@ -67,6 +67,7 @@ archiving continue normally.
 ```sh
 tldr --config config.toml --dry-run       # discovery only, no transfers
 tldr --config config.toml --once --json   # one cycle
+tldr --config config.toml --test-notification  # verify Pushover delivery
 journalctl --user -u tldr -n 50           # service logs
 ```
 

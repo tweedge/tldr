@@ -73,10 +73,13 @@ enabled = true
 
 ```sh
 tldr --config config.toml --once            # one cycle
-tldr --config config.toml --daemon          # every 3 hours
+tldr --config config.toml --daemon          # hourly (default)
 tldr --config config.toml --dry-run         # discovery only
 tldr --config config.toml --once --json     # machine-readable report
+tldr --config config.toml --test-notification  # send one Pushover test
 ```
+
+`--daemon` runs in the foreground; `--interval-secs` overrides the default 3600.
 
 ## Deployment
 

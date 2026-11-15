@@ -9,7 +9,7 @@ WorkingDirectory=%h/tldr-deploy
 Environment=RUST_LOG=info,hickory_net=error,hickory_proto=warn
 # Credentials for notifications live in an env file (chmod 600), never in git.
 EnvironmentFile=-%h/tldr-deploy/tldr.env
-ExecStart=%h/tldr-deploy/tldr --daemon --config %h/tldr-deploy/config.toml
+ExecStart=%h/tldr-deploy/tldr --daemon --interval-secs 3600 --config %h/tldr-deploy/config.toml
 Restart=always
 RestartSec=60
 

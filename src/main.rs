@@ -31,9 +31,13 @@ struct Cli {
     #[arg(long)]
     daemon: bool,
 
-    /// Seconds between daemon cycles.
-    #[arg(long, default_value_t = 10800)]
+    /// Seconds between daemon cycles (default: hourly).
+    #[arg(long, default_value_t = 3600)]
     interval_secs: u64,
+
+    /// Send a single test notification and exit.
+    #[arg(long)]
+    test_notification: bool,
 
     /// Validate configuration and discovery without transferring.
     #[arg(long)]
@@ -65,6 +69,12 @@ async fn main() -> Result<()> {
     if cli.dry_run {
         config.notify.dry_run = true;
         config.scan.discovery_only = true;
+    }
+
+    if cli.test_notification {
+        let status = notify::send_test(&config.notify).await?;
+        tracing::info!("{status}");
+        return Ok(());
     }
 
     if cli.daemon {
