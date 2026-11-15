@@ -4,10 +4,12 @@ retention_days = 30
 compression_level = 19
 
 [scan]
-concurrency = 16
-timeout_secs = 15
-pacing_ms = 0
-max_servers_per_zone = 4
+# A single SSH SOCKS tunnel is the bottleneck here; keep concurrency modest and
+# pace starts so the tunnel is not overwhelmed (which shows up as mass timeouts).
+concurrency = 6
+timeout_secs = 20
+pacing_ms = 250
+max_servers_per_zone = 3
 include_root = true
 # This LAN intercepts all port-53 traffic, so AXFR must egress via the tunnel
 # provided by tldr-tunnel.service (ssh -N -D 127.0.0.1:1080).
