@@ -1,26 +1,107 @@
 # tldr
 
-[![Forked From](https://img.shields.io/badge/forked%20from-TLDR-blue.svg)](https://github.com/mandatoryprogrammer/TLDR)
-[![Code Style](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
-[![Operated By](https://img.shields.io/badge/operated%20by-some%20nerd-red.svg)](https://chris.partridge.tech)
+*A continuously updated historical DNS zone-transfer archive.*
 
-*A(nother) continuously updated historical TLD records archive.*
+TLDR periodically attempts [DNS zone transfers (AXFR)](https://en.wikipedia.org/wiki/DNS_zone_transfer)
+against the [root nameservers](https://en.wikipedia.org/wiki/Root_name_server) and
+every TLD, archives the resulting zones, and alerts on *significant* changes.
+It is a Rust rewrite of the original Python `scan.py`, adding compression,
+deduplication, 30-day retention, and noise-filtered Pushover notifications.
 
-This repository is updated approximately every three hours with the results from [DNS zone transfer attempts](https://en.wikipedia.org/wiki/DNS_zone_transfer) against the [root nameservers](https://en.wikipedia.org/wiki/Root_name_server) and all existing TLD servers. This is done to keep record of zone files for various TLDs and to monitor how these zones change over time.
+This is classic TLDR AXFR only; zone walks are intentionally out of scope.
 
-The current list of zones is available [here](https://github.com/tweedge/tldr/blob/main/ZONES.md). You can watch that file for changes in case another [.kp DNS leak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) occurs (or similar).
+## What it does
 
-## Zone Transfers for Roots and TLDs
+- **Discovers** the current TLD list from IANA and resolves authoritative
+  nameservers with DNS-over-HTTPS (so discovery works even where port 53 is
+  filtered).
+- **Transfers** each root/TLD zone over TCP port 53, directly or through a
+  SOCKS5 proxy.
+- **Archives** every successful transfer into a content-addressed, zstd-
+  compressed store with a JSON manifest and per-day summaries. Identical zones
+  deduplicate to a single blob; 30 days are retained by default.
+- **Diffs** each zone against its previous snapshot semantically — ignoring SOA
+  serials, DNSSEC signature rotation, NSEC re-derivation, and TTL wobble — and
+  rates the change `none`/`low`/`medium`/`high`.
+- **Notifies** via Pushover for changes at or above a configurable floor
+  (default: `high`, i.e. new zones, apex nameserver changes, and mass delegation
+  churn).
 
-Allowing global zone transfers is sometimes considered a security vulnerability due to this functionality giving attackers the ability to easily enumerate all DNS zone data for a specific domain. This is seen as an issue for system administrators who want to make enumerating sub-domains and other DNS data "hard" for malicious actors (read: forcing them to open [OWASP/amass](https://github.com/OWASP/Amass)).
+## Architecture
 
-However, when it comes to TLDs and the root nameservers, zone transfers are shown in a different light. Zone transfers at this level can be beneficial as they are an easy way for a TLD to be transparent about its DNS changes. This project is **not** meant to encourage TLD DNS hosting providers to disable global zone transfers but rather to gather data on the ever-changing zone information for the Internet's TLDs.
+```
+src/                  tldr binary: CLI, config, scan orchestration, notifications
+crates/tldr-core/     library: zone model, AXFR client, archive, diff, discovery
+examples/legacy_report.rs   compare the 2022 dig archive against the new one
+archives/             the legacy (2022) archive, reference only
+```
+
+Key design choices:
+
+- **hickory-proto** for DNS wire encoding/decoding and record types.
+- **hickory-resolver** with DoH for all discovery (never port 53).
+- A hand-rolled AXFR client because port 53 may be intercepted; it supports a
+  SOCKS5 transport for a clean-egress path.
+- **zstd** content-addressed blobs + SHA-256, so re-transfers of unchanged
+  zones cost nothing on disk.
+
+## Configuration
+
+See `config.toml`. The important knobs:
+
+```toml
+[archive]
+path = "/data/archive"
+retention_days = 30
+
+[scan]
+concurrency = 12
+timeout_secs = 20
+# socks5_proxy = "127.0.0.1:1080"   # for networks that filter port 53
+transport = "auto"
+
+[diff]
+notify_floor = "high"                # none | low | medium | high
+
+[notify]
+enabled = true
+# credentials are read from the environment:
+#   PUSHOVER_APP_TOKEN, PUSHOVER_USER_TOKEN
+```
+
+## Usage
+
+```sh
+tldr --config config.toml --once            # one cycle
+tldr --config config.toml --daemon          # every 3 hours
+tldr --config config.toml --dry-run         # discovery only
+tldr --config config.toml --once --json     # machine-readable report
+```
+
+## Docker
+
+```sh
+docker build -t tldr .
+docker compose up -d        # uses ./config.toml and ./data
+```
+
+The archive lives under the mounted `/data` directory and is append-only
+except for retention pruning.
+
+## Development
+
+```sh
+cargo test --workspace
+cargo clippy --workspace --all-targets --all-features -- -D warnings
+cargo fmt --all --check
+```
+
+See `AGENTS.md` for environment gotchas (port 53 interception is the big one)
+and the noise policy.
 
 ## Credits
 
-This is a fork of [mandatoryprogrammer/TLDR](https://github.com/mandatoryprogrammer/TLDR), which has been only slightly modified to:
-
-* Show the current state of all available records in the archives directly, by omitting records (or even TLDs) which don't currently permit AXFRs (or have network errors, etc.).
-* Run on Python3 instead of Python2.
-
-TLDR itself was initially inspired by [pzb/TLDs](https://github.com/pzb/TLDs).
+Originally a fork of [mandatoryprogrammer/TLDR](https://github.com/mandatoryprogrammer/TLDR)
+by way of [tweedge/tldr](https://github.com/tweedge/tldr). See also
+[monoidic/TLDR2](https://github.com/monoidic/TLDR2) and
+[flotwig/TLDR-2](https://github.com/flotwig/TLDR-2) for prior art.

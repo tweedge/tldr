@@ -1,0 +1,17 @@
+services:
+  tldr:
+    build: .
+    image: ghcr.io/tweedge/tldr:latest
+    container_name: tldr
+    restart: unless-stopped
+    stop_grace_period: 60s
+    user: "1000:1000"
+    env_file:
+      - .env
+    volumes:
+      - ./config.toml:/config/config.toml:ro
+      - ./data:/data
+    command:
+      - --daemon
+      - --config
+      - /config/config.toml

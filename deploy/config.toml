@@ -1,0 +1,30 @@
+[archive]
+path = "/home/tweedge/tldr-deploy/data/archive"
+retention_days = 30
+compression_level = 19
+
+[scan]
+concurrency = 16
+timeout_secs = 15
+pacing_ms = 0
+max_servers_per_zone = 4
+include_root = true
+# This LAN intercepts all port-53 traffic, so AXFR must egress via the tunnel
+# provided by tldr-tunnel.service (ssh -N -D 127.0.0.1:1080).
+socks5_proxy = "127.0.0.1:1080"
+transport = "socks5"
+
+[diff]
+notify_floor = "high"
+
+[notify]
+enabled = true
+app_token_env = "PUSHOVER_APP_TOKEN"
+user_token_env = "PUSHOVER_USER_TOKEN"
+title = "TLDR"
+priority = 0
+message_max_chars = 1000
+dry_run = false
+
+[report]
+zones_md = "/home/tweedge/tldr-deploy/data/ZONES.md"

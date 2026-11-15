@@ -1,0 +1,18 @@
+[Unit]
+Description=TLDR historical DNS zone-transfer archive
+After=network-online.target tldr-tunnel.service
+Wants=network-online.target tldr-tunnel.service
+
+[Service]
+Type=simple
+WorkingDirectory=%h/tldr-deploy
+Environment=RUST_LOG=info,hickory_net=error,hickory_proto=warn
+Environment=TLDR_CONFIG=%h/tldr-deploy/config.toml
+# Credentials for notifications live in an env file (chmod 600), never in git.
+EnvironmentFile=-%h/tldr-deploy/tldr.env
+ExecStart=%h/tldr-deploy/tldr --daemon --config %h/tldr-deploy/config.toml
+Restart=always
+RestartSec=60
+
+[Install]
+WantedBy=default.target

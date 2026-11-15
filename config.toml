@@ -1,0 +1,47 @@
+[archive]
+# Mounted directory for the compressed, deduplicated 30-day history.
+path = "/data/archive"
+retention_days = 30
+compression_level = 19
+
+[scan]
+concurrency = 12
+timeout_secs = 20
+pacing_ms = 150
+include_root = true
+
+# SDNS/BIND-style AXFR is transparently intercepted on many consumer and
+# enterprise networks (all port-53 traffic is answered by a local forwarder,
+# which returns REFUSED for AXFR). Set a SOCKS5 proxy here to force AXFR over a
+# clean egress path, e.g. an SSH dynamic forward: `ssh -N -D 1080 user@host`.
+# Leave unset (or transport = "direct") when the host has unfiltered port 53.
+# socks5_proxy = "127.0.0.1:1080"
+transport = "auto"
+
+# [scan]
+# tlds = ["arpa", "fj", "gp"]   # optional fixed list instead of IANA's
+exclude = []
+
+[diff]
+# Only notify at or above this level: none | low | medium | high.
+notify_floor = "high"
+# Extra record types to ignore, on top of the built-in noise filters (DNSSEC,
+# ZONEMD, and "Generation Time" TXT records).
+ignore_rtypes = []
+delegation_min_count = 25
+delegation_min_fraction = 0.01
+record_min_fraction = 0.05
+medium_delegation_min = 5
+
+[notify]
+enabled = false
+app_token_env = "PUSHOVER_APP_TOKEN"
+user_token_env = "PUSHOVER_USER_TOKEN"
+title = "TLDR"
+priority = 0
+message_max_chars = 1000
+dry_run = false
+
+[report]
+# Optional human-readable summary of currently transferable zones.
+zones_md = "/data/ZONES.md"

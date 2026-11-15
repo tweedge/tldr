@@ -1,0 +1,24 @@
+[package]
+name = "tldr-core"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.88"
+description = "Core zone-transfer, diff, and archive logic for TLDR"
+license = "GPL-3.0-only"
+
+[dependencies]
+anyhow = "1"
+chrono = { version = "0.4", default-features = false, features = ["clock", "std", "serde"] }
+hickory-proto = { version = "0.26", features = ["dnssec-ring"] }
+hickory-resolver = { version = "0.26", default-features = false, features = ["tokio", "https-ring", "webpki-roots"] }
+reqwest = { version = "0.12", default-features = false, features = ["rustls-tls"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha2 = "0.10"
+tokio = { version = "1", features = ["net", "io-util", "time", "sync", "rt", "fs"] }
+tokio-socks = "0.5"
+tracing = "0.1"
+zstd = "0.13"
+
+[dev-dependencies]
+tempfile = "3"
