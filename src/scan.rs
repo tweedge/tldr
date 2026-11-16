@@ -268,7 +268,7 @@ pub async fn run(config: &Config) -> Result<RunReport> {
                 None => report.top_servers.push((server.clone(), 1)),
             }
         }
-        report.top_servers.sort_by(|a, b| b.1.cmp(&a.1));
+        report.top_servers.sort_by_key(|a| std::cmp::Reverse(a.1));
         report.top_servers.truncate(10);
         tracing::info!(
             zones = zones.len(),
@@ -443,7 +443,7 @@ pub async fn run(config: &Config) -> Result<RunReport> {
         })
         .into_iter()
         .collect::<Vec<_>>();
-    report.top_servers.sort_by(|a, b| b.1.cmp(&a.1));
+    report.top_servers.sort_by_key(|a| std::cmp::Reverse(a.1));
     report.top_servers.truncate(10);
 
     Ok(report)

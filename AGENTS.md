@@ -21,7 +21,7 @@ TLDR periodically performs DNS zone transfers (AXFR) against the root zone and e
 
 ## Conventions
 
-- Rust 2021, `rust-version = 1.88`. Run `cargo fmt` and `cargo clippy --workspace --all-targets --all-features -- -D warnings`.
+- Rust 2021, `rust-version = 1.89`. Run `cargo fmt` and `cargo clippy --workspace --all-targets --all-features -- -D warnings`.
 - No comments that restate the code; only explain non-obvious intent. Doc comments on public items are expected.
 - Unit tests live beside the code (`#[cfg(test)]`); end-to-end pipeline tests live in `tests/`.
 - The archive format is a public contract: `manifest.json` plus `blobs/<2>/<62>.zst` and `daily/<date>/zones.json`. Changing it requires updating this file.
