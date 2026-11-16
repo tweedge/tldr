@@ -1,7 +1,6 @@
 [archive]
 path = "/home/ubuntu/tldr-deploy/data/archive"
 retention_days = 30
-compression_level = 19
 
 [scan]
 # cybersecurity.theater has a clean path to port 53, so transfers go direct.

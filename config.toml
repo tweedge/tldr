@@ -2,7 +2,6 @@
 # Mounted directory for the compressed, deduplicated 30-day history.
 path = "/data/archive"
 retention_days = 30
-compression_level = 19
 
 [scan]
 concurrency = 12
