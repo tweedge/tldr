@@ -8,7 +8,7 @@ TLDR periodically performs DNS zone transfers (AXFR) against the root zone and e
 
 ## Layout
 
-- `src/` — the `tldr` binary: CLI (`main.rs`), config (`config.rs`), run orchestration (`scan.rs`), notifications (`notify.rs`).
+- `src/` — the `tldr` binary: CLI (`main.rs`), config (`config.rs`), run orchestration (`scan.rs`), notifications (`notify.rs`), dead-man's-switch heartbeat/health check (`health.rs`).
 - `crates/tldr-core/` — library with the reusable pieces:
   - `zone.rs` — canonical zone model, text (de)serialization, SHA-256 digest.
   - `axfr.rs` — AXFR client over direct TCP port 53.
@@ -19,10 +19,10 @@ TLDR periodically performs DNS zone transfers (AXFR) against the root zone and e
 
 ## Conventions
 
-- Rust 2021, `rust-version = 1.89`. Run `cargo fmt` and `cargo clippy --workspace --all-targets --all-features -- -D warnings`.
+- Rust 2021, `rust-version = 1.89`. Prefer the grugbrain approach: small, flat, obvious code over clever abstraction. Run `cargo fmt` and `cargo clippy --workspace --all-targets --all-features -- -D warnings`.
 - No comments that restate the code; only explain non-obvious intent. Doc comments on public items are expected.
 - Unit tests live beside the code (`#[cfg(test)]`); end-to-end pipeline tests live in `tests/`.
-- The archive format is a public contract: `manifest.json` plus `blobs/<2>/<62>.zst` and `daily/<date>/zones.json`. Changing it requires updating this file.
+- The archive format is a public contract: `manifest.json`, `heartbeat.json`, `blobs/<2>/<62>.zst` and `daily/<date>/zones.json`. Manifest and heartbeat writes are atomic (temp file + rename). Changing the format requires updating this file.
 
 ## Environment gotcha (important): deploy on unfiltered DNS
 
@@ -42,11 +42,16 @@ cargo run -- --config config.toml --dry-run            # discovery only
 cargo run -- --config config.toml --once --json        # one cycle
 cargo run -- --config config.toml --daemon             # continuous (hourly)
 cargo run -- --config config.toml --test-notification   # verify Pushover
+cargo run -- --config config.toml --check-health        # dead-man's-switch check
 ```
 
 ## Deployment
 
 Deployed to `cybersecurity.theater` (aarch64, no Docker) as a systemd user service; see `deploy/`. A `Dockerfile` and `compose.yaml` are provided for hosts that prefer containers. The archive directory is append-only except for retention pruning, so it is safe to back up by copying it.
+
+## Watchdog (dead-man's switch)
+
+TLDR only reports on *changes*, so a dead or quietly-broken run looks like silence. `health.rs` fixes that: every completed cycle writes `heartbeat.json` beside the archive, and `tldr --check-health` (run by `deploy/tldr-health.timer` every 30 min) sends a high-priority Pushover alert and exits 75 if the heartbeat is older than `[health] max_age` (default 3h). A cycle that has never run leaves no heartbeat, which also alerts. Do not add a second overlapping alerting path; keep the single heartbeat check.
 
 ## Noise policy
 

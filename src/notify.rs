@@ -121,6 +121,30 @@ pub async fn send_test(settings: &NotifyConfig) -> Result<String> {
     Ok("test notification sent".to_string())
 }
 
+/// Send an operational alert (e.g. the health checker saw a stale heartbeat).
+/// Uses high priority so it is not lost among normal change notifications.
+pub async fn send_alert(settings: &NotifyConfig, message: &str) -> Result<()> {
+    if settings.dry_run {
+        tracing::info!(%message, "would send alert (dry run)");
+        return Ok(());
+    }
+    let Some((app_token, user_token)) = pushover_tokens(settings)? else {
+        return Ok(());
+    };
+    let mut settings = settings.clone();
+    if settings.priority.is_none() {
+        settings.priority = Some(1);
+    }
+    let notifier = Notifier {
+        app_token,
+        user_token,
+        settings,
+    };
+    notifier
+        .send_one(&format!("{} ALERT", notifier.settings.title), message)
+        .await
+}
+
 fn pushover_tokens(settings: &NotifyConfig) -> Result<Option<(String, String)>> {
     let app_token = match std::env::var(&settings.app_token_env) {
         Ok(value) if !value.trim().is_empty() => value,

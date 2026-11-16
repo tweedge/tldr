@@ -28,3 +28,8 @@ dry_run = false
 
 [report]
 zones_md = "/home/ubuntu/tldr-deploy/data/ZONES.md"
+
+[health]
+# The health-check timer alerts if a cycle has not completed within this age.
+# Keep this comfortably above the daemon interval (hourly by default).
+max_age = "3h"

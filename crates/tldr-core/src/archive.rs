@@ -2,7 +2,7 @@
 //! retention pruning.
 
 use std::collections::BTreeMap;
-use std::path::{Path, PathBuf};
+use std::path::PathBuf;
 
 use anyhow::{Context, Result};
 use chrono::{DateTime, Duration, NaiveDate, Utc};
@@ -69,10 +69,6 @@ impl Archive {
             Manifest::default()
         };
         Ok(Self { root, manifest })
-    }
-
-    pub fn root(&self) -> &Path {
-        &self.root
     }
 
     pub fn manifest(&self) -> &Manifest {
@@ -146,11 +142,17 @@ impl Archive {
     }
 
     /// Write the manifest and per-day summaries to disk.
+    ///
+    /// The manifest is written to a temp file and renamed into place so a crash
+    /// mid-write can never leave a truncated manifest that would break the next
+    /// (unattended) run.
     pub fn flush(&self) -> Result<()> {
         let manifest_path = self.root.join("manifest.json");
         let text = serde_json::to_string_pretty(&self.manifest)?;
-        std::fs::write(&manifest_path, text)
-            .with_context(|| format!("writing {}", manifest_path.display()))?;
+        let tmp = manifest_path.with_extension("json.tmp");
+        std::fs::write(&tmp, &text).with_context(|| format!("writing {}", tmp.display()))?;
+        std::fs::rename(&tmp, &manifest_path)
+            .with_context(|| format!("renaming into {}", manifest_path.display()))?;
 
         let mut by_day: BTreeMap<NaiveDate, Vec<&SnapshotEntry>> = BTreeMap::new();
         for entry in &self.manifest.snapshots {
@@ -193,15 +195,6 @@ impl Archive {
             .iter()
             .filter(|e| e.origin == origin)
             .max_by_key(|e| e.captured)
-    }
-
-    /// All distinct origins ever captured.
-    pub fn origins(&self) -> std::collections::BTreeSet<&str> {
-        self.manifest
-            .snapshots
-            .iter()
-            .map(|e| e.origin.as_str())
-            .collect()
     }
 
     /// Most recent snapshot for a zone on a specific date.

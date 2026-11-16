@@ -235,11 +235,6 @@ impl Zone {
         }
         out
     }
-
-    /// Look up records by type.
-    pub fn of_type<'a>(&'a self, rtype: &'a str) -> impl Iterator<Item = &'a ZoneRecord> + 'a {
-        self.records.iter().filter(move |r| r.rtype == rtype)
-    }
 }
 
 #[cfg(test)]

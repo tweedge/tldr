@@ -10,7 +10,7 @@ use std::net::{IpAddr, SocketAddr};
 use std::sync::atomic::{AtomicU16, Ordering};
 use std::time::Duration;
 
-use anyhow::{anyhow, bail, Context, Result};
+use anyhow::{bail, Context, Result};
 use hickory_proto::op::{Message, MessageType, OpCode, Query, ResponseCode};
 use hickory_proto::rr::{Name, Record, RecordType};
 use tokio::io::{AsyncReadExt, AsyncWriteExt};
@@ -157,13 +157,4 @@ pub async fn resolve_host(host: &str) -> Result<Vec<IpAddr>> {
         bail!("no addresses found for {host}");
     }
     Ok(addrs)
-}
-
-/// Helper for callers that only need the first address.
-pub async fn resolve_one(host: &str) -> Result<IpAddr> {
-    resolve_host(host)
-        .await?
-        .into_iter()
-        .next()
-        .ok_or_else(|| anyhow!("no address for {host}"))
 }

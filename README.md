@@ -28,6 +28,7 @@ Key design choices:
 - A hand-rolled AXFR client over direct TCP, since AXFR framing and multi-message reassembly are simple and avoid a heavier dependency.
 - **zstd** content-addressed blobs + SHA-256, so re-transfers of unchanged zones cost nothing on disk.
 - **pushover-rs** for notifications, checking the response body (a 200 can still carry a rejection) and chunking long change lists under the message limit.
+- A **heartbeat + `--check-health`** timer as a dead-man's switch, so an instance that stops working alerts rather than going quiet.
 
 ## Configuration
 
@@ -60,9 +61,14 @@ tldr --config config.toml --daemon          # hourly (default)
 tldr --config config.toml --dry-run         # discovery only
 tldr --config config.toml --once --json     # machine-readable report
 tldr --config config.toml --test-notification  # send one Pushover test
+tldr --config config.toml --check-health    # dead-man's-switch check
 ```
 
 `--daemon` runs in the foreground; `--interval-secs` overrides the default 3600.
+
+## Watchdog: will it tell me if it stops?
+
+Yes. Because TLDR only pages on *changes*, a dead or quietly-broken instance would otherwise look like silence. Every completed cycle writes `heartbeat.json` beside the archive, and a `tldr --check-health` timer (every 30 min) sends a high-priority Pushover alert and exits 75 if the heartbeat is older than `[health] max_age` (default 3h). This catches crashes, hangs, and a network that starts filtering port 53. See `deploy/README.md`.
 
 ## Deployment
 

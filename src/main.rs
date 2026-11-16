@@ -1,6 +1,7 @@
 //! TLDR: a continuously updated historical DNS zone-transfer archive.
 
 mod config;
+mod health;
 mod notify;
 mod scan;
 
@@ -38,6 +39,15 @@ struct Cli {
     /// Send a single test notification and exit.
     #[arg(long)]
     test_notification: bool,
+
+    /// Check the heartbeat and alert if the last cycle is stale, then exit.
+    #[arg(long)]
+    check_health: bool,
+
+    /// Maximum heartbeat age before `--check-health` reports failure.
+    /// Overrides `[health] max_age` when set.
+    #[arg(long)]
+    max_age: Option<String>,
 
     /// Validate configuration and discovery without transferring.
     #[arg(long)]
@@ -77,6 +87,14 @@ async fn main() -> Result<()> {
         return Ok(());
     }
 
+    if cli.check_health {
+        let max_age_text = cli.max_age.unwrap_or(config.health.max_age.clone());
+        let max_age = health::parse_duration(&max_age_text)?;
+        let path = health::path_for(&config.archive.path);
+        let code = health::run_check(&path, max_age, &config.notify).await;
+        std::process::exit(code);
+    }
+
     if cli.daemon {
         daemon(config, cli.interval_secs, cli.json).await
     } else {
@@ -86,15 +104,33 @@ async fn main() -> Result<()> {
 
 async fn run_once(config: &Config, json: bool) -> Result<()> {
     let report = scan::run(config).await?;
+    write_heartbeat(config, &report);
     finish(&report, json);
     Ok(())
+}
+
+/// Record that a cycle completed so the health checker knows TLDR is alive.
+fn write_heartbeat(config: &Config, report: &scan::RunReport) {
+    let heartbeat = health::Heartbeat {
+        finished: report.finished.unwrap_or_else(chrono::Utc::now),
+        zones_transferred: report.zones_transferred,
+        zones_failed: report.zones_failed,
+        notifications_sent: report.notifications_sent,
+    };
+    let path = health::path_for(&config.archive.path);
+    if let Err(error) = health::write(&path, &heartbeat) {
+        tracing::error!(%error, "failed to write heartbeat");
+    }
 }
 
 async fn daemon(config: Config, interval_secs: u64, json: bool) -> Result<()> {
     let interval = std::time::Duration::from_secs(interval_secs.max(60));
     loop {
         match scan::run(&config).await {
-            Ok(report) => finish(&report, json),
+            Ok(report) => {
+                write_heartbeat(&config, &report);
+                finish(&report, json);
+            }
             Err(error) => tracing::error!(%error, "scan cycle failed"),
         }
         tracing::info!(seconds = interval.as_secs(), "sleeping until next cycle");

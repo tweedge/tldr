@@ -1,0 +1,11 @@
+[Unit]
+Description=Run the TLDR heartbeat health check periodically
+
+[Timer]
+# Every 30 minutes, well inside the default 3h max heartbeat age.
+OnBootSec=10min
+OnUnitActiveSec=30min
+AccuracySec=1min
+
+[Install]
+WantedBy=timers.target
