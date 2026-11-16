@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 rust-version = "1.89"
 description = "Continuously updated historical DNS zone-transfer archive for root and TLD zones"
-license = "GPL-3.0-only"
+license = "MIT"
 readme = "README.md"
 
 [workspace]

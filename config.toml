@@ -2,7 +2,6 @@
 # Mounted directory for the compressed, deduplicated 30-day history.
 path = "/data/archive"
 retention_days = 30
-compression_level = 19
 
 [scan]
 concurrency = 12
@@ -37,3 +36,8 @@ dry_run = false
 [report]
 # Optional human-readable summary of currently transferable zones.
 zones_md = "/data/ZONES.md"
+
+[health]
+# The health-check timer alerts if a cycle has not completed within this age.
+# Keep this comfortably above the daemon interval (hourly by default).
+max_age = "3h"

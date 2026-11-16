@@ -14,6 +14,7 @@ pub struct Config {
     pub diff: DiffConfig,
     pub notify: NotifyConfig,
     pub report: ReportConfig,
+    pub health: HealthConfig,
 }
 
 #[derive(Debug, Clone, Deserialize)]
@@ -23,8 +24,6 @@ pub struct ArchiveConfig {
     pub path: PathBuf,
     /// Days of history to retain.
     pub retention_days: u32,
-    /// zstd compression level for blobs (1-22).
-    pub compression_level: i32,
 }
 
 impl Default for ArchiveConfig {
@@ -32,7 +31,6 @@ impl Default for ArchiveConfig {
         Self {
             path: PathBuf::from("/data/archive"),
             retention_days: 30,
-            compression_level: 19,
         }
     }
 }
@@ -132,6 +130,22 @@ impl Default for NotifyConfig {
             priority: None,
             message_max_chars: 1000,
             dry_run: false,
+        }
+    }
+}
+
+#[derive(Debug, Clone, Deserialize)]
+#[serde(default, deny_unknown_fields)]
+pub struct HealthConfig {
+    /// How old the heartbeat may get before `--check-health` fails. The health
+    /// timer should run more often than this.
+    pub max_age: String,
+}
+
+impl Default for HealthConfig {
+    fn default() -> Self {
+        Self {
+            max_age: "3h".to_string(),
         }
     }
 }

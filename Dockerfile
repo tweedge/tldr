@@ -11,7 +11,6 @@ WORKDIR /build
 COPY Cargo.toml Cargo.lock ./
 COPY crates ./crates
 COPY src ./src
-COPY examples ./examples
 
 # Build only the binary; examples and tests are not needed in the image.
 RUN cargo build --release --locked --bin tldr

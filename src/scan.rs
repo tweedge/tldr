@@ -1,6 +1,15 @@
-//! Run orchestration: discovery, transfer, archiving, diffing, and reporting.
+//! One scan cycle: discover zones, transfer them, archive results, notify.
+//!
+//! The cycle is a straight line of three phases so it stays easy to follow:
+//!
+//! 1. [`plan`] — learn the zone list and resolve every nameserver address.
+//! 2. [`transfer`] — attempt each (zone, server) pair with bounded concurrency.
+//! 3. [`record`] — archive the successes, diff against the previous snapshot,
+//!    and collect the changes worth notifying about.
 
 use std::collections::BTreeMap;
+use std::fs::File;
+use std::net::IpAddr;
 use std::sync::Arc;
 use std::time::Duration;
 
@@ -9,7 +18,9 @@ use chrono::{DateTime, Utc};
 use tldr_core::archive::{Archive, SnapshotEntry};
 use tldr_core::axfr::{transfer_axfr, TransferOutcome};
 use tldr_core::diff::{diff, DiffPolicy, Significance, ZoneDiff};
-use tldr_core::discovery::{doh_resolver, fetch_iana_tlds, lookup_addresses, lookup_nameservers};
+use tldr_core::discovery::{
+    doh_resolver, fetch_iana_tlds, lookup_addresses, lookup_nameservers, ROOT_SERVERS,
+};
 use tldr_core::zone::{fqdn, Zone};
 use tokio::sync::Semaphore;
 
@@ -44,12 +55,10 @@ pub struct RunReport {
     pub zones_failed: usize,
     pub new_zones: Vec<String>,
     pub changed: Vec<ZoneResult>,
-    pub top_servers: Vec<(String, usize)>,
-    /// Zones that transferred, grouped by serving nameserver.
+    /// Zones that transferred, with the serving nameserver.
     pub executed: Vec<ZoneResult>,
     /// True when the archive was empty at the start of this run (first run).
     pub is_initial: bool,
-    pub expired: usize,
     pub notifications_sent: usize,
 }
 
@@ -63,7 +72,6 @@ impl RunReport {
             "zones_refused": self.zones_refused,
             "zones_failed": self.zones_failed,
             "new_zones": self.new_zones,
-            "expired": self.expired,
             "notifications_sent": self.notifications_sent,
             "is_initial": self.is_initial,
             "executed": self.executed.iter().map(|r| serde_json::json!({
@@ -85,237 +93,235 @@ impl RunReport {
     }
 }
 
+/// A single (zone, nameserver) attempt with the addresses to try in order.
+#[derive(Debug)]
+struct Attempt {
+    origin: String,
+    server: String,
+    addresses: Vec<IpAddr>,
+}
+
+/// The work for one cycle: which zones exist and which servers to try.
+#[derive(Debug, Default)]
+struct Plan {
+    zone_count: usize,
+    attempts: Vec<Attempt>,
+}
+
+/// A successful transfer, ready to archive.
+#[derive(Debug)]
+struct Transfer {
+    origin: String,
+    server: String,
+    zone: Zone,
+}
+
 /// Run one full scan cycle.
 pub async fn run(config: &Config) -> Result<RunReport> {
     let started = Utc::now();
-    let policy = DiffPolicy {
-        delegation_min_count: config.diff.delegation_min_count,
-        delegation_min_fraction: config.diff.delegation_min_fraction,
-        record_min_fraction: config.diff.record_min_fraction,
-        medium_delegation_min: config.diff.medium_delegation_min,
-        ignore_rtypes: config.diff.ignore_rtypes.clone(),
-    };
-    let floor = parse_significance(&config.diff.notify_floor);
+
+    // Refuse to run two cycles at once (a slow cycle overlapping the next
+    // interval, or a manual run during a scheduled one). The lock is released
+    // automatically when `_lock` drops at the end of this function.
+    std::fs::create_dir_all(&config.archive.path).ok();
+    let _lock = acquire_lock(&config.archive.path)?;
 
     let mut archive = Archive::open(&config.archive.path)?;
-    let retention = config.archive.retention_days;
     let is_initial = archive.manifest().snapshots.is_empty();
 
-    // Refresh mirror on disk before mutating (in case a previous run left it dirty).
-    archive.flush()?;
-
-    let client = reqwest::Client::builder()
-        .timeout(Duration::from_secs(30))
-        .user_agent("tldr/0.1 (+https://github.com/tweedge/tldr)")
-        .build()?;
-
-    let mut zones: Vec<(String, bool)> = Vec::new();
-    if config.scan.include_root {
-        zones.push((".".to_string(), true));
-    }
-    if let Some(tlds) = &config.scan.tlds {
-        for tld in tlds {
-            zones.push((fqdn(tld), false));
-        }
-    } else {
-        let tlds = fetch_iana_tlds(&client).await?;
-        for tld in tlds {
-            zones.push((fqdn(&tld), false));
-        }
-    }
-    let exclude: std::collections::BTreeSet<String> =
-        config.scan.exclude.iter().map(|z| fqdn(z)).collect();
-    zones.retain(|(origin, _)| !exclude.contains(origin));
-
+    let plan = plan(config).await?;
     let mut report = RunReport {
         started: Some(started),
-        zones_attempted: zones.len(),
+        zones_attempted: plan.zone_count,
         is_initial,
         ..Default::default()
     };
 
-    // Limit total concurrency across all zones.
-    let semaphore = Arc::new(Semaphore::new(config.scan.concurrency.max(1)));
-    let timeout = Duration::from_secs(config.scan.timeout_secs.max(1));
-    let pacing = Duration::from_millis(config.scan.pacing_ms);
-
-    // Root zone is special: try every root server, since some may refuse.
-    let mut handles = Vec::new();
-
-    // Resolve root server names up front once.
-    let root_names: Vec<String> = tldr_core::discovery::ROOT_SERVERS
-        .iter()
-        .map(|s| s.to_string())
-        .collect();
-
-    // Build a discovery resolver for NS lookups.
-    let resolver = match doh_resolver() {
-        Ok(r) => Some(r),
-        Err(error) => {
-            tracing::warn!(%error, "no DoH resolver; skipping zone discovery");
-            None
-        }
-    };
-
-    let mut schedule: Vec<(String, String)> = Vec::new();
-
-    // Root servers are always scheduled by name.
-    for server in &root_names {
-        if config.scan.include_root {
-            schedule.push((".".to_string(), server.clone()));
-        }
-    }
-
-    // Resolve TLD nameservers concurrently; 1.4k zones serially is far too slow.
-    if let Some(resolver) = &resolver {
-        let resolver = resolver.clone();
-        let mut ns_tasks = Vec::new();
-        for (origin, is_root) in &zones {
-            if *is_root {
-                continue;
-            }
-            let origin = origin.clone();
-            let resolver = resolver.clone();
-            ns_tasks.push(tokio::spawn(async move {
-                let servers = lookup_nameservers(&resolver, &origin).await;
-                (origin, servers)
-            }));
-        }
-        for task in ns_tasks {
-            match task.await {
-                Ok((origin, Ok(mut servers))) => {
-                    // Only some authoritative servers answer AXFR; cap attempts so a
-                    // full IANA sweep stays bounded.
-                    servers.sort();
-                    servers.dedup();
-                    servers.truncate(config.scan.max_servers_per_zone.max(1));
-                    for server in servers {
-                        schedule.push((origin.clone(), server));
-                    }
-                }
-                Ok((origin, Err(error))) => {
-                    tracing::debug!(%origin, %error, "no nameservers discovered");
-                }
-                Err(error) => tracing::debug!(%error, "nameserver lookup task failed"),
-            }
-        }
-    }
-
-    tracing::info!(
-        zones = zones.len(),
-        attempts = schedule.len(),
-        concurrency = config.scan.concurrency,
-        "starting transfers"
-    );
-
-    // Resolve every distinct server name once.
-    let mut server_ips: BTreeMap<String, Vec<std::net::IpAddr>> = BTreeMap::new();
-    if let Some(resolver) = &resolver {
-        let distinct: std::collections::BTreeSet<String> =
-            schedule.iter().map(|(_, s)| s.clone()).collect();
-        let mut address_tasks = Vec::new();
-        for server in distinct {
-            let resolver = resolver.clone();
-            address_tasks.push(tokio::spawn(async move {
-                let addrs = lookup_addresses(&resolver, &server).await;
-                (server, addrs)
-            }));
-        }
-        for task in address_tasks {
-            match task.await {
-                Ok((server, Ok(addrs))) => {
-                    server_ips.insert(server, addrs);
-                }
-                Ok((server, Err(error))) => {
-                    tracing::debug!(%server, %error, "could not resolve server addresses");
-                }
-                Err(error) => tracing::debug!(%error, "address lookup task failed"),
-            }
-        }
-    }
-    // Fall back to the system resolver for any server DoH could not resolve.
-    let mut unresolved: Vec<String> = schedule
-        .iter()
-        .map(|(_, s)| s.clone())
-        .filter(|s| !server_ips.contains_key(s))
-        .collect();
-    unresolved.sort();
-    unresolved.dedup();
-    let mut fallback_tasks = Vec::new();
-    for server in unresolved {
-        fallback_tasks.push(tokio::spawn(async move {
-            let addrs = tldr_core::axfr::resolve_host(&server).await;
-            (server, addrs)
-        }));
-    }
-    for task in fallback_tasks {
-        if let Ok((server, Ok(addrs))) = task.await {
-            server_ips.insert(server, addrs);
-        }
-    }
-
     if config.scan.discovery_only {
         report.finished = Some(Utc::now());
-        report.top_servers = Vec::new();
-        // Report discovered servers without transferring.
-        for (_, server) in &schedule {
-            let entry = report
-                .top_servers
-                .iter_mut()
-                .find(|(name, _)| name == server);
-            match entry {
-                Some((_, count)) => *count += 1,
-                None => report.top_servers.push((server.clone(), 1)),
-            }
-        }
-        report.top_servers.sort_by_key(|a| std::cmp::Reverse(a.1));
-        report.top_servers.truncate(10);
         tracing::info!(
-            zones = zones.len(),
-            nameservers = schedule.len(),
+            zones = plan.zone_count,
+            nameservers = plan.attempts.len(),
             "discovery complete (dry run, no transfers)"
         );
         return Ok(report);
     }
 
-    for (origin, server) in &schedule {
-        let permit = semaphore.clone().acquire_owned().await?;
+    let transfers = transfer(config, plan, &mut report).await;
+    record(config, &mut archive, started, transfers, &mut report).await;
+
+    report.finished = Some(Utc::now());
+    Ok(report)
+}
+
+/// Phase 1: find the zones and resolve every nameserver address.
+async fn plan(config: &Config) -> Result<Plan> {
+    let client = reqwest::Client::builder()
+        .timeout(Duration::from_secs(30))
+        .user_agent("tldr/0.1 (+https://github.com/tweedge/tldr)")
+        .build()?;
+
+    // The zone list: root plus every IANA TLD (or a fixed list for testing).
+    let mut zones: Vec<String> = Vec::new();
+    if config.scan.include_root {
+        zones.push(".".to_string());
+    }
+    match &config.scan.tlds {
+        Some(tlds) => zones.extend(tlds.iter().map(|tld| fqdn(tld))),
+        None => zones.extend(fetch_iana_tlds(&client).await?.iter().map(|t| fqdn(t))),
+    }
+    let exclude: std::collections::BTreeSet<String> =
+        config.scan.exclude.iter().map(|z| fqdn(z)).collect();
+    zones.retain(|origin| !exclude.contains(origin));
+
+    // Discovery uses DoH, so it works even where plain port 53 is filtered.
+    let resolver = match doh_resolver() {
+        Ok(resolver) => resolver,
+        Err(error) => {
+            tracing::warn!(%error, "no DoH resolver; cannot discover nameservers");
+            return Ok(Plan {
+                zone_count: zones.len(),
+                attempts: Vec::new(),
+            });
+        }
+    };
+
+    // Nameserver names per zone, resolved concurrently.
+    let mut servers_by_zone: Vec<(String, Vec<String>)> = Vec::new();
+    let mut tasks = Vec::new();
+    for origin in &zones {
+        // The root zone is tried against all 13 root servers by name.
+        if origin == "." {
+            continue;
+        }
+        let origin = origin.clone();
+        let resolver = resolver.clone();
+        tasks.push(tokio::spawn(async move {
+            let servers = lookup_nameservers(&resolver, &origin).await;
+            (origin, servers)
+        }));
+    }
+    for task in tasks {
+        match task.await {
+            Ok((origin, Ok(mut servers))) => {
+                servers.sort();
+                servers.dedup();
+                servers.truncate(config.scan.max_servers_per_zone.max(1));
+                servers_by_zone.push((origin, servers));
+            }
+            Ok((origin, Err(error))) => tracing::debug!(%origin, %error, "no nameservers"),
+            Err(error) => tracing::debug!(%error, "nameserver lookup task failed"),
+        }
+    }
+
+    // Every distinct server name, including the root servers.
+    let mut all_servers: std::collections::BTreeSet<String> = servers_by_zone
+        .iter()
+        .flat_map(|(_, servers)| servers.iter().cloned())
+        .collect();
+    if config.scan.include_root {
+        all_servers.extend(ROOT_SERVERS.iter().map(|s| s.to_string()));
+    }
+
+    // Resolve addresses per server: DoH first, then the system resolver.
+    let mut addresses_by_server: BTreeMap<String, Vec<IpAddr>> = BTreeMap::new();
+    let mut tasks = Vec::new();
+    for server in all_servers {
+        let resolver = resolver.clone();
+        tasks.push(tokio::spawn(async move {
+            let via_doh = lookup_addresses(&resolver, &server)
+                .await
+                .unwrap_or_default();
+            let addresses = if via_doh.is_empty() {
+                tldr_core::axfr::resolve_host(&server)
+                    .await
+                    .unwrap_or_default()
+            } else {
+                via_doh
+            };
+            (server, addresses)
+        }));
+    }
+    for task in tasks {
+        if let Ok((server, addresses)) = task.await {
+            addresses_by_server.insert(server, addresses);
+        }
+    }
+
+    // Build the attempt list.
+    let mut attempts = Vec::new();
+    let mut push =
+        |origin: &str, server: &str, addresses_by_server: &BTreeMap<String, Vec<IpAddr>>| {
+            if let Some(addresses) = addresses_by_server.get(server) {
+                if !addresses.is_empty() {
+                    attempts.push(Attempt {
+                        origin: origin.to_string(),
+                        server: server.to_string(),
+                        addresses: addresses.clone(),
+                    });
+                }
+            }
+        };
+    if config.scan.include_root {
+        for server in ROOT_SERVERS {
+            push(".", server, &addresses_by_server);
+        }
+    }
+    for (origin, servers) in &servers_by_zone {
+        for server in servers {
+            push(origin, server, &addresses_by_server);
+        }
+    }
+
+    Ok(Plan {
+        zone_count: zones.len(),
+        attempts,
+    })
+}
+
+/// Phase 2: attempt every transfer with bounded concurrency.
+async fn transfer(config: &Config, plan: Plan, report: &mut RunReport) -> Vec<Transfer> {
+    tracing::info!(
+        zones = plan.zone_count,
+        attempts = plan.attempts.len(),
+        concurrency = config.scan.concurrency,
+        "starting transfers"
+    );
+
+    let semaphore = Arc::new(Semaphore::new(config.scan.concurrency.max(1)));
+    let timeout = Duration::from_secs(config.scan.timeout_secs.max(1));
+    let pacing = Duration::from_millis(config.scan.pacing_ms);
+
+    let mut handles = Vec::new();
+    for attempt in plan.attempts {
+        let permit = match semaphore.clone().acquire_owned().await {
+            Ok(permit) => permit,
+            Err(_) => break,
+        };
         if !pacing.is_zero() {
             tokio::time::sleep(pacing).await;
         }
-
-        let ips = server_ips.get(server).cloned().unwrap_or_default();
-        let origin = origin.clone();
-        let server = server.clone();
-        let handle = tokio::spawn(async move {
+        handles.push(tokio::spawn(async move {
             let _permit = permit;
-            if ips.is_empty() {
-                return (
-                    origin,
-                    server,
-                    TransferOutcome::Failed("no addresses for server".to_string()),
-                );
-            }
-            // Try each address until one answers.
-            let mut last = TransferOutcome::Failed("no addresses for server".to_string());
-            for ip in ips {
-                let outcome = transfer_axfr(&origin, ip, timeout).await;
-                let done = matches!(
+            let mut last = TransferOutcome::Failed("no addresses".to_string());
+            for address in attempt.addresses {
+                let outcome = transfer_axfr(&attempt.origin, address, timeout).await;
+                // Stop on success or a definite refusal; only retry other
+                // addresses when the connection/answer failed outright.
+                let answered = matches!(
                     outcome,
                     TransferOutcome::Success(_) | TransferOutcome::Refused
                 );
                 last = outcome;
-                if done {
+                if answered {
                     break;
                 }
             }
-            (origin, server, last)
-        });
-        handles.push(handle);
+            (attempt.origin, attempt.server, last)
+        }));
     }
 
-    let mut results: Vec<(String, String, Option<Zone>)> = Vec::new();
-
+    let mut transfers = Vec::new();
     for handle in handles {
         let (origin, server, outcome) = match handle.await {
             Ok(value) => value,
@@ -327,19 +333,19 @@ pub async fn run(config: &Config) -> Result<RunReport> {
         match outcome {
             TransferOutcome::Success(zone) => {
                 report.zones_transferred += 1;
-                results.push((origin, server, Some(zone)));
+                transfers.push(Transfer {
+                    origin,
+                    server,
+                    zone,
+                });
             }
-            TransferOutcome::Refused => {
-                // Most servers refuse AXFR; recording each one would bloat the
-                // report without adding signal. The count is sufficient.
-                report.zones_refused += 1;
-            }
+            TransferOutcome::Refused => report.zones_refused += 1,
             TransferOutcome::Failed(error) => {
                 report.zones_failed += 1;
                 tracing::debug!(%origin, %server, %error, "transfer failed");
                 report.executed.push(ZoneResult {
-                    origin: origin.clone(),
-                    server: server.clone(),
+                    origin,
+                    server,
                     outcome: Outcome::Failed(error),
                     significance: Significance::None,
                     diff: None,
@@ -348,81 +354,108 @@ pub async fn run(config: &Config) -> Result<RunReport> {
             }
         }
     }
+    transfers
+}
 
-    // Group transfers by origin: keep the first, note the server.
-    let mut by_origin: BTreeMap<String, (String, Zone)> = BTreeMap::new();
-    for (origin, server, zone) in results {
-        if let Some(zone) = zone {
-            by_origin.entry(origin).or_insert((server, zone));
-        }
+/// Phase 3: archive successes, diff, prune, notify.
+async fn record(
+    config: &Config,
+    archive: &mut Archive,
+    started: DateTime<Utc>,
+    transfers: Vec<Transfer>,
+    report: &mut RunReport,
+) {
+    let policy = DiffPolicy {
+        delegation_min_count: config.diff.delegation_min_count,
+        delegation_min_fraction: config.diff.delegation_min_fraction,
+        record_min_fraction: config.diff.record_min_fraction,
+        medium_delegation_min: config.diff.medium_delegation_min,
+        ignore_rtypes: config.diff.ignore_rtypes.clone(),
+    };
+
+    // Keep the first successful server per zone (all should serve the same zone).
+    let mut by_origin: BTreeMap<String, Transfer> = BTreeMap::new();
+    for transfer in transfers {
+        by_origin.entry(transfer.origin.clone()).or_insert(transfer);
     }
 
-    // Record snapshots, compute diffs.
-    let mut changed = Vec::new();
-    for (origin, (server, zone)) in &by_origin {
-        let previous_entry = archive.previous(origin, started).cloned();
-        let is_new = archive.latest(origin).is_none();
+    for transfer in by_origin.values() {
+        let previous = archive.previous(&transfer.origin, started).cloned();
+        let is_new = archive.latest(&transfer.origin).is_none();
 
-        let diff_report = if let Some(previous) = &previous_entry {
-            let previous_text = archive.get_blob(&previous.digest)?;
-            let previous_zone = Zone::from_text(origin, &previous_text)?;
-            Some(diff(&previous_zone, zone))
-        } else {
-            None
-        };
+        let zone_diff = previous.as_ref().and_then(|previous| {
+            match archive
+                .get_blob(&previous.digest)
+                .and_then(|text| Zone::from_text(&transfer.origin, &text))
+            {
+                Ok(previous_zone) => Some(diff(&previous_zone, &transfer.zone)),
+                Err(error) => {
+                    // A corrupt/missing previous blob must not abort the run.
+                    tracing::warn!(origin = %transfer.origin, %error, "cannot read previous snapshot");
+                    None
+                }
+            }
+        });
 
-        let entry = archive.record(origin, started, zone, server)?;
+        let entry =
+            match archive.record(&transfer.origin, started, &transfer.zone, &transfer.server) {
+                Ok(entry) => entry,
+                Err(error) => {
+                    tracing::error!(origin = %transfer.origin, %error, "failed to archive zone");
+                    continue;
+                }
+            };
+
         report.executed.push(ZoneResult {
-            origin: origin.clone(),
-            server: server.clone(),
+            origin: transfer.origin.clone(),
+            server: transfer.server.clone(),
             outcome: Outcome::Transferred,
             significance: Significance::None,
             diff: None,
             entry: Some(entry.clone()),
         });
-
         if is_new {
-            report.new_zones.push(origin.clone());
+            report.new_zones.push(transfer.origin.clone());
         }
 
-        if let Some(diff_report) = diff_report {
-            let significance = diff_report.significance(&policy);
-            if significance != Significance::None {
-                changed.push(ZoneResult {
-                    origin: origin.clone(),
-                    server: server.clone(),
-                    outcome: Outcome::Transferred,
-                    significance,
-                    diff: Some(diff_report),
-                    entry: Some(entry),
-                });
-            }
-        } else if is_new {
-            // Newly transferable zone: always high.
-            changed.push(ZoneResult {
-                origin: origin.clone(),
-                server: server.clone(),
+        let significance = match &zone_diff {
+            Some(diff) => diff.significance(&policy),
+            // A zone that was never seen before is a high-signal new zone.
+            None => Significance::High,
+        };
+        if significance != Significance::None || is_new {
+            report.changed.push(ZoneResult {
+                origin: transfer.origin.clone(),
+                server: transfer.server.clone(),
                 outcome: Outcome::Transferred,
-                significance: Significance::High,
-                diff: None,
+                significance,
+                diff: zone_diff,
                 entry: Some(entry),
             });
         }
     }
 
-    report.changed = changed;
-    archive.prune(retention, Utc::now())?;
-    archive.flush()?;
-
-    // Write ZONES.md if configured.
-    if let Some(path) = &config.report.zones_md {
-        let zones = by_origin.keys().cloned().collect::<Vec<_>>();
-        write_zones_md(path, &zones, &archive)?;
+    if let Err(error) = archive.prune(config.archive.retention_days, Utc::now()) {
+        tracing::error!(%error, "retention pruning failed");
+    }
+    if let Err(error) = archive.flush() {
+        tracing::error!(%error, "writing archive manifest failed");
     }
 
-    // Notify. Notification failures must never discard a completed scan or its
-    // archive: log and continue so the next cycle (or a manual read) still works.
-    match notify::deliver(config, &mut report, floor).await {
+    if let Some(path) = &config.report.zones_md {
+        if let Err(error) = write_zones_md(path, &by_origin, archive) {
+            tracing::error!(%error, "writing ZONES.md failed");
+        }
+    }
+
+    // Notify after the archive is safely on disk.
+    match notify::deliver(
+        config,
+        report,
+        parse_significance(&config.diff.notify_floor),
+    )
+    .await
+    {
         Ok(delivery) => {
             report.notifications_sent = delivery.sent;
             for error in &delivery.errors {
@@ -431,22 +464,19 @@ pub async fn run(config: &Config) -> Result<RunReport> {
         }
         Err(error) => tracing::error!(%error, "notification delivery failed"),
     }
+}
 
-    report.finished = Some(Utc::now());
-    report.top_servers = by_origin
-        .values()
-        .map(|(server, _)| server.clone())
-        .filter(|_| true)
-        .fold(BTreeMap::new(), |mut acc, server| {
-            *acc.entry(server).or_insert(0) += 1;
-            acc
-        })
-        .into_iter()
-        .collect::<Vec<_>>();
-    report.top_servers.sort_by_key(|a| std::cmp::Reverse(a.1));
-    report.top_servers.truncate(10);
-
-    Ok(report)
+/// Take an exclusive advisory lock on the archive so two cycles cannot overlap.
+fn acquire_lock(archive_root: &std::path::Path) -> Result<File> {
+    let path = archive_root.join(".tldr.lock");
+    let file = File::create(&path).with_context(|| format!("opening {}", path.display()))?;
+    match file.try_lock() {
+        Ok(()) => Ok(file),
+        Err(_) => anyhow::bail!(
+            "another TLDR cycle is already running (lock {} is held)",
+            path.display()
+        ),
+    }
 }
 
 fn parse_significance(text: &str) -> Significance {
@@ -462,17 +492,19 @@ fn parse_significance(text: &str) -> Significance {
     }
 }
 
-fn write_zones_md(path: &std::path::Path, zones: &[String], archive: &Archive) -> Result<()> {
+fn write_zones_md(
+    path: &std::path::Path,
+    by_origin: &BTreeMap<String, Transfer>,
+    archive: &Archive,
+) -> Result<()> {
     let mut text = String::from("# Transferable zones\n\n");
     text.push_str("Generated by TLDR from the latest archive snapshot.\n\n");
-    let mut sorted = zones.to_vec();
-    sorted.sort();
-    for origin in sorted {
+    for origin in by_origin.keys() {
         let count = archive
-            .latest(&origin)
+            .latest(origin)
             .map(|e| e.records)
             .unwrap_or_default();
-        text.push_str(&format!("- `{}` ({} records)\n", origin, count));
+        text.push_str(&format!("- `{origin}` ({count} records)\n"));
     }
     if let Some(parent) = path.parent() {
         if !parent.as_os_str().is_empty() {
@@ -481,4 +513,18 @@ fn write_zones_md(path: &std::path::Path, zones: &[String], archive: &Archive) -
     }
     std::fs::write(path, text).with_context(|| format!("writing {}", path.display()))?;
     Ok(())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn scan_lock_is_exclusive() {
+        let dir = tempfile::tempdir().unwrap();
+        let first = acquire_lock(dir.path()).unwrap();
+        assert!(acquire_lock(dir.path()).is_err());
+        drop(first);
+        assert!(acquire_lock(dir.path()).is_ok());
+    }
 }

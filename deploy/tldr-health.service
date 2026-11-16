@@ -1,0 +1,11 @@
+[Unit]
+Description=TLDR heartbeat health check
+After=tldr.service
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/tldr-deploy
+Environment=RUST_LOG=info,hickory_net=error,hickory_proto=warn
+EnvironmentFile=-%h/tldr-deploy/tldr.env
+# Exit 75 (EX_TEMPFAIL) means "stale heartbeat"; tldr already tried to alert.
+ExecStart=%h/tldr-deploy/tldr --config %h/tldr-deploy/config.toml --check-health
