@@ -2,27 +2,15 @@
 
 ## Requirement: a network without DNS filtering
 
-**TLDR must run on a host with a clean, unfiltered path to TCP/UDP port 53.**
-Many consumer, campus, and enterprise networks transparently intercept all
-port-53 traffic and answer with a locally injected `REFUSED` for AXFR. When that
-happens every zone looks untransferable even though the transfer never reached
-the authoritative server, and there is no reliable in-process workaround.
+**TLDR must run on a host with a clean, unfiltered path to TCP/UDP port 53.** Many consumer, campus, and enterprise networks transparently intercept all port-53 traffic and answer with a locally injected `REFUSED` for AXFR. When that happens every zone looks untransferable even though the transfer never reached the authoritative server, and there is no reliable in-process workaround.
 
-Discovery is unaffected (it uses DNS-over-HTTPS on port 443), so a filtered host
-will find zones and nameservers but fail every transfer. Deploy TLDR on a host
-whose port 53 reaches the public internet directly — the deployment target here
-is **`cybersecurity.theater`**, which has a clean egress.
+Discovery is unaffected (it uses DNS-over-HTTPS on port 443), so a filtered host will find zones and nameservers but fail every transfer. Deploy TLDR on a host whose port 53 reaches the public internet directly — the deployment target here is **`cybersecurity.theater`**, which has a clean egress.
 
-If you are unsure whether a host is filtered, compare AXFR results against a
-known-good zone (`arpa.`, `fj.`, `mw.`, `er.`, or the root). If those fail while
-ordinary lookups succeed, the network is intercepting DNS.
+If you are unsure whether a host is filtered, compare AXFR results against a known-good zone (`arpa.`, `fj.`, `mw.`, `er.`, or the root). If those fail while ordinary lookups succeed, the network is intercepting DNS.
 
 ## Target host
 
-`cybersecurity.theater` is aarch64 Ubuntu with no Docker and no Rust toolchain.
-The binary is built natively on the host with rustup (user-local, no sudo), then
-installed as a systemd **user** service with lingering enabled so it survives
-logout.
+`cybersecurity.theater` is aarch64 Ubuntu with no Docker and no Rust toolchain. The binary is built natively on the host with rustup (user-local, no sudo), then installed as a systemd **user** service with lingering enabled so it survives logout.
 
 ## Deploy
 
@@ -59,8 +47,7 @@ PUSHOVER_APP_TOKEN=...
 PUSHOVER_USER_TOKEN=...
 ```
 
-If the tokens are unset, TLDR logs a warning and skips alerts; scanning and
-archiving continue normally.
+If the tokens are unset, TLDR logs a warning and skips alerts; scanning and archiving continue normally.
 
 ## Verifying
 
@@ -71,6 +58,4 @@ tldr --config config.toml --test-notification  # verify Pushover delivery
 journalctl --user -u tldr -n 50           # service logs
 ```
 
-A healthy run transfers the known-good zones (`.`, `arpa.`, `fj.`, `mw.`, `er.`,
-`xn--ygbi2ammx.`, plus whatever else still allows AXFR) and only emits
-notifications for `high` changes.
+A healthy run transfers the known-good zones (`.`, `arpa.`, `fj.`, `mw.`, `er.`, `xn--ygbi2ammx.`, plus whatever else still allows AXFR) and only emits notifications for `high` changes.

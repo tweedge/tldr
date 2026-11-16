@@ -4,55 +4,36 @@ Orientation for AI agents and contributors working on TLDR.
 
 ## What this project is
 
-TLDR periodically performs DNS zone transfers (AXFR) against the root zone and
-every TLD, archives the resulting zones, and reports *semantic* changes. It is a
-Rust rewrite of the original Python `scan.py` (last run circa 2022) that adds
-compression/deduplication, 30-day retention, and significance-filtered Pushover
-alerts. Zone walks are intentionally out of scope; this is classic TLDR AXFR
-only.
+TLDR periodically performs DNS zone transfers (AXFR) against the root zone and every TLD, archives the resulting zones, and reports *semantic* changes. It is a Rust rewrite of the original Python `scan.py` (last run circa 2022) that adds compression/deduplication, 30-day retention, and significance-filtered Pushover alerts. Zone walks are intentionally out of scope; this is classic TLDR AXFR only.
 
 ## Layout
 
-- `src/` — the `tldr` binary: CLI (`main.rs`), config (`config.rs`), run
-  orchestration (`scan.rs`), notifications (`notify.rs`).
+- `src/` — the `tldr` binary: CLI (`main.rs`), config (`config.rs`), run orchestration (`scan.rs`), notifications (`notify.rs`).
 - `crates/tldr-core/` — library with the reusable pieces:
   - `zone.rs` — canonical zone model, text (de)serialization, SHA-256 digest.
   - `axfr.rs` — AXFR client over direct TCP port 53.
   - `archive.rs` — content-addressed zstd blob store, manifest, retention.
   - `diff.rs` — semantic diff + `Significance` classification.
   - `discovery.rs` — IANA TLD list and DoH-based NS/address resolution.
-- `examples/legacy_report.rs` — compares the old `archives/` dig dump against
-  the new archive.
+- `examples/legacy_report.rs` — compares the old `archives/` dig dump against the new archive.
 - `archives/` — the legacy (2022) archive, kept for reference only.
 - `config.toml` — example/default configuration.
 
 ## Conventions
 
-- Rust 2021, `rust-version = 1.88`. Run `cargo fmt` and
-  `cargo clippy --workspace --all-targets --all-features -- -D warnings`.
-- No comments that restate the code; only explain non-obvious intent. Doc
-  comments on public items are expected.
-- Unit tests live beside the code (`#[cfg(test)]`); end-to-end pipeline tests
-  live in `tests/`.
-- The archive format is a public contract: `manifest.json` plus
-  `blobs/<2>/<62>.zst` and `daily/<date>/zones.json`. Changing it requires
-  updating this file.
+- Rust 2021, `rust-version = 1.88`. Run `cargo fmt` and `cargo clippy --workspace --all-targets --all-features -- -D warnings`.
+- No comments that restate the code; only explain non-obvious intent. Doc comments on public items are expected.
+- Unit tests live beside the code (`#[cfg(test)]`); end-to-end pipeline tests live in `tests/`.
+- The archive format is a public contract: `manifest.json` plus `blobs/<2>/<62>.zst` and `daily/<date>/zones.json`. Changing it requires updating this file.
 
 ## Environment gotcha (important): deploy on unfiltered DNS
 
-**TLDR must run on a network with a clean path to port 53.** Many networks
-(including the development LAN) transparently intercept all TCP/UDP 53 traffic
-and answer AXFR with an injected `REFUSED`. Zone transfers then fail silently
-and look like "this zone is not transferable", even though plain lookups work.
+**TLDR must run on a network with a clean path to port 53.** Many networks (including the development LAN) transparently intercept all TCP/UDP 53 traffic and answer AXFR with an injected `REFUSED`. Zone transfers then fail silently and look like "this zone is not transferable", even though plain lookups work.
 
 - Discovery is immune: NS/address resolution uses **DNS-over-HTTPS** (port 443).
-- AXFR is not: it must reach authoritative servers on **TCP 53** directly. There
-  is no in-process proxy or workaround; deploy on a host with unfiltered egress
-  (the current target is `cybersecurity.theater`).
+- AXFR is not: it must reach authoritative servers on **TCP 53** directly. There is no in-process proxy or workaround; deploy on a host with unfiltered egress (the current target is `cybersecurity.theater`).
 
-Before concluding "that zone is not transferable", confirm AXFR works from the
-deployment host. Known-good reference zones: `arpa.`, `fj.`, `mw.`, `er.`,
-`xn--ygbi2ammx.`, and the root zone.
+Before concluding "that zone is not transferable", confirm AXFR works from the deployment host. Known-good reference zones: `arpa.`, `fj.`, `mw.`, `er.`, `xn--ygbi2ammx.`, and the root zone.
 
 ## Commands
 
@@ -68,15 +49,8 @@ cargo run --example legacy_report -- archives <new-archive>
 
 ## Deployment
 
-Deployed to `cybersecurity.theater` (aarch64, no Docker) as a systemd user
-service; see `deploy/`. A `Dockerfile` and `compose.yaml` are provided for hosts
-that prefer containers. The archive directory is append-only except for
-retention pruning, so it is safe to back up by copying it.
+Deployed to `cybersecurity.theater` (aarch64, no Docker) as a systemd user service; see `deploy/`. A `Dockerfile` and `compose.yaml` are provided for hosts that prefer containers. The archive directory is append-only except for retention pruning, so it is safe to back up by copying it.
 
 ## Noise policy
 
-Notifications are driven by `diff::Significance`, not raw record counts. By
-default only `high` changes notify: new zones, apex NS changes, or mass
-delegation churn. SOA serial increments, DNSSEC signature rotation, NSEC
-re-derivation, and glue TTL wobble are deliberately classified as `none` and
-never page. Tune with `[diff]` in config, not by lowering the floor to `low`.
+Notifications are driven by `diff::Significance`, not raw record counts. By default only `high` changes notify: new zones, apex NS changes, or mass delegation churn. SOA serial increments, DNSSEC signature rotation, NSEC re-derivation, and glue TTL wobble are deliberately classified as `none` and never page. Tune with `[diff]` in config, not by lowering the floor to `low`.
