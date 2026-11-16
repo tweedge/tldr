@@ -15,8 +15,6 @@ TLDR periodically performs DNS zone transfers (AXFR) against the root zone and e
   - `archive.rs` — content-addressed zstd blob store, manifest, retention.
   - `diff.rs` — semantic diff + `Significance` classification.
   - `discovery.rs` — IANA TLD list and DoH-based NS/address resolution.
-- `examples/legacy_report.rs` — compares the old `archives/` dig dump against the new archive.
-- `archives/` — the legacy (2022) archive, kept for reference only.
 - `config.toml` — example/default configuration.
 
 ## Conventions
@@ -44,7 +42,6 @@ cargo run -- --config config.toml --dry-run            # discovery only
 cargo run -- --config config.toml --once --json        # one cycle
 cargo run -- --config config.toml --daemon             # continuous (hourly)
 cargo run -- --config config.toml --test-notification   # verify Pushover
-cargo run --example legacy_report -- archives <new-archive>
 ```
 
 ## Deployment

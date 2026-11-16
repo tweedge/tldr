@@ -19,8 +19,6 @@ This is classic TLDR AXFR only; zone walks are intentionally out of scope.
 ```
 src/                  tldr binary: CLI, config, scan orchestration, notifications
 crates/tldr-core/     library: zone model, AXFR client, archive, diff, discovery
-examples/legacy_report.rs   compare the 2022 dig archive against the new one
-archives/             the legacy (2022) archive, reference only
 ```
 
 Key design choices:
@@ -85,3 +83,7 @@ See `AGENTS.md` for environment gotchas (port 53 interception is the big one) an
 ## Credits
 
 Originally a fork of [mandatoryprogrammer/TLDR](https://github.com/mandatoryprogrammer/TLDR) by way of [tweedge/tldr](https://github.com/tweedge/tldr). See also [monoidic/TLDR2](https://github.com/monoidic/TLDR2) and [flotwig/TLDR-2](https://github.com/flotwig/TLDR-2) for prior art.
+
+## License
+
+MIT; see [LICENSE](LICENSE).
