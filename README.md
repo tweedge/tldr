@@ -53,6 +53,21 @@ enabled = true
 #   PUSHOVER_APP_TOKEN, PUSHOVER_USER_TOKEN
 ```
 
+## Install
+
+No Rust toolchain needed — grab a prebuilt static binary:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/tweedge/tldr/main/scripts/install.sh | sh
+```
+
+The script detects Linux/musl-compatible arch (amd64, arm64, arm, 386), downloads
+the matching release from GitHub, and installs it to `/usr/local/bin` (or
+`~/.local/bin`). Pin a version with `VERSION=v1.0.0`, choose a directory with
+`INSTALL_DIR=~/bin`. Or download `tldr_linux_<arch>.tar.gz` and its `SHA256SUMS`
+directly from the [releases page](https://github.com/tweedge/tldr/releases). The
+binaries are statically linked (musl), so they run on any Linux.
+
 ## Usage
 
 ```sh
@@ -74,7 +89,18 @@ Yes. Because TLDR only pages on *changes*, a dead or quietly-broken instance wou
 
 TLDR must run somewhere with a **clean, unfiltered path to port 53**; filtered networks silently break AXFR. The current target is `cybersecurity.theater` (aarch64, native build, systemd user service); see `deploy/README.md`.
 
-A `Dockerfile` and `compose.yaml` are provided for hosts that prefer containers; the archive lives under the mounted `/data` directory and is append-only except for retention pruning.
+A `Dockerfile` and `compose.yaml` are provided for hosts that prefer containers. The image is **scratch-based**: it contains only the statically linked `tldr` binary (no shell, no libc, nothing to patch), since TLS trust comes from `webpki-roots` compiled into the binary. The archive lives under the mounted `/data` directory and is append-only except for retention pruning.
+
+## Releasing
+
+Tag and push; CI builds the static binaries and publishes the GitHub release,
+and the Docker image publishes to GHCR:
+
+```sh
+git tag v1.0.0 && git push origin v1.0.0
+```
+
+Suffixed tags (`v1.0.1-beta`, `-rc`, `-alpha`) publish as prereleases.
 
 ## Development
 

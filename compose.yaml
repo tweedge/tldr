@@ -5,7 +5,8 @@ services:
     container_name: tldr
     restart: unless-stopped
     stop_grace_period: 60s
-    user: "1000:1000"
+    # Scratch image runs as uid/gid 10001; ensure ./data is writable by it.
+    user: "10001:10001"
     env_file:
       - .env
     volumes:

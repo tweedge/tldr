@@ -13,10 +13,17 @@ use tracing_subscriber::EnvFilter;
 
 use crate::config::Config;
 
+/// Version reported by `--version`: a release stamp when CI provided one,
+/// otherwise the Cargo.toml version.
+const VERSION: &str = match option_env!("TLDR_VERSION") {
+    Some(version) => version,
+    None => env!("CARGO_PKG_VERSION"),
+};
+
 #[derive(Debug, Parser)]
 #[command(
     name = "tldr",
-    version,
+    version = VERSION,
     about = "Continuously updated historical DNS zone-transfer archive"
 )]
 struct Cli {
@@ -64,6 +71,13 @@ struct Cli {
 
 #[tokio::main]
 async fn main() -> Result<()> {
+    // We build with the pure-Rust ring TLS provider (not aws-lc-rs) so the
+    // binary links statically for the scratch image. reqwest 0.13 (used by
+    // pushover-rs) requires a process-default provider to be installed before a
+    // client is built, or it panics. Installing ring here covers every TLS
+    // client in the process (reqwest 0.12/0.13 and hickory's DoH resolver).
+    let _ = rustls::crypto::ring::default_provider().install_default();
+
     tracing_subscriber::fmt()
         .with_writer(std::io::stderr)
         .with_env_filter(EnvFilter::try_from_default_env().unwrap_or_else(|_| {
@@ -185,5 +199,17 @@ async fn shutdown_signal() {
     tokio::select! {
         _ = ctrl_c => {}
         _ = terminate => {}
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    #[test]
+    fn ring_crypto_provider_installs() {
+        // Guards the scratch-image TLS setup: reqwest 0.13 panics when no
+        // process-default rustls provider is installed, so startup must install
+        // ring. This asserts a provider is present after installation.
+        let _ = rustls::crypto::ring::default_provider().install_default();
+        assert!(rustls::crypto::CryptoProvider::get_default().is_some());
     }
 }

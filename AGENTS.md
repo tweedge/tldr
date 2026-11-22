@@ -43,7 +43,15 @@ cargo run -- --config config.toml --once --json        # one cycle
 cargo run -- --config config.toml --daemon             # continuous (hourly)
 cargo run -- --config config.toml --test-notification   # verify Pushover
 cargo run -- --config config.toml --check-health        # dead-man's-switch check
+bash scripts/build-release.sh                           # static Linux artifacts in dist/
 ```
+
+Releases: push a `vX.Y.Z` tag and `.github/workflows/release.yml` builds the
+static musl binaries (amd64/arm64/arm/386) and publishes a GitHub release; the
+image publishes to GHCR. The binary is fully static (musl) so the `Dockerfile`
+can ship it in a `scratch` image — keep it that way (no glibc-only deps, no C
+TLS providers; `aws-lc-rs` is deliberately excluded via the ring-only pin in
+`Cargo.toml`). TLS trust comes from `webpki-roots`, not system certs.
 
 ## Deployment
 
