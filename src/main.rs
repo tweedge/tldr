@@ -13,10 +13,17 @@ use tracing_subscriber::EnvFilter;
 
 use crate::config::Config;
 
+/// Version reported by `--version`: a release stamp when CI provided one,
+/// otherwise the Cargo.toml version.
+const VERSION: &str = match option_env!("TLDR_VERSION") {
+    Some(version) => version,
+    None => env!("CARGO_PKG_VERSION"),
+};
+
 #[derive(Debug, Parser)]
 #[command(
     name = "tldr",
-    version,
+    version = VERSION,
     about = "Continuously updated historical DNS zone-transfer archive"
 )]
 struct Cli {
