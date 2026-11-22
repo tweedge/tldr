@@ -1,17 +1,17 @@
 #!/usr/bin/env bash
-# Cross-compiles TLDR for Linux targets and packages each as
-# tldr_linux_<arch>.tar.gz, the naming the install script expects.
+# Builds Linux release binaries and packages each as tldr_linux_<arch>.tar.gz,
+# the naming the install script expects. Linux-only.
 #
-# Binaries are fully static (x86_64/aarch64 musl) so they run on any Linux
-# regardless of glibc version and can be dropped into a scratch container. The
-# 32-bit ARM/386 targets use musl too via their gnu-toolchain cross gcc, which
-# is the pragmatic choice for the rarely-used arches.
+# Binaries are dynamically linked against glibc (gnu targets), which is fine for
+# any reasonably recent distro and matches the sibling keep-at project. Fully
+# static musl is used for the Docker image (built natively in Alpine), not here:
+# cross-linking musl for arm64 fails because ring emits an arm64-only
+# `--fix-cortex-a53-843419` linker flag that the host's x86_64 ld rejects.
 #
 # Needs (once):
-#   rustup target add x86_64-unknown-linux-musl aarch64-unknown-linux-musl \
-#     armv7-unknown-linux-musleabihf i686-unknown-linux-musl
-#   sudo apt-get install -y musl-tools gcc-aarch64-linux-gnu \
-#     gcc-arm-linux-gnueabihf gcc-i686-linux-gnu
+#   rustup target add x86_64-unknown-linux-gnu aarch64-unknown-linux-gnu \
+#     armv7-unknown-linux-gnueabihf i686-unknown-linux-gnu
+#   sudo apt-get install -y gcc-aarch64-linux-gnu gcc-arm-linux-gnueabihf gcc-i686-linux-gnu
 set -euo pipefail
 
 cd "$(dirname "$0")/.."
@@ -24,12 +24,12 @@ VERSION="${VERSION:-$(git describe --tags --always --dirty 2>/dev/null || echo d
 # Stamp the release version into the binary (build.rs reads this).
 export TLDR_VERSION_OVERRIDE="${VERSION#v}"
 
-# target triple -> asset arch -> cross C compiler (for ring/zstd C deps)
+# target triple -> asset arch -> cross C compiler (empty for the native target)
 TARGETS=(
-  "x86_64-unknown-linux-musl amd64 musl-gcc"
-  "aarch64-unknown-linux-musl arm64 aarch64-linux-gnu-gcc"
-  "armv7-unknown-linux-musleabihf arm arm-linux-gnueabihf-gcc"
-  "i686-unknown-linux-musl 386 i686-linux-gnu-gcc"
+  "x86_64-unknown-linux-gnu amd64 "
+  "aarch64-unknown-linux-gnu arm64 aarch64-linux-gnu-gcc"
+  "armv7-unknown-linux-gnueabihf arm arm-linux-gnueabihf-gcc"
+  "i686-unknown-linux-gnu 386 i686-linux-gnu-gcc"
 )
 
 for spec in "${TARGETS[@]}"; do
@@ -42,12 +42,15 @@ for spec in "${TARGETS[@]}"; do
   fi
 
   echo "building ${name} (${triple})..."
-  # Point the C compiler for this target at the cross toolchain so ring/zstd
-  # build for the right libc. Do NOT override the Rust linker: the musl target
-  # already links static-pie correctly through musl-gcc, and overriding it
-  # produced broken dynamic binaries in testing.
-  cc_var="CC_${triple//-/_}"
-  export "${cc_var}=${cross_cc}"
+  if [ -n "${cross_cc:-}" ]; then
+    # Point both the C compiler and the Rust linker at the cross gcc. The
+    # linker must be the target gcc: ring emits an arm64-only
+    # --fix-cortex-a53-843419 flag that the host x86_64 ld does not accept.
+    cc_var="CC_${triple//-/_}"
+    export "${cc_var}=${cross_cc}"
+    linker_var="CARGO_TARGET_$(echo "$triple" | tr 'a-z-' 'A-Z_')_LINKER"
+    export "${linker_var}=${cross_cc}"
+  fi
 
   cargo build --release --locked --target "$triple" --bin tldr
 
